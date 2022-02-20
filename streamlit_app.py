@@ -1,6 +1,7 @@
 from streamlit_player import st_player
 import streamlit as st
 import numpy as np
+import imutils
 import time
 import uuid
 import base64
@@ -34,7 +35,7 @@ def model():
     return bi_encoder,cross_encoder
 @st.cache    
 def data():
-    DF_text_time = pd.read_pickle(r"final_sent")
+    DF_text_time = pd.read_pickle(r"C:\Newdownloads\Covid19--master\search\Transcript\final_sent")
     embd=list(DF_text_time['Embeddings'])
     total_text_set_list=list(DF_text_time['Sentance_3_cleaned'])
     filename=list(DF_text_time['filename'])
