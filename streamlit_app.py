@@ -87,7 +87,7 @@ if question:
     #print("Top-3 Cross-Encoder Re-ranker hits")
     hits = sorted(hits, key=lambda x: x['cross-score'], reverse=True)
     
-    for i in range(len(hits[0:5])):
+    for i in range(len(hits)):
         if(i!=0 and abs(int(time[hits[i]['corpus_id']])-int(time[hits[i-1]['corpus_id']]))>=10):
             names.append(filename[hits[i]['corpus_id']][:-4])
             times.append(int(time[hits[i]['corpus_id']]))
