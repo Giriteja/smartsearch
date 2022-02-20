@@ -19,7 +19,7 @@ warnings.filterwarnings("ignore")
 
 times=[]
 names=[]
-
+@st.cache(allow_output_mutation=True)
 def model():   
     #We use the Bi-Encoder to encode all passages, so that we can use it with sematic search
     bi_encoder = SentenceTransformer('multi-qa-MiniLM-L6-cos-v1')
