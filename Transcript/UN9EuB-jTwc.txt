@@ -1,0 +1,3392 @@
+hi folks uh I guess we are life let me
+just check the connection and could you
+also please confirm on the chat window
+if you can see everything if you can see
+my screen and hear my voice because I'll
+be mostly doing screen share can you
+please confirm that yeah I can hear
+myself back so I'm assuming that there
+are no major hiccups whatsoever
+so please confirm that so that just let
+me know if you if you see any hiccups
+from your site okay so this looks good I
+can I can see the live feed itself here
+no no major problems that I encounter
+cool so hey good evening folks good
+evening so you can see the screen and
+you can hear me right you can see and
+listen okay okay sounds good good good
+good good that's good that's good
+we'll start the session in about 10
+minutes from enough as usual I come a
+few minutes early just to ensure that
+there are no technical hiccups so since
+we are a few minutes early I can take a
+few questions and just let me know if
+there is any question that I can answer
+do let me know and I'll answer a few of
+these questions then we'll go into the
+basics of linear algebra session that we
+other if we plan to do for the next two
+hours so somebody says what can be the
+strategy for data structures and
+algorithms for software engineer and
+machine learning rules I think we have
+mentioned this in the in the past live
+sessions also okay so for a software
+development engineer especially if
+you're looking at top product based
+companies you should pick one of the
+major programming languages it can be
+Java C++ any object node programming
+Python again Python is a very very
+popular language enough but I see a lot
+of people doing Java also fewer people
+doing C++ again data structures and
+algorithms we have discussed a few of
+the basics in the previous life sessions
+but you should be able to solve given a
+problem involving dynamic programming or
+as our artifact era or a good
+interesting problem they accept
+patient at a top product based company
+is that from the time the problem is
+explained to you you saw you come up
+with a decent solution and write code in
+any major programming language in 20 to
+25 minutes okay that's the expectation
+so in a typical one-hour interview you
+will be given one easy one medium again
+depending on the performance you might
+be asked a medium or a slightly slightly
+harder question that's it okay so this
+is the this is what is expected in a
+one-hour interview again for a fresher
+you will not be asked lot of lot of
+design so if you are an experienced
+software engineer you will be asked
+software design like low level design
+high level design as you become senior
+and senior there is more focus on
+architectural design or high level
+design if you are a youngster not so
+much focus on design for entry-level
+software development engineers it is
+simple programming data structures
+algorithms in some roles they might ask
+SQL also okay some questions on data
+especially if you a computer science
+student they might ask questions on
+databases operating systems etc but only
+5% of the time they ask in databases and
+voice most of the time they will ask on
+data structures algorithms for a machine
+learning engineer or a data scientist
+the bar is lower so the complexity of
+questions asked are certainly not in the
+software development engineer level
+unless your CSE student or you come with
+prior software development experience
+right so the bar is typically one level
+less than software development engineers
+typically you will have one round or
+maximum two rounds of of SDE like
+interviews again in these rounds also
+there will be focus on the problems that
+are typically asked are simpler than a
+typical software development engineer
+there is of course some focus on SQL for
+most data science roles because they
+expect you to be able to write SQL
+queries the complexity of problems is
+certainly lower than software
+development engineers like most
+companies typically have one round again
+this round also the complexity of this
+round depends whether you come from
+computer science background or you come
+from non CS backgrounds if you have
+worked in software if you've worked as a
+software development engineer certainly
+the bar is going to be like a cs2 good
+right so again there
+most of these questions are not hard to
+be honest with you right so we have
+shown we have seen we have solved some
+problems in the previous public life
+sessions they they're a good
+benchmark again I picked up a few
+problems from my own interview
+experiences interview experiences of
+others in top product based companies
+and showed them in the previous life
+sessions right so you can check those
+out cool okay so okay somebody has
+another question sagar has a says right
+question vijay okay which question is
+this
+I heard we couldn't write better
+implementation of data structures using
+Python when compared to C++ and Java is
+that true that's a good question the
+biggest problem with python is it is
+slow okay this is one of the biggest
+problems with python so what happens is
+lot of data structures lot of
+numerically intensive computation that
+we use in Python for example take a list
+write or take a dictionary in Python all
+of them are internally implemented using
+C C++ because that's where the speed
+comes from again don't think that python
+is not production quality there are a
+lot of companies which use like for
+example take take Google rate probably
+one of the best software engineering
+companies in the world that I know of
+right they write most of the production
+code in C++ or Python of course they
+also write some in Java because Android
+is based in Java right but they they use
+Python in production right look a look
+at tensorflow and caris right which are
+which are some of the most popular
+machine learning libraries the reason
+everybody created Python interfaces for
+that again the core implementation
+itself is in is in c c++ for speed but
+python is much more easier to run easier
+to maintain easier to pick up and the
+the the breadth and depth of libraries
+that you have in python are are like I
+don't think any other programming
+language today can even come close
+especially for data science and machine
+learning applications this is almost one
+of the best hands down right so don't
+think python cannot be production eyes
+it can be production eyes if you use the
+right data structures and right
+libraries for example there is lot of
+numpy code which is actually production
+eyes because all the internals are
+numpy as we have seen in the previous
+life sessions is implemented in c and
+c++ right all of the operations
+underlying numpy are actually written in
+c c++ making everything much much faster
+so python as long as the critical time
+intensive stuff is implemented in C C++
+Python is more or less production ready
+right so again if you go to an interview
+if you say ok I'm a Python guy I prefer
+writing code in Python nobody will hold
+it against you but you should know the
+limitations of Python right you should
+know where Python lacks where Java is
+better where C++ is better that high
+level understanding is good enough
+nobody will hold it against you that you
+are using Python ok somebody says you
+want a class on deep learning using
+computer vision again as I mentioned to
+you earlier we are going in a sequential
+manner we completed most of module 1
+which is basics of Python programming
+today I mean sorry today we are doing
+linear algebra so I'm going step by step
+chapter by chapter in our course videos
+and certainly hopefully since the
+Lochner is also extended to method we
+will be able to complete most of the
+chapters that we have in our course
+videos by the end of the lockdown right
+so we are going step by step
+okay that's important there is no point
+me jumping directly to deep learning
+we'll do that again today we will see a
+very simple in linear algebra how
+computer vision how lot of computer
+vision operations are actually simple
+linear algebra right we'll see one of
+the examples in today's life session
+also cool oh so okay good question
+Sandeep on so what is the difference
+between basics of linear algebra and
+linear regression linear regression I'll
+mention this again we'll wait for a few
+minutes let everybody join in couple of
+minutes it's 601 so I have I have a
+detailed notebook I shared this notebook
+by the end of it I'll tell you what we
+will cover today what are the future
+sessions in which we'll cover other
+topics okay of course linear algebra if
+you look at a typical linear algebra
+textbook it covers a lot of things it
+covers even linear regression right so
+we'll do that okay so somebody says ok
+I've answered this question multiple
+times how do the rolls of data
+scientists ml engineer
+to change with Auto ml again the most
+important thing here is even if you are
+using Auto ml architectures look at any
+auto ml architecture in the world right
+even the best of the best at Google
+right so Auto ml speeds up the pipeline
+for you okay I worked in a world where
+we did not have scikit-learn like
+libraries okay in that world we had to
+implement a logistic regression function
+okay we had to I mean I also you I also
+implemented simple multi-layer
+perceptron simple convolution neural
+network in again this is before
+tensorflow before carelessness so what
+happened in the world is these libraries
+made our life simpler okay because I
+have scikit-learn because I have tensor
+flow or carers because I have XG boost
+again we have implemented GB DT at scale
+in my previous company right we
+implemented GB DT at production scale
+before we used XG boost so even before
+these libraries existed the machine
+learning folks were implementing these
+things and using them internally within
+the companies so what is libraries did
+was it's it's it sped up it speeded up
+the whole thing right so if what it gave
+us is speed in terms of trying out new
+models again without tensorflow carers
+and pi torch today building building
+deep neural network models from scratch
+is fairly non-trivial okay because we
+have tensorflow carers and pi touch like
+libraries we have simply improved it
+auto ml as we see it today is mostly
+being used in the in the framework of in
+the framework of deep learning for
+architecture search right so for the for
+the task of architecture search right so
+what is architecture search for those of
+you who know a little bit of deep
+learning suppose you train a deep
+learning again there are a bunch of very
+popular deep learning architectures that
+you have but if you want to search for
+the best architecture for your problem
+it requires a lot of hyper parameter
+tuning right it requires a lot of hyper
+parameter tuning and lot of
+experimentation what auto ml is doing is
+it is simplifying and speeding up that
+process see look look at what is the
+scope of auto ml today right can auto ml
+features automatically for you from
+tabular data right can auto ml given a
+real-world problem can auto ml pose the
+problem and solve it end to end we are
+not yet there we are actually far from
+it
+okay just because okay the the analogy
+that I give here is just because there
+is compilers doesn't necessarily mean
+that there are no software development
+engineers today compilers what did what
+did modern compilers do right pre
+compilers people wrote software but
+compilers made life easier and it made
+programming accessible to many many
+people people who didn't know how code
+works internally people who didn't know
+linkers loaders the system software okay
+how the operating system works now
+somebody can write code in Python and
+not care about how things work
+internally the compilers interpreters
+loaders linkers everything take care of
+it
+so they made life easier democratizing
+access to programming but even with all
+of this there is a huge demand for
+software development engineers I think
+something very similar will happen right
+people who have core expertise in
+machine learning auto ml whether it is
+Auto ml or whether it is libraries right
+like tensorflow they make our life
+simpler and faster ok this also makes
+the the whole technology accessible to a
+wider set of people but that does not
+mean that the demand for machine
+learning engineers of data scientists
+decreases because of modern compilers
+and modern programming languages the
+demand for software development engine
+is actually skyrocketed right so look at
+Python or look at Java because there's
+also beautiful languages where compiler
+takes care of so many things there is
+more demand for software development
+engineers today I think all of the
+libraries all of the auto email stuff
+today will increase the demand for
+machine learning and data science folks
+because more people can access it more
+companies can build these technologies
+at a lower cost
+alright cool so somebody says is it
+necessary ok so ok it's already 6 or 6
+so let's dive into it I'll take these
+questions again after a while all right
+so ok so let's dive into the session
+itself ok this is the this is by again I
+am writing this in collapse so that it's
+easier for me to
+with all of you as I've mentioned in the
+previous sessions also I will share this
+collab notebook at the end of the
+session
+all right so at the end of the session I
+share this collab notebook with all of
+you in the comment section itself also
+in the description section of this video
+so don't worry about it
+so let me let me listen down the scope
+of today's session so this session is
+called basics of linear algebra because
+it's impossible to cover a lot of
+concepts in linear algebra in just one
+session that's why even in our course
+videos we broke it up and and taught
+various aspects of linear algebra at
+various points in the course right so
+I'm assuming that you have already gone
+through the link that I've mentioned in
+the so again somebody's asking can you
+send the video don't worry you will get
+the video also it will be on YouTube
+okay so in this since this is a public
+life session you can access it even
+after the live session is over okay so
+okay so I'm assuming in announcement
+video I gave you a link to free videos
+on our course I hope everybody haven't
+gone through it because I will not be
+repeating the mathematical concepts that
+are there just in the interest of time
+and the agenda today is to take the
+mathematics that we have already covered
+in the course videos and convert it to
+code again
+all this will be simple concepts linear
+algebra is a beautiful topic with lots
+of areas right so what we'll limit
+ourselves to is only the linear algebra
+basics chapter in our course write more
+there are lots of other concepts for
+example there are tons of operations
+like normalization standardization etc
+that you do on data matrices this is
+what we will do in future sessions there
+is lot of matrix algebra like principal
+component analysis singular value
+decomposition non-negative matrix
+factorization again we have covered
+these concepts at different points in
+our course for example in dimensionality
+reduction chapter we covered PCA right
+so SVD and nmf we covered in we covered
+in the chapter of recommender systems
+right so there are tons of concepts if
+you open a standard textbook like
+Gilbert Strang Styx book again this is
+one of the best books but again remember
+that this book is written for Applied
+Mathematics students this book is
+written keeping in mind to
+courses to undergraduate level courses
+or to courses in general at MIT right so
+it's it's this is just two courses just
+of linear algebra so my suggestion is if
+you want to be in machine learning or if
+you want to be in machine learning again
+the problem here is if you start
+watching just Gilbert strikes videos and
+if you just start solving these problems
+you will become very good at linear
+algebra but remember that linear algebra
+is just one of the many topics that you
+need to know to become good at machine
+learning and data science so my
+suggestion to all of you is this first
+learn the basics which are needed in the
+context of machine learning and data
+science
+once you learn all of that if time
+permits go ahead and we'll read Gilbert
+Strang right so please don't do again
+lot of people do this they do
+depth-first they just go into linear
+algebra and they learn everything in
+linear algebra this will take you one
+year to be honest with you to finish
+Gilbert's strengths book comfortably if
+you put in one or two hours every day it
+will take you easily one or two do it
+comfortably if you do the assignments if
+you do the code part everything J
+perfectly right so my suggestion here is
+linear algebra is just one of the many
+aspects that you need for machine
+learning data science so learn all of
+that later on my suggestion always to
+anybody who's learning a concept is
+first to do breadth first learn all the
+concepts that you basic concepts that
+you need then for every concept there is
+a depth go for go first get the breadth
+so that you can start transition to
+machine learning data science jobs or
+data science roles and then there is a
+whole lifetime to learn depth right I'm
+learning again if you think probability
+and statistics right I'm learning some
+causal inference based models even today
+I mean this is lifelong learning right
+so there is no end to it okay so instead
+of going depth first I recommend you do
+breadth first okay so what we will do
+again that's also the philosophy that we
+have taken in our course videos first we
+explain the basics of linear algebra and
+then we would go into each of these
+concepts later okay so in future life
+sessions will cover lot of data matrix
+operations
+principle all dolled up all the data all
+the factorization methods again lot of
+lot of linear algebra also has linear
+regression if you look at standard
+linear algebra book
+have linear regression again this linear
+regression can be covered from linear
+algebra perspective also from
+optimization perspective right so in our
+course we cover it both from
+optimization and linear algebra
+perspective and we'll cover it in the
+future sessions there is also linear
+optimization okay which is related to
+lean the concepts in linear algebra
+we'll cover that in future sessions
+right so this session is going to be
+very that's why I wrote in basics of
+linear algebra there are many other
+concepts that we'll cover in future
+sessions as per our course syllabus okay
+cool so second very importantly so with
+this this is the agenda that I have
+today okay
+first we'll go to vectors and
+hyperplanes we'll learn a little bit
+about matrices we'll take a diversion
+and X I'll explain you about the concept
+of convolution because I want to show
+you applications of matrices to image
+processing and computer vision just one
+application of course we'll do one whole
+session on just one or more sessions on
+computer vision and image processing I
+just wanted to do a simple example here
+then we'll do some basic hypersphere
+stuff I'll also tell you other topics
+and people who want to learn more
+undergraduate level linear algebra we
+have some videos for that which are
+publicly available I share that also
+okay that's a whole agenda so let's
+start here let's start with vectors and
+hyper planes it's so very simple so
+imagine again I'll not be repeating the
+mathematics that we have already
+discussed in our course videos okay just
+in the interest of time please
+understand that okay so let me represent
+this way by zero basically is a
+hyperplane that passes through origin
+for a hyperplane that passes through
+origin you just require the normal to
+the hyperplane okay that's good enough
+to represent the hyperplane I will
+represent pi like this without the zero
+if it is a hyperplane that doesn't pass
+through origin okay so it requires both
+W and B and what is the equation of of
+the hyperplane it is very simple W dot X
+plus B equals to 0 this is the equation
+so all the points so the way you
+represent is all the points X such that
+okay I have already written it here
+sorry ok so pi is basically or a plane
+PI is a set of points or D dimensional
+points such that the dot product with W
+plus B equals to 0 this is one simple
+way to define a hyperplane right
+I'll be using this notation and I'm
+assuming that W is a d-dimensional
+vector B is a scalar right again we have
+discussed this in the course videos
+right and I'm always going to assume a
+d-dimensional space so let's take this
+plane for example if you take this plane
+again the formulation is very simple
+imagine if I have a plane like this pi 0
+which is passing through origin and I
+have my w here again passing through
+origin any point X on this plane again
+I'm not a I'm just using a 2d
+representation here but this is a
+d-dimensional space right so any point X
+here will be normal or perpendicular to
+W so for dub for pi 0 it is w transpose
+x equals to 0 or you can also write this
+as W it's a dot product of W and X you
+can also write it as W transpose X just
+a different notation of writing it right
+so when I said dot it means not product
+right very simple stuff nothing fancy
+now I have a question here for you so if
+you were to represent again given this
+basic background what is a good data
+structure you can use to represent a
+plane how do you represent a plane I
+would like to listen to your thoughts
+again I'm seeing the chat window in the
+sorry I'm also seeing the chat window
+here so what do you recommend what do
+you think is a good data structure to
+represent so the question is simple
+right what is a good data structure
+again we have studied data structures in
+Python right basic data structures what
+do you think is a good data structure to
+represent a plane that's the idea here
+right so what do you think are good a
+good ways of doing it let me just check
+the internet speed I hope there are no
+hiccups yeah no hiccups ok so I'm
+looking at the chat window on a
+different computer so if anybody has
+ideas do let me know somebody says list
+ok a list of weights list or tuple list
+ok as X and y-axis again guys this is
+not a 2d plane this is a hyper plane
+numpy array couple ok look at this ok so
+everybody is giving some good ideas so
+let's go down ok so what do you need to
+represent a general PI ok which may or
+may not be passing through origin you
+need
+two things you need W which is a D
+dimensional vector and you need a scalar
+right how do you represent this again
+when you choose a data structure very
+importantly you should also ask what
+operations do you perform on it the
+choice of the choice of data structure
+just should not be based on whom you
+stored the data it should also be on
+operations so you will mostly do vector
+operations right like dot products all
+of that stuff so vector operations you
+will also be doing a bunch of matrix
+operations right so these are these are
+the typical things that you will perform
+so given that the operations that we
+perform our vector addition vector dot
+product multiplying multiplying this
+with the matrix all of those things what
+do you think is a good thing so I'm just
+looking it down so people say a couple
+dict
+okay let's take this down right so let's
+understand this so some of you're
+suggesting list okay most of you're
+suggesting list or tuple okay so couple
+so how do you how do you store the
+tupple okay so would you store W 1 W 2
+again let's assume W 1 is the first
+component of this let's assume W is W 1
+W 2 so on W D okay just for simplicity
+so would you store it as W D so on so
+forth sorry W 3 w D comma B this is one
+way to store it but our tuples good with
+vector operations are our tuples optimal
+for matrix operations right so how do
+you do it okay so if you think again
+some of you are suggesting very nicely a
+good thing is actually numpy what is the
+purpose of numpy non PI was designed for
+numerical operations on matrices and
+vectors so numpy array this is a very
+good thing because numpy array is
+designed with the purpose of these
+operations right so numpy arrays
+designed with this so if I represent W
+as a numpy array not an n dimensional
+array just a one-dimensional array right
+I can represent this as just one float
+right so the idea here is as many of you
+rightly pointer it's a very simple thing
+it's a very simple concept right nothing
+fancy here again it should always depend
+on operations if you represent it with
+the list
+a couple one of the challenges you have
+is access to libraries again we can
+always represent it with list or tuple
+but then the operations that you perform
+you have to write code for everything
+instead of that if you do use an umpire
+array there is a lot of functionality
+that's readily available for you okay so
+look at look at how I'm just
+representing it right so my W is this
+okay NP array so I pass a list here so
+the list is converted to an array very
+simple nothing fancy B is represented
+just as a float cool I've just taken
+some numbers here now my pipe plane can
+be represented as a couple so what I've
+done here I've created a couple of two
+elements okay
+so I've created a couple of two elements
+the first element is a numpy array is a
+numpy array the second element is just a
+simple float okay this the first element
+represents W the second element
+represents B so this is one way because
+I need I need both W and B in many
+contexts right so very simple way again
+see I'm just creating an umpire and a
+array but if I want to just store PI 0
+what is pi 0 imagine if my plane passes
+through origin if this is my plane my
+plane passes through origin right then I
+don't require the B term because the
+equation of my plane now is w transpose
+x equals to 0 right so to represent that
+I just need W in such a case what am i
+using here I'm using a tuple really look
+at this I'm using a tuple where the
+first element is a numpy array
+the second element here is a float right
+I can also use the same representation
+with zero or I can just say for PI 0 I
+don't require B so I just represent it
+using just one numpy array very simple
+right now one interesting fact ok so
+imagine if I have two planes like this
+ok
+just a quick question ok so just as
+observation I should say okay imagine if
+I have two planes PI 0 which is passing
+through origin and this is PI if these
+two planes are parallel to each other
+again I'm just drawing 2d diagrams but
+you can imagine them to be 3d planes
+beyond 3d at nobody
+imagine right so imagine this so this is
+one plane this is one plane right both
+these planes are how do you say both
+these planes are parallel to each other
+if this plane is represented just with W
+and if this plane is represented using W
+and B same W so W is is normal to this
+plane W is also normal to this plane
+right so if two planes have the same
+normal then they both are parallel to
+each other simple very simple concept
+nothing fancy here right okay good
+so just wanted to show you how to
+represent now let's go into some simple
+stuff okay we'll do simple operations
+now take an R if you look at our W here
+our W is not a unit vector now what is a
+unit vector very simple concept that we
+discussed in the course videos also
+suppose imagine take this vector W
+passing through origin take a take any
+vector okay this is basically a vector W
+right so this vector W can have any
+length so this whole thing this length
+the distance from here to this this is
+called the length of W right so how do
+you get the length of W you take the l2
+norm of W right or you take the
+Euclidean distance between this point
+and this point
+okay that's also written as the l2 norm
+of W right we have discussed how to
+compute this now if I want so given this
+w if I want to get a W hat which is
+nothing but the w hat is a unit vector
+is a unit vector in the same direction
+as W okay it's a unit vector in the same
+direction in the same direction as a W
+if I want to get that so look at this
+look at our previous definition I did
+not so I just created an umpire array
+right so I did not ensure that its its
+its its length is one I did not ensure
+that anywhere right I did not insure
+that anywhere very simply put now since
+I did not ensure that if I want to
+create this w hat which is nothing but a
+unit vector in the same direction as W
+so what is a unit vector its length
+should be one the length of a unit
+vector the length of a unit vector is
+equals to one that's why it's called
+unit because unit in Mathmos
+means one right in most of mathematics
+right so the idea here is how do you
+compute that it's very simple so then so
+given any vector W if you want the unit
+vector in that direction again we
+discuss this in the course videos that's
+why I'm not going into the mathematical
+proofs I wanted to show you the code
+walkthroughs more than math so I've
+taken screenshots which are very similar
+to the course videos and I'm trying to
+explain the math here okay so that so
+that you get the book you get you can
+translate math to code because once you
+do that you can translate any math to
+code okay one of the most important
+objectives of this code walkthroughs is
+to translate concepts and mathematics to
+code okay so you have w hat equals to W
+by Norm W basically this is the equation
+okay now how do we implement this in
+code it should be very hard it's
+actually fairly simple okay so let me
+implement it myself
+from first principles using this
+definition
+I'll also implement it using an inbuilt
+function let me show you both the stuff
+cool so let's go step by step first
+so I'm importing math here nothing fancy
+nothing complicated here so first I will
+computing the norm of W I'm just
+computing this norm W okay which some
+people also called as the length of W we
+use the norm terminology because in
+mathematics are in machine learning we
+have l 2-norm we have lot of norms you
+have l 2-norm
+we have l1 norm right we have Frobenius
+norm right so there is something called
+as Frobenius norm of matrices again
+these are concepts that we'll encounter
+later in our course and we'll revisit
+this concept okay I prefer to use the
+norm I prefer to use the non terminology
+that rather than the length terminology
+because it's more widely used in
+mathematics so the concept is very
+simple so let's translate it into code
+okay so what is W norm W norm is you
+take say what is the definition of W Nam
+you take W do the dot product between W
+and W alright do the dot product which
+is equal to W transpose W right and take
+the square root of it this is a
+mathematical definition right this is
+basically what is it what is the
+distance between this point and this
+point W minus zero okay or this is
+origin right so subtract everything to
+zero right so you're just computing the
+distance from this point to origin
+and how do you do it again you can do it
+using of course you can implement the
+dot product also look at this so what is
+this as I just showed you here this is
+this right now you can implement this
+dot product or this W transpose W
+yourself also using for loops but it's
+already available in numpy if you don't
+know what function to use just Google
+this again I'm trying to simulate what
+if I'm a beginner I know the concepts I
+know the mathematical concepts how do we
+translate it into code suppose if I
+don't know what function gives me dot
+product I just say numpy dot product of
+vectors I get some documentation the
+documentation is for dot NP dot dot so
+given two vectors it will do the dot
+product again dot is a very general
+purpose thing you can read the
+documentation here I'll share this
+document with you but if I do not know
+what function again it's almost
+impossible for anyone to remember every
+function that is there an umpire right
+if I were a beginner I would just simply
+Google search to find the right function
+read the documentation as we have done
+in previous life sessions and I will
+just do here so what do I get I get then
+I what am I getting here with this I'm
+getting this part W dot W dot W or W
+transpose W now on top of that I have to
+do square root we don't matter out
+square root so if you print this if you
+print this what I'm getting here is this
+two point six one nine one blah blah
+blah
+good now I have a question which is is
+there some other function because non
+pie the whole of numpy itself numpy
+inside pi are designed for numeric and
+scientific computations and in most of
+scientific and numeric computations
+matrices and vectors are extremely
+common right any part of mathematics
+right so I had this question is there is
+there some inbuilt function to compute
+the norm directly why should I worry
+about it then I just googled this
+imagine if I were a beginner okay I'm
+just say numpy norm of a vector right so
+I just get this documentation sorry so
+let me just copy this this is basically
+okay again you can just google search it
+and you'll see all of this right so I
+read the documentation you should always
+read the documentation it says okay X is
+an array like object ok the odd odd
+basically means okay order
+of the norm now what are possible
+nonzero integer infinity minus infinity
+fro n you see there are lot of norms as
+I told you right there is something
+called as infinite norm okay there is
+something called as Frobenius norm right
+so there are lots of norms so if you
+just go down it says okay what is this
+so if I use two here it says okay to
+numb what we want is a two norm right or
+also called as a l2 norm again here the
+definition of lots of types of norms
+that you can compute right so if you
+just so two norm is what we are looking
+for so what do I do now I just say okay
+there is some inbuilt function let's
+just use it so what is where is this
+function this function is in numpy
+module within numpy module there is a
+sub module called linear algebra within
+that there is a function called norm
+this is what we have to use so let's go
+back and I just say MP dot linear
+algebra dot norm W comma 2 because I
+want to know I just printed this now
+what do I get when I want to norm again
+there are two ways of implementing it
+one we wrote it from the formula here
+what did we do we wrote it from the
+formula that norm W is nothing but
+square root of W dot W we wrote it using
+the formula here we wrote it using the
+inbuilt function right I just wanted to
+verify if both of them are same yes they
+both look exactly the same
+cool so in the future I am assuming that
+the numpy guys have implemented it much
+better within within C C++ again
+whenever there is an inbuilt function
+it's always a good option and a good
+idea to use it in one of our previous
+life sessions we have shown where we
+implemented code ourselves complex code
+ourselves and we use the inbuilt
+implementation and wish and we saw that
+inbuilt implementation especially with
+respect to numpy cipher can be extremely
+optimal right again here also we are not
+writing the code from scratch we are
+using some inbuilt functionality which
+can be fairly fast and fairly quick
+right so the idea here is this okay now
+if I want w hat what is the formula for
+W hat we know that W hat is nothing but
+W by non W norm W is just a real value
+non W or W norm is just
+is just a real value so what do I do w
+had this w by Nam that's it so I get
+this snuff I get this now what is the
+property of a unit vector the unit
+vectors the l 2-norm should be equal to
+one let's just verify that okay so i
+printed the w hat okay this is my w w
+hat but I also wanted to verify this so
+what do I do again we have this function
+which we'll keep using enough whenever
+we have to compute long okay that's what
+we figured out using the Google search
+right so W hat - and I'm using numpy
+linear algebra nom and when I do this
+this returns this print statement and
+the norm is one that's it so whether you
+use our own code or whether you use the
+inbuilt function again this is how you
+translate simple equations the equations
+that we are learning here are very very
+simple
+going forward we'll encounter much more
+complex stuff okay cool next very
+important operation that we perform a
+lot right is angle between two vectors
+right so if you have angle between two
+vectors if you want to find angle
+between two vectors how do we do that
+again we prove this in the course videos
+that if you have two vectors V 1 V 2
+need not be unit vectors if you have two
+vectors V 1 V 2 the angle between them
+let's assume is theta then cosine of
+theta is the dot product of V 1 V 2 by
+again if I just write this if I don't
+put any number here this basically by
+default means l 2-norm unless otherwise
+stated if it is l1 norm people actually
+put L 1 norm here if it is fro B Gnaeus
+norm of a matrix people put F if nothing
+is placed here that means automatically
+the default norm is always too long
+unless otherwise stated right so let's
+just get that clear ok so we have
+derived this formula in the course
+videos we've understood this this very
+simple concept this is literally high
+school level mathematics nothing fancy
+here now let's take two vectors and
+actually translate this you imagine if
+I'm given two vectors how do I get the
+angle between them should be
+straightforward right it should just be
+cos inverse of this term it should just
+be cos inverse of this
+right so that shouldn't be too hard
+again okay let's go step by step okay
+let's create two random vectors first
+again I'm just creating a random seed so
+that every time I run this function I
+run this snippet of code I get the same
+values then I'm creating two random
+vectors V 1 V 2 again random vectors
+will play a very important role when we
+learn about other concepts like locality
+sensitive hashing in K nearest neighbors
+right so there is a concept called as
+locality sensitive hashing which is
+basically a randomized algorithm which
+uses the concepts of random vectors
+right again we'll revisit the concept of
+random vectors when we look at locality
+sensitive hashing in the context of K
+and L later when you do a live session
+on K and in itself or probably multiple
+live sessions on K and then far enough
+what we'll limit ourselves to is let's
+assume I have two vectors V 1 V 2 if I
+want to get the angle between both of
+them it should be simple right again I'm
+just implementing it from first
+principles I'm saying math not a costs a
+cost is nothing but cos inverse all
+right and what do I do dot product of V
+1 V 2 look at this dot product of V 1 V
+2 same thing again this is literally
+very simple translation divided by norm
+of V 1 multiplied by norm of V 2 again
+numpy gives me numpy and math give me
+all this functionality remember whatever
+angle you get here angle 1/2 is in
+radians not in degrees ok most
+scientific computations are running are
+done in done in radians and not in
+they're not done in degrees right very
+important ok cool
+ok somebody okay I'm happy that some of
+you are answering questions in questions
+in the in the live chat window very
+happy about it thank you folks
+somebody's asking this question do we
+use cross-product anywhere do we use
+cross-product not the dot product
+remember the cross product that you have
+learnt in physics in your 11th and 12th
+class right if you remember we had this
+F equals to b IL right in
+electromagnetism F equals to be IL I
+forgot how to write this
+this B is a vector of magnetic I think
+this is how it looks this is the length
+of the this is the B il okay I think
+this this is sort of the formula I
+forgot it's it's been awhile I looked at
+this formula right so you have the right
+hand thumb rule and all this so cross
+product is not very often encountered in
+machine learning and deep learning and
+all the concepts but it is something
+that is used in physics a lot dot
+product is what we use extensively
+because we want to find angles between
+lines or angles between hyperplanes
+all of that stuff much more extensively
+in machine learning we don't use cross
+product much okay angle is always in
+radians by default always okay because
+all of scientific computation happens in
+radians and not in degrees okay in any
+scientific computation library all
+angles are represented in radians by
+default right so yeah it's f so yeah as
+somebody rightly pointed out I think
+just let me google it it's been it's
+been almost 20 years I saw this almost
+20 years F equals to b IL right so i
+think there is a cross product between
+okay i think there is a cross product
+between b and where is this okay there
+is sine theta that's the intensity but
+where is the direction okay i think it
+is okay b is the flux density B's flux
+density F is force in Newtons
+okay yeah there is there is cross
+product somewhere here if I recall if I
+recall force on a current in a magnetic
+field or this is cool they will physics
+cool okay ba else the reason you have
+sine theta here is because of the cross
+product and not the dot product oh there
+is this yeah right hand rule I think
+it's called thumb rule or something also
+look at this so yeah it's it's
+encountered in physics a lot we know
+that right I forgot the exact formula
+from level 12 class math it's been years
+I have done it okay so yeah somebody
+says F equals to IL cross B I'll take
+your word assuming that your electrical
+engineer who knows this much better than
+us okay we have after after our 12th
+class I have not encountered this myself
+okay cool so let's go back to data
+science specific stuff okay so the other
+thing given up suppose if I have a
+hyperplane PI like this which I'm not
+is passing through origin or anything it
+is represented by W and B okay general
+pype when i say pi zero only then it
+passes through origin if I just say PI
+it is always parametrized using W and B
+both okay let's assume W is the normal
+to this there is a point X what is the
+distance what is what is this distance
+from X to this again this is something
+that we use a lot whether we are doing
+logistic regression right whether we are
+using linear regression whether you are
+using support vector machines you know
+all these techniques this mathematics is
+extremely important lot of machine
+learning techniques that we encounter a
+lot they try to find a plane and to do
+that distance from a point to a plane is
+very important again when we do the
+logistic regression situations linear
+regression and svm we will see this
+reoccurring again and again and again
+right cool so first let's learn the
+basics what is the distance here again
+we have proven this in the course videos
+using a very simple diagram etc the
+distance is absolute value of W trends W
+dot X plus B by Norm of W because I am
+NOT saying that number u W is a I'm not
+I'm not saying that W is a unit vector
+if W is a unit vector if norm of W
+equals to 1 then the distance here is
+just W dot X plus B absolute value why
+are we putting the absolute value here
+because distance is always positive okay
+so that's why we are putting the
+absolute value here right so again let's
+just create some random planes and
+random points and compute the distance
+okay cool so what am I doing here I just
+wanted to show how to translate this
+simple formula to equations it's very
+very simple actually okay again I'm just
+creating a random seed and I'm creating
+this W which is a six dimensional vector
+look at this W is a six dimensional
+vector B is just a real-valued number
+and I'm creating a random point X okay
+I'm just so using this W and B I'm
+getting a plane pie right using this X I
+am getting some point X some point X
+okay so now using this I can compute the
+distance using I'll just translate this
+formula that we have seen it's a very
+simple translation it's just simply
+translating this for
+to equation again numpy gives you most
+of the heavy-duty stuff right we don't
+have to worry about it again for the
+mathematical proofs of this please look
+at the videos that we have posted as
+part of our course videos publically
+available to everyone please go check
+out those videos for proofs of this
+again I requested you to do that before
+the live session itself right so I will
+not be covering those mathematical
+proofs and details here cool so how do
+you do it it's very simple again I am
+covering the basics we'll keep going to
+more complex cases as we progress all
+right so it's actually very simple now
+let's look at this right so what what is
+the formula W dot X plus B so it is
+basically dot product of W and B plus B
+in the numerator in the denominator it
+is norm of W or L 2 norm of W ok I think
+I did not reconnect
+ok I hope it reconnects and everything
+works it does ok if you don't have
+enough activity for I think a few
+minutes collab automatically disconnect
+there is a way around that I can change
+the JavaScript here to make sure that it
+doesn't die there are some hacks around
+it cool so very simple I have the code
+here it works ok so I'm just simply
+translated what we see here very simply
+the equation that we see here I just
+wrote it as once one simple line of code
+now the big question that I have here is
+you have written this quote okay seems
+logical how do you test this code again
+as I mentioned in the previous life
+sessions for any problem or any snippet
+of code or any function you write right
+how do you test it right how do you test
+it how do you test that this code
+actually works or maybe you have done a
+small mistake instead of plus you wrote
+- and everything goes for us instead of
+non - you did norm one and everything
+goes for a toss how do you test this
+code again you can for most of this
+functionality you can just yeah
+somebody's asking about random seed so
+what random seed does let me just
+explain this you can give so random seed
+I've explained this in the in the
+previous live sessions also but let me
+just repeat it quickly right so random
+seed I can use any number here this
+basically so your random number
+generator also called a pseudo random
+generator pseudo-random number
+generators that you have in most
+programming languages and in most
+libraries they generate a sequence of
+numbers so every time I run this code if
+I did not have this line every time I
+run this code I get a different set of
+random numbers right I get a different
+set of random numbers by using this line
+and fixing the number always the same so
+this number says intuitively again I'm
+not telling you how in this context I am
+NOT going into the depths of how
+pseudo-random number generators works
+how seed works I'm not going to the
+mathematics because that's a fairly
+in-depth mathematical discussion onto
+itself but intuitively what it does is
+very simple the moment you you set this
+to hundred ok next time whatever numbers
+you generate every time the same numbers
+are generated this is like ensuring that
+the random number generator starts at
+some specific point you can think of
+this point as 100 from this point so
+when I say seed equals to 100 it will
+always go to this point in a sequence of
+random numbers random numbers and it
+will always generate random numbers from
+that from that location think of it
+that's the easiest way to think about it
+so this is this is a return so as to
+ensure that every time I run the code I
+get the same random numbers otherwise
+when you run you get different round
+number numbers I get different number
+and members and things like that cool so
+how do we test it ok let me see let me
+see ok pass the known values for testing
+can you suggest me some good known
+values folks again you can use any seed
+guys you can use any seed you can use
+then any number just look at the
+documentation for NP random seed you can
+use any number here just fix that number
+every time you are running it that's it
+yeah you can use random state random
+seed all of them do mostly the similar
+stuff right so don't worry about it
+again I'll try to answer only questions
+which are in the context of the
+discussion for enough because we are in
+the middle of it pass the known values
+for testing what are some simple values
+that you can pass D greater than 0
+because W and X are in the same
+direction no no no no
+somebody's mistaken here look at the
+code that we have written there is an
+absolute value here which means D will
+always be positive I just mentioned this
+a few minutes back right D I am placing
+because the distance is always a
+positive number will come to half spaces
+will come to which side a point is
+little later okay please don't confuse
+those two love also somebody says to D 3
+point you should give this blah blah
+blah okay so this is so for dot product
+also why do you need the distance the
+this thing for dot product because
+you're taking you don't require for dot
+product right where do you need absolute
+value for not product you don't need it
+so ok so where were we
+okay so how do we how do we test this
+how do we test this very easily okay
+some simple test cases that you guys w22
+from origin okay okay that's a good idea
+okay just just write a function for this
+and pass different vectors that's a good
+idea
+one simple thing that I'll suggest you
+is this look at this very simple
+suggestion right again this is a six
+dimensional remember this is a six
+dimensional vector so my vector W is
+such that the x axis the first axis so
+this is six dimensional of course I
+can't draw six dimension I can't draw
+anything more than 3d right suppose
+literally the first dimension second
+dimension third dimension there is four
+five six dimensions also somewhere so
+I'm creating my W such that my W only is
+on this at this direction look at this
+my W is such that its length on the
+first dimension is one rest all
+dimensions is zero which means it will
+be on this axis if you think about it
+will be on the axis corresponding to the
+first dimension now if my X is also on
+the same so the way then again you can
+test it in many many ways if you want to
+test it in heidi's in high dimensional
+space this is one simple technique so my
+W is again remember that non W here is
+one for me cool now look at this I'm
+also choosing my X such that my X only
+has component in the first dimension all
+the other dimension components are zero
+so which means where is my ex my ex also
+will lie in this in this on this axis
+only because rest of all the axis two
+three
+four five six axis or all zero right so
+what happens enough what should be the
+distance of X now look at this so what
+should be the distance of x from W
+that's what we want to compute right
+what should be the distance of x from W
+right very simple
+I hope the question is clear right so
+I'm representing my plane remember my I
+am reading distance of x from W let's
+say distance off the plane represented
+by W so my plane has this normal look at
+this let's let's imagine this in 3d
+first because 6d is anyway impossible so
+imagine I have only three dimensions
+here my W is represented like this which
+means where is my plane my plane is
+actually here right which means my plane
+is actually here my plane is the axis
+that my plane is spanned by or my plane
+is this plane which has vector to or
+access to and axis three because this is
+perpendicular again I'm trying to draw a
+3d diagram here right so this is my
+plane enough right now my X is here so
+what should be the distance of x from
+the plane it should be the distance on
+the x axis itself the distinction should
+be 23 right again this is one simple
+case that I'm building here right the
+distance should be 23 again you can
+write lots of simple test cases like
+this I'm trying to show you how to think
+of test cases in d dimensional spaces
+the easiest one is to test cases in 2d
+and 3d spaces that's easier because you
+can simply come up with something that
+you can visualize easily and do it but
+you can also construct examples and
+Heidi spaces like this right so you just
+do that and the answer shouldn't be okay
+so where is this or it got disconnected
+so let me just run this once so let me
+run the snippet of code the answer
+should be 23 as I just explained a while
+ago all right the same concept that you
+can imagine in 2d and 3d scales to 6d
+right especially with respect to first
+with respect to planes and distance from
+planes and things like that right very
+the very simple case now somebody was
+saying about half spaces right so what
+is the concept of a half space look at
+this imagine if I have a plane like this
+I have a plane like this which is
+represented using W and B right and my W
+is pointing in this direction let's say
+my W is pointing in this direction now
+all the points which are there on this
+side of the plane all the points that
+are there in this side of the plane is
+called 1/2 space it's also called as
+positive half space because because this
+plane effectively this plane is breaking
+the whole space into two two half spaces
+look at this this plane doesn't stop
+here red this plane just keeps going on
+like this this plane keeps going on
+given this hole in 2d space this is
+breaking the 2d space into this space
+and this space the space in which the
+space towards which W is also present or
+W is pointing to is called the positive
+half space the other side is called
+negative half space we have discussed
+this in the course videos also now have
+given any point p1 or p2 how do we
+determine whether a point isn't positive
+positive half space or negative half
+space because again this concept is very
+very important when we do logistic
+regression when we do SVM's and concepts
+like this right these concepts will play
+one of the most important roles when you
+learn machine learning algorithms again
+I'm not teaching everything randomly I'm
+trying to limit myself to concepts that
+we encounter again and again in machine
+learning so this is like the basics that
+you need for future stuff alright so
+again this is very simple it's a very
+similar formulation like earlier it just
+says ok so given this p1 I just take W
+dot p1 plus B if this is greater than 0
+look at this if this is greater than 0
+then it is a positive half space ok if
+this is less than 0 W dot p2 plus B if
+it is less than 0 it is in the negative
+half space if it is exactly equals to 0
+it is on the hyperplane it is on the
+hyperplane
+because all the points here look at this
+all the points here like if I have a
+point p3 here ok so let me write it as P
+3 ok if I point P 3 this will be equal
+to 0 right that's a definition that's a
+definition of a plane as we discussed
+and as we derived it and again why is
+this so we have discussed in the course
+videos I am NOT going to repeat that
+proof here but this isn't this is the
+general idea right so
+let's now let's see so I somebody says
+if angles are in 90 degrees I didn't
+understand what about if plane is not on
+a particular axis again these are so
+again this is just a test case that I've
+shown you on how to test that the code
+we've written is correct the test cases
+will try and pick the simpler test cases
+if you want more complex test cases try
+it in 2d and 3d in higher dimensions
+you can't even visualize what is
+happening right so coming back to the
+half-spaces concept enough
+okay so let's again let's just do it
+okay so it's very simple it's very very
+simple the logic is also very very
+straightforward okay let me just erase
+this the idea is as follows
+so I'm just generating again a random
+vector a random vector W and B so this
+generates a plain pie so both of them
+generate a plain pie I'm generating a
+point X all right just just randomly
+right now I'm saying okay what is the
+formula here dot product of W and B so W
+and X plus B divided by norm of W oh
+sorry I forgot to mention this okay so
+this by norm of the believe I'm I keep
+assuming that W is a unit vector right
+so the right thing is is you if W is not
+a if W is not not a unit vector you have
+two divided by norm W but again this
+division doesn't change the sign let's
+not forget this division doesn't change
+the sign right that's important because
+norm W is always positive this is always
+positive so this will not change the
+sign right so you can actually skip this
+whole thing if you want nothing will
+change okay cool so by doing this and
+again I'm using the numpy sign numpy has
+this function called sign and which will
+give me whether it's positive or
+negative okay
+so I've just taken some random
+hyperplane I've just taken a random
+point and it says that this is on the
+positive side how do you test this stuff
+again it's very important whenever you
+write anything like this it's important
+that you test it right again it's very
+simple if you think about it there is a
+very simple way to test it okay the idea
+is this okay suppose I've taken a random
+hyperplane like this look at this I have
+taken a random hyperplane I have a W
+right and I have a B also associated
+my B is 1.2 ok if the point that I have
+look at this the point that I have is
+origin okay look at this the point that
+I have here is origin right very simply
+put okay the point that I have here is
+origin now we know that okay so if I if
+I plug in if my x equals 2 origin what
+does W transpose X plus B will be equal
+to if X is origin which means X is equal
+to 0 right if x equals to 0 w dot 0 is 0
+so this will become just B itself right
+so whatever is the sign of B look at
+this whatever is the sign of B that is
+the direction in which origin is if I
+have taken B equals to positive value
+here if I take B equals to positive
+value right if B is positive value my
+origin lies on the same direction as my
+W if B is a negative value if B is
+negative value then sorry if B is
+negative value then my origin will lie
+in the opposite side as compared to W
+very simple concept so for test cases
+you can use these boundary cases to test
+if everything is working already so if I
+choose B as positive value I get
+positive if I choo-choos be as negative
+I get -1 again
+it's always a good idea all the
+functionality that we are writing
+whether it is distance between a point
+and a plane all of these things try to
+implement all of these lipids as
+functions so that you can reuse them in
+the future but I'm just writing at a
+simple code just to show you right very
+simple concepts nothing very fancy now
+let's go on to some simple matrices ok
+be the basics out of our way again one
+of the biggest applications of matrices
+write in whole of data science is to
+represent data matrices again we'll see
+what data matrices are in the future
+life sessions again some of the concepts
+are also available in our course videos
+if you just go to our course videos go
+here linear algebra there is this
+chapter called as dimensionality
+reduction visualization where we discuss
+about the basics again wherever you have
+the I symbol all those are freely
+accessible again I think in these videos
+we give you basics of what is the data
+matrix
+what does basic feature normalization
+Wally what is column standardization we
+discuss some of the
+six in the context of a very popular
+data set called amnesty data set so here
+is where you can watch some more videos
+about how how matrices are represented
+cool and matrices have used a lot for to
+represent the data matrices
+just like our pandas if you recall in
+pandas we represent everything like a
+matrix where each row represents an
+object each column represents a feature
+if you record right again if you don't
+know this that's okay we'll cover this
+in the future sessions also some of the
+most basic operations that we perform
+our simple addition multiplication we
+have covered this right in the in the
+past live sessions I've shown you how to
+add two matrices I asked you to
+implement how to multiply but you can do
+all of that in numpy you don't have to
+implement it from scratch because numpy
+does a very good job at it then I wanted
+to introduce you to a couple of very
+simple concepts called as Frobenius norm
+and had a magic product okay they're
+just fancy names they're very simple
+concepts all right
+so okay so this is not that I forgot to
+remove it okay this I thought I'll cover
+it in the future sessions okay cool so
+let's go step by step okay very simple
+nothing fancy here so what I'm doing
+right now is I'm creating a data so look
+at this I want to create ten points each
+point of four dimensions so I always use
+in my notation I always use to represent
+number of data points so number of
+points I always used D to represent the
+number of dimensionality that's a
+standard notation which is also followed
+extensively in the extensively and in
+books but just to be sure I try to stick
+to the signal notation right so what am
+i creating here I am creating two
+matrices again I'm just creating random
+matrices in the future sessions will
+actually load real data or actually you
+don't have to worry about it there is
+one example here where a load real data
+and show you the data matrix right so
+okay so I'm just creating two random
+matrices x1 x2 I'm also creating a D
+dimensional vector here okay random
+vector W yes I'll show you why I do that
+there are a bunch of operations I want
+to show you how to do in numpy cool
+first let's print x1 x2 I'm just
+printing them okay so this is my x1
+right if you notice ten rows
+four columns just random data this is my
+x2 now if I do this operation if I do X
+1 plus X 2 so X 1 the way the way numpy
+works is remember that X 1 and X 2 are
+endianness right X 1 and X 2 are non PI
+and D eros because they're
+two-dimensional arrays W is just a numpy
+array because it's a one-dimensional
+array it's a vector now the plus
+operator can work on numpy eros when you
+do plus operation what it returns is the
+sum of two matrices again we can verify
+that take this take this
+if you sum both of them you should get a
+value something like 1.2 something right
+look at this first row first column
+first row first column if you sum both
+of them you should get one point two so
+again I just printed X 1 plus X 2 and it
+actually prints X 1 plus X 2 you can
+just pick a few points from X 1 X 2
+match them they look the same for
+example look at this point 4 to 0.58 the
+sum should be close to 1 right and the
+sum is close to 1 right so I've just
+printed X 1 plus X 2 now just like plus
+if I do X 1 star X 2 because star is
+what we use to multiply numbers right so
+what does X 1 star X 2 do it does
+something called as element wise product
+it doesn't do the typical matrix product
+that we learned in school so what it
+does is imagine if I have two matrices
+like this right the the element wise
+product which is fancifully called as
+had a matte product just a fancy name
+for it you could have just called it
+element wise product it takes this first
+element multiplies it with the first
+element and returns that so if this is
+matrix a and if this is matrix B what
+this product or element wise product or
+Hadamard product does is it a IJ is
+multiplied with B IJ again remember they
+both are scalars right age is just a
+number B IJ is just a number
+this will be equals to CIJ for all I
+comma J right so a IJ is the value that
+is in ith row and jth column right in a
+matrix in a matrix a IJ basically means
+the value in the cell that is
+represented by a row and jth column
+similarly bij is I throw jet column
+so each element corresponding to the
+same element that is there in the other
+matrix it just does a element-wise
+product and returns it and for this both
+x1 and x2 should be of the same size
+look at this what is x1 x1 is n cross B
+x2 is also n cross D because they both
+are of the same size this product is
+fully valid no issues with it cool but
+if I want to actually do X 1 dot X 2 the
+matrix multiplication
+remember the matrix multiplication that
+we learned first row is multiplied with
+first column to generate the first to
+generate like this if this is the first
+row first column this generates the this
+first element of you do a dot product
+between you basically do a dot product
+between this vector and this vector and
+you get the first element the typical
+matrix multiplication that we learnt in
+school if you want to do that
+you have to use mammal in numpy if you
+do this you do not get the actual matrix
+multiplication what you get is element
+wise product we see lot of students who
+use this and they expect actually non
+PI's madman this is a very very common
+mistake that we see people doing in our
+assignments very common mistake because
+we already used to represent things by
+star again this does not throw an error
+everything works right but things start
+breaking them but here there is a
+problem if I execute all of them look at
+this what is X 1 X 2 and trying to
+multiply X 1 and X 2 right so X 1 is n
+cross d X 2 is also n cross D can you
+multiply these two matrices this is d
+this is M they both don't match so this
+should actually throw error right if you
+think about it logically right so let's
+actually see this right okay so okay so
+I actually get an error and it says very
+clearly matte Mille input operand 1 has
+a mismatch in its core dimensions right
+or somebody is asking a question so
+somebody is asking a question which is
+which is a why do we why the random
+numbers are always in float and not int
+because R and function generates
+floating point values there is an other
+function called Rand int which generates
+integer values
+okay it all depends on what function you
+are using to generate the random values
+so other very interesting question is
+what happens if you have tensors okay
+all this is good with matrices what
+happens when you have inserts what is
+the tensor again we have discussed this
+in the previous sessions also rate this
+is a vector right so this is a vector
+this is a matrix a matrix is a two
+dimensional structure a tensor is a
+three dimensional or more dimensional
+structure now we will see insert
+multiplication when we learn when we
+come to the context of it okay tensors
+we learn when we come to deep learning
+especially using tensor flow and caris
+right so we will cover how tensor
+multiplication works when we do sessions
+on again we'll do some basics of tensors
+again it's a fairly simple concept you
+can pick it up but I did not want to do
+it here because they're just
+overwhelming students enough will surely
+cover how tensor multiplication how
+tensor operations work when we get into
+the context of deep learning we surely
+do that in the future sessions right so
+yeah as somebody point out so there is
+an error here right so what is a simple
+fix for it it's simple right so you can
+just do transpose so in it's so easy
+again numpy does this so beautifully all
+the mathematical operations in numpy are
+like godsend so when you do x2 dot T it
+just transposes it so now x1 has n cross
+d x2 dot T which means transpose of it
+has a D cross n right now I can multiply
+because these two numbers match and what
+should be the what should be the result
+again remember that N equals to 10 and D
+equals to 4 for our example right so
+when I multiply them the answer should
+be an N cross n matrix which means it
+should be 10 crossed n matrix and just
+printed the shape of it again you can
+get the shape of any numpy matrix by
+just saying dot shape very simple right
+again these are common mistakes that
+happen that's why I just wanted to cover
+it quickly good so the next thing is if
+you want to multiply a vector with a
+matrix again this is one of the
+operations that we perform a lot in when
+we actually start modeling things when
+we start going into machine learning
+models we want to multiply a vector with
+a data matrix so let me show that
+diagur
+matically first okay suppose imagine
+imagine I have a I have an N cross V
+matrix here right if I want to multiply
+it with a vector this vector should be
+of B cross one okay this is my matrix
+let's say this is my matrix X 1 this is
+my vector W when I multiply both of them
+what do I get I get an N cross 1 so what
+am i getting here I take each of the
+rows here I take each of the rows here
+again different books and different
+blogs and different research papers
+might use different notations but
+concept is the same so you take a row
+here you multiply with a column again
+I'm not so this is the proper matrix
+vector multiplication right this is a
+column vector here I have a matrix where
+each row represents a data point or each
+row represents something important to me
+we'll see that in the context of data
+matrices little later in the future life
+sessions so this multiplied by this I
+get the first value the second row
+multiplied by this I get the second
+value and so on so forth right now again
+here very very common mistake is
+dimensions messing up right so let's see
+let's see so first I wanted to check ok
+first I wanted to see okay in P dot W
+and x10 it throw look at this I have my
+X 1 right my X 1 0 a throw
+I'm taking my X 1 0 a throw this x10 a
+throw is a is basically d dimensional
+vector right so this is basically a D
+dimensional vector this X 1 0 it vector
+I want to do a dot product with W and
+see what the value is so dot product of
+W with x1 0 I throw all the columns so I
+get this value right good now I want
+this value to match with what I do when
+I do so look at this I can use math math
+math Mille not only multiplies matrices
+it can multiply a vector with a matrix
+also so what am i doing here look at
+look at what I am doing here again you
+should always make sure that dimensions
+match so I'm multiplying W with X 1
+transpose what is W ok look at this you
+should again the moment I run this okay
+let's if you print this look at this if
+you print this you get this output cool
+so I'm multiplying W with X 1 transpose
+when I do W with X 1 transpose again you
+should always make sure that things
+match what is X 1 transpose X 1 is n
+cross B so X 1 transpose is B cross n
+right I'm multiplying this width W so
+what is w W is again even in most of
+mathematics or even in machine learning
+matrices are assumed to be matrices are
+assumed to be column matrices by default
+everything is assumed to be a column
+matrix right so what is a column matrix
+you have okay so again we have to be
+very very careful on the shapes of
+things this is one of the most common
+mistakes that we encounter right so if
+you write this way or if you write this
+way it will work okay so here W in numpy
+the W is represented as 1 cross d 1 row
+and so it's not represented as a column
+vector this w here in numpy is
+represented as a row vector so one row
+and d columns so that's why when I do a
+dot product between so when I do a map
+multiplication between this and this
+this is working this will work right
+remember if W is a row vector of 1 cross
+d this will work right so when I print
+this I get this answer now just check
+just check the first value that we get
+here this value matches this value as it
+should this value and this value should
+match right because obviously the first
+row when I multiplied with W I got this
+result that result should be the in
+output also the first cell should be
+that value now I could have written this
+differently also look at this if I wrote
+it this way now what is X 1 my X 1 is n
+cross d my W dot transpose okay so my W
+dot transpose is so my W is 1 cross D so
+W transpose is d cross 1 now this will
+also work so whenever you are doing this
+just make sure whether W is a row row
+vector or a column vector just make sure
+numpy uses row vectors mathematics guys
+use column vector by default that
+confusion can kill you
+right I've seen I mean this is a very
+common problem people try to do this
+suppose if I just did this this will
+throw an error because W is a 1 cross D
+x1 is an N cross D so this will throw
+you an error so the moment thinks throw
+an error just make sure that you write
+what it is it's always important when
+you are translating this into equations
+always check for this sanity I mean I do
+it even today after many many years
+whenever I am writing matrix
+multiplication because this is one of
+the most commonly used things whether
+it's matrix multiplication or tensor
+multiplication right please make sure
+that you don't mess up these dimensions
+right so whether you write it this way
+or write it this way you get the same
+result but the moment you write it this
+way again you get this very common error
+which is OK input operand mismatch in
+dimensions basically this is the typical
+error that you get the moment you get
+this make sure to write these equations
+very common mistakes that people do is
+they don't write these equations they
+don't write this and clearly understand
+when the W is a row vector or a column
+vector as represented in number and mess
+up things very common mistake so please
+be careful ok
+then there is this concept called as
+Frobenius norm ok for bilious norm this
+again this is one fancy name given what
+is the Frobenius norm actually mean
+imagine imagine I have multiple entries
+in a matrix a suppose I have a matrix a
+and I have multiple entries I take each
+entry here look at look at what we do in
+l 2-norm
+given a vector look at this Eva if I'm
+given a vector what do we do we square
+each of the elements we square each of
+the elements right we sum up everything
+and we take square root basically that's
+that's what is you ready to norm right
+that's what is your l2 norm so the same
+concept of l2 norm if you extend it to
+matrices what do you get take each of
+the elements that you have in your
+matrix suppose if my matrix is a suppose
+if my matrix is a right take each so I
+throw jth column I'd throw jth column
+this cell is called a IJ right this cell
+is represented as a IJ right very simply
+put so for all I and J I goes from 1 to
+n if you have n rows J goes from 1 to M
+if
+and columns if this matrix is an n cross
+M matrix take every element square it
+sum this up across all the rows and
+columns basically you're taking all the
+elements that are there in the matrix
+taking the square and summing up all of
+them and you're taking the square root
+of it that's what is called the
+Frobenius norm again this definition is
+valid if you have real numbers in a
+matrix there are complex matrices that
+we do not encounter much in machine
+learning but complex matrices are used
+in electrical engineering electronics
+engineering even mechanical engineering
+etc right so if you have a complex mate
+what is a complex matrix where the
+entries can be complex numbers right for
+example three suppose complex numbers
+right we know I which is square root of
+minus one right so complex numbers have
+a real component for example this value
+is let's say 3 plus 2i right so
+Frobenius norm can also be defined on
+complex matrices where in the definition
+is slightly different but we do not use
+complex matrices much in machine
+learning
+but for Benyus norm is a concept in
+linear algebra again remember linear
+algebra is used in many many places not
+just in machine learning a we are
+limiting ourselves to the discussion in
+the context of machine learning and AI
+right again Frobenius norm is used in
+machine learning for some errors we
+actually use the Frobenius norm in our
+course videos when we learn about
+non-negative matrix factorization ok
+there is a whole there's a whole chapter
+called recommender systems where we
+learn about the concept of non-negative
+matrix factorization which is again a
+concept that is also taught in some
+linear algebra advanced courses where
+this Frobenius norm is uncomforted I'm
+just connecting the dots for you right
+so I can get Frobenius norm very easily
+look at this if I have if I have a
+matrix X 1 I can get the Frobenius norm
+by just using the norm because we saw
+this definition earlier right so the
+linear algebra norm in numpy can compute
+lots of norms we saw that awhile ago
+right so the linear algebra norm can
+compute lot of norms if I just give F
+our row it computes Frobenius norm if I
+give 2 it gives 2 norm right so this
+norm can compute norms on vectors as
+well as matrices right it can be 1d or
+2d look at this X must be 1 day or
+not for tensors right so what do we do
+enough we just say Frobenius norm we
+printed what value do we get look at
+this we get a value which is three point
+five four
+but let us also implement it again to
+understand the concept in depth it's
+always a good idea to implement it
+so I'm implementing the formula here
+what is the formula say the formula is
+very simple it's right above here for
+all I for all rows for all columns take
+the square of each of them sum up
+everything and put it in a square root
+right we have seen how to do simple for
+loops right in in the previous sessions
+so I just so I get shape so given X 1 I
+get the shape of X 1 I'm printing the
+shape X 1 is a 10 cross 4 we know this X
+1 has 10 rows and 4 columns we know this
+already because we just created a random
+matrix like that I am creating a sum
+here for I in this right but when I say
+X 1 dot shape what does it give it gives
+it to pull always remember is what is
+the data type that is given I get a
+couple so if I take sh-sh 0 should give
+me the number of rows so what am i doing
+for I in rows for J in columns because
+I'm using SH one here all I'm saying
+here to this sum keep adding X IJ square
+just keep adding X IJ square now at the
+end I just take the square root and
+print it I get the same value here
+except for small rounding error right so
+this is 8 9 6 this is rounded to 1 9
+right so whenever you have a concept
+like this it's also a good idea to
+implement it so that you understand
+better the concept it's always a good
+idea and of course in practice when you
+are writing production quality code I
+would rather use this instead of writing
+my own code because as we have shown
+earlier this is going to be slower than
+inbuilt code because in built code is
+optimized using C C++ in numpy cool so
+the next operation that will go into is
+convolution right so yeah somebody is
+asking about yeah where we use Frobenius
+norm formula and machine learning I just
+mentioned this awhile ago right we use
+it in non-negative matrix factorization
+cool one digit in Frobenius formula what
+is one digit I didn't get what one digit
+you are talking about why we are getting
+one extra
+in the Frobenius formula again you can
+you can all this if you want more digits
+in the decimal value you can always get
+it right
+so this print is just rounding it off
+and printing it you can always get more
+digits if you want that's not a problem
+cool okay by default W is a column
+vector yes so importantly in whole of
+again there is this dichotomy that W in
+mathematics is always taken as a column
+vector right in mathematics in most of
+mathematics but please also remember
+that it depends on the implementation
+the way our numpy again how would we
+represent w here you represented using
+numpy array numpy array creates a row
+vector by default not a column vector
+because it is trying to represent an
+array not a vector
+remember numpy does not have numpy what
+we what we used what class did we use or
+what object did we use to represent W if
+we are using numpy array numpy arrays or
+row vectors by default so we just have
+to be careful with the dimensions when
+we are writing numpy based code that's
+it otherwise mathematicians or even in
+our course videos we assume that all
+vectors are column vectors by default
+right so okay sounds good okay so let's
+go to convolution I just wanted to show
+you the power of matrices in the context
+of image processing again please
+understand that this is not whole of
+image processing we are just touching
+the iceberg I just wanted to show you an
+application so that you can connect the
+dots here convolution as an operation is
+used extensively in in whole of deep
+learning and computer vision a lot again
+there is a whole network called as
+convolutional neural network which is
+based on the operation of convolution
+but convolution as an operation is
+actually studied in signal processing
+look at how the whole thing is connected
+it is the electronics engineers and
+signal processing guys who actually came
+up with the concept of convolution right
+so the image processing guys right the
+people who are doing image processing
+work they
+borrowed this concept from
+signal-processing the concept from image
+processing was taken to computer vision
+which is not used in deep learning so
+this concept of convolution again the
+convolution operation from signal
+processing they also borrowed it from
+Applied Mathematics from linear algebra
+okay they borrowed it partially from
+linear algebra partially from calculus
+right so the signal processing guys who
+know signal processing the many ways of
+looking at convolution right so here we
+look at something called as discrete
+convolution or we look at convolution in
+the context of image processing and
+computer vision not from a pure signal
+processing perspective that's a
+different beast altogether okay so let's
+let's look at this right so what does
+convolution do again I'll show you a
+very simple example of convolution how
+its powerful but I want to explain the
+power of matrices in the real world
+right so let's let's look at a very
+simple example here cool let me use this
+okay suppose imagine if this is my image
+what is an image effectively let's take
+a let's take a simple black-and-white
+image also called as grayscale image
+right simple image color images we'll
+learn later okay it's slightly more
+complicated let's take the simplest
+grayscale or black-and-white images as
+we often refer to them as in colloquial
+English in India but their supper
+technically called grayscale images an
+image is actually a bunch of rows and
+columns an image is actually a matrix an
+image is basically a matrix suppose if I
+have an image which is 500 of size 512
+cross 512 what it means is I have Phi 12
+rows and I have Phi 12 columns and each
+of these cells contain a value which
+says how bright this pixel should be
+this is what is called as a pixel right
+each of these is called a pixel this is
+how your monitors your screens
+everything also work each of these is
+called a pixel if you have a grayscale
+image which means you have a you have
+you don't have color here each of these
+values each of this so a grayscale image
+can be represented as a matrix where if
+you have an image of Phi 12 rows and 512
+columns or this is a
+mid-size every cell has a number every
+cell has a number inside it so you can
+actually think of an image as a matrix
+and all the beautiful mathematics of
+matrix algebra can be applied on images
+for image processing and computer vision
+one such operation is called as
+convolution okay convolution is a very
+beautiful operation it can do a lot of
+things okay we look at one simple
+example suppose imagine that this is my
+image
+okay so again just to give credits I
+have taken this image from the Apple's
+developer blog it's again I try to use
+all the URLs here so that I'm fully
+transparent about it I did not draw this
+okay so other diagrams yes I drew them
+and I put it here so imagine if I have
+this image each of these is a pixel in
+image let's say you might have a
+grayscale image we'll see how everything
+works if you have color image when we
+learn about tensors when we learn about
+convolution in the count in the context
+of tensors etc that we'll see later
+right so if this is my image and each of
+these is my pixel now this thing is
+called as a convolution kernel a
+convolution kernel is also an other
+matrix look at this this is my image
+matrix right let's call it as IMG okay I
+have something called as a kernel it's
+also called as a convolution kernel okay
+so please don't confuse this kernel with
+kernels in SVM those are different
+concepts this name came from image
+processing okay so remember that a
+kernel is a smaller matrix right so you
+again let's assume this kernel is a K
+cross K matrix right my kernel let's
+assume is a K cross K matrix imagine
+that my image is let's say sum D cross D
+image okay D rows and D columns again
+need not always be same dimensions but
+I'm just taking it for simplicity now
+what does convolution operation do so
+convolution operation it's also called
+as 2d convolution because there is a
+concept called one deconvolution also
+there is a concept called 3d convolution
+also first let's look at puri
+convolution we learn about others when
+we learn tensors etc in deep learning we
+learn all sorts of convolutions so
+confident it takes a kernel
+it takes a kernel as input and it
+generates an output
+again this is my output here look at
+this this is my output and how does it
+generate the output it takes look at
+this
+suppose it has this pixel right
+corresponding to this pixel look at this
+my kernel here is 3 cross 3
+corresponding to this pixel look at this
+this pixel is 3rd row third column right
+so it takes one pixel here 3rd row third
+column right it takes all the pixels
+that are around it look at this it takes
+all the pixels around it right cool
+enough it multiplies again I have a
+kernel here right the kernel is sort of
+fixed kernel I'm ultimate product what
+is a high-demand product I do look at
+this I do this multiplication like this
+element wise multiplication so 0
+multiplied by 4 look at this so 0
+multiplied by 4 is 0 again 0 multiplied
+by 0 is 0 0 multiplied by 0 is 0 so
+first row I have multiplied let's look
+at second row 0 multiplied by 0 is 0 1
+multiplied by 0 is 0 1 multiplied by 0
+is 0 so I get second row also all zeros
+third row 0 multiplied by 0 is 0 1
+multiplied by 0 is 0 2 x minus 4 is
+minus 8 right so now I add up all these
+add up all this so Plus this Plus this
+what does it return it returns minus 8
+right this minus 8 is present here this
+is how I generate 1 pixel value in the
+output now if I want to generate another
+pixel value suppose if I want to
+generate let's say this pixel value how
+do i generate this pixel value I go to
+the corresponding pixel here I draw a 3
+cross 3 matrix around it look at this
+this is my 3 cross 3 matrix
+I'll do the Hadamard product we just
+discussed the or element wise product
+right we just discussed that right now
+right so I take this 3 cross 3 matrix
+I do the element wise product with my
+kernel and sum up all the values and
+what I get here is my output right again
+the way this output is generated is we
+go from one pixel to another pixel for
+on every pixel we try to put this kernel
+so effectively what are we doing on
+every pixel we are drawing this 3 cross
+3 grid because my kernel is 3 cross 3
+I'm multiplying elementwise with this
+convolution kernel
+and I'm generating an output so this
+operation is called as convolution to D
+right again remember what is this based
+on if you think logically this is
+basically based on your element-wise
+product of matrices because element Y is
+product right you can think of this as
+one matrix you can this you can think of
+this as another matrix right you're
+doing element wise product and you're
+doing this for every pixel here to
+generate the output now you might say
+what the heck are we learning why are we
+learning all this this sounds too
+theoretical I'll show you some simple
+application of this very simple
+application let's actually take an image
+okay I've taken this example from Sify
+okay so I'm importing site PI and site
+by miscellaneous so Syfy has an image
+called as essent like I'm just loading
+an image look at what I am doing here
+I'm just loading an image here now if
+you want to look at what is the data
+type of SN
+okay let's actually look at that right
+so print type is int yeah let's see okay
+so what so I'm just loading a nd Eric
+look at this what I mean luring here I'm
+just loading an ND array okay so there
+is actually an image which is already
+inbuilt inside by I'm just loading that
+image but what is that image an image is
+nothing but it's an umpire and D array
+what is the shape of the NDRF i-12 cross
+faithful so what do I have I have an
+array which is of a two-dimensional
+array which is of size 512 cross 512 if
+I want to visualize this image it's very
+very easy using matplotlib right again
+we have discussed this in the course
+videos when we learn some image
+processing algorithms it's actually one
+line code all I have to say here is
+import matplotlib asperity I just have
+to run this PLT dot image show so I am
+sure is a command that matplotlib
+borrowed from mat lamp actually I am
+sure I actually used I am sure it's been
+there in MATLAB for many many years
+right so matplotlib borrowed the same
+syntax from MATLAB it's it's the I am
+show function is also there in MATLAB so
+they just use the same thing because a
+lot of people who are using matplotlib
+used to use MATLAB earlier right MATLAB
+is a completely different tool
+we don't have to worry about it so what
+am I saying here I'm again you can read
+the documentation here the first
+parameter has to be what is the image
+type I sorry what is that what is the
+image what is the matrix that you want
+to show you want I am show basically
+means image shown right and I want to
+say that the color map for this is
+grayscale this is not a color image this
+is a grayscale image and I'm saying the
+minimum value is 0 the maximum value is
+255 again this is very specific to image
+processing that in each of my values
+look at this when I am representing an
+image right so this the value that is
+here rise between 0 to 255 0 means fully
+dark black right 255 means fully white
+that's what it means right so cool so if
+I just do this what do I get I get an
+image like this this is an image of a
+staircase that somebody is climbing onto
+right very simple very simple concept so
+whatever done here I have loaded an
+inbuilt image inside pi as a 2d array
+now let's apply a very simple
+convolution operation okay so first let
+me create a convolution kernel ok again
+there are lots of convolution kernels
+that are available in machine learning
+and data sorry in image processing in
+image processing and computer vision
+there are like tons of kernels that are
+there one of the simplest kernels is
+this so what am I saying
+I want to create a kernel like this my
+kernel is is basically NP once KK and K
+is 10 which means I am creating a kernel
+which is of size 10 cross 10 my kernel
+is a 10 crossed and matrix with all ones
+with all ones then what am i doing I am
+saying how many ones are there here
+there are 100 ones right think about it
+if matrix is all ones and there are 100
+cells here the sum is hundred then I
+divide all of these values look at this
+I divide all of these values kernel
+equals 2 kernel / NP some kernel so what
+happens to each value here each value
+becomes a 0.01 right so if I print if I
+just print my kernel I get this it's a
+10 crossed n matrix
+look at this it's a 10 crossed n matrix
+with very small values here now I'll
+apply this kernel we can look I can
+apply this very easily again
+signal isn't look a this is in is in
+Syfy Syfy has a way to build con 2d
+convolutions again they're also
+available in tensorflow Kerris etcetera
+but let's use site buy enough okay Syfy
+numpy are like siblings so signal dot a
+convolved 2d which means it's doing two
+deconvolution and what do I want to do I
+just want to do a 2d convolution between
+sm a sent was my image right and my
+kernel what I get I get my output as
+blurred okay so I'm just called I'm just
+calling this output as blurred let let
+me show you the image what happens to
+this image if you look at this image
+this image looks like a blurred version
+of this image alright so the kernel that
+we create is called as a blurring kernel
+right if I just increase this size if I
+just increase the kernel size and rigsy
+puted it will take a couple of minutes
+look at this it is more blurred enough
+if I increase the size of the kernel
+look at this if I increase the size of
+the kernel it becomes more and more
+blurred so the that the operation of
+image blurring okay this is the whole
+operation of image blurring the whole
+operation of image blurring can be
+represented as a simple 2d convolution
+operation if you can represent it as 2d
+convolution and to deconvolution
+is nothing but it is simply a
+element-wise matrix multiplication
+it is elementwise matrix multiplication
+also called as hand a matte product it
+is element-wise matrix multiplication
+plus for loops right because you have to
+do this for every element in the input
+image right so look at this for every
+element in the input image you have to
+do this element wise product and then
+get the output value so if you think
+intuitively intuitively what is image
+blurring image blurring is simply to
+deconvolution and what is to
+deconvolution mathematically it is
+simply mathematical it is if you think
+about at its core it simply matrix
+multiplication with a bunch of for loops
+so most of mathematics that you learn
+most image processing algorithms or at
+least a good number of them if not all
+of them similarly if I want all the
+edges in this image which is
+called 80 detectors which is called
+eighty detectors
+again there are kernels for eighty
+detectors there are a bunch of kernels
+called edge detectors again you can just
+Google search for them you get kernels
+for that and you can try it so for
+example let's say you do edge detector
+kernel edge detection kernel okay let's
+go to okay there is something called
+Sobel operator okay again so look at
+this if this is my input image look at
+what Sobel operator does okay so if this
+is my input image I can get my output
+image like this where all the edges are
+highlighted look at this I can do this
+using two using two kernels called as
+which are called as Sobel operators or
+Sobel kernels which is named after Edwin
+Sobel and all these things right so
+agitated there is also nothing but
+convolution operation there are a lot of
+operations actually convolution is such
+a foundational concept of image
+processing that convolution is the core
+concept it is the core concept behind
+most of deep learning on images it is at
+least one of the most important concept
+today deep learning techniques and
+images are able to work because of the
+concept of convolution if you did not
+have convolution it would have been
+extremely hard to make it work and
+convolution itself is nothing but matrix
+multiplication is nothing but matrix
+multiplication or had amide product and
+things like that right so a lot of
+complex concepts in machine learning
+deep learning can be broken down to
+simple linear algebra again in the
+interest of time I cannot cover more
+examples here so what I've done here is
+we will revisit these kernels again
+we'll do some sessions on basics of
+computer vision and image processing
+right in these again we'll revisit the
+concepts of convolution will learn many
+more convolution operators we will learn
+open CV or foundation basics of open CV
+open CV is a huge library for computer
+vision we learn some of the basic
+operations in open CV in the context of
+machine learning and here right so we'll
+do some sessions on these in the future
+but if you want to read some nice
+examples here is a very nice blog that I
+came across just look at it I'll share
+this whole document
+this document is image processing using
+numpy we have taken an image again very
+simple very easy to read code they get
+RGB colors again they do it on color
+images right so very nice they do they
+do a lot of operations on this it's a
+nice post if you are interested to look
+at more operations on image processing
+and don't want to wait for that live
+session here is a nice link for
+additional reading cool so now let's go
+to let's again the reason I put this
+concept in front of you is because I
+wanted to show you how powerful simple
+simple matrices that you may think hey
+what the heck are we learning right
+something that is as simple as this is
+extremely useful okay
+yeah somebody says finally I have
+something to play with yes you can play
+with this example there are tons of
+links again you can do it very easily
+okay I know a lot of people love to play
+with image data that's why I have shown
+this example okay cool again I try to
+add more and more image data in the
+future sessions also I know it it it is
+very interesting for people to play with
+I understand that okay again we have
+done in the previous sessions we talked
+about circle point in a circle all that
+I just wanted to extend that again it's
+a very simple extension because spheres
+are sometimes used in machine learning
+not as much as planes but in some
+instances we do use hyper spheres
+concept not as much as planes to be
+honest but I just wanted to quickly
+cover it because anyway we have it in
+the course videos also okay so what is a
+sphere sphere is a simple extension of
+circle to D dimensional space right so
+you have circle in 2d the similar shape
+is sphere in 3d and hyper sphere in high
+dimensional spaces right again since we
+can't draw high dimensional spaces
+hey I'll share this notebook with you at
+the end of the live session in the in
+the comments section itself so please
+don't worry about it right I'll surely
+share okay cool so a couple of very
+simple operations we'll learn some very
+basics these are common sensical so
+imagine if I have also okay I can't draw
+a hyper sphere so let's look at this
+suppose if I have a hyper sphere like
+this with center and radius of course
+the center can be represented using a D
+dimensional vector because the center is
+because
+let's assume this is d dimensional space
+right if this is D dimensional space I
+can represent the center as a D
+dimensional vector like this R is also a
+D dimensional vector the radius is also
+a d dimensional vector right because it
+says in each dimension what is the
+radius of this circle right so that's
+important okay cool actually you can
+think of radius you don't have to think
+about it like this because for a sphere
+okay sorry
+so you can think of radius as just one
+number radius is a float I'm sorry so
+radius is simply a float value if you
+think about it logically right so
+because your circle is fixed in all
+dimensions so basically what is what is
+the sphere sphere basically says all the
+points should be all the points which
+are at a distance R from here is within
+my sphere right so R is not a vector R
+is a float right simple and how do you
+do some simple operations on this it's
+very simple so I think I did a mistake
+here okay let me just say R equals to 10
+I did a small mistake here because again
+the radius let's just think about it
+just give me a second I hope I have not
+made a mistake I was in a hurry when
+writing notes for this because I was
+running out of time so the center
+obviously belongs to R D my radius has
+to be a single scalar value right
+because what it means is given this
+circle all the points which are there in
+this radius in all directions yes
+r is a scalar R is not a vector I'll
+write the code I'll modify the code as
+we go okay so a couple of operations
+that we wanted to read know so how do
+you represent how do you represent a
+circle very simple you represent the
+center using a vector radius using a
+scalar and a circle is basically a
+couple of a couple of the center circle
+you see for Cirque see for the center R
+for radius very simple right so I don't
+have to compute linear algebra norm R
+all of that stuff I don't have to worry
+about this okay so some very simple
+stuff you can represent a circle very
+easily using the circle Center and
+radius nothing very fancy now if you
+want to find if a point is inside a
+circle or outside a circle how do you do
+that next very simple question right if
+you think about it logically
+how do you do it how do you decide
+whether a point is in a circle or
+outside a circle it's a very simple
+concept right so you just compute so
+given a point like this X right you want
+to say whether this point X is inside a
+circle or outside a circle that's an
+important operator just like for planes
+right you have positive suppose if my W
+is in this direction if this is my plane
+I have positive half space and negative
+half space so a plane literally divides
+the space into two parts similarly a
+sphere divides the space into inside the
+sphere and outside the sphere it divides
+the space into two parts and that's what
+is useful in some machine learning
+algorithms not all it's it's seldom used
+but I wanted to introduce the concept so
+that even if you read a research paper
+in the future you can understand it so
+what is the distance of a point X so
+there are two things right so how do you
+determine whether a point X is inside
+the circle around side the circle very
+simple if this is my point X compute the
+distance compute the distance from X to
+C just compute the distance if the
+distance is less than R it is inside
+very simple we've seen this for
+circularly right in the previous life
+sessions if D equals 2r it is on if B is
+greater than R it is outside very simple
+nothing fancy right very simple so we
+can easily write the code for it right
+so imagine if I have a point like this
+okay so I'm creating a point x1 all
+right I'm just creating a point x1 and
+what am i saying it is Center plus zeros
+which means X 1 is same as Center right
+now how do i how do i compute the dist
+this how do i compute the distance
+suppose if this is my circle if this is
+my point
+see if this is my point x1 how do i
+compute it the distance is nothing but
+dou X 1 minus C if you do X 1 minus C
+what do you get you get this you get
+this and if you take the norm of X 1
+minus C norm - what do you get you get
+the distance between these right just
+simple vector algebra look at this if
+you have vector like this if you have
+vector like this v1 v2 all right if you
+compute v1 minus v2 right and if you
+take v1 minus v2 norm - what do you get
+you get this distance you get this
+distance right
+that's what v1 minus v2 gives you right
+similarly same concept here same concept
+here C is represented by a vector C X 1
+is represented by a by a vector X 1 if
+you want the distance between both of
+them it's very simple take the norm of X
+1 minus C very simple right so what is
+my X 1 here my X 1 is C + zeros which
+means my X 1 here is C so I'm comparing
+the distance of C to itself just a test
+case it should give me 0 right yes it
+gives me 0 on the other hand let me
+create one more so let me create one
+more so imagine if I create my X to
+another point X 2 right how do I create
+my point X 2 I create my point X 2 as
+the center plus all the radius values
+all the radius values that I have Center
+plus the radius value that I have okay
+let me just execute it once does this
+lead to an error because I okay cool so
+or it's let's just okay so that's okay
+Center plus radius let's just change
+this it's okay so if I do this point
+this point is I'm taking the center I'm
+adding radius which means I'm adding so
+if this is my sphere I'm saying add R on
+all the dimensions and then add some
+more value to this obviously if I add R
+if I add R to each of the dimensions
+this point X 1 has to be outside
+obviously it has to be outside right it
+has to be outside I mean by design right
+so now if I do X to minus C look at this
+or at this point I'm calling it X 2
+right so if I do X to minus C and if I
+take the norm of it norm of X 2 minus C
+will give me this distance right norm of
+X 2 minus C will give me this distance
+now if this distance is greater than R
+look at this how do you determine
+whether you're inside or outside my R
+here is 10 okay if the distance is as we
+have just seen a while ago again very
+simple this whatever you learnt in with
+circles same concepts hold here also but
+the dimensions become very large there
+are other problems that we discuss when
+we when you handle high dimensional data
+right you get something called as curse
+of dimensionality and others that we'll
+learn later form of as long as the
+dimensions are not too large this logic
+certainly works well
+now how do you how do you find the
+distance okay this is an interesting
+thing right how do you find the distance
+from a point to a hypersphere suppose
+you are given a hyper sphere with Center
+R and radius search Center C and radius
+R you want to find the distance from
+point X to the shortest distance you
+want to find the shortest distance to
+the surface of the sphere to the surface
+of the sphere so if this distance is d
+how do you find this distance D how do
+you find this distance D again please
+understand that this is in D dimension
+space this is not in 2d okay again I am
+only talking about the dimensional space
+because it's easier to generalize the
+whole objective of learning linear
+algebra is to operate in high
+dimensional spaces and to operate on
+data matrices right so how do you find
+this okay this is a good question
+can anybody help me with this what is
+this distance so I want the shortest
+distance I want the shortest distance
+between a point X and a circle
+represented with C and R okay let's say
+this is how I represent a circle I
+represent the circle with the center and
+radius R if I want this how do i compute
+this can anybody help me with this I'm
+looking at the comment section so if
+somebody can help me with this oh yeah
+very simple I'm glad you guys got it
+like in no time right you just compute
+the distance between so this is very
+simple this is but basically the
+distance between Center and X what is
+the distance between Center and X it is
+nothing but this this is basically this
+distance this is basically this whole
+distance it from this distance we know
+that this distance is radius you
+subtract R from this subtract arc you
+get this remaining distance that's it it
+just it just literally this like one
+line code again this is sometimes used
+in machine learning that's why or or I
+should say in clustering algorithms and
+things like that this is sometimes used
+okay so let me just show you that
+suppose if I take a point like this cool
+so okay I don't have to do this I just
+have to say minus R ok linear algebra
+norm X 2 minus R yeah so this will work
+okay so what do I get this is my
+distance so I'm just creating a point
+here right I'm saying the distance
+between the point to the circle how do I
+get the distance it is basically x2
+minus C or C minus x2 norm - radius done
+problem solved
+again what we're doing right now is just
+a surface touch of linear algebra let me
+tell you other topics in linear algebra
+and how they are extremely powerful okay
+again this list is not exhaustive this
+is just some of the topics okay again
+we'll try to cover these in the future
+sessions in the in the in the next
+sessions there is data matrix operations
+on data matrices like normalization and
+standardization again you can watch some
+of these free videos of our course that
+are readily available so you can just go
+to a plate a course you can just go to
+apply to a course go to view course some
+of these videos are freely available so
+please feel free to check it out look at
+this dimensionality reduction and
+visualization all these videos are
+available you can learn about the basic
+operations you can also learn about
+principle component analysis again we go
+into the mathematical depth with some
+code examples etc there is also a pre
+distributed stochastic neighborhood
+embedding again this you cannot call it
+pure you cannot call it pure linear
+algebra method because it's more based
+on other concepts like it's based on
+optimization etc but we thought since we
+covered PCA we thought we'll cover teach
+me also so TC is not a purely algebraic
+method okay
+while dimensional reduction is a concept
+in linear algebra for sure so some of
+the free videos are available so please
+go check it out if you're interested so
+these are some of the concepts for sure
+right so we'll do a few sessions on
+these topics next then if you look at
+literal linear regression if you pick up
+any major book on linear algebra they
+cover linear regression right again we
+covered linear regression after logistic
+regression and of course you can post
+most of linear regression as again
+linear regression can be studied from
+three fronts there are three ways to
+study linear regression you can read it
+from a pure linear algebraic perspective
+you can read it from a pure probability
+and statistics perspective you can look
+at it from an optimization standpoint
+there are three ways of looking at it
+okay so we focused more on the
+optimization
+looking at it and linear algebra way of
+looking at it we also gave hints about
+probability and statistics way of
+looking at this concept in the course
+winners but we didn't go too deep into
+it okay then you have this whole concept
+called as linear programming again we'll
+do a live session on linear programming
+when we come to optimization methods
+then you have this singular value
+decomposition matrix factorization all
+these concepts are extremely useful in
+the in the in the in the area of
+recommender systems again these these
+are useful in data visualization in data
+visualization if you want to visualize a
+hundred dimensional data how do you
+visualize it right so lot of linear
+algebra techniques like principal
+component analysis dimensionality
+reduction tease me are used in that
+context again those of you who are
+interested in more undergraduate level
+because I believe some of so let's look
+at this so we have done one more course
+let me open this here we have done this
+four gate computer science students okay
+so you can just go to this R so I shared
+this link with you where these videos of
+linear algebra are freely available so
+this is more offer undergraduate level
+not necessarily computer science so
+whether you are a CS student right
+whether you're a CS or any engineering
+student EC mechanical name it any of
+these engineering students who want to
+learn linear algebra from a more
+undergraduate syllabus perspective we
+have a bunch of videos here again I try
+to explain all of this from the
+geometric intuition perspective right
+what whichever videos I do for any
+subject I try to do it from a geometric
+intuition and practical application
+perspective so the videos here are more
+like your undergraduate syllabus so we
+learn about vectors linear
+transformations determinant of a matrix
+why do we need all these right again
+rank of a matrix solving linear system
+of equations decompositions again this
+is done more from a undergraduate
+perspective so if you are interested
+these videos are also freely available
+go please go check it out
+and if you think somebody will benefit
+from that please share it with them
+alright so okay so that's all I had for
+today's session so I hope again let me
+just share this with all of you anyway
+since we are at it anyway I've shared
+this with all of you right so please
+please give me a few minutes after this
+live session I'll share
+with you so any questions related to
+this uh uh yeah so as somebody said you
+should have shared the three blue one
+brown yes so that's a good point I
+forgot to mention that three blue one
+Brown linear algebra is also very good
+I'm happy you mention this right so
+three blue one Brown is a phenomenal
+channel which talks about linear algebra
+videos again all the linear algebra that
+you learn there may not be applied in
+machine learning and AI please don't
+forget that right again we have also
+referred to three blue one brown in
+these videos somebody says you should
+have done it so don't worry even in our
+in our linear algebra videos here we do
+refer to we do refer to multiple
+textbooks we do refer to multiple
+external resources so we try to always
+point the good resources not just our
+own I hope you understand that so
+somebody says please do more live
+sessions more frequently again we are
+trying to do live sessions mostly
+whenever the topic is basic that anybody
+external to the course also can
+understand all right
+so if it requires students to go through
+our videos extensively have done our
+assignments then we are not doing it
+externally because people may not
+benefit from it much right so that's how
+we decide whether a live session should
+be public or private
+cool somebody says what is a good book
+for probability and stats or there's a
+very nice book again there are multiple
+good textbooks for it one of the best
+textbooks that I know of is think stats
+from an applicative perspective I like
+this book a lot because I think this
+book is also publically available yes
+you can it's available to download in
+PDF this is a slightly old book but
+think stats is a very good book because
+they try to teach the concept by using a
+real-world data set so they take data
+for data set from National Institute of
+Health they take an actual data set and
+they try to introduce concepts from the
+practical perspective it's one of the
+best books from a practical standpoint
+there are lot of good theory books but
+for a machine learning you have to know
+how to apply things so think stats is
+one of my favorite books so when will we
+disc discuss SVD we'll discuss it when
+we do life sessions on recommender
+systems do you have do you have to learn
+deep deep in linear algebra for machine
+learning a again
+what is depth that's my question right
+so what do you define is depth I've
+listed all the concepts here right I've
+listed most of the concepts if not all
+the concepts so for machine learning at
+various points you need various concepts
+the concept that I just discussed right
+now are the foundations but you need to
+know a lot of other concepts these are
+all the concepts that you need to know
+if you really want to become a good
+machine learning engineer in linear
+algebra again this is not all that is
+there in linear algebra there are many
+other concepts in linear algebra but
+these are certainly what you need to
+know for machine learning you can think
+of it as a good set of concepts cool how
+do we determine the W vector also you're
+saying okay so that okay good point so
+we determine so okay so let me let me
+try to answer that question briefly so a
+linear regression or logistic regression
+or SVM we try to find a hyperplane that
+separates positive points from negative
+points again those of you who understand
+it can understand it perfectly but we
+try to find this hyperplane if you have
+a hyperplane hyperplane basically has to
+two parameters right W and B so this is
+my W and I have a B corresponding to it
+we try to find this hyperplane by
+solving and mathematical optimization
+problem look at it we have done a few
+live sessions earlier right where we
+talked about maxima and minima right
+again these are concepts that you may
+have learnt in your undergraduate level
+computer science oh sorry are you that
+you by level learned at 11th and 12th
+class mathematics not even undergraduate
+level company science right so
+optimization is basically a simple
+extension to concepts of maxima and
+minima that you learn in your lament and
+fourth class if you recall we have
+actually discussed this in the previous
+life sessions in a numerical again all
+of them are available on YouTube this is
+called numerical programming okay so we
+have done two sessions numerical
+programming 1 & 2 so we've actually
+solved some problems using maxima minima
+the same concepts are used but it but of
+certainly at a next level when you want
+to find the value right so that's how
+it's actually solved in the real world
+so so could you please share similar
+list of topics for probability and stats
+again if you want a good list of topics
+the textbook is certainly a good
+starting point again if you want a list
+of topics you can always go to her
+website you'll find the list of topics
+that we think are very relevant right so
+you can just go to probability and stats
+these are all the concepts that we think
+are very important for somebody who is
+speaking of machine learning and deep
+learning this is good again
+this is just a subset of topics you can
+always go here you'll find a list of
+topics topics is easy again but please
+remember that no topics list is static
+things change right so you have to
+evolve with it again it's almost
+impossible to do depth first as I've
+just mentioned a while ago please don't
+learn depth first please learn breadth
+first learn a little bit of linear
+algebra that you need learn a little bit
+of programming little bit of data
+structures and algorithms that you need
+a little bit of probability and stats
+that you need a little bit of
+optimization that you need a little bit
+of machine learning techniques a little
+bit of clustering techniques a little
+bit of deep learning techniques first
+while after you learn all these basics
+then you can say okay I want to go deep
+into linear algebra or I want to go deep
+into programming or I want to go deep
+into probability and stats this is what
+we recommend because when you learn the
+breadth of concepts you can start
+transitioning to machine learning and
+data science careers there is no limit
+to how much you can learn as I told you
+like I've been reading research papers
+for the last 12 to 13 years and there is
+no end to it it's almost impossible to
+keep track of all the advances even
+let's take a very simple area write
+probability and stats there is so much
+of great innovation that's happening in
+probability and statistics that it's
+impossible for any single person to keep
+track of everything right but I try to
+do my best to go deeper into each topic
+whenever I get some time okay first
+breadth is important then that if you
+try it if you do depth first you will
+never you could be you might become an
+expert in linear algebra or you might
+become an expert in programming but
+you'll never become you'll never have
+the breadth of expertise to become a
+data science or a machine learning like
+okay
+so somebody says how to compute
+eigenvalues and eigenvectors again it's
+simply a simple function in numpy again
+that is something that we thought we'll
+discuss when we learn principal
+component analysis because it requires
+eigenvalues and eigen eigen vectors
+again if you want to know that right
+it's actually just numpy I gun values
+just Google such okay so in Nampa linear
+algebra there is something called a IG
+read up the documentation okay what does
+it want the aga is basically matrices
+for which eigen values and eigen vectors
+will be computed what does it return it
+returns W and V okay it returns eigen
+values it returns normalized eigen
+vectors that's it that is sample there
+is sample code here like it's it took
+like even if you don't remember it it
+takes 30 seconds to figure it out right
+so it's actually fairly easy so somebody
+saying radius should be a vector why
+should it be a vector I thought it
+should be a scalar right so I also got
+confused with that when I was writing
+the notes so imagine if this is my so if
+this is my sphere okay think of a sphere
+right sphere okay again I couldn't draw
+a sphere here fear on x axis on y axis
+and also on the z axis the radius is the
+same right because if I change so let's
+let's take a circle right let's take a
+simple circle the circle right circle is
+2d right this is my x axis and let's say
+this is my Y axis
+let's just say they just say right so my
+radius okay so my radius on the x axis
+is the same as the radius on the y axis
+there are no two different radius so in
+2d space I have only one radius now if
+there are two different radii right if
+this is different from this what do I
+get what I get is not a circle what I
+get is an ellipse think about it right
+so imagine okay let me change the
+diagram here imagine if I have this
+right if this is different from this
+what I get here is actually an ellipse
+and not a sphere so for a sphere the
+radius should be the same actually I
+think I had messed up because I was also
+thinking of hyper spheres in my head
+hyper spheres have a different way of
+doing it and we don't use hypersphere as
+much in machine learning that's why I
+did not cover it
+sorry hyper ellipsis sorry these are
+hyper ellipsis not spheres alright even
+even hyper spheres the very few times
+used I mean I mean I I don't use them
+regularly to be honest with you I don't
+use techniques which use hyper spheres
+regularly but there are one or two odd
+data mining techniques which use it
+that's why I thought I'll cover it again
+what optics are required as I just
+mentioned all these topics are required
+for sure for top product based companies
+no doubt hands down so please mention
+the topic which you should be ready with
+matrix algebra to get matrix
+factorization concept again don't worry
+about it matrix factorization is just
+about matrix matrix multiplications if
+you know how to multiply two matrices
+you have the basic knowledge for matrix
+factorization right again matrix
+factorization and nmf are solved using
+optimization techniques cool
+I think so Klee I just mentioned this
+right I think this is a good starting
+point again most of the questions that I
+remember from the interviews are mostly
+revolve around these of course there are
+real-world problems ask to you and
+people ask you okay how do you solve how
+do you do how do you do so and so how do
+you do matrix factorization when the
+data has this problem right or where how
+do you do how do you do let's assume for
+example take linear regression right
+linear regression can be understood from
+a linear algebraic perspective what if
+your data has outliers what happens to
+your linear regression based model right
+or how does singular value decomposition
+or PCA behave if there are if there is
+noise in your data how does it work
+right these are actual questions that I
+have asked in interviews right if you
+take non-negative matrix factorization
+what happens to non-negative how do you
+do non-negative matrix factorization
+when the data is very large again people
+may not ask you just the mathematics
+people ask you again to answer some of
+these questions for example what happens
+to outliers to answer this question you
+have to know the mathematics and you
+to be able to apply the mathematics in
+the context of the route players right
+how does the nmf work if if there is
+large amount of data to understand this
+you have to know the Nm of mathematics
+internally so lot of questions are not
+like okay explain me the optimization
+problem for nmf that's a joke right or
+the more the more real product based
+company equations are okay in nmf why do
+we have regularization again
+regularization is another concept which
+we learn in optimization which also
+sometimes covered in the inner linear
+algebra courses right so again lot of
+things that are there in machine
+learning can be seen from a linear
+algebraic lines oh this Cinderella man I
+know this guy okay so you're asking
+about beginner projects to become good
+in Python right so that's very simple
+I've mentioned this multiple times right
+pick up I mean just instead of doing
+full projects right code I think I
+mentioned this in the previous sessions
+also right there are these one not one
+practice sessions one not one practice
+questions in pipe I think I mentioned
+this okay I mean just google search
+practice questions and numpy practice
+questions in pandas instead of doing
+full frigate projects try to get the
+breadth of experience first then you can
+do project right because the projects
+that you can do with basic Python are
+fairly limited okay there is one live
+session that we have done that could
+help you if you want to do projects
+right so let me show you let me just go
+I'm just thinking I've played a course
+web api okay so ah so here is a live
+session that we have done using web ApS
+in Python for machine learning again you
+can use a lot of web api s-- and build
+some simple machine learning solutions
+so this live session again this is
+publically available on youtube you can
+go check it out again you can use web
+apis from google as you're all these
+guys and again all you need is basic so
+Google is your right they give you a lot
+of nice machine learning functionality
+with just an API con so if you want to
+become better at Python also you should
+practice problems without doubt but if
+you want to do a simple project you can
+use this Web APIs and build a simple
+thing you can build a simple face
+recognition system right you can do a
+simple
+to text or do a simple chat bot again we
+have a live session on how to build a
+chat bot also I think it's also on
+YouTube we have done it more than a year
+ago right so there are some of these
+live sessions that are publicly
+available that you can check it out
+again if you want to check out all of
+our live sessions in one place we have
+put it in one place we just did that
+recently because it's hard to maintain
+everything so if you just go to live
+sessions link here so all of our public
+live sessions there are all these public
+live sessions all of our public live
+sessions are accessible here right so
+you can just go here so how to build
+this high-level design right so Web API
+is how to build a simple YouTube
+recommendation using basic mathematics
+the live sessions that we have done
+recently right there are some live
+sessions earlier so my suggestion here
+is there are a bunch of live sessions
+that are publically available from which
+you can build a simple project if you
+choose to or how to search for a
+research paper that's a very good
+question
+so the way I do it is this so I think
+many people don't know this go to
+scholar.google.com scholar.google.com
+Google Scholar is the best tool that I
+know of for research right so again this
+only gives you research papers for
+example if I want a research paper on
+birth okay I just search but okay so I
+can I can filter it
+okay so birth okay it's giving me
+multiple paper so if I say from 2016 it
+gives me all the papers again this gives
+from the whole of science not
+necessarily deep learning machine
+learning etcetera so deep learning okay
+so so this is whole of science but deep
+learning from 2016 I get a bunch of
+papers but why am I getting a large
+batch optimization birth transformer
+I think the keywords are messed up okay
+so yes this is the paper again whenever
+you are picking a paper to read it's
+very important that you pick papers with
+lot of citations the citations tell how
+important this work is remember this
+paper was published in 2018 and this
+already has four thousand five hundred
+thirty one public citations what is the
+citation I write a research paper and I
+refer to this research paper I say okay
+but which is
+which is discussed in this paper so if I
+cite this paper I get a citation so
+there are 4531
+other research papers that refer to this
+research paper that's how important this
+research paper is right so you should
+always look at citations if there are
+not enough citations maybe it's not such
+an important paper to be honest with you
+again citations can also be biased there
+is some problem with citations but if I
+want papers from 2019 let's look at them
+okay I can also sort by date sort by
+relevance there are multiple sort
+options right so my suggestion always is
+to use Google Scholar again you need not
+always use Google Scholar if you just go
+to Google and search this it also says
+look at this it also says this at the
+top it says scholarly articles of birth
+transformer it tells this also right and
+it says okay this is the top paper it is
+cited by four thousand five hundred
+thirty one so I I what I do is I
+directly search on Google I get some
+papers here if this has high citations I
+go to Google Scholar and search okay
+otherwise you don't get blogs and all
+that in Google Scholar so right so the
+second place is there are tons of nice
+blogs on but so whenever you are reading
+a complex research paper if there are
+other blogs which explain the research
+paper I recommend that you first read
+these blogs because reading a research
+paper is written for other researchers
+to understand and if you are already not
+at the research level probably it's best
+to read others blogs because you can
+easily understand this this is written
+for more students not at cutting-edge
+researchers once you understand the
+basics then you can read the research
+paper because research papers are
+actually written for researchers very
+often so don't try to understand the
+research paper in the first co-vary
+again if you have spent years together
+doing it you will understand it but
+otherwise when I was a student reading
+my first research papers I would read
+blogs if somebody has written them
+that's the best that's a good starting
+point and then go and read the research
+paper it at the end that's what I would
+recommend cool okay folks sounds very
+good thank you very much and what we'll
+do is I'll post this I'll post this post
+this ipython
+post this collab notebook in the comment
+section and I also post it in now
+I'll also post it in in in the
+description section of the video ok
+thank you very much for joining in see
+you again bye bye

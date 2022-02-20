@@ -1,0 +1,512 @@
+hey folks uh I think I'm life so let's
+let me just check if the audio and
+everything is working properly or not
+just give me a sec I'll be back so let's
+let me just check him properly or not
+yeah
+the life seems to be good no hiccups
+with audio everything seems to be
+working well so let's get started I
+think yeah I'm little early by a minute
+or so I'll wait for others to join in
+and we have a massive stream of
+questions that came in since we put out
+the video yesterday I think we have over
+100 comments I'll try to answer as many
+as possible so let's say let's just wait
+for everyone to join them just give us a
+few minutes hey folks our thank you to
+those folks who are joining in right now
+also on also on the chat so yeah let
+just give us a couple of minutes so that
+everyone who is willing who is wishing
+to join or who's planning to join could
+join in so we'll wait for a couple of
+minutes before we kick off good morning
+folks thank you for joining on a Sunday
+morning thanks a lot for some of you
+this may be a long weekend of sorts so
+yeah so let's do one thing folks uh what
+we'll get started with is in the video
+that we pushed out yesterday there are
+there are a flood of comments out there
+there are over 100 comments many of them
+have multiple uploads and stuff like
+that so we'll split our time the 90
+minutes that we have we'll split it
+between the comments especially the top
+voted questions in the video that I
+posted yesterday and the live session so
+we'll try and we'll try and balance
+between both so that we do justice to
+both sides of people people who put in
+the questions in the comment section
+yesterday and people who are putting in
+the questions in the live chat right
+I'll try and balance between both okay
+so while others join in let's wait till
+1003 it's 10:01 in in Standard Time so I
+know some of you are joining from from
+US and Europe sorry I understand it's a
+late night session thank you for joining
+in we had to cater to the lot we had
+take a majority vote and since the
+largest number of audience are in India
+we had to pick a time that is convenient
+to them sorry for that so let's get
+going okay so what I'll do here is I'll
+try and so first I'll go to the comment
+section in the video that I that we
+posted yesterday because there are a lot
+of very interesting comments with lots
+of up words there the reason we put out
+that video is because we can get a sense
+of what questions most people want us to
+answer so I'll try to start answering
+there and in between I'll swap and I'll
+come to the live chat itself right and
+please understand that it's almost
+impossible for us to answer every
+question right we have hundreds of
+students who have joined in it's almost
+impossible for us to answer hundreds or
+even thousands of questions in a
+90-minute session so we'll try and do
+our best and that's the reason we wanted
+you to talk food in the video that we
+posted yesterday okay so it's 10:02 but
+let's let's get started I have the
+questions here okay so this is the video
+that we posted yesterday let me just
+refresh it to see if there is any
+comment that is missing okay so we have
+one not one come in so I think yeah so
+let me go one by one okay so I'm simply
+sorting it by swatting it by top
+comments as YouTube finds it the top
+comment and I'm going to go down that
+list okay the first question here I
+think this is by Rahman and it says are
+there lots of upwards they're like 26 up
+votes for that question so it has two
+parts so I'll go one by one okay I think
+if I'm not wrong Rahman is an
+experienced professional he has two
+parts in the question the first question
+is after completing the course how
+should I prepare for the interview so
+ramen the most important thing is you
+don't prepare for interviews after you
+finish the course you prepare for
+interviews while doing the course and
+the structure we have at applied a
+course right now as you might already be
+aware of but let me just clarify it is
+the moment you finished 15 assignments
+you will have one mock interview this
+mock interview is by one of your
+teammates or one of our advisers and
+this would consists of 50% programming
+basic data analysis etc 50% machine
+learning and deep learning and other
+stuff the tips that you have already
+finished in assignments so this will get
+a give us give you a flavor of what
+types of interviews
+we'll be there because you could have
+two types of interviews broadly one
+based on programming the other based on
+machine learning and deep learning so
+this will give you first flavor of how
+interviews would be this would also give
+us a sense of where you stand okay based
+on that we can we can hand hold you and
+give you pointers on how to improve and
+things like that that's the first
+interview the second interview typically
+happens after the 24th assignment
+around the 24th assignment and that's
+going to be much more deeper typically
+one one on our farms of interview and
+that interview will be much more focused
+on machine learning deep learning
+internals and these are interviews that
+we conduct either buys by a member of a
+team or by one of our advisors we're a
+top-notch companies right so we do this
+to interviews and through these
+interviews we'll give you constructive
+feedback on where you stand what you're
+lacking where you need to improve and
+all that stuff so you know additionally
+we have a dedicated full-time team that
+is responsible to help our students get
+placed so they will give you interview
+tips they'll tell you what are
+additional material that you need to
+prepare based on where you're lacking
+for example I'll give an example
+we've done some mock interviews recently
+when we found that some students are
+just copying and pasting code without
+understanding what's happening
+internally okay to complete assignments
+so I believe one of these interviews was
+done by me and we asked them simply what
+is precision and recall a very simple
+question I asked them explain what
+precision recall in what what precision
+is what recall is and what are they what
+do they physically mean and what are
+they mathematically a gentleman couldn't
+answer this question and we immediately
+told him dude you just can't copy paste
+code from somewhere without
+understanding what's happening
+internally then you are just a coding
+monkey okay you would you it's very very
+hard for you to get a job even if you
+get a machine learning job you would not
+get a good job so we gave him
+constructive feedback and said please go
+back and learn concepts conceptually
+the whole objective of assignments is
+not to copy/paste code from somewhere
+the whole objective of assignments is to
+help you build the foundation strongly
+and because assignments is an important
+criteria doesn't mean that you not
+understand what position and recall is
+right so we give we gave that person
+constructive feedback and told him
+please prepare the math part also
+because people will ask these questions
+right in the real interviews people
+would ask these questions and I'm not
+asking a very high
+I think this is something that we've
+covered extensively in the course what
+precision is what we call is and how
+they work where should where should you
+use precision recall where you should be
+used a UC and all of that stuff right
+it's a very foundational stuff
+the gentleman thankfully took that
+feedback went back provides his notes
+came back well-prepared and he started
+improving okay so we give a lot of this
+constructive feedback to all of our
+students through the process number one
+number two is while you're back sit sit
+from the time you finish your 15th
+assignment we have a dedicated team
+which is going to help you mentor you we
+also have started these assessment tests
+which are mostly self assessment tests
+so that you understand where you stand
+okay so we have tried again it's it's
+very hard to simulate while we do two to
+mock interviews we want to do more of
+them so that you get a flavor of how
+things work out right so on that front
+we have also started these assessment
+tests that we start giving to students
+will finished 15 plus assignments these
+are only for self assessment okay this
+is help you understand where you are
+lacking what topics you need to the wise
+and all of them so your preparation
+actually starts halfway through the
+course and not even that even at the end
+of every chapter we have a bunch of
+revision questions if you're if you're
+comfortable with these revision
+questions and interview questions you
+are preparing for the interview so I
+would argue that you are actually
+preparing for the interview from day one
+right because at the end of him
+you
+hey folks are just wanted to know if
+everything is alright
+just give me a sec just give me a sec
+folks just give me a sec I think I'm
+back one second just lifting my right
+hand to ensure that - just give me a sec
+folks just give me a sec I think I'm
+back okay
+sorry folks are ya summer power cuts so
+before before the inverter kicked in I
+think there was a small delay if there
+is any power cut I will be back within
+two to three minutes I'm sorry for that
+yeah sorry for that because yeah before
+the inverter kicks in I think there is a
+small delay excuse me so I extremely
+sorry for this but anyway let's let's
+get going since we are back okay so yeah
+somebody's asking on the life that will
+you help us prepare our resumes also yes
+we do help you so that's why we have a
+full full time team whose sole
+responsibility is to help you get placed
+right that's why we have the full fledge
+team and it's not just it's not just us
+what part of the core team were just
+doing it right so again on the
+placements front we have a co-founder
+full-time working just to help students
+get placed okay so your interviews
+preparation actually starts from day one
+having said that the second part of the
+question is you have a notice so the
+question says as my notice field is
+ninety days most of the recruiters are
+not ready for such a long time any
+solution on this this all boils down to
+negotiation I've done tons of
+negotiations like this when I was hiring
+for Amazon and stuff like that so
+typically it boils down to two things
+how desperate is the company that is
+hiring you for you okay there two
+possibilities here one if they're not
+very desperate if they will willing to
+wait you can negotiate the 90 days and
+you can say I am willing to join I'm
+even willing to put in the papers at my
+current company you just got to be
+patient or if you want me to join
+immediately the better way is most
+companies agree for a payback which
+means imagine you have a 90 days notice
+period okay
+company a and if you're moving to
+Company B Company B sometimes if they're
+very desperate and they want you to join
+immediately they're willing to pay maybe
+60 days worth of compensation back to
+company a right so that company I could
+relieve you within 30 days and you can
+join them it is something that you need
+to negotiate with a charge at your
+current company a and the next company
+be it all boils down to negotiation
+trust me okay there is no hack that I
+can tell you and I've seen cases I have
+hired people where they had 60 days or
+45 days notice period and we wanted them
+to join within 15 days then we would
+simply offer them that okay we are
+willing to pay your compensation to
+Company A where you are currently
+working for this 30 days or 45 days and
+sometimes that works out because again
+it all depends on the exact
+circumstances right you got to negotiate
+there is no shortcut there is there is
+no fancy formula that I can tell you
+here unfortunately this is all about
+human relations and and negotiations
+right but I believe I understand that if
+companies have 90 days notice period
+they also understand see if you are
+applying from company to company B be
+something that you can negotiate you
+just got to be patient
+instead of outright not saying I can't
+do this say I'll try and work with the
+HR at company a try to work out with
+them sit with them explain your case
+okay you got to be good to these people
+you don't want to be harsh or you don't
+want to be rude just be good be kind and
+inform them your situation most likely
+one of these two parties will budge
+either the HR ed complain or HR at
+Company B or your hiring manager or your
+manager at company a and Company B they
+will work it out and you can I mean I've
+seen a lot of situations like this and
+they can be made to work up because I've
+been in one of the negotiation positions
+there okay so that's that's what I would
+recommend in this case so just a sec
+okay so this is question one the next
+question here so let me just look at the
+live chat also here yeah there are some
+questions about roles and
+responsibilities of data science team
+etc will come there okay we'll come down
+okay
+so folks yeah we'll try and answer as
+many questions as possible as I told you
+it's almost impossible to answer
+everything to be honest and fair with
+you let's go to the comment section in
+the V
+that people said yesterday the more the
+second most popular in the ranking
+scheme in his what is the scenario of
+machine learning jobs for freshers in
+india what can they expect and what can
+they do in order to get into those roles
+very good question actually
+again there is also repeated question of
+very similar types where people have
+been asking that are there enough roles
+for pressure freshers with or even for
+experienced folks with no prior
+background in machine learning and data
+signs so the whole logic here is in the
+marketplace itself while companies see
+companies would always want people who
+are a would prefer imagine if you have
+two candidates candidate a and candidate
+B let's assume both of them have the
+same skillset both of them are roughly
+very similar in terms of it in terms of
+their skills if person a has two to
+three years experience in data science
+versus person B who has zero years
+experience in data science either as a
+fresher or he'll experience ends well
+they would certainly prefer candidate a
+right because he has prior experience in
+data science and machine learning that's
+obvious again here the condition is both
+person a and person B have the same
+skill sets on the other hand if your
+person B who has more skill sets and who
+can showcase his or her skills better
+through the portfolio of projects that
+you have done and through the through
+the strength of the code bases that you
+have written or through the through the
+blog's that you've written or through
+the videos you have written and stuff
+like that right to the videos you have
+made and all of that stuff if you can
+build a stronger portfolio let's take
+two cases right case a is a person with
+two to three years prior experience case
+B is a person with zero years data
+science machine learning experience or
+overall zero years experience but if
+person B is more skilled than person a
+and if person we can showcase that and
+the best way to showcase is to work on
+three to five projects take real-world
+problems solve them end to end so please
+don't take shortcuts please don't just
+solve the kaggle competition problem
+okay well that is that is the basic
+thing solving problems end to end is
+more important okay there are a lot of
+people that I have seen who can only
+build some model on top of data and give
+you the output that's not sufficient for
+a good data scientist or machine
+learning engineer the end to end stuff
+is required what does end-to-end mean
+and - it means you start with the
+business problem not the machine
+learning problem you start with what is
+the
+this problem that the business wants me
+to solve look at what are the metrics
+that the business cares about okay also
+find out what types of models are what
+types of metrics should you optimize for
+right then build do all of your basic
+data analysis building of your models
+and don't leave as soon as you build a
+model then work on how to próxima is
+these models how to maintain these
+models in production how to update these
+models in production right right some
+production code so the best way to
+showcase your end-to-end skills is to
+write a block okay and the block should
+contain everything you start with what
+is the business problem who is the
+customer here and what is the value
+proposition that you are creating okay
+and what are the metrics that the
+business owners care about okay and how
+what is it you're optimizing for in your
+machine learning model and how does your
+machine learning model optimize for what
+the business cares about and then go
+ahead and do all the data analysis all
+the modeling everything which is just
+one part of the bigger equation lot of
+people think just building our fancy
+model is all I have to do no sorry
+that's only one component of the whole
+data science lifecycle and that's what
+we focus on at Apple idea course we have
+done lots of tons of live sessions tons
+of recorded videos and Prussian ization
+of models how to deploy models in
+production how to update models in
+production all of those things they are
+very very important because that's what
+you would do in the real world right
+that's what that that's part of part and
+parcel of your day-to-day life right so
+my suggestion is if your refresher you
+got to showcase your skills better than
+somebody who is experienced then you
+certainly have operate and of course you
+got to work on harder problems for
+example let me also give you this right
+and the three to five problems that you
+solve try and pick various domains don't
+solve all the problems in the same
+domain don't solve all computer vision
+problems don't solve all NLP problems
+pick one problem from computer vision
+one problem from NLP one problem from
+from speech or audio write one problem
+from traditional data right traditional
+Tek tabular data okay one problem which
+is which is more data analysis heavy
+lots of analysis not so much of model
+building right so by having a portfolio
+which is very broad right your you you
+will have and of course the harder the
+problems you pick the more exposure you
+can show okay the more versatility the
+more
+of experience you can show and of course
+look at if I get two candidates like as
+a hiring manager myself and even at
+apply daily quotes we have had people
+who are freshers who have shown that
+skill more than experienced people who
+cannot show that skill to me okay so a
+lot of hiring managers have that if you
+can show skills your chances are as good
+actually even better than experienced
+professionals right so it all boils down
+to how much you can showcase your skills
+the strength of your portfolio of
+projects how well you have done your
+portfolio of projects that's why they
+deploy Deckard's we give so much
+importance to assignments because
+through your assignments you learn to
+solve these real-world problems end to
+end right and we even have two case
+studies that we help you with minimum
+two case studies and preferably more if
+you are willing to put in the effort we
+are willing to help you through the
+journey right and these portfolios will
+help you get significantly more exposure
+and also more visibility and more
+importantly an ability to showcase your
+skills put in your code put in your
+blog's
+you

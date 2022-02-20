@@ -1,0 +1,2271 @@
+hey friends very good morning I'm a few
+minutes early just to ensure and check
+if everything is working all right if
+you have any issues do let me know on
+the on the chat window they just see how
+everything is working yeah I can hear
+myself yeah I can hear myself and I
+don't see any hiccups I can see my own
+light stream on your too so yeah if
+anybody has any issues do let me know
+and we'll start the session at 10:05
+sharp so that other people also can get
+some a few minutes of time to join in
+hey I'm doing good thanks for asking us
+it there thank you yeah I'm doing good
+and let's get started yeah I'll keep the
+I'll keep the chat window let's chat for
+a while hey good morning everyone thanks
+for joining in and yeah so as I was just
+mentioning we'll start in about 8 to 10
+minutes in the meantime if you have
+questions I could answer them let's let
+everybody join in I typically tend to
+join at least four or five minutes early
+to see if there are any problems with
+the audio or video streaming so yeah so
+somebody says I'm working on our TA
+project where and we automate mundane
+business processes using Python and
+selenium I'm keen on using text
+classification combined with selenium
+that's a very good task actually I do
+cover that as one of the case studies or
+one of the projects that people who know
+selenium who are in the automation world
+or who are in the automated testing
+world can certainly work on selenium is
+an extremely powerful tool that I have
+personally used while I was at Amazon
+again with other tools again it was
+mostly engineers in my team who who are
+leveraging it but it's a super-duper
+powerful tool makes a lot of sense
+solution so if you are working on our
+peer problems doing text classification
+again for text classification don't use
+selenium a which is which you can use
+both in java and python
+I recommend you use the Python version
+of selenium primarily because because of
+the fundamental reason that Python has
+better machine learning and deep
+learning and text classification
+libraries than Java itself so if you
+don't know you can write selenium code
+in Python also just almost as well as
+you can write it in Java so try to use
+Python there and that will that'd share
+will be surely be helpful so how is
+real-time sentiment analysis on
+e-commerce website so what sentiment are
+you analyzing so what sentiment own
+e-commerce website are you analyzing so
+then that's very important for example
+if you go to Amazon yeah it's also there
+on Amazon India so whenever you are
+looking at any product I think this is
+something that they launched in the last
+one year or so it's very useful they go
+through all the comments of the
+customers and they summarize that on the
+left side okay let me show you this let
+me show you that's ok let me just share
+my screen ok so let's take an example I
+hope everybody can okay why is it not
+going to order let's just go to
+amazon.com ok so they just go here pick
+up any product ok so let's take this
+product for example okay which is Amazon
+Alexa so if you go here look at this
+part I hope everybody can see my screen
+right look at this part it talks about
+by feature so it look it looks at all of
+the customer reviews groups the customer
+reviews by feature if you look at this
+section ok let me take by I'm pen and
+right on top of this right so for
+example if you look at this part right
+this is a very very interesting part for
+work that if you want to do on Amazon or
+any e-commerce website so nobody wants
+to read this there are 1691 comments
+nobody has time to go through all of
+them so if you can somehow read all of
+these comments and if you can summarize
+it by feature like LXi integration voice
+recognition remote control volume
+control if you can summarize all of this
+that's a that's a great feature because
+this improves the customers ability to
+understand what is there in these
+thousands of reviews right so this is
+certainly one interesting project
+pursue if you bring some sentiment
+analysis if you bring some sentiment
+analysis work on hamsun I think somebody
+was asking this question right so that's
+an interesting project that you could
+work on right okay let's see so okay so
+somebody is asking about bird again we
+are doing these live sessions regularly
+we did weighted encoder and decoder
+models the last week next week we'll be
+doing next week we will be doing these
+attention models and the week after that
+we'll do your transformer models and
+then but for each of them we do explain
+for all of our course registered
+students wear anyway covering his
+advanced topics up to birth as
+extensions to what we have already
+covered in our course videos so that's
+something that we're anyway doing enough
+okay so somebody says he can't he can't
+crack coding interviews of competitive
+coding and he wants to get it to Google
+brain please forget it
+you will never so if you really want to
+get into forget about Google bring
+Google brainy is one of the most
+advanced projects at Google even if you
+want to become a software engineer at
+Google you have to crack google's
+software engineering or google's
+competitive programming or competitive
+coding around the bar for Google brain
+is much much higher so in addition to
+your coding skills especially vehicle
+design student they look at how deep and
+how broad is your knowledge in machine
+learning deep learning advanced areas so
+if you can't crack Google's simple
+coding rounds forget about Google brain
+it's it's out of question it's like
+saying I want to know I want to do a PhD
+without doing without passing my BTech
+okay this is what you're asking is
+analogous to this okay Suns good
+manufacturing IT projects I am unable to
+get some datasets Naveen I'll talk about
+some of these problems in the life
+in the live session today and also tell
+you about some interesting I look at
+manufacturing problems themselves there
+are some interesting data sets from
+mercedes-benz from Bosch some of the
+largest companies in manufacturing and
+industrial engineering so I'll give you
+the pointers by the end of this live
+session you'll get some pointers on that
+topic also so ok somebody's talking
+about networks right so again I have not
+made notes for networks themselves but
+I've seen a couple of very interesting
+projects which have worked on on if
+you're a network engineer right so a
+couple of things again you can google
+search for this the network engineers at
+Google's data centers have come up with
+ways on using machine learning and deep
+learning to save on the cooling costs
+right because imagine imagine if you
+have a huge data center the costs to
+just run the data center humongous so
+there is a lot of research work and also
+published work that you can go and look
+up on which network engineers do
+obviously another very major thing that
+networking units do is information is
+network security broadly speaking and
+there are a ton of startups there just
+Google search for network security ok
+let me do it for you it should be
+straightforward and I'm sure we can
+easily find these so network security
+and deep learning just like cattle
+you'll get datasets also fairly easily
+ok so there is actually a whole area
+called network security on cattle with
+with ok so this is not much of a data
+set here a metaphor
+look at this there is there is this
+github project which is machine learning
+for cyber security right wins with
+papers books data sets all of this stuff
+courses tutorials all of this stuff so
+for most of the projects they're only a
+Google search away again I am NOT a
+domain expert in many of these topics so
+for example look at this ok email 2016
+cybersecurity attack defender ok so this
+is also interesting ok this is a
+university course project good you get
+data set on Kangol very
+easily now you want to determine if
+there is a cybersecurity attack as a
+network engineer that's something that
+is certainly exciting right again
+I'm okay there is also malicious intent
+detection problem on cable
+oh I forgot completely Microsoft malware
+prediction this is one of the case
+studies in our course actually so we
+have a course case study called malware
+prediction malware prediction which
+which with data using Microsoft's open
+source data that's like terrific data
+right so if you're a network engineer or
+if you're into cybersecurity or network
+security there are tons of projects of
+that type it's just like Google search
+of it again
+I have no Dominick's but I've never
+worked on network security of cyber
+security but finding good relevant data
+sets and projects should not be very
+hard and should it be very hard to solve
+these problems also if your core
+competence in machine learning and data
+science are strong right so ok I'll
+cover a couple of projects for
+mechanical engineers also I'll solve it
+I made note of that I've looked at the
+comment section in a renouncement video
+I have made some notes for mechanical
+engineers also because I have a little
+experience because I was mentoring a
+start-up which works on condition based
+monitoring and predictive analytics so I
+can I can shed some light on that
+problem right I will cover banking and
+banking and financial services also as
+part of the course as part of the
+examples right medicine I will cover
+that I will give you some datasets and
+problems also please don't worry these
+are topics that have already made notes
+for let's get started anyway since we
+are anyway a tricked it's already 10:05
+so let's get started
+let me just share the screen again this
+is a bunch of notes that I've written
+and share this notes at the end of the
+discussion you don't have to take notes
+from this I will share this whole PDF
+file to you with all the links with all
+the material I will share it to you at
+the end of the discussion I'll post it
+in the comment section itself right so
+don't worry about it
+please don't worry about taking notes
+I'm just checking if everything is all
+right ok so ok let's get started first
+let me do one thing since many of your
+questions have
+laughs let me try and cover what I have
+written as my notes and at the end of it
+I'll take breaks in between
+I'll also entertain questions from you
+and at the end of it if I could not
+cover any some concepts and try to cover
+them right so okay so I again please you
+don't have to write notes from this
+because I shared this whole document
+with you okay sounds good let's get
+started then let me use a reasonable
+color okay so these are machine learning
+projects primarily for Career Transition
+the reason we are doing this life is
+with real life I think three or four
+weeks back wherein we discussed about
+how important portfolio projects are for
+career transition to machine learning
+roles we discuss that in detail then we
+start getting lot of emails and
+questions from students saying can you
+give us some idea on what types of
+projects we should be doing with some
+examples people want an example so I
+thought let me cover a few examples and
+show you how some of these projects can
+be again these are just a small subset
+of examples right I of course it's
+impossible in a 1 R or in a 1 in a 60 to
+75 minute live session it's impossible
+to cover everything right so I'll try to
+do the best that I can
+ok so let's go here so what's the agenda
+for the rest of the discussion I'll take
+each roll and cover a few relevant
+projects for each roll while discussing
+each of these rules I'll also make I
+also tell you some general guidelines ok
+which are which are independent of the
+role right we'll start from fresh shirts
+will go to software testers will go to
+software engineers will do web web
+development engineers app developers
+mechanical engineers all of those roles
+will try to cover ok so but let's go
+slowly one by one we'll take each of
+these roles but a very important
+disclaimer that I want to make it very
+clear before we start is I am NOT an
+expert in all the domains I am able to
+discuss I have lot of a lot of lot of
+exposure and experience in e-commerce so
+I have lot of experience in e-commerce I
+have not have had experience in online
+advertising so these are domains I also
+have some experience in search in
+computer vision tasks in speech
+processing etcetera but I am NOT an
+expert in all the domains that I'm about
+to discuss so
+I'm sure some of you are more
+knowledgeable than I am because imagine
+if you work for five years in banking
+and financial services you would know
+far more than I would know able to
+Lomond right so whatever I am giving
+here is within the limited exposure and
+experience that I have or I have read
+about in domains that I'm not an expert
+in so let me make that very very clear
+very importantly as we mentioned even in
+the previous life session that we
+conducted publicly please leverage your
+experience and expertise to pick up the
+most relevant project the most imagine
+if your two engineers working in the
+same domain let's say both of you are
+working in banking and financial
+services right both of you could be
+working on a completely different
+projects one of you may be an expert in
+let's say insurance or the other person
+may be an expert in let's say
+traditional lending right or loans right
+so you should try and pick up a project
+by leveraging your expertise domain
+expertise in banking and financial
+services pick up big projects based on
+your expertise not just based on what I
+am Telling You here because I will give
+you general guidelines with some
+examples obviously thrown in right but
+somebody who has worked for five years
+or even ten years in backing in five or
+even two years in banking and financial
+services will shortly be more
+knowledgeable than I am right in that
+domain because I've never worked on it
+okay so let's go let's start with
+freshers I will get started so that
+again there are some general guidelines
+here that we'll go to I'll also list
+some projects most important guideline
+for everyone not necessarily for
+freshers even for experienced folks
+please do not do generic or
+run-of-the-mill projects I see lot of
+people doing it like we have some
+students who do not listen to our advice
+we just pick up a project of their own
+and they do it because it's easy to do
+it nobody will carry you nobody will
+care about your project when you go to
+the interview pick up a project which is
+exciting and interesting which the
+interviewer when you at the end of the
+day you want to transition to a
+machine-learning role pick up a project
+that your interviewer will care about
+okay please do not true please do not do
+in generic run-of-the-mill projects
+please don't do them they're useless you
+might as well not be them itself
+for example I see people doing some
+simple email spam detection some simple
+intrusion detection zon some like
+literally taught intersects at very very
+simple data sets they are useless you
+might as well not do them at all again
+this is a general guidance not just to
+freshers but anyone please do not do
+run-of-the-mill generic projects like
+spam detection intrusion okay
+always try and pick up an exciting and
+innovative project okay you should
+convince again
+as important as solving the machine
+learning components themselves equally
+important is picking up an exciting and
+innovative project when you go to the
+interview you want the interviewer to
+look at your project and say hey I want
+to learn more about this okay if a
+project is something like very very
+generic that he has seen hundreds of
+resumes in he would not even care about
+asking them so all the effort you put in
+your projects is useless then so always
+ask yourself is this an exciting and
+innovative project so let me give you
+some couple of examples again these
+examples right now are for freshers I
+will cover examples for experienced
+folks with software engineering
+background with various backgrounds but
+let's start with freshers by freshers I
+mean people who are in their third year
+40lb deck or first year and second year
+m deck right or people who are currently
+pursuing their PhD right or even
+similarly if you are if you are a pre
+final or a final year student either
+even pursuing mca or a missing computer
+science any of those areas right if you
+are a final year student or a pre final
+year student either of your BTech M Tech
+MC it doesn't matter okay so I pick up
+some projects in the space that freshers
+or students and come down for example
+look at it if you are at a university or
+a college can you automate your
+attendance system this is a system that
+you can build deploy within your college
+or in your classroom imagine imagine
+it's a very simple system this the first
+project right as a student this is a
+very good project for example imagine I
+have an Android phone I can even buy a
+decent Android phone for a thousand
+rupees today during one of these
+festival season sales build a simple
+Android app place this camera at the
+entrance of your classroom and whenever
+somebody passes
+it detects them and says gives automatic
+attendance this is a very simple system
+that colleges would love to help you on
+building the cost of it is also very
+small in just a five thousand rupee
+smartphone you might actually have a
+used smartphone at home but your parents
+or siblings or your family has used and
+they're no more using it simple Android
+smartphone you can build an automated
+attendant system imagine if you're a
+fresher and you come to an interview and
+say I have built this automated
+attendance system with an accuracy of 99
+percent which we have deployed in my
+classroom or in my department I would
+say wow that's very ingenious
+application and then I'll talk about
+okay how did you do your app development
+I'll talk about what sort of libraries
+did you use how did you do face
+recognition how much data set you needed
+this is a very interesting project and
+this is not some rocket science right
+this is something that any decent BTech
+student who knows about deep learning
+and combination neural networks who can
+write again most of our core students
+can easily solve this problem okay so
+this is a very simple it's very
+innovative as soon as you go to an
+interview or interviewer will say Bob
+you've actually deployed this system the
+first question if somebody comes to me
+and says this I'd say hey have you
+actually deployed the system right
+that's super duper useful for me right
+so that's one type of application again
+always pick exciting and innovative
+projects the second project that I
+always felt was again some professors in
+some universities let you record the
+audio of the lectures okay I use a lot
+of my friends used to do it instead of
+science and if you have a great lecturer
+or a great faculty member who's audio
+lectures you can record again if your
+university professor says please do not
+record them you can always get order of
+lectures from publicly available
+lectures if you go to MIT OCW I make the
+OpenCourseWare there are thousands of
+lectures by some of the world's best
+faculty just take the audio in this and
+make the audio searchable for example
+imagine imagine there is a there is some
+there is some there are lectures from
+operating system subject right and you
+should give a you should give a search
+query called semaphores and this
+semaphore should be searchable in the
+audio of the lake
+themselves right so searchable audio
+lectures it's extremely useful for
+students again I know that MIT and
+Carnegie Mellon University have done
+something like this on their university
+internal lectures or lectures on OCW
+this is a very exciting project today
+this is this is I mean of course doing
+this ten years back was very very hard
+but doing it today is very very
+plausible and on top of it you can
+create an Alexa interface after that so
+you have all of your audio lectures
+right
+you can now I mean first first of all
+you have to create a audio you have to
+convert your audio into features and
+searchable features all of that stuff
+and to take it to the next level you
+could add an Alexa skill or a Google or
+a Google assistant but you can integrate
+this audio search with Alexa or Google
+assistant that will make it a terrific
+project imagine if you go with this
+project I mean I would love to talk to
+you more about how you did this right
+again these are real problems that
+students actually encounter I'm not
+taking some rocket science problems I am
+taking problems then students in
+universities and colleges and college
+administration themselves encounter
+right very very importantly in BTech you
+have during your college days you have
+none of I'm at your disposal if people
+give me come people sometimes others we
+don't have time as BTech students come
+on you're joking okay I have been
+through the same cycle and even been
+through a master's program I got ample
+time here and during my Master's day
+setting instead of science right so
+please take time to collect data for
+your project okay because this is
+something that requires effort and time
+if you can collect data say of course
+one way to build an internal system is
+to talk to all of your friends whoever
+is interested take multiple photographs
+of theirs with their permission
+obviously work with the college
+administration collect the data also
+because many times data collection is an
+often overlooked aspect of data science
+problems okay so if you can collect your
+own data right and build an implement
+system using the data you get extra
+bonus points for example I think I've
+mentioned this in our previous previous
+live sessions also one of our students
+one of our course but
+he's an experienced person he took the
+self-driving car case study that we have
+as part of our course videos he
+implemented it on Indian roads by taking
+a smartphone recording the videos using
+his car so he actually collected actual
+data from Indian roads applied
+convolutional neural networks and LSD
+aims to build a self-driving car like
+system for Indian roads right and I mean
+yes I've discussed extensively with him
+because we mentored him and he is a
+brilliant student okay
+so all of the interviews that he
+attended 90% of the discussion was on
+this project only again this is an
+experienced person okay this is not a
+fresher but even a fresher can do this
+you have ample time folks
+as a college student you have more time
+than anything else what you may not have
+is financial resources right to invest
+like thousands or even lakhs of rupees
+on things but this is something that you
+can do with your smartphone I'm assuming
+most of you have a decent or even an
+entry-level smartphone so try to spend
+time collecting data for your projects
+because you get bonus points for that
+okay so this is one project that if we
+take stupid candle today it's not rocket
+science
+right so let me walk you through some
+more examples right so again as a
+fresher you don't know which role you
+will go on into you don't know what
+career you will go into right so try and
+have lot of variability or variance in
+the projects that you do do one project
+around computer vision do one project
+around text do one project around a
+builder data do one project using audio
+because you don't know which type of
+country you would end up after your
+bachelor's or after your master's right
+so having done multiple projects in
+multiple domains is certainly beneficial
+because you don't have your own personal
+domain of expertise right so again let
+me show some more projects that you
+could do right so examination in which
+the nation using a webcam right imagine
+again examination in which the
+invigilator or proctoring as it is
+called in some some countries is
+something that every college has to do
+right imagine imagine you are a bunch of
+students sitting imagine if you can
+place a webcam or a smartphone in in the
+examination
+which tracks the whole thing and any
+anomalous behavior or any cheating if it
+can trigger automatically that's a
+terrific thing that colleges want to
+invest in right and this is a simple
+thing that you can work with a college
+administration and get things done right
+and all it needs is a simple webcam or a
+smart phone that's all again this is a
+more interesting project as a student I
+mean there are some universities again
+I'm not saying all universities there
+are some universities where there is
+repetition of questions hereafter here
+so can you take all the last 10 year
+questions from question papers and
+predict which question has the highest
+likelihood to reappear in the current
+year this is extremely useful your
+friends will thank you will love you
+will will appreciate your work can you
+build a simple statistical model which
+takes the last 10 years of question
+papers and predict which question has
+the highest probability of reoccurring
+this is a problem that students would
+love again this only will work if
+questions reappear there are some
+universities which try to give always
+new questions for such a system this
+won't work right so similarly there are
+another very interesting project that I
+always wanted to do was for a given
+subject you would have different
+textbooks you can get a copies of your
+textbooks also suppose imagine you take
+three textbooks it's a textbook one
+textbook two textbook three can you
+group right so for example there is one
+paragraph here let's say humans talking
+about it's talking about some concept
+like finite state automata okay or it's
+talking about some it's about some
+concept can you figure out the same
+concept in other textbooks and group all
+of them so that instead of reading three
+textbooks a person can read these three
+these three paragraphs of these three
+pages from three different textbook
+simultaneously because you have grouped
+your good group relevant subtopics from
+different text books this is a text
+problem right very useful problem as a
+student right so especially students who
+want to refer to multiple text because
+this is a great source again the way the
+way again I again I have been a student
+myself so these are problems that I
+always wanted to solve right so again my
+BTech project for those of you who were
+keen on it was this was this was almost
+in 2007
+when I graduated from BTech my BTech
+project was very interesting my BTech
+project was based on a very simple
+neural network again I didn't know how
+neural networks work then this is in
+2007 when machine learning was unheard
+of by many people so I took a laser
+light again we used to have these laser
+pointers in those days and we could get
+it for like 100 200 rupees so I would I
+would throw a laser pointer and they
+would make a gesture so I had VLC
+playing on my Linux box so if I if I
+moved my laser if I moved my laser
+pointer like this right on a wall and
+this was captured by a webcam a webcam
+would automatically detect if if I if I
+drew an arrow which is right which is
+which is moving right or which is left
+or I could draw any shape I could draw
+any shape using the laser beam that was
+detected by my webcam and it would take
+an action for example I connected this
+to VLC player so whenever I drew this
+using my using map using my pointer my
+camera would recognize it and it would
+take you to the next song this would
+take you to the previous song if I did
+this it would increase the volume if I
+did this so this is basically simple
+gesture recognition using webcams and
+instead of using my hands I use the
+laser pointer because it was easier to
+do in BTech ok very simple computer
+vision neural network problem this was
+my BTech final layer project again not
+rocket science but it was very
+innovative right at least I felt it was
+innovative in 2007 but I don't feel it
+very innovative because in the last 12
+years your networks and deep learning
+and computer vision has become so
+advanced that you can you can build
+something like this in literally 20
+lines of code ok in 2007 we didn't have
+any libraries I built everything from
+scratch right and I think if I recall I
+wrote it in C++ and if it sounds good so
+let's move on from freshers - ok so
+let's move on from freshers - sorry ok
+just a second
+okay so the next role that I will cover
+about is software engineers right so we
+did we did talk about freshers and then
+now let's move on to software engineers
+so for software engineers again software
+has come in all shapes and sizes it's a
+most misused title I think along with
+the data scientists okay
+I've seen people who write like who
+can't even write code who call
+themselves software engineers right but
+I am assuming here that software
+engineers work in various domains you
+could be software engineer working with
+the healthcare plant or with a pharma
+coin or a pharma company or banking and
+financial services or e-commerce or
+manufacturing depends on your domain
+again if you're a software engineer you
+could be software engineer writing code
+in C C++ Java you name it right you
+could be you could be writing code in
+any of these languages my recommendation
+for you is to learn Python and if
+possible are also if need be but
+certainly Python because python has the
+best libraries for machine learning deep
+learning and all of these things if
+you're already a Python developer that's
+good you don't have to worry about it
+and again as I mentioned even in the
+previous live session always find a
+problem that is relevant to your role to
+your team to your organization company
+or client please again I am repeating
+this please do not solve some generic
+stuff please do not sound generate stuff
+okay there is no use in it okay always
+try to find a project suppose if your
+domain is healthcare within healthcare
+what is your sub domain right and
+anything that you build is it something
+that you can talk to your team and get
+it into production is it something that
+your client would like is it something
+that your company would like right so
+these are the types of problems again
+you have to put your thinking hats here
+okay there is there is no shortcut here
+and I mean because we have thousands of
+students who worked in different areas
+of healthcare different areas of pharma
+where I don't even know some of the
+terminology right I'm getting the
+general guidelines I also guide you
+through general projects in a while but
+let's look at the let's look at the
+guidelines first okay
+always pick projects where you can
+obtain data either you
+within your team or company or
+externally if you don't have data there
+is no machine learning it's a joke right
+so any project that you pick always
+first give preference to internal data
+talk to your manager talk to your senior
+manager web director and say here is a
+problem that I think can help our team
+or organization and can you give me
+access to the internal data this is a
+project that I want to do in addition to
+my day-to-day duties ok I am sure 90% of
+managers or senior managers and
+directors will be more than happy if you
+say this is a project that I think has
+value of course you do convince them
+that there is value it's always good to
+do internal projects and external but
+for some reason if you don't get access
+to internal data external is the second
+best option again when anybody is
+looking at your project ok as it has an
+interviewer if you come if you say ok I
+have done these three projects or four
+projects there are three major factors
+on which I will evaluate you first and
+foremost is the project innovative and
+relevant ok if it is not innovative and
+irrelevant I might as well say ok this
+game did some gendering stuff he
+probably I don't even trust that you
+have done it yourself because there are
+thousands of code bases publicly
+available probably you just picked up
+one of them and you changed it slightly
+and you got me this this is waste of my
+time to even focus on this in the
+interview ok so you have to pick up
+innovative and relevant relevant to your
+domain of expertise ok if it's not
+innovative nobody will look at I gave
+you some simple examples of innovative
+projects for freshers and students right
+so think innovation is the key so if you
+don't pick up innovative project and do
+everything else most likely it's it's
+not cool ok again you have to capture
+the attention of the interviewer with
+the quality and the innovation that you
+have done in your project so that they
+focus most of the interview on this and
+you get lots of lots of advantages
+because of this they would focus mostly
+on your project and you know your
+project better than anybody else in the
+world right so you can actually crack
+that interview very easily the second
+most important thing is how rigorously
+you are solving and how thoroughly
+you're solving it you have to you cannot
+say ok I'll just apply one algorithm and
+I'm done sorry that's not you will do
+everything from data cleaning
+data pre-processing modeling using
+different models thinking about what is
+the business metric all of that up to
+production ization because remember
+you're a software engineer you better
+know how to productionize things
+otherwise you're telling if you don't
+defeat if you don't focus if you skip
+any of them if you are not turn off with
+all the components of any designs
+lifecycle you're not doing a good job
+you're not again doing something that is
+relevant to your role as a software
+engineer okay this is SuperDuper
+important and rigor is also important
+because instead of taking sites you
+employ multiple machine learning models
+all of that stuff and you also thorough
+with your whole whole sequence of steps
+again we have discussed this in some of
+the previous life sessions in our own
+course video on YouTube itself so please
+go through them if you want to know what
+is the data science lifecycle how to
+actually build projects and things like
+that
+I'll not be covering how to do these
+projects because I have covered that in
+a previous life sessions the third most
+important thing nobody will have touched
+that you have done all of this if you
+don't show them documentation and code
+again if it is an internal project you
+may not be able to share that code
+that's perfectly alright but you have to
+convince the interviewer that you've
+actually done it
+which means you should actually do it
+number one that's important and try to
+give all the details which you can give
+okay see this documentation can come
+from blogs which we which we asked all
+of our students to write because I'm
+good to detail the blog I've shown you
+some really good examples of blogs in
+the previous live session that we've
+done so innovation and relevance of the
+project the thoroughness and the rigor
+with which you do the project and
+documentation and code this is to prove
+that you have actually done it this
+shows that you can think very creatively
+and solve good problems and this is
+surely showcasing your machine learning
+skills all three of them are important
+you can't skip any one of them and
+expect good results
+okay so again there are as a software
+engineer as a software engineer you can
+do domain dependent projects and domain
+independent projects okay since there
+are so many - I will cover some of the
+projects from these domains also but let
+me cover some domain independent and
+workplace related projects these are
+projects that I wanted to solve as an
+employee myself at any company I will
+tell you these are general problems that
+any working
+we can solve not necessarily software
+engineers remember we all go into
+minutes we all we all go to meetings
+right whether you are a tech lead
+whether you're manager whether you are a
+software engineer we all do tons of
+meetings every day right at the end of
+the meeting it's a very nice habit to
+write the summary of the minute summary
+of the meeting all the minutes of the
+meeting right where you listed on
+everything that has been discussed in
+the meeting itself so one very
+interesting technology that is being
+built at companies like companies like
+Microsoft is they're trying to record
+the whole meeting itself using audio
+devices like think of audio devices like
+Alexa or Google Google or the google
+smart home or even your smartphone for
+read about Alexa even using your simple
+smart phone with permission from
+everybody imagine if you can record the
+minutes of the meeting and make the
+whole meeting searchable with audio I
+mean this is an imagined of course this
+is not easy this is a project work that
+is being done at Microsoft by by
+Microsoft Research but even if you can
+build a proof of concept for this you
+know people are not asking you to build
+a state-of-the-art solution this is a
+very this is a problem that every
+employee every management every manager
+every program manager every product
+manager faces they have again I have
+been I have done probably hundreds or
+even thousands of meetings myself in my
+professional career and the biggest
+challenge for me is after the meeting is
+over I spent 10 15 minutes listening
+down the summary of everything and send
+an email to everybody so that everybody
+knows what we have agreed upon so then I
+have actual record of what we have
+discussed so imagine if somebody could
+create minutes of the meeting or the
+summary of the meeting by listening to
+the audio and making this whole audio
+searchable this is possible today with
+state-of-the-art and deep learning right
+another very interesting application in
+the workplace is a meeting scheduled
+again many of you may have encountered
+this especially managers team leads and
+program managers product managers you
+get an email from from a colleague let's
+say colleague one sentient email says I
+want to set up a meeting at 10:00 a.m.
+right and you say sorry 10:00 a.m. I'm
+busy
+can we should we should unit at a
+different time I am working on something
+so there is a lot of back and forth back
+and forth that happens over meetings
+okay that's why most senior MA most
+senior managers directors vice
+presidents have something called as
+executive assistants okay these are
+actual people who help manage your
+manage these senior senior members like
+vice presidents directors even see the
+managers in some companies with
+arranging all the meetings so that they
+don't waste time so there is a company
+called X dot AI right which actually
+tries to automate meeting schedulers by
+looking at it it's like a smart
+assistant okay which looks at your email
+and tries to work with the other person
+on the best time that works for both of
+you so you can look at X dot AI and how
+it works this is a very nice start-up
+out of Boston which is trying to
+simplify meeting scheduling which takes
+again some of you may may may not know
+this I have spent like there are some
+instances where I've spent 80% of my day
+in meetings okay and I have done
+meetings across the world in different
+time zones it can be a nightmare okay so
+meeting scheduler is a very very
+important important workplace tool this
+is a workplace to remember that these
+are these are anybody who is working can
+you can build these tools and use these
+tools
+so if meeting scheduler is a very
+interesting again you don't have to
+build a whole product the same way X
+noting here has built but even if you
+can build a proof of concepts it's very
+good again a great place for good
+innovative ideas for projects in
+startups because the startup like X
+naught is solving the real world really
+important problem right I not devoted
+because one of my friends works at this
+one of the people that I mentor not a
+friend exactly somebody that I'm entered
+volts at X not a high right and he
+talked about how they work and I said
+wow this is super ingenious and super
+interesting project to work on right so
+always look at interesting startups in
+your domains to see what they're working
+on that's a great place for good ideas
+okay another very interesting project
+that I always wanted to work on
+especially if you are working close to
+HR teams or anything like that can you
+predict the performance rating around of
+an
+employee using the data that is already
+available as a HR person right imagine
+imagine as I as a company you can read
+all the emails you can look at all the
+code you can look at all the calendar of
+a given employee because this is all
+company property right by using all this
+data that a company already has a modern
+employee can you predict can you predict
+the performance rating or the annual
+performance rating of the person himself
+can you do that this is a project that
+people at HR love to work on again
+Google itself so Google HR is very very
+data and analytics driven so Google HR
+doesn't do this performance rating using
+using emails etc but they look at a lot
+of data about employees to see what
+factors actually enable employees to
+remember to the work or to continuously
+work at Google for a longer period of
+time how do you reduce attrition how do
+you improve performance of employees
+right that that type of so Google's HR
+team has a data analysis wing itself I
+have a friend from an instable scientist
+who works in the team as a data
+scientist very ingenious work that they
+do you can read up about it some of this
+data is publicly available the work that
+Google HR does on data analysis is
+publicly available right similarly
+imagine you guys might that might be
+sitting on large amounts of code
+repositories documentation internal
+wikis all of this stuff many of these
+stuff might have a very simple search
+engine many of these things may have a
+very very simple search engine for
+example if you look at Wikipedia search
+engine it's it sucks to be honest I
+don't such I do I don't remember
+searching on Wikipedia using Wikipedia
+search I always search on Google so can
+you improve the search search facility
+that you have on your internal software
+like your code documentation wikis etc
+this is a very very interesting
+application where companies like
+Microsoft and IBM write and even Google
+was working in this space for a while
+but their lot of large companies which
+want to get into this space because
+there is so much of it'll organize the
+data in large companies magnificant
+build a system build a better search for
+your core documentation and wiki's in
+your own company
+I mean company would love you for that
+right similarly there is a very
+interesting case study and you can get
+all the data this is a this is a this is
+a problem that Amazon put out on Kaggle
+right as a as a as a as a computational
+problem okay and whoever won this
+competition got interviewed Amazon and
+all of that stuff this is a but when a
+new employee joins what all access to
+what all stuff does he get access today
+what happens is when a new employee
+joins he has to talk to his manager his
+manager now talks to other teams and
+gets him access to some database gets
+him access to some computers all of them
+stuff now can you automate some of the
+part because managers really don't like
+to do that okay this is an employee this
+is a manager it's a big waste of
+manager's time can you automate some of
+that access granting for a new employee
+again if you want data this data is
+available on Amazon sorry on title
+itself because there is a very nice data
+set that Amazon created for a
+competition sick this is something that
+your IT department within the company
+would love to work on right again these
+are problems that you're solving for not
+your team but your company similarly can
+you automatically rate goal quality okay
+this is a very interesting project
+imagine if you're a developer and let's
+say home can you look at Java code that
+anyone writes a java class or just a
+Java function or a Chava module whatever
+it is can you automatically rate the
+quality of cool that you have okay I
+actually had companies like Google
+Amazon etc if you when you submit your
+code suppose I write a Java class and I
+submitted it goes through a bunch of
+checks okay some bunch of basic quality
+checks right and it will only be pushed
+into our internal grid only if the code
+quality is up to the standard for
+example imagine if somebody did not
+write enough comments okay so can you
+somehow create a code quality rater
+where in your data set is very simple
+you look at all the code which is in
+your internal repository or which is on
+github which is of high quality and low
+quality that's it it's a simple binary
+classification task so this can improve
+again if you can build a code
+rating system it can improve the overall
+code quality that your whole company is
+working on so this is a very interesting
+project again this this type of projects
+are already done at some of the world's
+best engineering companies like Google
+Amazon etc another problem that I always
+faced was we all write notes on
+whiteboard right when we're discussing
+in meetings we write it on whiteboards
+then we take a picture we send the
+picture to everyone can I make can I
+somehow have take a picture of the
+whiteboard send it to some internal
+server which makes the whole thing
+searchable I struggled through this
+problem because I would be in tons of
+discussions with folks I would draw the
+whiteboards and take pictures share it
+with people but then I have let if I
+look at my smartphone I have hundreds of
+these by put pictures and if I want to
+search them I can't search them right
+can you make whiteboard to digital or
+whiteboard pictures that you take can
+you make this picture searchable if I
+say if I say something like okay AI
+course okay can it search wherever I
+mentioned a course right so that that
+would be good
+similarly this is this is an another
+slightly off swinger for example imagine
+during in the corridors right in the
+corridors of your company where you
+already have security cameras right
+again not not probably where you're
+sitting there are some places where
+security cameras are already there can
+you look at the security camera field
+and measure how stressed out implies on
+or how happy employees are by just
+looking at their facial expressions
+based just by looking at the body
+language right so this is something that
+HR folks will be very happy to work on
+right can you measure the stress or
+image can you measure the happiness of
+your employees using the camera feed
+from the publically placed cameras in
+your company right similarly most
+companies have cafeteria IT services all
+these places right which you use every
+day and they may not be a clean feedback
+system to give feedback on your
+cafeteria food you might have to write
+email all of that stuff
+I get nobody wants to take time to write
+email all of that stuff imagine if I
+just place a small microphone or a small
+small smartphone or a tablet at the
+entrance or exit of cafeteria the way
+you see in some airports nowadays just
+click a button give an audio feedback
+because giving audio feedback is much
+more easy than writing and typing
+something right this is a feedback
+system that people in your people in a
+company especially senior management
+would love to hear right again these are
+non domain specific projects remember
+these are projects that I wanted to
+solve as an employee at various
+companies okay these are not at all
+domain specific these are problems for
+HR these are problems for various teams
+within your company which would again is
+a real-world problem these are not some
+cooked up problems these are problems
+that do matter
+right so I call them domain independent
+and workplace related problems right
+let's take some domain-specific problems
+okay again
+domain specific internal data I don't
+know what internal data you have at your
+own company because every student or
+every employee is different so I look at
+some external data that is publicly
+available on places like kaggle for
+example let's take this right let's take
+a simple example here suppose if you are
+working in healthcare somebody was
+asking this in the comment section right
+suppose if you're going into a
+healthcare right so let's go to
+healthcare okay so all this such was
+look at look at what I searched I
+searched on Google gaggle healthcare
+that's all I did nothing else okay
+this gives you tons of datasets okay
+this is some awful nology data this is
+some cervical cancer this is a very data
+science bob challenge there are tons of
+breast cancer data diabetes data malaria
+cell data there is tons of data I mean
+there are there are look at this there
+are 239 data sets related to health care
+you can pick up any problem that is
+relevant to your domain and solve it
+again within healthcare there are
+multiple parts health care insurance
+like health care device manufacturing
+whatever kaggle has some of the largest
+repositories of world-class really good
+data right again as I told you if you
+have internal data try to work with
+internal data that's always that should
+always be your first preference if you
+don't have internal data it's perfectly
+okay usage see just a Google search away
+similarly somebody was talking about
+banking and financial services right so
+if I just like Kaggle backing so all I
+did was I
+googled Kegel plus banking and financial
+services this is all backing data real
+this is from real data this is from real
+companies about credit rating about
+merchant category about customer
+transaction prediction from real banks
+this is some housing data right some
+data from World Bank right there tons of
+tons of real world data real world
+competition there are eight competitions
+here if you're working in banking why
+not just solve all these problems right
+again this is from the French company
+BNP paribas right and this is about
+claims management
+I think insurance claim management right
+so lots of interesting problems in
+banking and finance it's just a Google
+search of it similarly I just searched
+goggle insurance and I got this
+potential life insurance data
+potential is one of the largest life
+insurance corporations in the world
+again basically it's all about making
+life insurance purchasing easy again
+whenever you are solving the problem you
+get if you can if you cannot get
+internal data use the external data but
+do a thorough extremely thorough
+solution and document your solution
+that's super duper important right
+similarly again I just Google such it
+again
+I just Google such title insurance right
+here are some night mice ate problems
+that you have here from credit scoring
+to whether a loan will default or not
+again predicting the probability of
+default here likelihood of insurance
+claims right which current customers
+will still be at the company after six
+months this is a very nice this is a
+virtual prediction right so these are
+all real world data with real world
+challenges and instead of instead of
+solving some simpler problems solve
+cattle problems because they're much
+more exciting again somebody was asking
+about manufacturing right look at this
+this is mercedes-benz greener
+manufacturing this is actually
+competition that Mercedes Benz created
+on cackling again I'm no expert in
+manufacturing but I'm sure if the prize
+money is twenty five thousand dollars it
+must have been a good problem right and
+this is by Daimler which is the parent
+company of mercedes-benz supervised
+there is a there is a production line
+Foreman's problem by body which is one
+of the largest industrial component
+manufacturers in the world
+right so there is no dearth of data and
+problems the best the easiest place to
+find data is Google trust me it's the
+easiest place and cackled has tons of
+you can pick any domain or subdomain you
+will find problems again to be honest
+with you I am no expert in any of them
+ok I've read a little bit about health
+care I've read a little bit about
+insurance I have read a little bit about
+banking but I've never worked in these
+domains if you ask me about e-commerce I
+can give you a hundreds of ideas based
+on problems that we solved or the teams
+that I work with that I that I'm entered
+that I learned under that that I learn
+from right so again if you don't know
+again any of these property if you're a
+software engineer you can pick any of
+these problems that are listed here
+these are all our domain independent
+problems which is still very exciting
+these are domain specific problems that
+you can get from title but again if you
+are picking a domain specific problem
+always try to get internal data if you
+don't have internal data it's okay to be
+an external data but please pick again I
+wrote these three three measures rate
+innovative and relevant rigorous and
+thorough documentation with code but
+those are three important factors now
+imagine imagine if you if you if you're
+a tester
+okay let me see okay so okay okay so
+okay so yeah seems okay so if you're a
+tester right again testing comes in two
+variations manual and automation testing
+what types of projects can you work on
+okay so this is again all the rules that
+I mentioned in the previous rules hold
+here also okay all the general
+guidelines hold here these are some of
+the problems again I'm no expert in
+testing I have worked with testing teams
+both manual and automation testing teams
+at various companies including applied
+AAA course and this is based on
+discussions with them right
+can you group similar bugs on tickets
+one of the biggest jobs of manual and
+automation testing folks is to have bug
+tracking or ticket tracking these are
+bugs that the testing folks whether
+manual or automation have come across in
+the file a ticket right
+can you groups in
+bugs by clustering by either using the
+text description or by looking at the
+resolution time and things like that
+then can you perform some simple
+statistical data analysis and takes data
+analysis to understand why some tickets
+are taking more time than others
+again this is extremely useful feedback
+to your testing manager or testing
+serial manager because if you can go
+back to your manager or senior manager
+and say okay these are the types of
+tickets that are taking extremely long
+amount of time probably we should talk
+to our engineering teams or development
+teams and tell them to fix these
+problems okay this is extremely valuable
+for testing teams similarly can you
+automatically find the best person or
+the team to si in a decade or a bucket
+instead of manually going and doing it
+you're sitting again all these is
+repetitive tasks all these are
+repetitive tasks any repetitive tasks
+where you have lot of data right and
+there is where there is some human
+judgment right you can automate this
+very easily
+similarly can you predict the time to
+resolve a bug so that you have real
+estimates again this is something that
+both engineering managers and software
+and testing managers would love to have
+because if you can predict how much time
+it will take a bug to to be fixed if it
+is not fixed within that time you can go
+back and ask your engineering folks
+folks something is wrong here
+we expect it to be fixed within so in
+Slovene some days based on a machine
+learning model okay for all of these
+projects you need to have access to your
+whole repository of bugs tickets when
+when was a bug filed when Meserve when
+was it resolved all of the data you need
+to have access to I'm assuming if you're
+a manual tester or an automation tester
+you have access to some of this data all
+right similarly if you're doing some UI
+testing right this is something that
+that is very interesting if you're doing
+UI testing can you find again some of
+the UI testing can be automated right
+you basically click on a button using
+some automation scripts and then the UI
+changes can you find anomalies or
+outliers in the UI itself this is
+basically finding image outliers
+right this is simply finding image
+outliers can you do something like this
+this is extremely useful because it can
+save a lot of time for manual validation
+anything that is repetitive data driven
+with
+intuition I get images are extremely
+hard to automate using standard
+automation scripts why don't you use
+image out out layers using convolution
+neural networks they do a pretty good
+job today right so these are some of the
+problems that the testing folks can do
+now let me also focus on more aspects of
+testing again this is something that I
+really really was interested in imagine
+if you're a manager of a testing team
+imagine if I can have a simple audio
+search of bugs again audio search is
+extremely intuitive to humans one way is
+I go to the bug I go to the whole
+web-based interface for the whole ticket
+management system I enter something and
+I get it but what if I can just I can
+just pick up my phone and say hey how
+many bugs are not resolved right now ok
+or how many bugs are expected to be
+resolved in the next 24 hours or how
+many bugs are delayed if you are a
+manager or a senior manager or even a
+lead of testing teams this is a this is
+a service that you would love to have
+and imagine if you can integrate it why
+I Alexa Google assistant that would be
+terrific even if you don't have it you
+can just build a simple mobile app
+wherein you just see what does it
+require you take the audio you convert
+it to text query you convert this text
+query now into a query into this whole
+system and get the results right
+extremely useful and again make these
+results convert this text into audio
+which is simpler and read this out right
+similarly you can you can do some data
+visualization work on bugs okay suppose
+imagine if I have 10,000 current 10,000
+bugs that are currently there right I
+can group bugs based on how much time
+they took and based on the text that
+they have and I can create nice
+visualizations we talked about Disney
+visualizations right again there are
+some free videos on our on our YouTube
+channel where we explain about what
+Disney does even in our course videos
+there are some free videos you can check
+out data visualization using things like
+Disney can help us give lots of insights
+into how our data is grouped with nice
+data visualization project similarly if
+you are if you are an automation tester
+with selenium knowledge okay actually we
+have done one case study like this
+wherein now again this case study is
+also freely available in our course
+website you can go check it out where
+and we took images of I think over over
+1 lakh
+fashion and apparel items from Hamazon
+again we used Amazon's Product Search
+API for this we did not scrape it
+because Amazon has very strict rules on
+scraping so we used Amazon's Search API
+to actually fetch this data and we we
+did a case study on this we did
+basically a simple fashion search engine
+using this data right with actual data
+from Amazon fashion or Amazon Apple
+itself similarly you can scrape data
+from various websites again when you're
+scraping I'm sure you know about
+robots.txt please do it in a legally
+correct and legally appropriate manner
+okay I'm sure if you're if you know
+selenium you know I put robots.txt and
+rules on how to scrape data in a genuine
+way if you can scrape data you can get
+data from any website right you can get
+data from Yahoo Finance those of you
+don't know Yahoo Finance's a lot of
+stock market data right you can get data
+from from YouTube itself right you can
+get data from companies like Amazon you
+can get data from any company and build
+some interesting solutions around it as
+a selenium developer you have you're
+sitting on a extremely powerful skill to
+obtain data from the internet right
+again selenium is extremely easy to pick
+up the basics of Selena I'm not saying
+the advanced concepts in selenium are
+easy but the basics of selenium are
+extremely simple to pick up we did a
+case study at operating codes which is
+also publicly available you can check it
+out on our website which which
+everywhere and we just simply use
+Amazon's API and build this whole case
+study around it right extremely simple
+again as a tester these are some very
+interesting links of startups in
+function eyes is a start-up which is
+trying to automate test case generation
+if you are doing test case generation
+function is a very interesting start up
+again I've also linked at some nice
+projects that people have done where
+that they are detecting code bugs
+automatically very interesting piece of
+work using deep learning right again
+there is a whole there is a whole
+project on github called deep bugs yet
+the objective is to find bugs in code
+using automation okay using machine
+learning deep learning etc this is all
+about generating test this is a very
+interesting start up again startups are
+great place to look at what interesting
+projects you can do again you can go
+through any of them again of course you
+have to know machine learning and deep
+learning to work on these projects this
+is just a sample you can write it as 10
+11 these are multiple projects that you
+could pick up and work on if you are if
+you're a manual tester or an automation
+festival similarly if you are if you're
+a database engineer or a database
+administrator right there's some very
+interesting projects that I always
+wanted to build up I'll give you some
+reference links also one problem that I
+was very curious to work on was major
+language to SQL very interesting problem
+today only people who know SQL can query
+the database that you are an engineer or
+for a net benefit
+what if people can speak in natural
+language if imagine if people can say
+how many suppose imagine I have some
+database of let's say students ok can I
+just use natural language can I say hey
+how many students finished assignment 13
+today ok or can I say how many queries
+which we've gotten in the last one day
+have been answered in under 4 hours ok
+so again these are simple I don't have
+to write the SQL query can I can I can I
+speak or can I write in national
+language can you convert it to an SQL
+query and execute it so again I provided
+you some very nice link here of lots of
+interesting projects very nicely this is
+from Stack Exchange then there's a very
+nice discussion again a very nice
+project that can be done here and I know
+startups which are working on this area
+also ok and you don't have to build a
+world-class product you can start with
+some simple product for your own
+database as a new database engineer
+eggman you already have access to the
+database schemas you have you have all
+the database at your disposal can you
+build a natural natural natural language
+interface to this that'll be terrific
+even if you can do it for just one
+database if not the hundreds of database
+that you might be managing all right
+it's a it's it's a problem that I was
+very passionate to work on at some point
+right I got this idea because I was fed
+up because I was working with some sales
+marketing folks and they are not very
+conversant in SQL it was taking them a
+lot of time to learn
+I said come on guys we are already in
+such an advanced age why can't they just
+say what they want and we should get
+this query for it it came out of my own
+pain point that I faced when working
+with others at various companies right
+so the next thing is can you mind the
+logs okay whether the text of the log or
+the SQL queries of the queries
+themselves to find inefficient queries
+queries which are taking too much time
+or which are which are not at all
+optimal can you find inefficient queries
+and to the person who has thrown this
+query at your database can you suggest
+similar similar queries that are that
+are written much more efficiently right
+so as soon as somebody submits an SQL
+query to a database can you just run it
+through a simple text mining or an SQL
+query mining system and say this query
+is going to be very very inefficient and
+you can give feedback to the person who
+submitted this query and saying that hey
+here are other queries that are written
+much more efficiently which are very
+similar to yours okay this will improve
+the experience of the database users and
+also improve the efficiency of your
+database itself similarly can you have
+an end-to-end Q&A system so here this is
+just about you say something you get at
+in school system can you have a chat bot
+so by by Q&A system I mean can you have
+a chat bot complete chat bot end-to-end
+Q&A system like a chat bot on your
+relational or non-relational data you
+could have non-relational data like text
+data stored in storing columnar stores
+or text databases etc right so this is
+this is this is a subset of this problem
+right as a database Internet of a
+segment this problem is golden trust me
+this problem is golden this problem is
+again these are problems that I faced
+when I was using databases when I was
+interacting with amazing units and
+database edmonds similarly now let's
+talk about web developers I have
+developers write again I am just giving
+you a flavor of some of these problems
+if you're a front-end developer right
+come on you should be able to learn
+selenium in no time selenium along with
+JavaScript CSS you can do it for
+scraping the projects that I talked
+about for for automation testing folks
+you can do all of them and better still
+this is very important whatever solution
+you build
+real-world web app to showcase your
+results if you're a member vellu / you
+can use tensorflow to jas there lot of
+nice ingenious you can just Google such
+tensorflow J's projects you get tons of
+beautiful projects similarly if you're
+an app developer whatever you are
+building try to publish an app using
+that so tensorflow you can write yeah
+you can you get an execute tensorflow
+code again for those of you don't know
+tensorflow is one of the best and the
+most advanced deep learning deep
+learning frameworks and deep learning
+the system of deep learning modules
+built by Google right so you can run
+tensorflow code on hundred or iOS if
+you're a web developer an app developer
+please put out your system run a web app
+or a mobile app when you can showcase
+your research some simple stuff that I
+am come to write can you crack CAPTCHAs
+right of course today with advances in
+combination your own networks and other
+stuff
+there are CAPTCHA crackers as a web
+developer can you crack the CAPTCHAs
+using concepts from deep learning
+especially convolution neural networks
+and anything that you build please build
+a web app or a mobile app using
+tensorflow JS or tensorflow Frank Lloyd
+Wright some simple examples these are
+not some rocket science examples ok some
+more projects write some more
+interesting projects so on webpages as a
+front-end developer one of the big
+problems is UI UX problems can you
+compute something called as very time
+many time basically means imagine this
+is my webpage how much time is a user
+spending on this part of the page how
+much time is a user spending on this
+part of the page how much time is a user
+spending on this page or this part of
+the page right so can you track all of
+this behavior obtain the data and create
+nice visualizations and also figure out
+the block points for example probably
+the person the the user is searching for
+something and he's not able to find that
+feature
+he'll keep again if you look at the data
+analysis this is a pure data analysis
+and data visualization work ok this is
+very very relevant for front-end
+developers because you guys know already
+JavaScript CSS acts all of this stuff
+right right so using the tools that you
+already have at your disposal you can
+build nice way there are startups which
+do it
+there are startups which do it to be
+honest okay you can build a system like
+this and if you know JavaScript if you
+are a good front end or the perdition
+take a lot of time similarly this is a
+problem that we we worked on and we
+built which is for for many of our
+course registered students we conduct
+self-assessment tests wherein we record
+the screen with their permission
+obviously we record the screen of the
+desk taker and we also record with their
+webcam but we also want to automate this
+whole invitation part because we don't
+have we don't have enough manpower to
+sit here manually so we are doing
+automated invitation or proctoring when
+we conduct these assessment tests for
+our students this automated proctoring
+what it does is very interesting through
+the webcam it looks at the it looks at
+the person's face and if there is any
+anomalous behavior imagine if he is
+looking si in our face looking at
+somebody for some help any anomalous
+behavior will trigger and it let us know
+that there is some problem here where we
+manually interfere this is an actual
+problem somebody was asking about
+problems in education right this is a
+very very important problem in education
+can you automatically perform invitation
+just using a webcam and yours and your
+again we use both webcam and the
+microphone right so this is a simple
+system that we built part of it part of
+it using tensorflow js part of it on the
+server side right so we continuously
+monitor through the webcam and the
+screen recording on what this person
+what is a what this test taker is doing
+if you find any anomalous behavior any
+any suspicious behavior we simply inform
+the manual prompter asking them to look
+at it and if there is a suspicious
+behavior we either talk to the candidate
+or we invalidate the whole exam
+similarly there are lot of online games
+can you build some systems to auto to
+play these games automatically simple
+games like Mario and others right
+nothing very fancy again I've never
+played much games so I'm no expert in
+this another very interesting tool that
+you guys could build especially the web
+developers and even mobile developers is
+interactive machine learning tools and
+algorithms you can go to this page
+called distilled or pub again this is a
+this is a very nice block that is
+with contributions from Google and some
+of the best companies in the world so
+you can you can read up about this again
+this is something that we use as part of
+our course to showcase how TC works
+there's an old blog that that we used
+right again here you can see the whole
+Disney itself implemented on a small
+data set with all cases with an
+interactive machine learning all the
+whole Disney algorithm itself is
+implemented using a machine using an
+interactive machine learning tool
+web-based or mobile based thing you can
+were to distill it up and see lots of
+such nice machine learning tools on the
+web itself they're terrific they're so
+beautiful
+alright again these are projects that
+web developers and mobile developers can
+look at similarly look at my again I am
+no mechanical engineer my knowledge of
+mechanical engineering is very basic but
+here is one thing that I'm entered one
+of the startups right this is called
+condition based monitoring also called
+predictive maintenance right so the
+startup that I worked with again there
+is a lot of data sets again there is
+data set on machine failure prediction
+that I am linked here again my knowledge
+of mechanical engineering is very
+limited but the problem that I'm entered
+on was that the start of it I was
+working with had lot of accelerometer
+data they also collected some ultrasound
+data and visual data so using all of
+these three things can you now predict
+when will the machine fail okay that's
+what is called predictive maintenance or
+when when would we need to change the
+oil in the in the in the in a in the
+bearings bearing failure is one of the
+most common failures right can you can
+you predict when the bearings will fail
+right the or can you can you this whole
+area is called predictive maintenance
+and I have provided some links to you
+here right so where you can get datasets
+for this again I'm no expert in
+mechanical engineering so whatever I'm
+telling you here is very very limited
+but there's a lot of nice academic
+research right if you go to this is from
+Carnegie Mellon in the mechanical
+engineering department they have a whole
+sample area where they're working on
+mechanical engineer they're working on
+problems and intersection of mud
+mechanical engineering and machine
+learning this is everything from
+from again let's go to the site and see
+this right again
+this is one place where I learned about
+some exciting work that's being done
+today so let's let's go here just a
+second it's taking a while to load this
+is CMU right yeah
+should have been fast okay yeah it's
+loaded
+so mechanical engineering research
+machine learning right so they're
+working on problems around human health
+and you can read lots of very
+interesting research papers data sets
+all of these things from here
+right so similarly autonomous vehicles
+of course you guys you guys know a lot
+about the mechanical engineering behind
+vehicles right of course and if you can
+learn if you can apply some of the
+machine learning deep learning
+techniques you can certainly work on
+these problems some material discovery I
+don't know any anything about these
+topics okay but there is lot of research
+design and manufacturing work again
+I showed you some I showed you some work
+here right from Bosch and where is this
+okay I showed you some work from
+mercedes-benz and Bosch right these are
+also problems around mechanical
+engineering and manufacturing that you
+could talk that you could work on again
+please understand that my knowledge of
+mechanical engineering is limited that's
+a little too deep into it but for any
+domain whatever your domain is a Google
+search is extremely useful to find some
+exciting work most importantly look for
+startups why not just look for startups
+there are tons of very exciting and
+interesting startups right so why don't
+we just look at these startups and and
+look at look at some interesting stuff
+around them right so so that that's what
+I would recommend again sorry for taking
+slightly longer than what I expected
+but I can spend the next 10 15 minutes
+10 15 minutes answering your questions
+okay I am back here I am looking at the
+chat window I'll try to answer a few
+questions okay where are we okay
+somebody is asking about farming yeah
+yes again Google search smart farming
+right oh there are a lot of companies in
+the intersection of robotics and farming
+especially in the US where the cost of
+labor is high where they want to cut
+these or pluck these things
+automatically that's one very
+interesting project but for that you
+need to be an expert in mechanical
+engineering robotics and machine
+learning not just machine learning right
+similarly there is a lot of work again
+you can just google search for it again
+let me show you this somebody asked
+about farming right so for example let
+me type kaggle farming okay okay so okay
+then then again agriculture farming or
+agriculture so there also a lot of a lot
+of very interesting work on plant ok so
+look at look at these datasets is there
+some competitions ok let me look at some
+code so I remember some competition soil
+soil African soil challenge yes
+ok so this is a nice problem ok I
+remember reading about it at some point
+so this is about predict physical and
+chemical properties of soil using
+spectral measurements this is a problem
+around education is a problem around
+soil management and irrigation and
+agriculture right so of course kaggle
+has lots of this very very interesting
+data sets that you can pick up from
+again I'm no expert in agriculture or
+farming or any of these things but I'm
+sure you can get this stuff right so any
+good websites to get machine learning
+code for references for beginners I mean
+kaggle has lot of kernels you can read
+up about it
+I love cable for that cackled is now
+owned by Google anyway so yeah Kaggle is
+one one very interesting source the
+other thing is github just Google search
+ok Google Search github you'll get tons
+of stuff somebody's saying if it another
+banking data is not easily available I
+gave you so many external references
+right I showed you a while ago during
+the during the live session that even
+just Google Search Kaggle banking there
+are tons of banks which have put out
+some relevant data where you can work on
+it right so if internal data is not
+available you can certainly work on
+external data not a problem so somebody
+is talking about should projects be
+different for managers and senior
+managers certainly there is a live
+session that we did just before this I
+think about three weeks or four weeks
+back where I talked about with
+experience how the project should change
+the topic could be the same thing but
+their rigor with which you solve a
+problem the business acumen that you use
+the map the the mathematical rigor and
+also the the engineering rigor that you
+solve the problem if you are if you are
+a senior manager let's say all right I
+expect you or a manager for that matter
+or somebody with five or ten years
+experience I expect you to solve the
+problem end-to-end using all the proper
+design patterns of engineering I would
+expect you to actually solve it at scale
+if you have some experience in databases
+or data or data warehousing right I mean
+the eggs the for the same problem for
+somebody with two years experience we
+are okay if it does a decent solution a
+rigorous in to end decently production
+is a full solution when I have somebody
+with five years or even ten years
+experience I also want to look at the
+design part of the high-level design the
+low-level design
+those are stuff that I also want to see
+because that person already should know
+all of this by default right so there
+the the depth and and the and the rigor
+of the project itself changes
+dramatically as you become more and more
+senior again we have got a live session
+in mother I think the previous live
+session itself we have discussed about
+it and please go through that that will
+be extremely useful because we covered
+it for somebody with zero years two
+years five years 10 years 15 years etc
+okay
+okay sounds good for digital marketing
+again don't worry about digit there are
+tons of again gaggle let's say click
+prediction click prediction is one of
+the most important things in digital
+marketing right because most of these
+are cost per click models right so
+they're tons of data sets available on
+cable itself right again we have done
+one of these we have taken one of these
+and then a case study as part of the
+core cell also right so tons of stuff
+available there not a problem somebody
+is asking how to make a chatbot we did a
+live session on that so you can check it
+out okay sounds good any use cases at
+the mainframe domain again I am NOT an
+expert in mainframes my knowledge of IBM
+370 or even mainframes is very very
+limited I have read about some of the
+architectural designs that IBM did stuff
+like that but if you're a mainframe
+designer I'm a I'm a showing you're very
+good with scripting right so pick up
+some problem I don't mean frames again I
+don't I've never used a mainframe in my
+life I've read about it from a
+theoretical viewpoint but never used it
+so I may not be the right person to
+guide you on that but the core objective
+is this if there is any problem where
+you have data where you have a
+repetitive task with some human
+intuition to make a decision we're doing
+it as tedious and time-consuming right
+any tasks like that you should be able
+to apply some machine learning to
+improve the system that's the goal there
+right so somebody's saying apart from
+machine learning should we need to learn
+app development web development etc see
+if if you're not a temp developer or an
+app developer don't worry about it
+but just document your solution put all
+of your code in github right if you're a
+student right if you have PI matters at
+your disposal why not learn it it's so
+easy doing web development and app
+development is so easy to be honest with
+you
+right it's extremely easy I mean you can
+pick it up very easily if you know basic
+programming thinking of web development
+or app development
+very hard you can go with the flow
+actually that's how I learnt app
+development
+I was actually developing an app and I
+learned after at a special Android
+development as I developed that okay
+because my foundational concept of
+computer science is strong right my
+knowledge of programming is decent
+I understand how programming languages
+classes all these concepts work so if
+you're a student especially in 30 out of
+5 year if you have time please learn it
+it's a good skill to have in the long
+run so middle very sad mrs. like sapa
+etcetera again look at it like this
+right even if for a middleware service
+everything that I mentioned for
+databases is relevant to you because
+your middle then again I'm no expert
+here from what I understand your
+middleware is trying to connect two
+pieces of software right using some
+intermediate code that's what it's
+trying to do effectively that's what it
+is trying to do right now if you are
+working with a data which is there in
+SATs HANA or any other data store can
+you build some machine learning model on
+the data that you have access to that's
+the simplest question to ask right so
+again I'm no X never used s AP in my
+life so I'm no expert at it but I can
+give a general guidelines on how to
+think about it even the topics that I
+listed are topics where I have worked on
+what I have thought about or have read
+about extensively again you can say
+things like this s AP machine learning
+look at what I say P is doing in machine
+learning right so let's look at this
+okay so let me let me do it for you okay
+I say P machine learning I don't know
+what I say P is doing in machine
+learning
+oh I say oh I've heard about this AP has
+this platform called Leonardo
+what does Leonardo do I've heard about
+this Leonardo software
+look at this si P is trying to do
+intelligent RPN a safe is also doing
+conversational a conversation ai
+using the data that they have in their
+own I say P systems why not learn about
+if you already know is AP and if you
+know some basic machine learning why not
+learn a saying period not oh this is a
+terrific tool why not right I'm sure so
+I'm sure these guys I'm sure I say we
+could have terrific researchers working
+on these problems
+learn about this conversational EAS
+system and intelligent rpm and of course
+if you know much
+you will have much more deeper
+understanding of how these things are
+working you can build some of these
+systems probably if you when you learn
+about it why don't you build a simple
+conversation area system on the SAE
+platform data that you have again again
+I don't know is AP internally in too
+much detail to be able to comment on it
+but just a Google search a way most of
+these things are mostly a Google search
+MA from discovering what these companies
+are doing there is a there is a Emmure
+what is this company this company that
+does customer CRM Salesforce right
+Salesforce has this terrific thing
+called Einstein right which is the built
+on their on their Salesforce system the
+the customer relationship management
+system it's beautiful right again you
+can read up if you're working on sales
+phone you can you say this what you can
+read up of dine stein how Einstein works
+and try to build us simpler version of
+Einstein as a as a simple prototype or
+proof of concept why not write of course
+you may not be able to build to the
+quality at Einstein is built because
+remember a simply as a company is
+building for every client that sorry a
+sales force as a company is building for
+every client that they have they want to
+build generate systems but you can build
+a specific system for your client or for
+your company okay on salesforce is AP or
+any of these systems right sounds good
+Oh risk in finance so any projects are
+on risk in finance trading route I mean
+come on again you can get some nice data
+sets and nice problems on cable itself
+just type cable stock prediction you get
+data sets from 2 Sigma you get data sets
+from from some of the best edge funds or
+quantitative hedge funds in the world
+you can certainly do that right kaggle
+is a great source google search is a
+better source anyway okay sounds good
+folks are I'm sorry I couldn't answer
+some of your questions
+especially around mainframes because I
+don't know much about it to be honest
+with you I hope this today's session
+would help you get some idea on what to
+do next
+please remember not to do generic stuff
+ok please try not to do generic stuff
+for any domain that you want to work on
+just Google search that with cable or
+that with datasets that with deep
+learning suppose if I want to do let's
+say cyber security somebody's asking
+about the question cyber security deep
+learning Kaggle you'll get datasets
+you'll see what problems companies are
+working on I will say cyber security
+machine learning startups
+you'll get you get very interesting
+startups especially in Israel that work
+on cybersecurity stuff right so these
+are these are again I'm no expert in
+cyber security to be again very honest
+with you I have never worked on
+cybersecurity but if you have good
+foundational machine learning knowledge
+and if you have some domain knowledge
+I'm sure you can build good solutions
+around it right
+I hope this session was informative and
+hope some of you will end up doing some
+innovative projects if you do an
+innovative project feel free to send us
+send send send the detailed description
+documentation your blog anything to team
+deployed any course we would love to see
+it read it and hopefully learn of learn
+a few things from it and if it's very
+good we would cover it in one of our
+life sessions so the other people also
+can benefit from it ok thank you folks
+I'm sorry I've eaten slightly more time
+than the 60 minute that we thought of
+but have a good day have a good weekend
+thank you for joining one seconds

@@ -1,0 +1,2829 @@
+okay my check just checking to see if
+everything is okay or not mmm
+just give me a sec okay folks are I
+think we're life just checking if
+everything is all right my check and
+basic stuff yeah things seem to be
+working good
+yeah just finally milk checks so we are
+just a minute away from 10:00 a.m. let's
+wait for a couple of minutes as other
+people are joining in and then we'll get
+started
+I'm just reading through the chat
+session here that we have just confirm
+that I'm audible and clearly visible can
+you just confirm that on the chat Hey
+good morning folks
+just wanted to make sure there is no
+glitches okay
+you said voices echoing let me just
+change my microphone a little is that so
+hmm let me just adjust it and see okay
+everything seems okay hey good morning
+folks thank you for joining us this
+early okay I think again it's 10:00 a.m.
+sharp right off let's wait for a couple
+of minutes we'll start sharp at 10:00
+2:00 a.m. just a couple of minutes for
+people to join in I think that's a
+courtesy wait time that that we can give
+everyone so as many of you know the the
+topic of discussion today the topic of
+discussion today is how to code
+effectively and also how to build a
+simple web scraper again if you are a
+very strong programmer this session
+might bore you I'm just warning you up
+front if you're a good programmer who
+has been programming for a few years and
+you are very comfortable with
+programming some of what I will discuss
+today could bore you but if you are
+somebody who is who is a young computer
+science student or who is who thinks
+they're not very strong at programming
+or in other words somebody who's from a
+non computer science background who is
+moving into machine learning and data
+science some of what we discussed could
+certainly help you and the reason we
+started we picked up this topic is we
+have seen a few students struggle
+through the assignments that we have
+primarily because they either come from
+a non computer science background and
+hence the program
+many years ago or that they they have
+not programmed effectively for many
+years right or they're not programmed
+extensively for a few years so we
+thought by doing a session on this again
+this is going to be a very very basic
+session remember what we're doing is
+we're alternating between an advanced
+session and a basic session the last
+week we did how to build a chatbot right
+we went through various design choices
+that we have when we have to build a
+chatbot and things like that this week
+so that was most targeted towards people
+who are in the later stages of the
+course this week
+it's done Python probably right of
+course some knowledge some working
+knowledge of Python is certainly
+necessary to understand pre-decision and
+I'm hoping most students who are
+attending it or the most course
+participants who are attending it have
+either done the Python course or the
+Python chapters in the course or they're
+comfortable with Python programming in
+general right so anyway so it's already
+10 - so let's get started
+so somebody was asking about what
+happened to the live session have that
+app is still there just to be clear here
+but we thought a general-purpose session
+like this which is open to everyone not
+just our registered students is a good
+idea because this is a very general
+topic which could benefit everyone who
+is who is getting into programming or
+who is transitioning from a non computer
+science or a non programming role to a
+programming role that's why we thought
+it's best to do it on YouTube so that
+everybody benefits basically it's not a
+very specific topic that we picked up of
+course once in a while we will do these
+general-purpose sessions on YouTube but
+in general we will be doing most of our
+live sessions through the desktop app
+that we have for all of the registered
+students so with that let's get started
+I just as usual change to that just give
+me a sec ok I'll simply change to the
+screen sharing mode take my face away so
+that we can focus more on the content
+okay I hope everything is good let me
+just check this once and then get going
+just give me a sec mmm ok I think I
+think things are good
+ok sounds good okay so this is the
+agenda for today let me okay so let's
+just okay so this is the agenda that we
+have for today on 23rd 529 teen the two
+topics that we'll cover we'll try and
+spend about one are on each of these
+topics the first topic is how to code
+effectively the second topic is how to
+build a simple web scraper again please
+note that we are not building a
+state-of-the-art web scraper because
+that that's that's a non-trivial task
+we'll introduce you to how to build us
+Apple web scraper using some simple code
+and some blogs okay so before we get
+started a couple of any well keep
+checking on YouTube also to see if there
+are any issues or hiccups okay okay so
+okay I'll also take a couple of breaks
+in between so that I can go through the
+comment section and try and answer some
+of the questions okay so a few
+announcements before we get started is
+primarily targeted towards the
+registered students so the first one is
+last week if you recall we have done
+this live session on how to build a chat
+bot so I'm extremely happy to see many
+of our students build chat BOTS using
+Raza dialogue flow and
+some simple chat BOTS that they've built
+using dialogue flow some of them have
+built it using Raza some of them even
+attempted the end to end conversation
+engines and this is very encouraging
+this is like feedback for us that the
+session we did is certainly very useful
+right so thank you all thank you thanks
+to all the students who have taken up
+time we've catered time to do this and
+we strongly encourage our students to
+take the lessons that you learn from
+these live sessions and work on top of
+them so that it gives us constructive
+feedback on how we could constantly
+improve the course number one number two
+it also keeps us motivated and
+encouraged when we see great results
+like this
+the second is sorry today he's a
+Saturday event we typically do Sunday
+mornings 10:00 to 12:00 this week this
+week I'm traveling tomorrow
+and I wanted to do this session without
+canceling it this week hence I thought
+we'll do it on a Saturday we'll do it on
+a Saturday I understand that some people
+because they're either college going
+students or working professionals have
+to go to work on Saturday they might
+miss this apologies for that but this
+whole session would be available on
+YouTube so that you can just watch it
+after your college or after your after
+your working hours at office okay sorry
+for a Saturday even will try and
+consistently do most of the sessions on
+Sundays unless there is a there are
+other constraints like I got to travel
+tomorrow okay so the third thing is
+we'll be having a new website in the
+next week or so
+we have built most of the key components
+of the website we have also tested it
+fairly decently and we will have some
+down time mostly night ours is T we'll
+announce it up front so if if you have
+any down time maybe one night or two
+nights this week apologies for that but
+will inform you well in advance this is
+to transition everything from the old
+website of course a lot of our students
+have given us feedback on how to improve
+the website some of this feedback has
+already been incorporated into the new
+website right and the new website is
+certainly very faster than the old
+website so we react addicted the whole
+system wrote every line of code from
+crach just to ensure that it will be
+faster it will be seamless and things
+like that but we will need some
+transition time to pull out all the data
+from the old website move it to the new
+website etc but we'll make we'll make
+announcements we'll make an announcement
+of of downtime during night hours ist
+sorry to the folks who are in or in day
+time who are in US and other time zones
+who may observe this downtime during day
+hours for you
+apologies for that but we had to pick
+one set of users over other
+unfortunately and since many users are
+from India we thought let's do it during
+night hours India time right so
+apologies and please cooperate on this
+front once the website is up we will
+start a new slack channel to report any
+bugs and improvements to the website so
+that our tech team can fix them one by
+one of course it will take some time to
+fix all of them but slowly and steadily
+we'll start this new slack channel of
+course all of our registered students
+would be would be able to access the
+slack channel and give us constructive
+feedback and report bugs and things like
+that so that we can so that we can fix
+them and iterate and get to a better
+website as fast as possible okay so the
+other major announcement is that we will
+be putting out this is again for
+registered students because some
+registered students have asked us that
+because of some work constraints or
+other constraints if that they're not
+able to attend a live session while it's
+happening via the desktop app could they
+get access to those videos so we will be
+putting out putting the putting out the
+live sessions in the desktop app only
+for registered students 24 hours after
+the completion of the live session right
+so we'll have a 24 hour buffer period so
+that people who could not attend these
+live sessions in person could certainly
+watch them 24 hours later via the
+desktop app okay
+so we got a lot of feedback on this
+front and we thought this is certainly a
+logical request of course but we
+certainly encourage all of our students
+to join us during the live session
+because it gives us a nice framework to
+interact all right it gives us a very
+nice framework
+to interact and to get your feedback and
+to answer some of your questions and
+things like that okay
+after those announcements let's go into
+how to code effectively right this this
+is the key topic of course there are a
+couple of subsections here so I'm
+assuming here the big assumption that I
+have is that you already have decent
+knowledge of Python all the course
+participants I'm assuming that you have
+gone through all the chapters of Python
+so you understand what is a variable you
+understand it fills conditions you you
+understand for loop you understand
+functions okay
+I'm not expecting you to be
+you know the basic construct right you
+know the basic things about variables
+I'm assuming that you know basically
+fills conditions basic for loop while
+loop right also some basic things about
+functions in Python
+similarly concepts like recursion right
+concepts like modules etc right I'm
+assuming you've gone through some of
+these pythons are present you have this
+foundational knowledge I'm not expecting
+you to be an expert in any way okay so
+the first question so before we go into
+it what is the objective of this session
+on how to code effectively right so I
+think after talking to a lot of students
+also review many assignments these are
+the problems that we faced and we want
+to help you fix them first thing is
+given a problem given any problem given
+any programming problem the first task
+is to break down the problem into
+smaller pieces break down the problem
+into smaller manageable pieces right
+that that's something that many people
+are not able to do of course I'm not
+expecting that everybody would be able
+to do it on day zero itself but I want
+to I want to guide you in the right
+direction on how to break down a problem
+also give you a lot of practice problems
+so that so that you can build on top of
+it the second thing is the core concept
+behind your idea course itself which is
+to learn to learn right
+no course on earth can cover everything
+and and all the things obviously it's
+impossible so what we would cover in a
+Pyrrhic even Python content right in a
+playah course what we have done is we
+have limited ourselves to the very
+basics and techniques that you need for
+data science and machine learning
+specifically we have there lots of parts
+of Python that we did not cover
+intentionally because this is not a
+Python code so and there are some
+concepts in Python and some libraries in
+Python that we have introduced as in
+when we need them right so we want to
+encourage your students to learn to
+learn using Google using function
+references and things like that and
+there's a third thing that we observe a
+lot amongst our students which is many
+students have fear of using new
+libraries okay if you see a new library
+let's say right people say ok I don't
+know what this library does I'm not sure
+what it does and in the start
+and start getting frightened about it
+and they don't even use it so I want to
+demystify some of these things that new
+libraries what is the life what is a new
+library or a new module if you think
+about it it's basically a bunch of
+classes and a bunch of functions that
+you care about that's all there is right
+in a nutshell this is what this is what
+a new library is all about if you know
+basics of classes and functions in
+Python learning a new library is just
+about google searching for a bunch of
+classes that are useful for you so I see
+lot of fear among students especially
+the non computer science to rin-chan non
+experienced programmers to use new new
+libraries so what we will do here is we
+will focus on all these three things of
+course there is obviously a lot of
+experimentation that you have to do
+there is search and you have to learn
+and you'll fail trust me I started
+programming I think when I'm in 11th
+class because I was studying in CBS see
+syllabus when we had programming I still
+remember the very first few programs
+that I struggled through them right it
+is only after after after awhile that I
+actually got comfortable with
+programming right I think I started in
+Foxboro I think there is this thing
+called Fox Pro and I also learned C++
+probably mid 11th or 12th and of course
+I don't know what the classes and things
+like that at that point of time very
+basic understanding but I knew what a
+for-loop is what in the Phils condition
+is and stuff like that but it took me
+huh it took me quite a while to get a
+good grasp and to become a decent
+programmer who can write decent programs
+it's it's not like a switch that you
+turn it on and you have answers it's not
+like that it will take a lot of practice
+to be honest with you there are no
+shortcuts here as always
+anything that is useful skill to learn
+in life would not have shortcuts if it
+were if there was a shortcut to learn it
+then that skill is mostly useless right
+so I'll give you I'll guide you through
+the right path but there are no
+shortcuts let's be honest here ok so
+let's start with so I'll try to focus on
+all of these aspects of course we will
+introduce you to new new libraries and
+explain you how new libraries are
+extremely easy to pick up we'll also
+teach you how to break down a problem
+how to experiment search debug and learn
+basically so we'll start with some
+simple problems
+we'll go to web scraper by the end of
+this session okay so just a second let
+me see if everything is okay here on the
+live sessions okay okay okay somebody
+was also asking about SQL I'll come
+there so we have actually covered
+excusive Lea in the course we actually
+take IMDB data set and what we have done
+is we actually show you how to actually
+build a how to use SQL in the real world
+data so here is this question how to
+learn SQL there are many good sources
+there is a good source called w3schools
+if you're not a registered student which
+has some nice tutorials or if you're
+registered student we have lot of
+content on SQL itself we take IMDB data
+and show you and introduce you each of
+the concepts why are the real-world
+examples from IMDB data sets okay okay
+let's so I hope that no issues here so I
+will go back to the discussion itself
+okay so let's start with a very simple
+problem okay then we'll take slightly
+complex problem and then we'll jump to a
+web scraper okay bear with me I'm
+starting very very simple here some of
+you may think this is to Kadesh but this
+is how logic will be built right so the
+first problem is
+okay so the first question so the first
+product the first program is fine if
+they find if a if a number find if a
+number is prime or not okay the moment
+you see this okay this is a mistake that
+a lot of people do the moment people see
+this problem definition they start
+coding that's a bad habit unless you're
+a terrific coder unless you're a
+brilliant coder the first thing that you
+should try and do is break down this
+problem the first task that you should
+do here is okay I've written it here
+anyway very clearly write down the logic
+how you would find it forget about code
+and all of that first write down the
+logic on have given any number if I give
+you a number five how do you determine
+five is prime or not first get that
+logic right in your head write down the
+steps and while writing down the steps
+if you can write down using concepts
+that you already learned you learned
+about conditions like offense conditions
+you learned about while loop and for
+loop or functions and recursion right so
+basically what you're trying to do in
+step one is you're writing the logic if
+possible using the conditions that you
+already know by breaking down the
+problem into smaller components so we'll
+do that step by step okay first thing
+forget about everything let's try to
+explain this in English before we even
+use conditions functions etc right well
+how do I determine if a number is prime
+or not suppose I have a number N equals
+two let's say 12 or let's say 13 okay 13
+I won't determine if this is prime or
+not what do I do I take all the numbers
+between two so on so forth up to 12 okay
+I'm giving you the simplest algorithm
+there are more optimal algorithms I'm
+not even going there okay so this is not
+about optimality this is about writing
+working code as a first step so how do
+you how do you determine if a number is
+prime or not what is the simplest way
+you check if each of these numbers can
+exactly divide your n not not so first
+you check if 13 divided by 2 what is the
+reminder okay what is the remainder when
+you divide 30
+by two okay so you see if each of these
+numbers 2 3 up to 12 if it can if any of
+these numbers can divide your n then it
+is not a prime then it is not a prime
+right if they cannot divide then it is a
+prime so simply put if you were to write
+the logic in English you say if n is not
+divisible if n in not divisible by 2 3
+so on so forth n minus 1 if it is not
+divisible then n is a prime number
+then n is prime right else otherwise
+forget about the terminology otherwise
+it's a prime it's it's not a prime right
+otherwise it's not a prime this is how
+we would explain it to a small kid this
+is the logic right I am not even going
+into the code right now this is simple
+logic right so once you've got the logic
+right that's that's what is important
+right so now we've got the logic right
+you got the logic right try to explain
+this logic using the tools that you have
+at your disposal what tools do you have
+you have the concept of
+you have the concept of conditions like
+if else you have the concept of loops
+you have the concept of functions let's
+say let's just use this simple construct
+of course the more car ideas like
+recursion classes all of those right but
+let's for simplicity let's just say
+using these example using these concepts
+forget about the programming language
+that you are coding in okay if you get
+this part right writing code is
+basically converting the logic that you
+got into some programming language
+syntax that's all there is
+okay so let's ignore the programming
+language for a while and write down okay
+write down using this construct so
+you'll say first you want to input n
+okay you want to input n and store it
+into a variable okay you want to input a
+number so let's write this so N equals 2
+input a number input a number right of
+course if the number is equal to 1 1 is
+neither frame prime nor nor is it a non
+prime number so that number cannot be 1
+0 there is no point in it right so you
+want to input a number that is greater
+than 1 obviously right otherwise again
+you want this to be an integer okay not
+just a number an integer now once you've
+got this I'm just trying to be
+mathematically accurate here once you've
+got this what do you want to do okay
+you want to check if n is divisible so n
+is you want to check if n is divisible
+by 2 3 4 so on so forth up to n minus 1
+see the moment you want to do as check
+like is n divisible by something
+multiple they look at this by multiple
+values here that's what you want to do
+right so the moment you see something
+like this this should remind you of a
+for loop because in a for loop I can say
+for I equals to 2 to n minus 1 okay
+again I'm not writing code in any
+language here I'm just writing the logic
+that I got for some variable i from 2 to
+n minus 1 including 2 and n minus 1 okay
+if n is
+divisible by ie right because now your
+eye is taking 2 3 4 and minus 1 if n is
+divisible by I okay if n is divisible by
+I so how do you measure if the number is
+divisible by I or not there is something
+called as a modulo operator you might
+have learned this when you learnt about
+operators in Python or operators in any
+language for that matter okay if I
+modulo sorry if n modulo if n modulo I
+is equal to zero okay let me not write
+the C syntax here okay if if n modulo I
+is equal to zero you would say not a
+prime you would say not a prime right
+and you check it for all of them
+because you've already declared that
+it's not a crime there is nothing else
+to check for example if your input
+number is 12 first you check with two
+okay
+12 modulo two is zero no which means 12
+is exactly divisible by two you don't
+have to again check if 12 is divisible
+by 3 4 etc now it's you already declared
+that it's not a prime so nothing to
+worry then you exit ok again I'm not
+writing the optimal code I am writing
+the code that is simplest ok and at the
+end of this whole for loop if you have
+not exited what does that mean if you
+have not exited at the end of this whole
+for loop what does it mean it means your
+n modulo I your n modular I was not
+equal to 0 for all possible values of I
+because I is taking values from 2 to n
+minus 1 right so the moment this this
+for loop came out the moment you exited
+the for loop without exiting the whole
+program you can say this number has to
+be a prime because I already checked it
+with all the numbers between 2 to n
+minus 1 and in all these cases when I
+tried n modulo ie I never got 0 very
+simple algorithm of course this is not
+the optimal algorithm by any means
+so whatever done I have taken my English
+I have taken the concept that I wrote in
+English which is if n is divisible by
+these numbers this or 3 or this or this
+then not divisible sorry if it's not a
+little bit 2 & 3 and so and so and so
+then n is prime otherwise it is not
+prime the other way of writing this is
+if n is divisible if n is divisible by 2
+or 3 or 4 or or any of these numbers
+till n minus 1 then right then n is not
+a prime then n is not a prime else it is
+a prime else it is a prime right so this
+is another way of writing the same thing
+in English
+so whatever done I have taken something
+that I've written in English and I've
+converted into simple code so this code
+is often in computer science called as
+pseudo code because this is actually
+not code itself in any programming
+language this is not code this is how
+the logic flows but remember here we
+have used all the key constructs we have
+understood the concept we have used the
+concept of a variable we have used the
+concept of a loop a for loop we have
+used the concept of an if write so we we
+have used conditions we have used loops
+and we've used the concept of a variable
+and we've also used an operator here
+called the modulo operator right so the
+key thing is first given a problem try
+to write it down in English the way you
+understand it then convert it into some
+pseudocode try to write this in
+pseudocode again this is for beginners
+if you're an expert you can write code
+directly then
+Russian or what tool can I use to input
+a number in Python so convert each of
+your lines of pseudocode into program
+enough ok so let me show you some very
+simple crude program that I wrote here
+look at this what ever done num equals 2
+input this so this input function this
+input is a function here right
+helps me input a number and we'll
+convert that into integer so this line
+this line is exactly same as this line
+here so what am i doing I am right
+taking my pseudocode converting into the
+programming language of math choice once
+I have this logic I can convert into
+Python I got converted into C C++ any
+language of my choice okay then what am
+i doing I am saying for I equals to
+range to common umm which means from 2
+up to from 2 so what does this range
+function do again we discussed this in
+the course and if you don't know again
+this is a good question
+if you don't know what this range
+function does ought to be more important
+if you don't know so if you don't know
+how to write this I diretor from 2 to n
+minus 1 let's assume you forgot the
+syntax or something like that how do you
+figure this out ok so let's just go to
+google come in that's the easiest way to
+do it ok so let me go here so Python
+sorry let me type it down here so I'll
+simply say Python for loop 2 to N let's
+say 2 to n minus 1 I'm just literally
+writing if I just go here okay there
+tons of the tons of tutorials here to
+help me okay so the immediately you'll
+see a function like this right
+immediately the very first Google search
+link shows you that if you write range 4
+to 10 it gives you 4 5 6 7 8 9 so all
+the numbers starting from 4 up to 10
+minus 1 what did I do I just Google
+search the question that I had on my
+mind I simply google searched for it and
+oftentimes you may not find the answer
+in the first search result itself you
+might have to read through 3 or 4 search
+results when you google search or you
+might have to modify
+google search result right so very
+simply speaking if you don't know if you
+do not know how to do this just Google
+search for it for example if you have to
+write code in let's say Ruby for those
+of you who don't know Ruby is a
+programming language
+I don't know Ruby but we can simply
+understand how a for loop works in Ruby
+by just doing the same Google search for
+example I'll tell you I don't know Ruby
+by the way hard loop Ruby okay okay
+there is some tutorial here let's just
+go and see by the way to be honest I
+don't know Ruby okay not at all okay
+this is while loop right
+is there a for loop in I'm just checking
+is there a for loop in Ruby I don't know
+I'm also still saying Ruby while
+statement Ruby while modifier
+Ruby until Ruby until Ruby for statement
+okay let's look here okay so this seems
+to be the syntax in Ruby for I in zero
+dot dot five okay so what does it do
+when I do this when I do
+though up to five including five unlike
+Python okay so if I were to actually
+write this code in Ruby where which I
+don't know at all I can just look at
+this what is it doing it is saying for I
+in 0.5 right then immediately what will
+I try I'll say for I in 2 dot dot n
+minus 1 I don't know if this will work
+in Ruby or not I actually don't know I
+don't know if this is right syntax also
+but I'll try it
+I'll experiment it might fail then I'll
+again Google search and try to find the
+answer right so if you are given if you
+have this statement and if you don't
+know how to write it in any programming
+language just Google search for it there
+tons of resources online to help you
+this is how I learned most programming
+languages I actually read the very
+basics get started right just just
+simply get started and get going right
+so okay so look at this so if I don't
+know this range function I'll just
+Google search for it and find that this
+range function works okay just ignore
+this print statement I'll come to it in
+a few minutes just ignore that for
+enough
+that's for debugging let's ignore that
+then of what I am saying how do i
+compute modulo operator now what is my
+next claim if n modulo I equals to 0 if
+I don't know how to compute modulo
+operator next question right again just
+a Google search away again a simple
+Google search of a let me just change
+here Python modulo operator sometimes a
+good example is example this type
+example people will tell you against a
+core flow is a phenomenal resource if
+you just do this people will give you
+hundreds of resources okay see it says
+nine percent age 2 is 1 ok it says
+percentage the symbol percentage
+evaluates the reminder somebody told me
+the answer right there and then right so
+if you don't know anything
+everything is mostly a Google search
+traffic right so the moment I realized
+that percentage is a modulo operator I
+said if this is true then print not a
+prime and exit if I don't know how to
+exit if I don't know how to exit a
+program again a Google search away just
+Google
+how to exit how to exit a program how to
+exit a program Python of course you
+might have to re-edit this a little but
+then you'll get this answer and what
+have you done it checks all of them if
+it doesn't if this program doesn't exist
+exit which means each this your number
+or n is not divisible by all the numbers
+between 2 and up to num minus one
+including num minus 1 because that's a
+range is defined right and hence you say
+it's a prime number so what have we done
+the 3 steps to it first grasp the
+concept in English try to write it in
+the simplest English sentence or
+paragraph
+instruct that you already know you know
+that there is something called a for
+loop you know that there is something
+called a variable you know that there
+must be some modulo operator some
+conditions that's all just try to
+convert into this once you convert into
+this translating that to code is trivial
+and you can run you can convert this to
+any programming language for that matter
+okay so the key here is the most
+important step is to get the logic right
+this is the most important step once
+you've got the logic right being able to
+translate that to pseudocode is very
+important
+once you gordon pseudocode you can
+translate it to any language if you know
+the basics of that language even if you
+don't know the basics of the language
+you can google search for it and write
+decent code not the optimal code but
+decent code okay so very simple nothing
+very fancy or of course I can execute
+this here and show you that this works
+obviously let's say I have five okay so
+I'll come to these statements I'll come
+to these statements and why this print
+statements are there okay
+I'll come to that in in a couple of
+minutes okay back to our back to our
+notes dock again I'll share this notes
+for you I'll share all the links that
+are here but the key thing here is write
+the logic and convert it into a pseudo
+code using conditions loops functions
+recursion break the problem into smaller
+components okay then write your code of
+course Google search can help you there
+is a third very important thing if your
+program is not working as expected what
+do you do so we have a section called
+debugging Python code in our inner
+course but there's a much much simpler
+thing you can just literally print and
+see what's happening for example but let
+me show you this code here let me show
+you this code so here while this loop is
+running I want to understand
+so this print line is here just for me
+to understand what's happening
+internally okay me hypothesizing what is
+happening is different from what is
+actually happening internally right so
+what do I do here I print num I print I
+and I print num modulo I I print these
+three things so that I know exactly what
+is happening inside this loop and I can
+verify what is half
+in this loop is it exactly same as what
+I think it is okay so for debugging if
+you if you're not comfortable with using
+debuggers like python debuggers etc
+simple print statements can help you
+that's how most that's how I learn to
+debugging at least okay so for example
+let's look at this okay so python is
+prime suppose let's assume I enter a
+number like 19 it says you my enter a
+number like sorry okay let's say you my
+enter a number like 19 so first what it
+does it says my input number n is 19
+okay I'm trying to divide it by two my
+remainder is 1 ok then 19 because look
+at the code look at the code here that's
+important look at what I have in the
+code what am I printing I'm printing num
+I and num percentage I those are the
+three things that I'm printing right so
+if you look at if you look at them
+happening I'm trying to print 19 which
+is my number with too fast reminder is
+one because the reminder is 1 nothing
+happens right because if the remainder
+was 0 it would have printed not a prime
+and come out of that loop then I check
+it with 3 with 4 so on so forth with 18
+none of them if you notice none of them
+are 0 because none of them are 0 it
+prints prime number so just adding
+simple just adding simple sorry let me
+ok so just adding simple print
+statements here can help you debug what
+is happening and understand what's
+happening internally ok so very simple
+stuff nothing very fancy here again some
+of you may be bored that this is too
+simple an example we'll go to the more
+complex examples right so this this is
+the crux of it so given any problem
+these are the 3 4 steps that you can do
+to actually write simple programs again
+now you might wonder how do I become
+good with programming there are no
+shortcuts here you got to practice you
+got to practice practice practice
+ok so this is this is a very nice link
+where you have hundreds of programs
+Python programs that you can practice
+there is another thing which is read
+other's code right you it's very good to
+read others code and see how they
+implemented it ok to learn good
+programming practices but just reading
+others code will not make you a good
+programmer just because you read
+Shakespeare just because you did
+Shakespeare doesn't mean that you can
+write as good as good and literature as
+Shakespeare right so you got to read
+others code to be able to appreciate and
+learn good programming practices but you
+can't escape writing your own code okay
+you cannot let let's be let's be fully
+honest here there is no escaping the
+fact that if you are not a good
+programmer the only way to improve is to
+program program program ok so let me
+show you this is a very nice list of
+examples look at this they start with
+the simplest of examples
+Python program to add two numbers that's
+what that's where they start okay then
+they keep increasing the complexity
+again most computer science students
+most computer science students during
+their undergraduate days would have
+returned this in maybe C C++ Python Java
+whatever it is right this is how many
+people learn programming in the real
+world okay then Python program for
+factorial of a number of course if you
+click on any one of them you will get
+code okay so for example if I click on
+this I will get some code in Python okay
+some explanation and some simple Python
+some simple code this is like a
+recursive code okay there is also a
+nitrate if code and all of that stuff
+okay the key the key here is look at the
+problem if you look at the solution you
+are not learning much let me tell you
+that first look at the problem try to
+write the code yourself try to write the
+code try to write the code yourself
+struggle through it that struggle is
+mandatory if you want to become a good
+programmer okay struggle through it you
+cannot escape this fact in the long run
+if you want to become a good programmer
+write it it is a skill it is just like
+swimming or it's like it's like running
+marathons the more you do the better you
+become right it's it's like learning
+bicycling right when you learn to cycle
+right exactly similar stuff the more you
+practice the better you become so these
+programs are very very simple programs
+and you can so write your own code once
+you write your own code struggle through
+it use print statements to understand
+what is happening and then read the code
+that they have provided also because
+that will give you additional data
+points right so there is no escaping the
+fact of actually programming and
+struggling through it that's why even in
+our course we want students to do
+assignments because that's the only way
+they learn about the real world and pick
+up these skills not just in programming
+okay I'll come to optimize school and
+all of that let's take a second simple
+problem okay suppose imagine I have a
+list of numbers let's say 1 2 1 4 6 8
+suppose I have a list of numbers I want
+to compute the frequency of each number
+what is the frequency frequency
+basically means the number of times the
+number of times each each number or each
+element occurs in your list right that's
+what it is suppose you imagine you are
+given a list like this ok
+imagine you are given so this is problem
+too ok so imagine you're given a list
+okay you're given a list 1 1 1 2 3 2 3
+ok 4 4 4 ok now I want to count how many
+ones are there how many twos are there
+how many threes are there and how many
+fours are there that's what is it's
+called the frequency count or finding
+the frequency of occurrence of each of
+these elements so how many ones are
+there so to do it how do I do it
+manually I go through each element I go
+through each element and I literally
+count how many times one exists right
+the moment you see that I'm repeating
+something many times it should remind
+you of for loops obviously right right
+it should remind you of for loops
+logically speaking so here I say one
+exists 3 times 2 exists 2 times 3 exists
+2 times 4 exists three times how would I
+do that
+I basically counted so basically I
+created a new array right now you've
+learnt about arrays or not ok so imagine
+I have 4 elements 1 2 3 4 whenever I see
+one let's assume all of them are
+initialized to 0
+the moment I see one what will I do I'll
+increment this or I'll increase this by
+1 at the moment I see one I'll increment
+this by 1 so again I see one so what
+should I do
+I should increase this again by 1
+because I have seen 1 2 times again I
+see 1 what should I do
+I should increase this by 1 now I see a
+2 so this should increase by so this
+increased by 1 because I've seen to one
+more time
+now I see 3 as soon as I see 3 what
+would happen I should now increment this
+now again I see 2 which means this
+should get incremented now again I see 3
+so this should get incremented I see 4 3
+times
+so first it will become 1 then it will
+become 2 then it will become 3 finally
+now I can say yes one occurs three times
+2 occurs 4 times 3 occurs 2 times 4
+again occurs three times right very
+simple logic so of course you can write
+your own code so first thing what did we
+do
+we tried to solve the problem right
+using our own intuition first we try to
+understand the intuition or the law
+could using arrays or hashmaps right if
+you know hash maps or if you know
+as it is called in Python or
+dictionaries right they're also called
+as hash maps in other languages
+again we discuss this extensively in the
+course right and of course you you have
+to know for loops all right you know how
+you should know how to increment the
+value right using these logics using
+this you can convert the logic that we
+just discussed right enough into
+pseudocode you can convert this whole
+thing into pseudocode once you convert
+everything into pseudocode the third
+step is translating into Python this is
+the third step right of course this
+program is slightly trickier than the
+previous one but both of them are simple
+loops but there is an other way to solve
+this problem this is one way this is one
+way by the way in programming there is
+no single way to solve a problem if you
+ask two people to write the program very
+likely if they have not cheated there's
+a very high likelihood that they both
+will write very different programs right
+so let's see how to actually count
+frequencies suppose I want to figure it
+out of course I've thought through this
+logic all of that stuff very good is
+there another way it's always good to
+learn multiple ways to solve a problem
+because that improves your knowledge
+base okay so I will say frequency and
+say how to how to compute frequency of
+items in Python that's all how to count
+the frequency of elements in a list
+Stack Overflow very first question okay
+so somebody has this question that I
+have very good question exactly what we
+want right
+Google is terrific with the search
+results I have these numbers I want to
+count how many times each of these
+numbers occur okay so as soon as you go
+people have written like this is a
+slightly more complex way of doing it
+just don't read only one answer read
+multiple answers or here is a very
+simple line right if you should notice
+this this line is very simple there is
+this thing there is this module called
+collections
+or a library called collections and you
+can create a counter object and if you
+say a print counter it'll literally
+print how many times each of these is
+occurring so what has happened is there
+is an existing function called counter
+right there is an existing function
+called counter in the collections module
+which actually does that for us but
+let's learn more about this instead of
+just using the same thing it's actually
+learn more it's very very important the
+moment you realize this you should read
+the function definition or function
+reference counter and say in collections
+even reference okay okay so I have
+collections and I have counters
+I'm trying to do this almost live here
+with you okay so I have a counter here
+okay so let's go to counter so what does
+the counter do I hope this is the same
+collections not counter okay so a
+counter is a dicta subclass for counting
+hash table objects it is an unordered
+collection where elements are stored as
+dictionary keys bla bla bla bla bla bla
+bla
+it's always good to see code trust me
+okay there is nothing there is nothing
+better than actually of course because
+when when you read Python reference this
+is the Python original official
+documentation so they try to be very
+very accurate very very rigorous with
+every statement that they make so the
+best thing of course if you can
+understand this that's great
+but if you cannot understand this which
+could happen to many people because you
+may not know what is a subclass you may
+not know what is a hash table object
+right the many terms that you may not
+know so the best thing for word then is
+just say elections counter right
+examples again what are we doing great
+you're saying counter dot values right
+so the moment you say this okay on
+hacker rank there are some examples here
+okay just go through as many examples as
+possible okay somebody has given some
+nice example okay okay here is a problem
+okay my list bla bla bla and again when
+you go through examples like this things
+will become much more clearer for you
+there what is this person doing is
+basically creating a list and there
+print counter of this list so it's
+basically saying to occurs four times
+three occurs four times etc etcetera
+etcetera five occurs 1 times etc so
+that's what it is literally doing right
+so by just reading through example Z
+function reference gets hard for you the
+easiest way would be to read multiple
+examples right so of course it's good if
+you if you can implement this with your
+own logic certainly this is one way of
+doing it the alternative way the
+alternative way there are many ways of
+doing it by the way the alternative way
+is to use color
+Shen's dot counter and how did I know
+this as his Google search for it and I
+just didn't just Google search for it
+and got the code I tried to learn about
+how this counter works either by reading
+the function reference either by reading
+the function reference and if sometimes
+reading the function reference is hard
+then it's very be easy to actually go
+through many many examples to understand
+what's happening because this of course
+function reference is certainly a more
+rigorous way of learning it but if you
+don't understand it for some reason
+because you're still a newbie and you're
+still learning the basics this is one of
+the best ways okay so the key here is
+again the key here is write the logic
+translate that into code obviously write
+your debug statements write your debug
+print statements to understand what's
+happening so that you get to know what's
+happening literally right again there is
+there are no shortcuts here it's all
+about practice again I'll I'll provide
+the link to this whole document at the
+end of this session as one of the
+comments for the video so don't worry
+about taking notes I'll provide this
+whole document to you right very very
+important to read others code to learn
+good programming practices you can't
+escape that
+you can't escape writing your own code
+there's a very key thing that some of
+you who are actually good programmers
+might be thinking writing code
+effectively and writing optimized code
+right are two different things
+here what we discuss till now is writing
+some code writing working code writing
+some code that works ok writing some
+code that works not necessarily the most
+optimized code so writing optimized code
+would require you to note two things
+again in the course itself we discuss
+Lord
+structures and algorithms right we
+discuss about hash tables okay in the
+context of dictionaries we discuss about
+advanced data structures like KD trees
+right when we learn I think when we
+learn K nearest neighbors we learn
+advanced data structures like KD trees
+when we learn decision trees right we
+learn about a data structure called a
+tree right we also learn about various
+algorithms like how to search for an
+item right how to search for nearest
+neighbors using KD tree right so in
+machine learning also we use lot of data
+structures and algorithms like we learn
+lot of machine learning algorithms and
+optimization algorithms like stochastic
+gradient descent etc right so algorithms
+is a huge subject
+they're also classical data structures
+and algorithms that computer science
+students learn off so this will
+certainly help you become a better
+programmer okay if you have time if you
+are willing in if you are willing to put
+in the effort learning data signs and
+algorithms
+asari learning data structures and
+algorithms is a very good investor
+investment of your time to become a good
+programmer to become a actually very
+good programmer if you want to become a
+very good programmer in the long run it
+is good if you can learn data structures
+and algorithms and similarly to write
+optimized code you need to learn the
+language in detail for example here I
+don't know Ruby so I can't write
+optimized code because I don't know how
+the language works internally I can
+write very efficient C C++ even Java and
+Python code because I've spent years
+writing code in C C++ Java and Python
+and understand lots of internal details
+of these languages right I know of what
+how memory is allocated in see how
+memory is Delocated in see how
+references work in python all these
+program specific details I understand
+very well so to write optimized code you
+have to learn both the programming
+language and become good at data
+structures and algorithms but to write
+working code not necessarily optimized
+code you don't have to be an expert in
+all of them certainly knowing them is
+beneficial it's not let's not kid
+ourselves with that
+on time there before we go to the second
+part okay I'm here and let's go to the
+comment section okay
+okay let's go through some important
+ones okay I just scroll a little so that
+I can answer more okay so of course
+there somebody was suggesting that we
+can check if a number is even we don't
+have to do it obviously there are many
+optimized ways of checking if a number
+is prime or not I'm not denying that
+what we wrote is a very very simple very
+very simple stuff okay very very simple
+algorithm of course if you can optimize
+it using some properties of prime
+numbers that's certainly beneficial but
+let's get the basic code first and then
+let's do the optimized code later okay
+so while I'm going here some books for
+data structures and algorithms there is
+one book which I would call it literally
+the the best book that I've ever read in
+my life I still have that book right in
+front of me on my on my on my bookshelf
+this is called introduction to
+algorithms by Carmen leiserson rivest
+and stein it properly called as CLRS I
+think this is the best book I've ever
+read for data structures algorithms in
+my life I bought this book in 2004 in my
+BTech second year first semester and the
+book is still with me I still refer to
+this book whenever I get stuck from some
+data structures algorithms I don't know
+how many times I've written on it I've
+highlighted it it's like it's like a
+terrific book it's it's if you want to
+read a book for the destruction of
+Gotham's especially of course this is
+not like an expert level book but this
+book has helped me over the last 15 16
+years whether I have been working at
+top-notch companies or as a student
+right so that's the best book if you
+want to pick one
+somebody's asking why not are why more
+emphasis on Python very simple again
+I've explained this multiple times on
+different on different videos also see
+Python is a more general-purpose
+programming language right are on the
+other hand is specific for statistics so
+certainly there are more libraries
+available for Python so if you're
+learning a language why not learn a
+general-purpose language you can build a
+web browser in Python you can build a
+web scraper in Python you can build
+literally Google search on using Python
+today right you can write world class
+code using Python and deploy it in
+production large-scale code of course
+are is catching up are is very strong
+with statistics not so strong with other
+aspects so if you are picking up a
+language by not Python that that's a
+counter-argument because Python has very
+good libraries for everything from basic
+statistics plotting tools to to deep
+learning whole of machine learning
+[Music]
+bite them right again don't get stuck on
+a language that doesn't mean are is not
+a good language I've used our personally
+a few times like I've started learning
+from FoxPro C C++ Java Python dotnet
+I've tried a little bit of pearl in
+between I write a lot of shell scripts I
+write I've written a little bit of
+c-sharp also and asp.net a couple of
+times I bet a lot of PHP code for a for
+a while I've for the last few years I've
+moved to Python and Python has become my
+primary programming language but if
+there is some library that is not
+available in Python but available in are
+I just pick it up what is there and
+picking up a programming language it's
+just a Google search away of course
+becoming an expert in a programming
+language will take time but just writing
+functional code if you got the logic
+right writing functional code is very
+simple it's just a Google search away we
+just saw Ruby a while ago right so okay
+so let's go ahead let's go up a little
+somebody was asking about the previous
+live session I think we sent on slack
+the Google Doc to all students so if
+you're registered student if you're not
+on slack please join our slack official
+channels and all the data we share
+constantly on slack it's a very very
+active group on an official slack so we
+already share I think I shared the
+Google Doc ten minutes after the live
+session so it's available for everyone
+to check out okay there's some general
+questions about applied a course I will
+not go into them if you have any
+questions about general questions about
+machine learning or apply to a course
+please
+call us on the phone numbers on our
+website I want to stick to I want to
+keep this session limited to how to
+write programs efficiently how to build
+a scraper I don't want to deviate into a
+platter a course content or machine
+learning and things like that
+okay please sorry for that
+okay okay any other question here how
+important is make ml models using
+libraries that's what most people do
+anyway I don't see anything exciting
+anymore yeah people have been asking me
+about applications of machine learning
+in various areas we'll do probably a
+different live session I want to confine
+this live session to writing good and
+good programs effective programs and to
+build a simple web scraper because a few
+students have asked us about web
+scrapers and okay before we go into web
+scraper just a quick water break for me
+I think we're almost an hour into it so
+next one or I will try to spend for web
+scrapers before I go into web scrape but
+there's a very interesting thing I won't
+tell you just give me a sec okay so you
+might wonder what is web scraping in the
+first place okay so I'll explain in that
+a little before we dive into it so again
+why is web scraping important we'll come
+to that so a very interesting way to
+actually build your own portfolio of
+projects or do you do your own case
+studies in machine learning very
+interesting way what a lot of people do
+is this you get data from the internet
+like for example you get data from
+Kaggle dot-com or Wikipedia or other
+data sources you get the data you build
+some machine learning models on top of
+it you do some data analysis machine
+learning deep learning models you try
+out multiple model shakes be in the
+business context you explain how to
+deploy the model you do all of that
+that's great that's certainly a very
+good portfolio project or a good project
+for you to showcase your skills in
+machine learning and data science there
+is one piece which can make your
+portfolio terrific okay actually
+brilliant which is obtaining your own
+data lot of times people actually obtain
+data from Kaggle or from other sources
+where people already collected the data
+again by the way we have done this a lot
+in our course case studies also there is
+one very interesting course case study
+about Amazon Apple recommendations
+wherein we got the data about
+I think a few hundred-thousand apparel
+products on amazon.com we actually got
+the data from Amazon from Amazon website
+and built models on top of it right this
+data was not given to us on a plane
+we didn't download it from anywhere we
+wrote scripts to actually obtain this
+data of course I'll tell you how to
+obtain the data how we wrote it all of
+that in a little while but just because
+we have done that now imagine you have
+imagine you have two projects or two
+case studies that you've done one case
+study where somebody gave you the data
+you did all of the machine learning
+pieces very well okay you wrote a
+brilliant blog you have a nice github
+profile everything that's one project
+let's call it p1 suppose there is the
+second project where you did all of the
+machine learning part data analysis blog
+you did all of that very well
+plots everything but instead of getting
+the data from kaggle like in your case
+one you actually wrote scripts to get
+your own data that is case two so if you
+present case two as your as a case study
+that you have done your chances of
+showcasing your skills not just in
+machine learning but also programming at
+large because now people will say oh
+this person is not limited to just data
+said somebody giving a data set this
+person is going out there grabbing the
+data that he wants in a in a you know in
+a legally compliant manner of course
+I'll come to legal compliance and all in
+a little while so he's updating the data
+he's writing code to obtain the data
+himself and building models on top of it
+that showcases your skills both as a
+programmer as a go-getter because data
+was not given to you you wanted to solve
+a problem you went and got the data that
+shows you in a very interesting light of
+being somebody who gets the data that he
+or she needs very interesting
+so to do a great machine learning
+project in addition to doing all the
+machine learning components if you can
+somehow get the data that you need
+yourself that is like bonus points
+now the obvious question here is how do
+I get the data okay so we I hope I
+convinced you that getting your own data
+if you if there are instances where you
+can get your own data that adds value
+the immediate question is how do you get
+your own data obviously if the data is
+owned by a company let's assume the
+company doesn't want to share the data
+you should not touch it
+because there will be legal
+repercussions for it for example I'll
+give an example
+okay so there is so for example Amazon
+is very reluctant to share their
+customer review data because customer
+review data of Amazon is super critical
+to Amazon's business it is something
+that only Amazon has lot of customers
+come to Amazon because of their customer
+data so Amazon will stop you if you try
+to grab their data from their websites
+or scrape they did the word there is
+scrape scrape basically means you write
+some code to visit a webpage okay you
+write some code to visit a webpage just
+get the whole content on the webpage
+that's what is called scraping okay
+within scraping you have to be very very
+careful not to violate the policies of
+the website that you're scraping you
+have to be very very careful not divided
+because there will be legal
+repercussions for example if I write a
+script to simply scrape amazon's product
+reviews amazon has a terrific system
+which detects that i'm trying to do this
+and it will block me okay and if this
+case is severe there have been instances
+where amazon has taken legal cases on
+perpetrators who have already been
+warned but the amazon doesn't want to
+give you that data there are other
+pieces of data that Amazon is willingly
+is willing to share right so Amazon is
+willing to share the product name
+sometimes even the product price
+sometimes not always or the product
+availability so there are some pieces of
+information that Amazon is willing to
+share there are others which Amazon
+doesn't want you to have of course
+Amazon might share some of this
+information with some companies like
+Google for example so for example how
+does Google work think about it right
+Google literally crawls the internet
+which means
+goes to almost every webpage on the
+internet right scrapes the page obtains
+all the information in the page and
+stores it on their servers so that when
+you search for it it's able to bring
+that information to your disposal ok so
+what Google is doing is basically an
+internet scale web scraper but companies
+want to be on Google Amazon allows
+Google to scrape their information
+comfortably that's because Amazon wants
+their products to be searchable through
+Google right on the other hand Amazon
+doesn't want their competitors to be
+able to crawl and to be able to scrape
+the information on their web pages right
+so to be honest with you scraping has
+legal repercussions so you have to be
+very careful before you scrape the
+webpage please read the policies and
+terms and conditions of the website and
+oblige by them okay I'm being I mean
+very very serious here okay please don't
+take it lightly because I know a few
+companies which got shut down because of
+it and few individuals who are behind
+bars because of it
+okay you I know Amazon instead of taking
+legal actions against some individuals
+and companies for things like this
+having said that the second best way to
+obtain data is through you something
+called as ap ice we have discussed this
+one in one of our previous sessions so
+the way an API works is like this okay
+okay let me just explain you here with
+hands right suppose this is Amazon right
+this is Amazon servers Amazon servers
+say you can call a function that is
+sitting on a server on Amazon okay you
+just call this function and say I want
+to I want to see the top hundred search
+results when I search for let's say a
+kurta or or a t-shirt let's say my
+search is t-shirt for men I can just
+call Amazon Search API Amazon provides a
+search API by the way I can just call
+this API this API which is residing on a
+server gives me the top hundred search
+results Amazon literally lets you do
+this much more efficiently so if there
+is an API available to obtain data
+legally which is provided by the company
+or the web
+please use that that should be the best
+one so for example for our Amazon fine
+food reviews no for our Amazon sorry not
+fine food fashion discovery engine we
+have a we have a case study called
+Amazon fashion discovery engine what we
+did was we did the the legally compliant
+way we used Amazon's prot Search API we
+call this we call the Product Search API
+and said we want to we want to see the
+top products for t-shirts
+of course we call this ABA many times
+Amazon lets you call this API only a few
+times per second or a few times per
+minute
+we called it accordingly Amazon gave us
+the data
+it took us it took us like a couple of
+weeks to obtain all the data that we
+needed but we did it in a legally
+compliant manner right using Amazon's
+provided api s-- and nobody complains
+when you do that okay and actually
+operating the data using Amazon's own
+API is wrecked and lines of Python for
+literally ten lines of Python code
+that's all there is
+okay so if there are ApS please use them
+if there are no APs and if you still
+want to scrape read the Terms and
+Conditions and the policies of the
+company assuming that you are on the
+right side of the legal system now let's
+see how to actually build a simple web
+scraper here I'll introduce you to new
+new modules and new libraries there is
+no fear in this this is a
+straightforward thing okay so let me
+take myself off the screen
+okay so back to my notes okay again here
+we are not building an Internet scale
+web scraper we are building a simple web
+scraper I want to make that clear I'll
+show you two types of web scrapers right
+the first one is a very simple web
+scraper of course the web scrapers that
+Google builds are like again there are
+companies which have hundreds of
+software engineers they're like large
+companies like let's say Google right
+Bing Bing his own where Microsoft and
+other large companies which are there in
+the search space like Yandex
+which is a Russian website right
+similarly the large search engines right
+they have hundreds of Engineers
+world-class software engineers working
+on their web scrapers ok and these
+things actually scrape a large part of
+the internet and lot of e-commerce
+players right
+lot of e-commerce and even regular
+regular brick-and-mortar store companies
+like Walmart right lot of these
+companies lot of retail companies
+they're called as retail companies also
+scrape their competitors websites to
+understand the prices of products so
+that they can price accordingly right of
+course of course they have to do it
+within a legally compliant manner but I
+know that lot of e-commerce companies
+and regular retail companies like
+Walmart Target General large retailers
+in the u.s. they all scraped each
+other's websites within a legally
+compliant manner to obtain the prices so
+that Evol Mott wants to change the price
+because Target has some prize or amazon
+has some price make some complete sense
+for Walmart to scrape these pages in a
+really comprehend manner and adjusts
+their prices accordingly to be
+competitive with both ecommerce players
+and other offline retailers and for many
+of these companies there are hundreds of
+software engineers who might be working
+on projects like this right so I'm not
+competing
+I'm not saying you'll be able to build a
+world-class web scraper what we'll see
+is a very basic web scraper and we will
+build on top of what we learned in the
+first part which is how to code
+effectively right so we understood what
+is the web scraper ok so let me let me
+just draw a simple diagram here so
+I just gave you a quick overview of what
+a web scraper is a web scraper is
+basically a piece of software that you
+write to be able to get information or
+get critical data that you want from a
+web page
+okay get data or obtain data from a web
+page in a policy compliant manner
+okay the policy component part is very
+very important trust me okay so the
+second thing is use a PS if the website
+provides you one I'll show you an API
+actually I just want to show it to you
+so that you are clear about it so for
+example I get let's Google
+such API okay Python somebody is already
+filling it for me okay the moment I type
+this okay well I have some code here
+there is actually module okay this is a
+simple Python wrapper for Amazon product
+advertising API let's look at some code
+I can install this package okay by just
+saying pick install this look at some
+code here okay let's look at some code
+here what does it say I can create from
+amazon.com as an API and of course I
+need some key that Amazon provides me of
+course all the documentation can be read
+here and I can say okay I can look up
+for a product this is the product ID the
+moment I look up for it it says what is
+the product name what is the product
+price all that information it gives me
+right so very simple so there is already
+somebody has taken the time to write
+functions on top of amazon's product
+advertising api and make it available
+for you right so just a couple of google
+search just a couple of Google searches
+away you'll get some simple code read
+the function documentation read more
+example code and just build a simple
+just build a simple stuff right actually
+we did it we did it ourselves for the
+Amazon fashion discovery engine a case
+study right so if you have AP ice many
+large companies would have ap ice right
+so try to use ap ice if the website or
+the company provides you one okay next
+let's go to a simple static system so
+what is a static system here so websites
+or web pages those of you who don't know
+how internet works or how they just work
+or some people who don't know what is
+JavaScript what is HTML I will not be
+able to go into full depth because
+that's like a that's like a 56 TR long
+detailed course in itself so I will give
+you pointers and I will give you a
+high-level overview here okay with some
+simple code to follow basically there
+are two types of web pages most web
+pages today are written using HTML okay
+it's called hypertext markup language
+okay so of course so the page
+can be a static webpage a static webpage
+is something where the content is static
+it doesn't change a dynamic webpage so
+there is also called as so static web
+pages are built using HTML there is
+something called as dynamic web pages ok
+dynamic web pages use HTML and other
+tools like JavaScript ok of course they
+would have many other tools like Ajax
+etcetera etcetera etcetera right so in a
+dynamic web page right the content in
+the web page the content in the web page
+is not static it changes dynamically and
+the moment okay I'll tell you I'll tell
+you more details when I come to
+JavaScript and things like that ok so
+for now let's build a very simple HTML
+page if I have a simple HTML page that
+is static so what happens is when your
+web page loads right there is some HTML
+code which tells you how the web page
+should look like there is some
+JavaScript code ok javascript has
+functions and everything like that right
+you can execute this function and fill
+in some details here right so when you
+actually pull so for example suppose if
+this is my web server ok I'm giving you
+very high-level overview here please
+bear with me suppose this is my web
+server ok this is my web server on which
+my whole web page is stored ok this is
+my browser let's assume this is my
+browser the moment I say I ask my
+browser to fetch a web page what does it
+do it brings all the it brings it brings
+in all the HTML and JavaScript needed
+and it executes the JavaScript on my
+browser ok to render or to display the
+whole page here so as soon as the web
+server sends me both the HTML Javascript
+and other pieces of information like
+images videos etc right the JavaScript
+actually runs in my web browser right
+the JavaScript runs in my web browser to
+be able to fill in some functionality or
+some information and create the final
+web page so if a web page does not have
+JavaScript right if a web page does
+not have JavaScript it is surely a
+static webpage which means I can just
+pull the HTML and everything is there
+okay first things first
+okay okay okay how should I go okay
+let's let's open this is a nice block
+okay from code camp okay this is how to
+scrape web sites with Python and
+beautifulsoup
+okay those of you who don't know what
+beautiful soup is beautiful soup is one
+of the best libraries is probably one of
+the best libraries to scrape any web
+page this is used extensively not just
+by by novices it is used even by the
+largest companies in the world right
+beautiful soup is basically like a
+library right it's basically a library
+or you can think of it as a module
+whatever you want to call it right it
+has a bunch of classes and functions
+which enable you to scrape web pages
+very easily instead of you writing code
+from scratch right so that's what
+beautiful soup is a new library that has
+introduced you to I'll give you a basic
+introduction so that you can follow up
+after that okay let's take a simple
+example this block is very good I will
+provide a link to this also first things
+first you have to install beautiful soup
+without that you can't do much okay
+simple tip install beautiful soup or if
+you are using Python 3 pip 3 install ok
+so let's understand the basic of what a
+HTML page looks like ok so if you have
+any page right let's take this page ok
+if I right click on it if I say view
+page source ok what I get enough is the
+whole HTML page ok can go to any page on
+the internet using your browser just
+right-click and say view source so it
+says this document is HTML type and it
+gives you this whole thing is your HTML
+code and there are some scripts in
+between ok JavaScript or whatever script
+it is but this whole this is what
+literally this is what your browser gets
+all of this this is what your browser
+gets from the web server this is what
+the web server sends to the browser what
+the browser does not is browser takes
+all of this code executes this code
+okay sorry so the browser basically
+takes this code executes all the
+JavaScript and everything that is there
+to show you this final page this is the
+final page that you see this is called
+the rendered page this is the actual
+source code the HTML and JavaScript
+source code behind this right so if you
+if you have a very simple web page let's
+look at this very simple web page this
+is the structure of a very simple web
+page it says the document type is HTML
+because hTML is the is the language or
+the hypertext markup language that we
+use to represent web pages like this
+okay so look at this this is called HTML
+tags these are called tags okay again
+this is a this is a vast ocean I am NOT
+going into too much depth I am giving
+you a very introductory video here okay
+this hedge tml so everything in between
+these two is what is there within your
+whole stuff whole HTML page this section
+is called the head this section is
+called the body of the page okay so let
+me show you a simple example imagine if
+I if I actually store this whole thing
+so imagine if I actually store this
+whole thing let's actually save this as
+s dot HTML okay this is this is my HTML
+page now if I go to my browser and if I
+say file there is this file open file
+okay I go to my home page so I go to my
+home folder
+I said test dot HTML this is what it
+looks like so this code that we had
+remember this code that we had sorry
+this code that we had in test dot HTML
+created it literally created this whole
+web page here let this I've sold it in
+my home folder press - dot HTML that's
+all there
+right so what is happening here is this
+sorry sorry sorry I just hit my mic
+sorry okay so this is how a webpage is
+simplest webpage is represented so what
+does it have it has the HTML tags what
+is to be there in the head of the page
+what is to be then the body of the page
+in the body of the page it says there
+are two pieces there is a header h1
+basically means a header okay it wants a
+header which is first scraping and it
+wants a paragraph which is hello world
+if you want to learn more about HTML
+there is a very good source called w3
+schools or I'll provide this link also
+w3 schools HTML this is a very nice set
+of brilliant tutorials if you want to
+learn HTML let me add it to let me add
+it to here okay
+I'll add a link here so that I can share
+this doc with you and I don't forget it
+this will tell you everything about what
+hatch KML is what each of these tags
+mean and things like that right just in
+the interest of time I'm not going to
+deep into how HTML works and all of that
+but any web page that you have is
+literally written in HTML and JavaScript
+right so having said that of course if
+you want to learn there is lot to learn
+here
+I'm skipping all of that now to scrape
+again this is this is a very nice thing
+mostly what I've already told you right
+please check with terms and conditions
+and if there is an API use it do not
+request data from a website too
+aggressively don't just request one page
+after other page because it could break
+the website please don't do that okay
+again the third thing is the layout of
+the website may change from time to time
+so you need to be very careful okay I'll
+show you some examples right so here in
+this block I'm just following the
+example in this block they take you to
+this page this is a page on Bloomberg
+okay Bloomberg is one of the largest
+finance companies in the world providing
+market information and stock market data
+okay so in bloomberg.com
+I went and saw the the price value of
+S&P 500 I said be 500 for those of you
+who don't know is basically a stock
+of the top stocks in the u.s. top major
+finite stocks okay sorry
+so suppose if I want to fetch this
+information from here if I want to fix
+this information from here how do I fix
+this basically first what are the steps
+let's write down the steps right what
+are the steps that I need to follow to
+scrape a page ok logical steps first you
+have to obtain the page you have to
+obtain the web page first obviously
+without obtaining the web page there is
+nothing for you to scrape first you have
+to obtain the web page once you obtain
+the web page
+let's see you might obtain this web page
+by the way if I just right click on it
+if I just right click on it and say
+sorry if I right click on this what is
+OK
+what I get is the whole HTML page this
+is the whole HTML page behind of course
+huge page lots of information here
+almost 800 lines of HTML page and when
+you obtain a page right when you obtain
+a web page what you get here is the
+source what you obtain here is the
+source of the page like the HTML and
+JavaScript part right it is the HTML and
+JavaScript part now once you obtain the
+web page the second thing is you have to
+pin point you have to pinpoint the
+information that you want the data you
+have to pinpoint the data or the
+information you want you of course makes
+a lot of sense right you want this data
+so for example if I want to scrape the
+the price of this talk okay if I want to
+scrape the price of this talk let's say
+okay then it makes complete sense for me
+it makes complete sense for me that I
+don't care about everything else right I
+care only about this part the two
+thousand seven hundred ninety two point
+six seven US dollars because this is the
+value of their sin P 500 index you don't
+care about their hunt there'll be one
+hundred or thousand things around it
+this is the key information that I want
+to scrape and obtain right let's assume
+so you have to pin point to that and
+then you understand the structure then
+you understand the structure of the HTML
+page of the HTML or JavaScript source
+right because see again by the way once
+you understand the structure because
+look at this two seven nine two let's
+look at this right let's look at the
+source here two seven nine two which is
+ctrl F here root seven nine to the two
+seven nine to have this two seven nine
+two point what is the number here exact
+number point six seven there's lots of
+two seven nine two point six seven this
+data is there in so many places okay
+okay this data is there in so many
+places okay no now how do i how do I
+find where this exact data is okay so
+suppose if I want this right there is
+this thing called as inspect
+right see this is when a view source
+there is so much of other information
+that I'm not able to understand where
+the head is where the tail is right so
+what I can do here is I can right click
+and press inspect again by the way I'm
+on Chrome different browsers behave
+differently okay the moment I say right
+click inspect it says this information
+this information to 79 to 0.67 look at
+this what it says is very interesting
+what it says here is this information
+this information is stored in my HTML
+file under something called as class
+equal to price text underscore some
+number so if I can directly go to this
+place if I can directly because what I
+have is basically my HTML file if I can
+directly go to this place and obtain
+this information that's great isn't it
+what is one way to do it I can use grep
+remember there is grep in Python
+there is grep in Python grep basically
+helps me to search for strings in Python
+right so what I can do is I can use
+again we discussed this in the course if
+you don't know what is grip in Python
+it's just a Google search away ok you
+can search for this string called price
+text wherever the string price text
+exists just right after that look at
+this right after this wherever the
+string price text occurs with some
+number here we don't know what that
+number is right after that this
+information is present so I can grab for
+price text right and move a few steps
+away we encode encode and obtain this
+information and say oh I got the value
+that I want isn't it right very simple
+that's one way of doing it but the
+problem is grep so you understood the
+structure of the JavaScript and using
+the structure you go to the position or
+you go to the part of the of the file of
+the source file you go to the part of
+the source file where your information
+resides where the data that you want is
+present where the data you want where
+the data you want is present
+for example in this case we realize that
+this is the data that we want to scrape
+and this is present where at this place
+whenever you see class equals to price
+text underscore something right after
+that I see my price information so so
+you pinpoint you understand the
+structure of the HTML code and you say I
+know where to go to get the information
+that I want then as soon as you get it
+you basically cut out or you basically
+cut the data piece that you want you
+basically cut the data that you want
+from the web page and store it done
+that's all there is that's all there is
+to web scraping but here is a problem of
+course companies don't want you to just
+scrape their websites left and right
+they will put in lot of hurdles to avoid
+you from scraping ok like Bloomberg one
+of the key informations that they have
+is the stock price because they make
+they maintain a huge repository of stock
+prices over many years and decades
+actually right if you if you just go to
+their website and scrape regularly all
+the prices they're losing key
+information that they have that they
+actually sell to their clients right
+that's why they're they do lots of again
+websites for any critical information
+that they don't want to share with you
+they will try to stop you of course
+again grep is one way of doing it but
+beautifulsoup
+is a toolkit or is a module that is
+designed specifically
+this was again let me show you this
+right when this guy was writing his blog
+this information the S&P index then was
+2022 right this information look at the
+class name the class name was price and
+not price text so this web page
+Bloomberg changed the name of the fields
+change the website itself dramatically
+change the names of all of these so that
+people can't scrape them right we saw we
+saw just now right that they've actually
+changed so many like we saw price text
+underscore some number right we saw
+price text underscore some number here
+they've changed the whole website and
+the whole structure here right so let's
+this code that is there on this web page
+zooms right this page this code that is
+there on this web page assumes that
+everything is in this format okay so
+what it says is this it says that this
+information price is available right
+first first there is a division so div
+basically means a division there is a
+division called basic code within the
+division there is another subdivision
+called as price container up right
+within that there is a subdivision
+called as price that is the architecture
+right again if you notice HTML is like a
+nested loop we've seen nested loops
+right a loop within a loop within a loop
+type of structure HTML is also a nested
+structure not a loop structure but a
+nested structure where if you notice
+okay let me let me just show it to you
+okay let me just show it to you so first
+look at look at how it looks like within
+this div okay there is a main within
+this there is an other div within this
+other diff other dithered a some header
+some div some div so there is this
+nested structure in all of HTML pages
+okay again if you really really want to
+be good with scraper you got to learn
+the basics of JavaScript and HTML
+w3schools is a good starting point okay
+so enough now how do you do it now how
+do you grab the price assuming that this
+is the structure and the structure
+hasn't changed so when you go to this
+class price right there is this thing
+called name class name which tells you
+about the stock name also
+so the class
+equals two name tells you the name of
+the stock that you that you're pulling
+information for class equals two price
+within the structure within this complex
+nested structure class equals two price
+helps you get the price now if we want
+to get all of this information of course
+writing grips is one way but
+beautifulsoup is a faster way okay so
+you import the libraries or this library
+is very interesting what this library
+URL Lib to does is it helps you solve
+the first part obtain a web page so URL
+Lib - URL Lib - basically helps you this
+is a library which helps you obtain a
+webpage again you could you could find
+that from google searching okay now it
+says from bs4 import beautifulsoup
+of course you need beautifulsoup to
+parse the to parse the whole thing right
+again there is this keyword called as
+Dom tree I wanted to explain that so
+your whole okay let me let me zoom this
+in okay your whole HTML page is stored
+using something called as a document
+object model where you have the whole
+document within the document look at
+this nested structure or a tree like
+structure this is called a Tom tree
+okay or a Dom nested structure what
+happens is most HTML documents are
+arranged like this where this is your
+HTML document within this there will be
+some head in the head there will be some
+title in the body there will be some
+header some element some link all of
+that stuff so you can think of this like
+a tree 3 data structure right so you can
+think of so this is called the Dom tree
+of a HTML page okay or you can think of
+it is like a nested tree or you can
+think of them like a nested structure
+okay so whenever you see the word Dom in
+web scrapers just understand that it is
+the way that they just the the whole
+HTML page is stood it's called a
+document object model okay
+I'm saying this is the page that I want
+to scrape this is the exact page that I
+want to scrape so first thing what do I
+do I basically say URL Lib - dot URL
+open so what does it do it it asks the
+website to return this page and this
+page so when it returns what it returns
+to you is the source it returns you the
+source of the page when you right click
+and see view source that's what is now
+stored in page right now once you have
+the once you have the whole HTML thing
+once you have the whole HTML file two
+things you can do one thing you can use
+grep on top of this of course but
+getting grab to work will be very very
+cumbersome the second option used to use
+beautiful soup because it internally
+uses grep extensively all right so let's
+go step by step first thing that I'll do
+here is I'll create a beautiful soup
+variable okay think of this as a
+variable and I'm saying I want a head
+tml parcel because I want to parse write
+or HTML page very simple next what I'm
+saying is here is very good ok this is
+this is actually very good now what I'm
+saying here is I want this so I want to
+find a header h1 which has this
+attribute called class equals to name we
+saw this earlier right with class equals
+to name I will get the whole name box
+okay so what is the name box here let me
+show it to you visually so here this is
+the name box this will tell me what is
+the name of the stock this tells me the
+price and we saw while going through
+this that h1 class equals 2 name gives
+me the name of the stock stock a stock
+symbol that I am pulling data for and
+class equals 2 price is giving me the
+information of the actual price itself
+so in beautiful soup what I am doing
+here is I am saying see beautiful soup
+is very simple this way it's saying I
+want to find H one or a header one right
+which has this attribute called
+class equal to name or I want to find
+this attribute called class whose value
+is name
+right the the as soon as I get that I
+get something called as I stored this
+result in a name box so name box stores
+only the sub Dom imagine this is my hold
+Dom as soon as I get this only the sub
+part that corresponds to this search
+because it's using a fine right
+only the sub part corresponding to it is
+returned as part of my beautiful soup so
+beautiful soup has passed all of this
+and returned me exactly where ever this
+condition is met now I've used dot strip
+strip basically what does it do in
+Python it removes all the starting and
+trailing stuff then I say print flame I
+literally will get the name of the stock
+knife very simple right similarly I can
+get the price also what will I do I will
+say now soup dot find find me a div
+right which has this attribute of class
+whose value is price right so as soon as
+I got this I'll say my price is price
+box dot text and I'll simply print it
+that's it if I know so the beautiful
+thing here see it literally prints these
+two of course this will not work if you
+try today because the website itself has
+changed
+using pandas do all of that is a very
+very very very simple example now the
+important aspect here let's look at what
+we have done okay first thing we obtain
+the page using URL Lib - we knew what
+data that we want we wanted the stock
+symbol we wanted the stock symbol and
+the stock price we went through the
+structure of the HTML page itself using
+the inspect element using the inspect
+element on Chrome okay we use this to go
+to the part of the source code and of
+course to actually go to the part of the
+source code what did we do
+we used beautifulsoup to go to the part
+and we use the beautifulsoup dot find
+because i know which part i have to go
+to because i studied the structure of
+the HTML code right to get this here
+what did I do this whole part I
+understood where the price which part is
+the price stored in which part of the
+name is stored in right since I obtained
+that information I simply cut the data
+that I have so beautiful soap literally
+simplified the whole task because it has
+this fine function if you were to do
+this using grep it would have been a
+nightmare trust me okay so this is a
+very very simple introduction to
+building a simple web scraper remember
+this is an extremely simple web scraper
+okay I will not claim that this is any
+complex thing that's why I said but this
+is a simple static web page right so we
+saw the logic if you want to learn HTML
+this is a great source to learn HTML we
+understood what is the document object
+model please don't be afraid to learn
+new libraries because if you do not use
+beautifulsoup
+building a simple web scraper will take
+you many many hours of effort using
+basic grip if you google search for it
+if you just google search just let me
+show you that Google search right if you
+say I want to build a web scraper web
+scraper Python okay a very first thing
+that we will get just go here just keep
+reading I've read like 10 15 of these
+right just to see which is the best and
+most simple source look at it everybody
+uses beautifulsoup for this guy is using
+beautifulsoup of course he's using a
+slightly different
+recalled requests to get your HTML pages
+instead of URL Lib - so let's look at
+the second guy okay this is what we are
+using anyway this is not something that
+we are using so look at some other blog
+right in this block he's also using
+beautifulsoup
+right so if you keep seeing if you see
+five or six results in if everybody is
+using the same library then certainly
+that library must be super good and
+super useful to achieve your task right
+so this is an important lesson that
+don't be afraid to learn new libraries
+as in when you need them they will
+simplify your life simple Google search
+simple Google search going through
+function references and reading through
+examples and experimenting not fearing
+of the failure will help you learn very
+simple stuff right so we also saw some
+simple beautifulsoup
+the code that I've already posted here
+next comes an important part what if
+your website is dynamic right which
+means your website has HTML and
+JavaScript and the JavaScript actually
+executes in the browser so what am I
+doing with URL Lib to look and look at
+what I have done earlier right with URL
+Lib - right so sorry let me just go here
+okay with URL Lib - okay with your Lib -
+okay I literally this coat pages here I
+literally obtained this web page from
+the server so when I obtained this so
+what if what should i what should I
+actually do the two parts first there is
+a there is a web server and there is a
+browser here right what typically
+happens in the first step I obtain the
+page in the second step is acute the
+JavaScript here right so in this case in
+the previous instance I just obtained
+the web page I didn't run any JavaScript
+anywhere because to run the JavaScript I
+need some libraries and some tools that
+the browser internally has like your
+Chrome browser right or your Firefox
+right or your internet explorer or your
+Safari right
+so all these browsers I actually have a
+JavaScript execution or or a basically a
+toolkit using which it can execute
+JavaScript libraries URL Lib to does not
+have it so in the previous instance what
+we did was we only obtained a page we
+didn't run the JavaScript to actually
+see the whole actual output web page so
+if your web page is dynamic which means
+it contains both HTML and some
+JavaScript and the JavaScript needs to
+be executed on your browser so that you
+get the final page then the URL Lib
+method so then this method of just
+operating the web page is not sufficient
+right so what we need is both the steps
+first obtain the web page execute your
+JavaScript executes to your JavaScript
+how do I do this ok once I execute the
+JavaScript and I get the whole source
+beautifulsoup still is there I am not
+denying that the first part is where the
+problem is the second part third part
+fourth part everything is the same it is
+the first part which is I am just
+updating the page but I am not running
+the JavaScript how do I solve that
+problem you already have a browser right
+your desktop or laptop already has a
+browser why can't I simply use the
+browser to execute the code so there is
+a library or there is a toolkit you can
+think of as called selenium many
+software engineering testers ok many
+software engineering testing guys ok no
+selenium because selenium is basically
+again you can write selenium code in
+Java or in Python obviously I would
+choose Python because I'm more
+conversant and comfortable in Python and
+actually selenium code is in Python is
+actually easier to write than Java to be
+honest just a second
+ok so if you're writing python code of
+course selenium can be written again
+what is what do you mean by that what it
+means is you have some libraries or you
+have a module which you can write which
+you can access in python to be able to
+do it so I'll show you I'll show you
+literally a two line code ok so this is
+literally a two line code ok okay so
+let's see this is literally a two or
+three line code to scrape a dynamic web
+page ok so what do i do first thing is
+from selenium input webdriver I'll
+explain you what this does exactly ok
+from selenium import keys some say some
+simple importing stuff here is the crux
+suppose if this is the I'm sorry suppose
+if this is the URL that I want to grab
+what I what I'm doing right now here in
+this in this few lines of code so let me
+just zoom this in so that it might be
+clear I'll provide a link to this page
+also this blog is pretty good
+here I've imported the selenium
+libraries that I need here I'm creating
+a Firefox session look at what I am
+doing here I am saying I want to create
+a Firefox session literally Firefox is
+there on my laptop or desktop I'll
+create literally a Firefox session and
+I'll wait for 30 second I think this
+this means 30 seconds if I'm not wrong
+or 30 milliseconds I'll have to look at
+the function reference but what selenium
+lets me do is it lets me open or start
+any browser of my choice it could be
+grown Firefox Safari edge is basically
+the next generation of Internet Explorer
+if I'm not wrong
+it lets me literally open any browser of
+my choice get the URL that I want it
+will also help you simulate button
+clicks I can literally click on a button
+right suppose if I want to scrape Google
+don't try to do that Google will block
+you very quickly okay so I need to enter
+some search query press enter then I'll
+get a bunch of results and if I want to
+scrape these results what selenium lets
+me do is selenium lets me open a Firefox
+window selenium helps me open a Firefox
+window give me give it the URL that I
+want wait for a while
+enter whatever I want in a field press
+the Enter key it will get some result
+that result it will give me the page it
+will give me this page after running
+both HTML and JavaScript because look at
+it what is selenium doing selenium is
+literally using the Firefox browser
+Firefox browser internally has has
+libraries and dual kids to execute
+JavaScript code so by using the browser
+that I already have
+selenium gives me humongous amount of
+power especially for dynamic web pages
+okay in addition to just one and two
+selenium also helps you do actions on
+webpages actions like button clicks
+right it will enable me to do button
+click right it will enable me to to
+enter something like I know that it's
+very simple to write selenium scripts
+where you can give your username and
+password
+selenium code can actually incur them
+login to your Gmail scrape the Gmail
+page obtain all the information that is
+there on the Gmail page and present you
+on your own app it can do that okay of
+course you have to be careful that
+Google might block you if you try to do
+that too often okay but it's possible to
+write some code like that right so
+selenium is the trick again selenium is
+a huge library people spend a lot of
+time becoming experts at selenium but
+for our use case you just have to know
+the basics of selenium those four five
+lines are all all you need in selenium
+all you need to know is how to use a
+browser the moment you use a browser and
+you obtain the data using the browser
+because the browser internally has a
+Java Script a JavaScript toolkit to
+execute JavaScript you got your HTML
+page and you have your JavaScript
+finally you get the result this result
+you can now pass it through
+beautifulsoup and obtain whatever data
+you want right so basically what we have
+done using selenium
+we have replaced URL Lib too with
+selenium right and the reason for doing
+that is selenium can execute JavaScript
+it can also help me perform actions
+which URL Lib too cannot do you are a
+little bit you can just simply get me
+the HTML source because it doesn't have
+a JavaScript executed right so if you
+want to do dynamic websites where there
+is JavaScript components that need to be
+executed in the browser selenium is the
+way to go but don't be fearful of
+selenium like it's not rocket science if
+you don't if you want to perform
+something if you don't know just google
+search for it it's just a Google search
+away that's how I learnt selenium by the
+way so my team of course not me but a
+bunch of very smart engineers in my team
+actually use selenium to crawl a large
+large number of webs webpages on the
+internet for some internal project in my
+own team
+right so and what we did trilled it was
+we use selenium it's a terrific piece of
+software or terrific piece of libraries
+as I should call it them right so there
+is a third aspect which I did not cover
+here which is websites that obfuscate
+websites that constantly change that
+constantly change to avoid to avoid
+browser to avoid scrapers to avoid
+scrapers from pulling information from
+them this is a very interesting
+challenge because for example we saw
+just now right when we went to the
+bloomberg page right the name of the
+class itself might change from one
+request to other requests okay let me
+just show that to you okay so that you
+can better appreciate it okay there is a
+Bloomberg page this page right okay let
+me just open it again here so let's see
+so this you
+I say inspect what is the value that I
+get here - 79 - right what did I get
+here
+let me see what is the name of this
+thing okay it says price text so let's
+write it down what does it say price
+text I'll just write it down here it
+says price text underscore one eight
+five three one eight five three e8k five
+this is the whole name of the class this
+this last section looks to be a random
+number right I think they generated this
+so that scraper it so as to make life
+harder for scrapers because I typically
+end up using the whole name of the class
+right to obtain this piece of
+information now by generating random
+numbers here I'm assuming it's a random
+number we'll test that right the class
+name that I need to actually pull this
+information becomes harder okay so let's
+see let's see so we have this name sorry
+where is this okay we have this right so
+let's go to a new page let's go to this
+again i refresh the page here let me
+inspect it what will I get here if I
+inspect it what would I get here okay so
+know the name is the same okay so
+they're doing some form of randomization
+not exactly randomization but they keep
+these names somewhat random so a lot of
+websites lot of websites what they do
+here is because they want to ever
+but they want to avoid their people they
+want they constantly change they
+constantly change the names of the clerk
+names of your div or names of your
+headers they constantly change and make
+the whole page extremely dynamic so that
+scrapers can't obtain them this is an
+extremely hard problem for which again
+there are multiple solutions it's it's
+like a cat-and-mouse game okay it's like
+a cat-and-mouse game where one person
+tries to do one thing the other person
+tries to do the other thing so I hope
+you got a sense of how web scrapers work
+again to be honest I have not gone into
+too much depth this is just an
+introductory session I hope going
+through these links and following the
+methodology where you are constantly
+writing the problem writing the logic
+behind problem and Google searching can
+certainly help you write so let me just
+add let me just add this HTML thing here
+so that when I share this document it
+will be much easier for everyone right
+so yeah so I'll go to the live live view
+for a sec for a for a few minutes that
+we have enough okay so let's just see
+what comments we have okay so how to
+know whether a page has JavaScript or
+not obviously you can run the you can
+run the code through selenium and you
+can just get URL Lib and see if the HTML
+code is different
+very simple check right you can also get
+data using get of URL yeah so you can
+always do that obviously get is another
+way like URL Lib the many ways to get a
+web page URL Lib is just one method of
+doing it yeah so the question here is
+can i scrape javascript rendered web
+page without using python selenium yeah
+there are there are ideas called I mean
+there are some advanced methods wherein
+you don't require to actually start the
+browser itself you can let get you can
+simply get the whole source code and
+take so again this is something that I
+know a few people have tried what they
+have done is they
+in Firefox they have broken down the
+because Firefox is open source right so
+what they do is this they don't have so
+they make a hole through the biscuit
+retrieve or remove the functions within
+Firefox which executes the JavaScript
+code right
+so it actually executes the JavaScript
+code for you and very interestingly very
+interestingly just a second I hope I am
+life is checking that yeah the screen is
+on me so what they do here is so they
+have taken the whole Firefox source code
+the pull out the information they pull
+out the JavaScript executing system that
+they want they pass the JavaScript
+through that it will result in some
+result they will take that result and
+use it to build a final web page instead
+of actually because if you have graphics
+right because what does Firefox do
+Firefox takes the whole thing renders it
+graphically then graphical rendering
+if you're building a real Italy
+web-scale web-scale scrapers and when
+internet scale scrapers and crawlers
+right you can have you can save a lot of
+computational effort by avoiding some of
+this right so somebody is asking about
+Python having too much in competitive
+programming taking too much time
+complexity I think to be honest Python
+code is pretty decent I know I have
+participated in some hacking or whatever
+you call it comparative programming
+stuff and Python is one of the most
+favored languages certainly there are
+people who write it in C C++ but if you
+write the right algorithm using right
+data structures using the right
+complexities it shouldn't really matter
+I mean Python is pretty good of course
+if you are going to internet scale
+extremely critical applications Python
+is slow like if your difference between
+if it's a life and death situation or if
+it's like a millisecond gap if you have
+if you want extremely low latency
+systems at internet scale C C++ nothing
+can even touch it or if you want
+something in embedded systems right so
+you have let's say a heart recoupment
+which measures your heart rate or
+something which needs to be very very
+which means run extremely efficiently on
+a very simple hardware right in those
+situations also probably code is written
+in C C++ and not invite them right so
+okay so let's go here okay I'm just
+going to
+just great I'm just crawling through all
+of all of all the chats here to see if
+there's anything because it's I see very
+interesting stuff that people are asking
+questions and answering they're also so
+that's a that's a very good very good
+that's a very good thing hey so what
+I'll do here is I'll provide the link to
+this notes right under this video as the
+first comment and I will pin that
+comment so that everybody can watch it
+I'll just share the notes here itself so
+that even people who are non registered
+students can also check out the check
+out the PDF of this or the Google Doc
+version of it so that's all I had I
+think and very nice to see a lot of
+students putting in their knowledge
+sharing their knowledge that they have
+and most importantly answering questions
+back and forth thanks a lot for that and
+I hope see the objective of today's X
+today's live session was to teach you
+how to write how to break up code and do
+some simple stuff of course some of you
+may have gotten bored but I thought
+there are some students who need that
+helping hand that's why we did the first
+part the second part is to give an
+introduction to web scraping right of
+course web scraping is a massive area
+those just on web scraping that would be
+like at least at least a 20 hour content
+right because there's so many nuanced
+details have to go explain HTML files
+first we have to go through JavaScript
+next because those are foundational
+stuff right then we understand libraries
+like selenium in lots of detail we
+understand
+beautifulsoup in lots of detail so what
+I wanted to give you today is a flavor
+of the whole thing so that you can take
+it forward and learn just the way we did
+in the last session the last live
+session I gave you a flavor of rasa also
+gave you some introduction to dialogue
+flow and some introduction to n2 and
+conversational engines and some students
+actually took up that that feedback
+those those hints and the the path and
+actually built some very interesting
+things and I hope some of you actually
+can build some interesting tools some
+interesting scraper so if you build
+interesting web scraper or a simple
+scraper please share it with us
+and we'll try our best to give you some
+feedback on it and our ways to improve
+it and it's also very encouraging for us
+in doing these live sessions so I think
+we are short on time we are almost done
+just a couple of minutes here I want to
+thank everyone who participated in this
+live session both registered students
+and non registered students I hope this
+has been at least partially useful if
+not tremendously useful so at least some
+parts of it you will take away with you
+and use them in your day to day
+programming or day to day building web
+scrapers of data science and machine
+learning
+thank you all thank you all for your
+time and it's my pleasure always as
+always to do these live sessions I will
+announce the next live session topic
+again next live session will be a
+slightly advanced topic and for all the
+registered students we'll announce that
+at least a few days in advance again
+we'll try and do it mostly on Sundays
+and not on Saturdays as I started
+earlier and yeah that's all that's all
+for today have a have a good weekend
+get some time with family enjoy yourself
+also happy programming and happy coding
+thank you folks
+bye-bye have a good weekend

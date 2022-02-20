@@ -1,0 +1,2351 @@
+hi so I'm just waiting for few more
+folks to join so let's wait for a few
+minutes
+Tim could you just check if the audio
+everything is on track okay this is a
+Mic Check just to ensure that everything
+is working okay this is a mic check to
+make sure everything is okay okay okay I
+hope nobody has major issues so I'm just
+looking at the comments as we go we'll
+start the session in a couple of minutes
+just waiting to see okay audio is good I
+hope the video is also doing good okay
+so okay let's wait as people join him
+okay
+hey folks hi yeah welcome here I'm just
+waiting for a couple of minutes giving
+people time to join in because the clock
+just takes seven just giving a few
+minutes here yeah so let's wait before I
+think we have about 242 viewers right
+I'm just waiting because more users who
+I think have subscribed for this so just
+waiting for them to join and it was a
+couple of minutes any mic issues okay
+thankfully everything seems to be
+working well which is always good
+this is a first Youtube live session
+that we're doing so this is new to us we
+were very concerned about cups and
+things like that
+yeah somebody was suggesting to have
+some of these life sessions over we can
+we'll certainly try that yeah I'll come
+too I'll come too what production is a
+machine learning model is and all of
+that so the topic is a live session says
+is everybody able to hear me does anyone
+have issues team can you hear me
+so just just try to increase the volume
+on your box because seems most people
+have most people have
+most people can hear us so okay so we'll
+answer some of these general questions
+that I see flowing in just one more
+minute at 7:00 to shark we'll get
+started right so just give me a minute
+or so okay so okay just waiting for a
+minute more just before we get started
+because we have a long session in front
+of us okay folks just in the interest of
+time let's get started now for those of
+you who may not know me you might have
+heard my voice another YouTube video so
+in the course
+my name is Rick Alfred mercury and one
+of the instructors at apply to a course
+and the theme of this live session is
+the production ization and deployment of
+machine learning models right so like
+like all the traditional videos you see
+I will take myself off this video and
+actually put up content we'll go through
+some of the challenges issues and things
+like that just as an organizational
+philosophy we thought to make this
+conversation fun and interesting and
+also knowledgeable for all the
+participants we thought we would go over
+the content for about 60 minutes
+how much ever we can cover right this is
+this is mostly about how to production
+eyes and how to deploy a machine
+learning module or a deep learning model
+into production and what are the
+challenges what are the design choices
+that we have right so we missed the some
+of this in the course but I wanted to go
+into some more details here show you
+some examples some nice references and
+things like that
+having said that the whole session
+itself is 90 minutes so we would spend
+the first 60 minutes to cover some of
+the interesting concepts how much ever
+we can cover if you cannot cover this
+probably we can do whatever I whatever I
+could cover in the 60 minutes we will do
+one more live session soon so we can do
+some of this in the last 30 minutes
+please leave any questions related to
+this session okay we would they would
+try an answer the most frequently asked
+questions in the last 30 minutes okay my
+team is collating all of these questions
+and they'll put up the most frequently
+asked and the most interesting questions
+and we'll try to answer as many as
+possible in the 30 minute window right
+so let's let's get started now we're
+only 7 3 minutes so I hope you
+understood the way we are trying to we
+are trying to do this 60 minutes of
+content and putting your questions as
+and when you encounter something please
+put in your question we will try to take
+a few questions how many ever we can
+answer in the last 30 minutes we'll try
+to answer all of the most interesting
+questions or the most frequently asked
+questions in this session okay having
+said that let's get going so I'll start
+down sharing my screen because that's
+just easier and I'll take myself away
+and then focus more on the content as we
+always do it fi da course just just give
+me a second okay I think we are good to
+go I hope everybody can see my screen
+I'm just testing it give me a second
+present for everyone ok so I hope
+everybody can see me just just a couple
+of issues ok ok so my team is also
+collating some of the some of the
+challenges and questions so let's let's
+let's let's focus more on the content
+enough ok so I hope there are no issues
+here team any issues is the live session
+going well hopefully you might see some
+small delays because this is a live
+session on the internet so I'm taking
+myself off of all of the whole thing you
+don't have
+let's focus more of the content right so
+again just as a quick recap we will
+spend the first 60 minutes on the
+on this topic we will we will discuss
+multiple aspects of this you'll discuss
+multiple challenges and design choices
+we have as far as production ization and
+deployment of machine learning models is
+concerned and please leave your
+questions in the chat window on the
+right hand side in the 30 minutes after
+the 60 minutes we will do a Q&A session
+right we will try to answer so my team
+is looking through all the comments and
+putting up a few good or the most
+interesting in the most fun and the most
+frequently asked questions I'll try to
+answer as many as possible in the 30
+minutes okay having said this let's
+let's let's dive in mom so let's say
+human so at what stage are you here
+right now so imagine you have you have
+trains you have already trained let's
+assume you want to be train some machine
+learning models right you have done a
+lot of feature engineering right let's
+assume we have already done this you
+have done lot of feature engineering
+right you finished all of this and
+you've built a very nice model right
+let's say you have done all of these you
+have done everything that is require
+you've tried various machine learning
+models now let's assume we have a model
+M could be any model it could be
+logistic regression and svm any of these
+models right let's assume we have a
+modeling but you again all of this
+you've done through an experimentation
+platform of such so all the feature
+engineering you have tried lots of
+features some of them worked out some
+one can did not work out you've tried
+various machine learning models finally
+you converge to a model now so you have
+already performed all the training all
+the evaluation so you've also done model
+evaluation right well whatever your
+metric is so now finally you have a
+model then the next big question here is
+how do I now take this model how do i
+productionize this model so what does
+production ization basically mean it
+basically means see whatever you have
+done here whatever you're done here this
+is all the experiments that you have
+conducted right you have taken some data
+you have trained some models you have
+done some XP really data analysis you
+have done lot of feature engineering
+finally you have a good model that you
+discuss with all of your business folks
+all of your managers and they say yes
+this model meets the
+means that we have and this model is
+performing pretty well the next question
+is they say okay it is very good good
+job my friend now the expression is it
+which means you want to deploy this in
+other words you want to deploy this into
+a production system into the real world
+right whatever you have done is
+experimentation probably you have done
+this in an AI Python notebook right
+if some of you use are probably you need
+in an art studio right whatever it is in
+our course we focus a lot on ipython
+notebook so if done all of this you've
+presented your results everything is
+good but at the end of it you need to
+próxima is this model you need to deploy
+this model to the real world so this
+needs to be a real-world model right
+you need to deploy this model into
+production at some point now how do you
+do that what are the challenges right so
+when you're trying to deploy a model or
+production is a model they're a bunch of
+challenges that you will come across
+what are the challenges what are the
+options you have right what are the
+choices what are the design choices that
+you have okay what are the design
+choices that you have when your
+production is in these models very
+important and interesting we have very
+very very important part so this is one
+aspect that we have covered partly in
+the course but not completely so we have
+covered this we have covered this partly
+in the course but not very deeply right
+so I want to go over some some design
+choices here in this in this in this
+video and see and shed some light on the
+challenges that are there options that
+we have and the design choices we have
+and also explain a few interesting
+options right so let's go into this so
+what is the whole data science lifecycle
+look like if you think about it you
+basically have your raw data if you
+think about it you have your raw data
+now this raw data could be present in
+various forms this Daytrotter data could
+be present in a CSV file very good or it
+could be in some other text file may not
+be a comma separated value file it could
+be any text file a time separated or
+whatever it could be a CSV file or a
+text file or a database okay
+or a data warehouse right it could even
+be specialized databases like hive right
+it could be a Hadoop this data could be
+on a Hadoop distributed storage or it
+could be spark storage right so all of
+them are places where your raw data may
+be sitting him if you notice in the
+course we have covered extensively CSV
+files
+we have covered other forms of text
+files right we have also introduced this
+whole thing called SQL more recently to
+the course so if you are using any
+modern database or a data warehouse or
+even platforms like hive and spark most
+of them provide either SQL as a way to
+obtain the data right so we have added
+this whole section called SQL because we
+felt this was a missing piece in the
+course earlier right so SQL is a very
+nice way to obtain data from databases
+data warehouses hi Hadoop or spa most of
+them have either SQL or a variation of
+SQL right
+like for example hive has something
+called as high quality language spark
+has something called as our Casilla
+these are mostly built on top of SQL
+like Oracle databases has something
+called pl/sql but most of them are based
+around SQL so if you know SQL you will
+be able to obtain data from databases
+data warehouses high most Hadoop most
+data on Hadoop and spark right so this
+is where your not raw data is your very
+raw data could be stored anywhere here
+that's important to appreciate so these
+are all the choices as I told you right
+these are all the options and choices
+where your data could be present
+wherever in it is present the next step
+is you take all of this data and you
+process this data you process this data
+to obtain finally your feature feature
+eyes data right so for example during
+the experimentation stage if this is
+your final feature eyes data in your
+experimentation stage okay where you are
+experimenting with all of this various
+feature engineering EDA all of that you
+would have said these are
+the features that are working best for
+me and I'll use these features in my
+model M right you'd have figured that
+out so finally we want to process all of
+this raw data and obtain the feature
+eyes did now how do you achieve that
+your data could be lying anywhere here
+right so there multiple tools that you
+can use of course SQL is one big pool
+because using SQL you can read the data
+in databases warehouses - Oaks Park
+etcetera in addition to that you might
+use one of these programming languages
+like Python Java whatever you want or
+whatever right because when if you're
+following our course right
+what we do is we use ipython notebooks
+where in some of the feature ization
+have done in python we use various
+libraries in python like panda is all of
+these things right - feature i some of
+the data that we want right so typically
+you have SQL to obtain the data python
+to process the data right or any
+programming language this could be in
+java this could be in scala
+this could be in R whatever you want
+right of course Python is again one of
+the most popular languages here but this
+whole processing stage right is often
+referred to as ETL stage it come to what
+he TL means right this whole stage is
+called ETL okay so what you're building
+here is a data processing pipeline right
+this whole thing this whole thing
+whatever building from raw data to
+feature is data you are you're basically
+processing all of the hard data to get
+feature eyes data this is called the
+data pipeline okay this is typically
+performed again depending on the team so
+there is a whole roll called data
+engineers not data scientists not
+machine learning agents in most
+companies there is a roll called data
+engineers for experts at your data
+warehouses databases Hadoop spark all of
+these things and they're also experts
+and most of these things so given raw
+data probably when you are experimenting
+imagine if your machine learning
+scientist or a machine learning engineer
+or a data scientist right that you may
+not be very comfortable with all of them
+so typically in a large company you
+typically work with data engineers who
+are experts at this
+pipeline right who are experts at
+obtaining the feature eyes data from
+rocket of course they may not know some
+of your feature eyes Asians suppose if
+you're doing some Fourier transform then
+the data here do not know what Fourier
+transform is so you have to work the
+data engineers very often in the data
+pre-processing on the data pipeline of
+course if you're working in a small team
+you do not have the pleasure of having
+this specialized data engine apps in
+such a case it's a data scientist who
+end up building this of course they may
+not be as good as data engineers but you
+can bring this if you know decent amount
+of SQL and some one of these programming
+languages right now so what is ETL so
+let's go to Wikipedia and find out what
+we can stands for right ETL stands for
+extract transform and load ok if you
+look at it imagine if I have an
+innovation this could be database this
+could be a data warehouse or a Hadoop
+data storage whatever it is right what I
+am but for me as part of my data
+Singlish is nothing but ETL I am
+extracting a data right I'm transforming
+the data and I'm loading the data for
+further processing this is a Wikipedia
+page as most of you know videos will
+keep your pages extensively and all the
+open resources extensively so this is
+the page for extract load transform on
+Wikipedia right again most of the times
+it's done it's done using using your SQL
+another of course there's some
+specialized pipelines etc but in a
+nutshell what this does is it's
+basically loading the data from various
+from areas it's basically extracting
+transforming extract and transforming
+and loading right that's what this is
+called the ETL pipeline this also
+referred to as the data pipeline right
+of course here there are lots of design
+choices when you productionize it you
+might either work with data engineers or
+if your team is not big enough it's a
+data scientist who have to do it now
+here there are lots of choices how do we
+think right everywhere as I told you
+when you productionize in your models
+there are multiple challenges and
+options and design choices in the real
+world so now here there are some very
+interesting questions is your data is
+the original data in
+we file is it in a text file depending
+on where the data is right if it's a CSV
+or txt file you don't need SQL on top of
+it you can just do it using Python and
+pandas right if the data is in a
+database you got to use SQL because
+that's the easiest way to obtain this
+data so designing this pipeline right if
+you are not an expert will take some
+time there will be errors of course when
+you're designing this you need to ensure
+there's another interesting challenge
+which is how often do you process this
+data what is the frequency what is the
+frequency of running this ETL pipeline
+right do you run this pipeline every day
+because that depends on how often is
+your raw data being generated imagine
+this is some sales data imagine this is
+some sales data at a ecommerce company
+right you would get data very very fast
+every our there is new sales data right
+every day there is new sales data right
+so how fast or how often you have the
+process how frequently do you have to
+run this ETL pipeline because that
+depends on how often you want to train
+also look at it so what do you do take
+this feature eyes data and train a model
+aim on top of it right there are some
+more stages here that I'll come to right
+so you're basically so if you want to
+retrain your model on daily basis you
+have to run this ETL pipeline on daily
+basis right so there are lot of this
+design challenges especially if you're
+sitting on large amounts of data imagine
+if you're an Internet company that is
+generating petabytes of data like
+Twitter Google Facebook Amazon etc
+Flipkart right then you might want to
+run this pipeline much more frequently
+you might want to run this everyone are
+this frequency of ETL pipeline basically
+refers to how often you want to run this
+pipeline that's a design choice that you
+have to again all these are what I'm
+giving you here are design choices what
+you would use depends on the context if
+you are working at a top-notch company
+with petabytes of data you might want to
+run this ETL pipeline every our well if
+the amount of data if you want to
+retrain this model only daily or weekly
+and if the data is not too much then you
+might not want to run this whole
+pipeline every day or every R right so
+these are design choices this so what
+I'm discussing here is not exact
+solution to an exact problem but I'm
+telling you what all choices we have in
+the real world right especially if you
+have large amounts of data where para
+byte scale data sets you should go for
+spark or Hadoop or specialized data
+warehouses obviously you cannot store
+like petabyte scale data sets in CSV or
+txt files even most databases do not
+scale do not scale to petabytes in data
+sets there are exceptions of course
+right so there are all these choices of
+course SQL is a very very popular choice
+and ETL most teams that I know of use
+SQL or a similar language right now now
+let's move on to once you have the
+feature eyes data what are the next
+steps these are all the choices an
+option that we have as I've been telling
+you right so now let's assume we have
+the feature eyes data so we have
+discussed what is the data pipeline so
+now if we have the feature eyes data now
+once I have the feature eyes data I want
+to train a model right I want to train a
+model because during my experimentation
+stage during my experimentation stage
+suppose let's say you might figured out
+that logistic regression I figured out
+that logistic regression model was
+working pretty good for the tasks that I
+have let's assume let's assume this is a
+logistic regression model very good now
+your challenge is take the feature eyes
+data and train your logistic regression
+model I'll use LR for shot right I'm
+trying to train a logistic regression
+model again there will be challenges
+here let's write down one of the
+challenges right the amount of data the
+volume of data right how much data you
+have right and of course there will be
+challenges here again and does your data
+does your model improve as the amount of
+data that you're sending it to training
+improve right here you need to do one
+analysis which is like this let me just
+change this color so there is some
+interesting analysis that you can
+perform here which is on x-axis you can
+say the volume or the size of data the
+size of data let's assume your train
+your model with one with
+hundred K points with 200 K points with
+300 K points so on so forth right and
+this is the performance metric whatever
+your performance metric is right this
+this is your performance metric if you
+know this see as the data falls as the
+data becomes too small right as the
+amount of data or the size of data on
+which your model is being trained if it
+is too small if the data set is too
+small obviously you will not have a very
+highly you not have a very good
+performance matter of course it is off
+obvious that as the data set size
+increases as the data set size increases
+your models performance also will
+improve but beyond the point it may not
+improve much this is what will typically
+happen that if you have trained your
+model carefully which means beyond
+300,000 points here there is no reason
+to use 400,000 points or 500,000 points
+because the model is not improving
+significantly right so instead of
+worrying about training suppose you
+might have let's say 1 billion data
+points or let's say 10 million data
+points you could have 10 million data
+points but in the in your
+experimentation stage in your
+experimentation in stage you also need
+to analyze this which is as the size of
+the data increases does my performance
+metric also continue to increase and
+where does it plot to off right here it
+is learning loss which means there is no
+significant improvement in the
+performance of the model beyond the
+certain threshold but beyond a certain
+threshold of 300 thousand points the
+models performance is not improving much
+in such a case I should have trained on
+10 million data points I could simply
+sample carefully and just train on my
+300k points this is again something that
+you need to figure out during the
+experimentation stage on the other hand
+on the other hand imagine if your model
+was behaving like this if your model was
+behaving like this where the model
+performance is improving as you keep
+going on so if you have small amount of
+data again there there are three choices
+here right if you have small amount of
+data which can most likely fit in the
+RAM of a box right that's a simple by
+small amount what I mean is
+if you have a 32gb box does your dataset
+fit in a in the RAM of the box right if
+you have small amount of data set you
+could use things like scikit-learn
+or art studio if you are if you're a fan
+of art of course some people use are
+some people you spent on desk
+scikit-learn or if you are doing a
+boosting thing you can use XG boost all
+of these libraries because if your
+dataset size is small why not just use
+the ones that are simple but the next
+question is what if your data set size
+is medium to large okay there three
+options here okay so you have small data
+set which is very good you can just use
+the standard library some of them we
+have discussed in the course like
+scikit-learn
+XG boost it's a trifle if you're a fan
+of art there is always ask Ruby very
+interesting and good platform if your
+data set size is medium which means you
+don't your data does not fit in Ram but
+it fits in your hard disk drive or
+solid-state drive right then of course
+some of these libraries will work but
+you might want to do some sampling you
+might want to do some sampling but again
+because of sampling your performance
+could drop right so in our course we
+have discussed some strategies if the
+data set size is medium what are
+strategies that we can employ for
+example I will give a simple example if
+you're training a logistic regression
+model right you can load let's assume
+this is your total data let's assume
+this is your total data you break it up
+into parts Ukraine a logistic regression
+module one on this part of the data you
+load this into RAM train a model you
+load this train the second model Ukraine
+this you load this data into run right
+so this whole data doesn't fit into RAM
+but just this part of data can frequent
+or on that so you train three logistic
+regression models and perform some form
+of aggregation or weight averaging right
+you can you can just simply a simple
+scheme is averaging this averaging these
+three models weights right and this you
+can do it on a single box this you can
+do it on a single box even the medium
+today it is said you can do it on on on
+a single box like this of course this
+may not scale to every method but for
+simple things
+logistic regression you can trade one
+model let's assume my total data is
+let's say ninety cgb there is 32gb here
+and my ram is let say 32gb or 64gb I
+train this whole thing first then I
+train the second model on the next 32 GB
+of data my third model also altered 2 GB
+of data and then a ver ajal the models
+to get the final model of course
+sampling may not always work but there
+are some hacks like this that you can
+employ the real challenge comes in when
+you have large amounts of data ok
+imagine imagine you need to train your
+model on let's say some 10 million
+points or even 100 million points right
+or even a billion points on things
+because well you are plotting this this
+performance is continuously going that
+this performance metric right is going
+up as your size increasing the size of
+the data which means there is certainly
+value in training on large amounts of
+data right so if you if if your instance
+or if the problem that you're solving
+falls in this large problem large scale
+large scale machine learning models
+where the data will not fit even in a
+single hard disk it's a human the data
+is let's say 1 terabyte or maybe 10
+terabytes or even hundred terabytes or 1
+petabyte the very few companies which
+operated on a big scale but you do see
+10 terabytes scale data sets which do
+not fit on a box then what do you do
+then the best tool that I know of again
+this is my personal preference the many
+choices here one of the best tools I
+know is called the SPARC ml ok for those
+of you who don't know spot is so SPARC
+is a distributed system platform so I
+not go into the internals of spot but
+I'll give you a brief overview of what
+sparkles spark is a distributed
+computing platform in a nutshell what it
+does is if you have multiple boxes let's
+say you might have these n boxes like
+this ok
+all of them each box has its own
+processor has its own so each box has
+its own CPU it has its own RAM it has
+its own hard disk drive or solid-state
+drive each of these is an individual box
+even if all of these box are connected
+if all of these box are connected to a
+network through a network in a same
+physical location so this is box one box
+two box three box ten right each of
+these are individual boxes now your data
+set your whole little tender event data
+set doesn't fit on one box
+but you could split it into ten boxes
+right so this data set would actually
+reside in the hard disk drive in a
+distributed fashion that's why this is
+called the distributed computing
+platform right so your data is split
+across all of this your ten terabytes of
+data your ten terabytes of data is split
+across all of these hard disks and
+Sparkie plication the runs on each of
+these and it will coordinate training of
+your models and transfer of data across
+all of them so if some data needs to be
+transferred from box one to box 3 it
+will go through the network and this is
+your this is your very fast LAN network
+all of you might know about land right
+local area network right so one thing
+that works very well here is all of
+these are connected over LAN and data
+transfer could happen from one box to
+the other box so spot is is a platform
+that enables all of this to be done very
+well very smoothly brilliantly doesn't
+it that's that's the power of spark now
+I don't want to go into resonance
+because Park is a brilliant platform but
+if you're a machine learning engineering
+right so as I was referring to earlier
+spark has this thing called spark and
+mainly so let me just scroll down so
+this is the documentation of spark right
+this is the Apache spark so if you just
+google search for Apache spark machine
+learning library it is called a spark ml
+lip very very I mean this is one of the
+best distributed system machine learning
+libraries the type C and the best part
+about it is you don't have to be an
+expert in spark to be able to use the
+machine learning library because
+understanding the internals of spark is
+pretty intense okay there are lot of
+distributed systems operating systems
+databases networking concepts that go
+into spark but without knowing all of
+the internals of that right you could
+still write MLM code remember
+in the course if you remember in the
+course we use tensorflow right so we
+could write tensorflow port without
+knowing the details of GPU programming
+right GPU programming is a very very
+exciting area without knowing the
+internals of how GPUs work without
+knowing the internals of GPU programming
+extensively we could still train models
+using tensorflow exactly the same way
+without knowing the internals of SPARC
+we can still write a melon of course if
+you have time I strongly recommend you
+learn SPARC it's a beautiful platform I
+thoroughly enjoyed seeing the birth and
+the expansion of SPARC itself because
+when I was a machine learning engineer
+when I was a research in here at Yahoo
+SPARC wasn't there we should do most of
+this stuff in Hadoop now after SPARC ml
+it came into existence things have
+improved a lot
+for example you could go to this
+classification and regression here I
+show you some simple code snippet to
+show you how simple this is but if you
+just click on the classification and
+regression will take you to this page
+right within this page you have all the
+major classification techniques here
+look at this you have your logistic
+regulation your decision trees your
+random forests your gradient boost
+addition trees multi-layer perceptrons
+your linear support vector machines your
+naive Bayes most of these techniques are
+implemented so if you know R or if you
+know SK learn write picking up some of
+these things that are there in spa is
+very simple it's not at all about that
+science the ML Lippman SPARC is
+extremely easy I have seen people who
+were not who are not software engineers
+pick it up over a weekend to be honest
+it's that simple I'll show you how
+simple it is so if I click on binomial
+logistic regression here what I get is
+the stage right so if you go here this
+is the page for binomial logistic
+regression there is some documentation
+the beautiful thing with SPARC is I can
+write code in Scala
+those of you who don't know Scala don't
+worry you can write code in Java Python
+are my favorite is obviously Python but
+I've had some colleagues who wrote
+brilliant code in Scala in Python it's
+literally very very simple code I'll
+show you I'll show you right imagine I
+have data in some data set in some text
+file right I just have to say SPARC got
+read
+so this data isn't some specialized
+format so I say spark dot read this is
+this is my spark right
+I can easily import spark by saying país
+para dot M el pais part means it's part
+in Python because whole of spark is
+actually implemented in Scala not in
+fact okay so I can say from my spark dot
+ml classification input logistic
+regression very straightforward there
+now here in this line of code I'm not
+going into the depths of it in this line
+of code I'm basically loading data from
+this text file okay and this data in the
+text file is in this specific format so
+I'm saying spark not read dot format I'm
+saying in this format load this file
+this looks maybe much like a kundus if
+you think about this this looks very
+much like a panda's interface right you
+may not be an expert in spark but you
+can still write this code very easily
+now Here I am in the next line I am
+defining a logistic regression model I'm
+saying I want to do only maximum of ten
+night creations this is my
+regularization parameter and this is my
+last achmet regularization parameter
+right we discussed all of them in the
+course in lot of details so here I'm
+defining an object right which which has
+this which we using which I can actually
+train a logistic regression model
+training the model is literally one line
+of code as always just like if you look
+at it this is very similar to
+scikit-learn right all I'm saying here
+is I'm using this LR and I'm saying not
+fit and what do I fit this model this
+model has these three parameters and
+what is the training data this is the
+training because we loaded this data
+into training right that's it you're fit
+a model and you can print the
+coefficients and the intersect basically
+your weight vector
+your W and B of the logistic regression
+it's that simple literally in five lines
+of code you have done a spark mmm
+let's just take a digression model it's
+that simple if you know again there is
+also for those of you who know are there
+is also an you can also write very
+simple code in our if you are a fan of
+Java or Scala the code is very very
+simple right
+very very elegant so if you have an
+instance where you have n
+weights or anything which doesn't fit
+into your hard disk SPARC ml is a good
+choice and it's extremely easy you need
+not know the internals of spark but you
+can still write some beautiful code just
+like the way without knowing lots of
+internals about GPUs how they work and
+GP programming we could still use tensor
+flow right so if you come across an
+instance where you have multiple
+terabytes of data or even petabytes of
+data right so this training if it is
+small just use the simple stuff medium
+do some of these hats large if your data
+set is medium you can still I mean if
+you have the resources you can always go
+and use pack now the next logical
+question here is this park is a
+distributed system platform the whole
+spark cluster because you have ten boxes
+right this is called a cluster of boxes
+this is called the spark cluster this is
+called a spark cluster typically our
+clusters are maintained by data
+engineers right of course if you're
+working in a start-up or a small team
+you may not have the you may not have
+specialized data engineer so sometimes
+you might have to install spark but
+there is very beautiful documentation on
+installing spark but again trust me this
+is non-trivial
+it requires lot of effort and
+optimization that you need to put right
+if your company or team requires to use
+the tributed computing in the manga room
+it makes complete sense to suggest your
+managers and leadership to have data
+engineers on board so that both these
+things right so that all of your cluster
+part as well as your raw data to feature
+eyes data parts can be taken care by
+sometimes of course when your team is
+small you have to do some of this dirty
+work it's fun actually I would call it
+fun work but again this is not core
+machine learning it's okay so now we
+have trained your model life is good
+what next your premiere model either in
+one of these libraries or using some
+hacks or if you have large amount of
+data using spark now what next
+so this or this is all production
+ization of modules right this whole
+steps you go through interaction ization
+now if you want to
+why the model into production that's a
+fun challenge now you have a model it's
+a human we have a model M okay this
+model could be this model could be cuz
+it I'm sorry this model could be present
+in multiple forms this could be a Python
+this could be a Python object if you are
+using Python or it could be a Java
+object or you could get suppose if this
+is a logistic regression model you could
+obtain the parameters of the model like
+the weights and if and the bias terms
+right you could get weight and the W and
+B if you are using a largest decision
+this is a logistic regression you can
+get a Python object right a persistent
+Python object right so a persistent
+Python object which means you can take
+this model file you can take this Python
+object and store it to disk my
+persistent I mean you can store it to a
+hard disk or a solid-state drive or you
+can obtain this W and B they're two
+options here how do you store your so
+you can store this to your disk or a
+phylum right this is one option you have
+there are two options again here one is
+take the parameters and store it to a
+file or if it's if it's a Python object
+you can also persist it and we visitor
+some of these things in detail in the
+course also okay how to persist it and
+all of that stuff now so you have your
+model stored on disk finally okay now
+you want to deploy it so what does
+deployment mean again let us understand
+how does it work so you have stored this
+to take suppose there is this box let's
+take a single box instance for
+simplicity so there is this box one okay
+this is your box you train the model
+right you store the model in your hard
+disk let's assume this is your hard disk
+drive you have your CPU and you have
+your RAM
+three major components of any box it
+your model is now stored in a file your
+model is stored here now deployment
+basically means how does the model that
+you have build it will track with the
+rest of the software that your company
+is writing or your team isn't anything
+let's take a simple example imagine
+imagine a world where you're building a
+big software
+again there are some software
+engineering concert
+you
+like GPU programming is a full-fledged
+course at some universities so I cannot
+go into like software engineering and
+either multi is a multi semester course
+but picnic what happened is this this is
+one of the possibilities I'm not saying
+this is the only possibility let's say
+here is the server it's a gem here is
+the stuff let's take an internet example
+so that expected let's say later I have
+with each partner user okay I open up my
+browser let's say you might open up my
+browser and type in some amazon.com or
+whatever right so now what happens if so
+this goes to the Amazon server right the
+Amazon server will begin all other the
+Amazon server would be connected to a
+database and just a second folks
+just a second I'm seeing I believe I
+believe some of you would have some
+voice issues just the second folks just
+a second please
+is this problem persistent because one
+of my teammates were just informing me
+that some of you have YC shoes is this
+persistent okay I'm just going to the
+okay the voice is breaking war started
+breaking the video is not good to follow
+okay
+is this better enough I have a fairly
+good internet connection yeah there is
+certainly some lack we tested it
+thoroughly in the morning also but there
+is certainly some lag here okay let me
+get my microphone a little more one
+second just a second
+is this better now okay I'm just pulling
+the microphone very close to me just a
+second this will hinder some of the
+content but let's see just a second okay
+I'm just so I'm just bringing the
+microphone much closer to see how well
+this works is this better by any chance
+let me start screen sharing again okay
+okay I think there was a small hiccup
+earlier sorry for that and yeah so let's
+get back to let's let's get back to
+where we want right okay this is good so
+I just pulled the microphone closer to
+my closer to myself so let's go let's go
+- lets go to the the software
+architecture parts again so you have a
+browser here you have a server here and
+you have multiple instances and so the
+server might call and this this is so if
+you're going to a web server right the
+web server has to load the page at the
+end of the day there might be one module
+here for example for example it might
+want to predict let's say it might want
+to suppose suppose this is let's say
+Amazon page right an amazon page you
+have products that are similar to this
+page like it will recommend some similar
+products now this similar products there
+are many many parts of the page there
+are many many parts of the page for each
+part of the page it would call a
+different service it would call a
+different service and fetch the data
+this web server will actually pull all
+of this data from various services and
+collate and build
+this whole final webpage and send it
+back to the user now this this feature
+which is similar products feature
+requires a machine learning service
+right this requires a machine learning
+service which means this could be
+residing on a completely different box
+not it will not be on your server right
+this could be on a completely different
+box where you have a model M where you
+have a model M that is running here and
+this server actually calls this service
+this model so so this server to fill up
+this place to fill up this to fill up
+this whole thing what it would do is it
+would actually take the data it would
+actually say ok I am on so into a
+product page I want to give I want you
+to tell me what are all the similar
+products so it will send some
+information to the service and the
+service would send back all of the
+related products right through a
+recommendation engine whatever model
+right so this whole thing is called the
+service-oriented architecture ok there
+also some extensions like micro services
+etc again service under architecture is
+a very very dense topic very very deep
+topic in software architecture design I
+am NOT going into the depths of it but
+in a nutshell for one of the very
+popular ways to deploy models is by
+saying I have a box the machine learning
+team has a box on this box my model M is
+running anybody can send me a request
+anybody can say can send me a request
+with some data this data is basically
+your your feature is the input ok I will
+respond back so here and say send in the
+request I I will respond back sorry here
+I'll say sorry let me just undo this ok
+so the way to work is I have my request
+data here the request data goes in and
+my response data here so my machine
+learning model will now send the
+response right so that
+his data the request data would contain
+the feature vector all the data that I
+need to recommend similar products like
+for example in this case my request data
+might contain the information about the
+user the information about the product
+right and lots of other features what
+this response will contain is basically
+a list of similar it will basically
+contain a list of similar products now
+this machine learning and this request
+and response can come from any other box
+I don't care so this is my box this is a
+server this is a server that the machine
+that let's call it a machine learning
+server this is a server that the machine
+learning team runs right anybody can can
+give me a request with the features that
+I want and I would response back with
+response the good thing in this
+architecture is I can change the model
+without impacting the rest of the
+systems right so my server need not know
+as long as there is an agreement on how
+to send the input and how to send the
+output I think of your request as input
+to the model your response as the output
+as long as your as long as your machine
+learning server and your actual web
+server this is your web server which is
+serving the web page right to the
+customer right as long as they both
+agree on the format of this data as long
+as they agree upon the input and output
+format you can do anything in the back
+so this is called a Web API okay these
+are in general called a piece but web
+BPA's are a popular method wherein I can
+send a request here to this box so this
+is my machine learning server box where
+the machine learning model M is running
+right I would just send that this is how
+it works now your question is how do I
+build a web api this is called an API
+right this is called a Web API in a
+nutshell now again I have skipped lot of
+details to be honest with you have
+slipped a lot of details about service
+or not mature micro-services api's have
+to skip lot of it but this intuitive
+understanding is a good enough starting
+point to be honest with you right now
+the question here is I have a model M
+okay that
+I've stored two discs here remember I've
+already stored my model m to disk okay
+let's assume it is stored in my machine
+learning server in the disk my machine
+my model file right my model file is
+here now using my model file I want to
+be able to have this service that
+anybody can call with a request and I
+should be able to respond back with this
+how do I build this this come so to
+build the baby ice there is a very nice
+tool called flask in Python so flask is
+basically a library that helps you build
+Web API is in Python okay
+I have not built some of these in R so
+I'm not an expert there but we have used
+some flask based Python libraries right
+and the best part about Web API says the
+rest of your team this service this
+service your web server they all could
+be writing code in a completely
+different language for example your web
+server may be writing code in Java or
+C++ okay some other service might write
+code in Perl some other service might
+write code in C++ it doesn't matter your
+service is independent of all other
+surfaces so you could write this whole
+code in Python or R okay we'll see how
+flask enables you to build a very simple
+ever baby it's literally in five lines
+of code you can build a very simple web
+api I'll show you a very simple example
+here right so you can take your model
+file and build a very very simple web
+api in literally five to ten lines of
+code that's how simple and elegant it is
+right so let's let's go here okay so
+just a second please okay I have some of
+these links that I have put in okay so
+this is this water web api is so API
+stands for application programming
+interface okay there's a Wikipedia page
+and what the API is are the bunch of
+protocols they're things like that so
+one very important thing is suppose this
+is your web server suppose this is your
+web server is sending some data to your
+and machine learning surfer let's assume
+this is your machine learning server
+it's some so it sends some data right it
+sends a request it sends a request with
+all the data
+to the machine learning server the
+machine learning server sends a response
+back which is discussed this but how
+does it send the data right so there is
+some there is a format called as JSON
+very very popular format which stands
+for JavaScript object notation it's a
+very popular format to send data from
+one web server to other web servers so
+typically these requests are not sent as
+CSV ease or or or or as tab-separated
+values they're typically this is
+typically encoded again there very many
+variations to this but typically Jason
+is the most popular format in which data
+is sent okay your request and response
+both of them are typically in something
+called as a JSON format and Jason stands
+for JavaScript object notation okay and
+it's very simple actually jason is a
+very simple thing you'll laugh at it
+right so this is this very simple page
+on w3schools and what jason is suppose
+in a jason you can represent an object
+like this right here you have you have
+objects of type employees and this is
+basically saying that it's an array and
+in each array you have first-name equals
+to John lastname equals to toe so this
+is one way this is a very simple text
+file in which you are sending three data
+points all three data points are of type
+employees and each employee has two
+fields or two features first-name and
+lastname in a machine-learning case the
+way it will work is you can send a JSON
+file right you can send a JSON file and
+you can say my data point okay you can
+say data point and you can say my data
+point okay my data point has feature one
+right and feature one value is let's say
+32 I have feature two feature two value
+is 61 so on so forth that's it you're
+done right this is basically like this
+is how simple JSON is if you want to
+send ten features you write each of the
+feature names and the feature values an
+extremely simple form of writing it and
+you can say this is my data point type
+so Jason is an extremely simple format
+in which data is often transferred or
+transferred between your web server and
+machine learning server so I'll take you
+through a very simple code here
+literally it's a very nice resource that
+I found because I share by the way I
+share all of these links at the end of
+this discussion I share it in the
+description section of the videos
+because we have to give the credit to
+all the great content creators who have
+created this content and it's also
+beneficial to all the students right so
+flask is very simple by the way first if
+you want to install flask just say pip
+install flask or if you are using Python
+3 just say pick three install flask
+single line you can install flask then
+if you want to so I'll explain in a
+simple snippet of code okay there's a
+lot of code here but I'll explain the
+simplest thing to show you how simple
+the whole flask thing is you simply say
+from flask import flask you're importing
+flask here right here you are saying I
+want to create a flask object right and
+you're saying so this is this is called
+a decorator don't worry too much about
+it right now so here you are saying if
+somebody calls hello this function is
+called hello
+this function returns hello world now
+once a once I write this code actually
+I've written this code if I'm not wrong
+I have returned this code here in my
+terminal okay
+so I've written this code in a program
+called hello dot py ok and I have simply
+executed this so if you notice I've
+written this code in hello dot py and I
+just executed saying Python 3 hello door
+pipe as soon as I executed it starts a
+webserver so in computer networks 127
+point zero point zero point one
+basically means my localhost or my box
+so this basically implies my current box
+on which I am right now right so this is
+a standard in computer networks so what
+it is doing here is on my box this is my
+local host of my local box here so it's
+IP address is 127 point zero point zero
+point one it has a network port called
+5000 look at this it has the network
+port called 5000 so
+on this network port it is waiting for
+requests it is waiting for requests from
+other boxes as soon as a request comes
+it actually executes the Python code and
+responds back okay that's that's how
+that's of web ApS work you give a URL or
+an IP address and you give a port number
+and all of this is using the HTTP
+protocol that we use across the Internet
+HTTP protocol is what we use to load web
+pages right it's the same thing that we
+are doing here right so now if you go
+and check this right
+suppose if I go to my if I go to 127 dot
+0 dot 0 dot 1 5,000 if I execute this I
+get a hello 1 okay if you okay just to
+be sure let me open the tab again and
+run it again
+you got a page saying hello world so
+literally what did I do with this five
+lines of code literally five six lines
+of code
+anybody can now connect to my computer
+whatever if my computer has some IP
+address anybody can connect to my
+computer using this IP address and using
+port 5,000 and just send a request this
+request is empty it's not sending any
+information it just requests on the
+5,000 IP address on the port 5,000 okay
+so now my computer will respond back
+with hello world because it's literally
+returning a new world now anybody can
+actually if you know the IP address if
+you know the public IP address of mine
+of my computer you can call it and get
+things back now this is a very simple
+introduction of course this blog goes on
+to expand more on ok this blog does a
+very good thing because it uses Python
+so it uses model persistence that I was
+talking about which is to store a model
+using a pickle using the pickle module
+that we discussed we discuss this
+extensively in the course right so we
+are using a pickle module to perform
+model persistence which means we are
+storing this to disk and now you can use
+this model and literally your predict
+function is literally this much your
+whole code is literally this much to
+convert your model to convert your model
+or to make your model available through
+a Web API it is
+the seven lines of God right so I'll
+share the link for this paper sorry for
+this block very well-written block very
+similar to what we discussed so as soon
+as you have flasks with just seven to
+ten lines of code you can convert your
+model into a web api now now look at
+this now your team runs this any other
+team because typically in a large
+company there are many many services
+that the web server calls to fill up
+this page there could be one page about
+product ratings there might be one
+service which does that there might be
+other service which says who all are the
+sellers on this product page that lots
+of these services that will be called we
+are not bothered about all the rest of
+the services we don't care about them we
+are only worried about this machine
+learning service that we have that we
+are responsible for right very very
+simple stuff and even writing this code
+and other people can write code in Java
+C++ I don't care right using simple
+flask and just seven to ten lines of
+code if I have a model I can make this
+model available using web api right so I
+think we are running short of time a
+little because we have almost finished
+with one R and I think there are lots of
+interesting questions so this is an
+experiment by the way folks this is a
+big experiment that we are conducting
+actually this is the first live event we
+are conducting on YouTube and that to a
+technical event right till now we have
+done some general live events on
+Facebook mostly talking about the course
+or answering some of the students
+questions about how to how to land
+machine learning jobs and things like
+that
+today we thought let's do a technical
+discussion right with some Q&A followed
+by that and this is a big experiment for
+us also so based on how students respond
+to this based on the feedback that we
+get from the students we could we could
+make this a more regular surface or more
+regular thing if there is a lot of
+excitement from the students and
+audience or else we'll just drop this
+right is an experiment we want to
+interact with the students on more
+regular basis in this format we also
+want to hear your feedback you
+Editions on how we can improve this
+right again is a big experiment we want
+to have a constant channel of discussion
+so we thought that today we are
+discussing production ization and
+deployment of models maybe a week or two
+down there down the line we could
+discuss other things right we can
+discuss like how to build a chatbot
+that's also a design task right what are
+the design challenges how do you
+actually go about thinking and building
+a chatbot right or how do you build a
+production ready self-driving car what
+are the challenges there or how do you
+build a system like Alexa right so these
+are all very very interesting things
+that we thought we could do it in this
+90-minute format it's a big experiment
+for us also so let's see let's see how
+the whole thing pans out as I told you
+it's a big experiment and let's let's go
+let's go back to let's go back to the
+video section you just give me a second
+I just take a sip of water so that we
+can be back for the Q&A yes the second
+place okay in the meantime we just put
+in your questions and our team is
+collating some of them we will try to
+answer as many as possible in the next
+30 minutes
+I'll stop the screencasting for a while
+okay I'm back here sorry sorry for this
+distraction this is my microphone setup
+just to ensure that you get better
+quality of audio okay so let's go on off
+where are we
+so my team has been collating some of
+the most interesting questions and the
+most frequently asked questions it's
+almost impossible to answer everything
+above none of them will take you answer
+as many as possible when the recording
+be available so let me just zoom in so
+that all of you can see this of course
+please understand that it's almost
+impossible for us to let me just zoom in
+a little more maybe 200 percent okay so
+let's see will the recording be
+available after this meeting certainly
+what is the point if you don't share it
+with others but we would encourage
+saying we want this to be an interactive
+session with at least some questions
+that we take
+I want this interaction to be built up
+because this is this solves a great wave
+keep our students motivated right
+through looks this live session more
+frequently at regular intervals
+certainly some of these will be
+available but we strongly recommend if
+you could join right we will certainly
+we strongly encourage you to do this of
+course some of you have suggested that
+we could do it over weekends certainly
+that's something that we'll take a poll
+and see what students prefer because we
+are open to do it on any day frankly
+speaking at the convenience of the
+students yes so these will these videos
+if they turn out to be ok if they turn
+out to be of good quality will certainly
+add it to our course videos also again
+as I told you it is a big experiment
+that we're doing we still don't know if
+the whole thing works out so frankly
+speaking it's a big experiment right so
+the next question is I hope what's the
+view now I think you're seeing me right
+ok so let me just screencast just so
+that you can also see the questions ok
+it is some of the questions that we will
+try and answer today ok so include chat
+chat board deployment process very very
+good question we would certainly try to
+do that actually we were thinking of
+doing how to actually design so one
+thing that we notice is while many
+students
+the techniques many students know what
+is logistic regression what is G BDD
+what is deep learning what is RN and
+what is CNN
+most of them falter when they're given a
+real-world problem suppose if I tell you
+design a jackpot you claim that you know
+machine learning in deep learning is any
+chance but most students are lost there
+because they don't know where to start
+they don't know how to take a take this
+problem and break it down into smaller
+pieces and understand how to think about
+it so what we try to do in this exercise
+is we try to show you the deployment of
+models of production is rational models
+is a big task it takes months sometimes
+to be honest with you right we've had
+instances where I spend months I have
+the model ready but just to get the
+whole thing in place took us months
+right so it's important to understand
+what are all the components what are all
+the opportunities challenges risks right
+so we would certainly discuss we are
+very excited to talk about because lot
+of people have this misconception about
+chatbots right so they're different
+types of chat pots some of them simple
+information retrieval stuff and there's
+a lot of hype around chat BOTS right so
+we wanted to tell you what are all the
+design choices everything from data sets
+what models might work right that's
+something that we want to do not just
+for Chad Watts but for the wide spectrum
+of things as far as chat board
+deployment itself is concerned you could
+still do it using the web api method
+that which is discussed it's a very
+popular technique that a lot of chat
+bots actually use right so as for the
+deployment is process of chat BOTS is
+concerned Web API system the popular
+method but the bigger challenge is how
+do you design a chat bot maybe you could
+be working for a bank right what are the
+risks what are the requirements using
+which you would design the chat bot or
+you could be working for a customer
+service aspect of let's say an
+e-commerce company
+how do chat BOTS help there okay so
+general purpose chat BOTS never work
+okay companies like Google Facebook
+Microsoft cried and failed and they have
+humongous amounts of resources so it's
+something that we want to discuss and
+will shortly take it up as one of the
+tasks or the next few sessions if
+sessions like this are
+interesting students we would certainly
+love to do more of them if the
+participation is also encouraging to us
+we would certainly do many more of these
+chatbot is something that we will
+certainly be one of the first things
+that we would do right so the next
+question is what to do if there are new
+values in a feature that are not present
+during training process let's say
+categorical features okay so okay so
+what you're saying here is let's assume
+there's a categorical feature F so let
+me write it down here so let's assume
+there is a categorical feature F C let's
+assume it has values C 1 C 2 C 3 in the
+training data but in the test data we
+also see C 4 right in that case right so
+if you're doing one hot encoding right
+if you are doing one hot encoding this
+FC will be encoded as C 1 C 2 C 3 right
+one of them will be set to one right if
+C 4 is present you would set all of them
+to 0 depends on the encoding so if you
+are using one hot encoding you would set
+all three of them to 0 right this is one
+hot encoding again we discuss this in
+the course in lot of detail on the other
+hand if you are doing response coding
+right if you're doing response coding so
+response coding basically means wherever
+there is a value of C 1 for feature C
+you would actually use probability of Y
+I equals to 1 given F C equals to C 1
+right this is what response coding is
+again I'm assuming that things are
+binary valued here that your class
+labels are binary value so in the case
+of response coding you have never seen C
+4 right so you would just use
+probability of y equals to 1 without any
+condition here
+right whenever you have C 4 right so
+again it depends on the encoding for one
+hot encoding you would leave everything
+to zeros in response coding you just use
+probability of I equals to 1 which is
+which is if you have a balanced data set
+this is close to 0.5 right so these are
+some of the ways that we do it and I
+think we have done this in some of the
+case studies also ok having said that
+next question what to do if there are ok
+sorry how to extract text from PDF using
+deep learning probably CNN
+so if you want again depends on what
+does the extraction here mean this is a
+very interesting real-world problem is
+your text in a specific location of your
+PDF file always let's assume your PDF
+file is an application form all of your
+PDFs are application forms for let's say
+some examination then you know where is
+the exact text right you know very
+exactly the text fields are you know
+where the name is you know where the
+where the address is you know exactly
+where it is so typically for a problem
+like this right for a problem like this
+we typically end up using our CNN's
+right which are a combination of our n
+ins and CNN's right because when you are
+extracting a sequence of words suppose
+if I'm extracting this CNN's are very
+good at your OCR or object character or
+your character recognition optical
+character recognition not object
+character sorry right so if you give it
+F if you give something like this it's
+very good at recognizing that it's F
+even if it's a handwritten character but
+now we have a sequence of characters
+right so very popular technique is an
+are CNN here and again that depends on
+the problem if you have freeform text no
+formatting nothing then getting a highly
+accurate conversion from image to text
+right is harder but if your data is PDF
+right PDF to text you don't have to do
+all this CNN so all of these are useful
+if you have image to text right you have
+an image and you're trying to convert it
+to text from PDF to text because PDF is
+a standard format PDF is a world
+standard format right so you can just
+take the PDF format that you have and
+convert into text using others of other
+like simple software engineering simple
+software tools you don't have to use
+deep learning all of that
+sorry I missed this part in the earlier
+section so he makes two texts are CNN
+settings but PDF to text there are lots
+of simple software non machine learning
+stuff that you can use right so okay so
+the next question is the same as the
+previous one right okay okay yes the
+third and fifth are the same okay
+and just ignore this how do you use a wh
+maker for deployment and that that's a
+good question
+so AWS sage maker is is a cloud-based
+tool so whatever we have done right so
+imagine this whole pipeline this whole
+pipeline that we have sorry this whole
+pipeline going from raw data to
+processing to feature izing all of this
+can be done in a single tool called aw
+SH maker this is part of Amazon's web
+services this is part of Amazon's web
+services so this is very useful this is
+extremely useful if all of your data
+lies on Amazon Web Services and if you
+are using Amazon Web Services for your
+computer resources again you should use
+this so the question here is when to use
+you should use a wh maker for deployment
+if most of your data let's assume all of
+your data is in s3
+right Amazon s3 which is the simple
+storage surface and if you are using
+let's say AWS for all of your computer
+resources right your ec2 Elastic Compute
+club so if your data is stored in s3 if
+you are using ec2 for all of your then
+for all of your computer resources it
+makes a lot of sense to use sage maker
+because sage maker can read data from
+your s3 and from you and it can use ec2
+all of that very well so if your company
+is already using Amazon Web Services
+extensively using sage maker makes a lot
+of sense right again internally sage
+maker gives you an API based framework
+okay to train and deploy more knowledge
+internally what sage maker is doing is
+using something like flask okay how
+things change when you're working in a
+cloud environment as I was just
+referring to earlier in cloud
+environments there is there is there is
+an equivalent for everything for example
+your raw data let me give an example of
+Amazon Amazon which I know slightly
+better than others cloud platforms your
+raw data is stored in something called
+as simple storage surface okay if it's a
+raw text file or CSV file there are
+databases right oh there is a Hadoop
+cluster all of them are the same thing
+the pieces stay the same so for this ETL
+process there is
+something called as simple it's called
+sqs on SMS there's so many services that
+I forget them right you can actually do
+this whole ETL process itself there is a
+there is there is a pipeline management
+software within Amazon Web service I
+think it's called it's called simple
+notification service no it's not a
+notification service there is one of
+those simple some service which lets you
+orchestrate this all of these ETL
+queries in a sequence and get feature
+ice data this feature is data you would
+store it in s3 again and once you store
+it you train this model if you are using
+a spark cluster you can get a spark ml
+instance on top of ec2 right right the
+same story if you are using a scale
+learn again you will take a box on ec2
+which is the Elastic Compute cloud that
+amazon has and install some of these
+tools now again the same story as far as
+this deployment is concerned you could
+write your own you could write your own
+flash based aps or you could use things
+like sage maker the components don't
+change the core components that we just
+discussed do not change here right the
+only thing that changes is how the
+specific cloud whether it's Google
+compute cloud or Microsoft Azure cloud
+or AWS
+how they have implemented it so this is
+a very good question do data scientists
+need to have knowledge of Hadoop hives
+we can spark very very good question
+this depends a lot on the team so let me
+give an example so my team was one of
+the earliest adopters of spark how do
+you open many of these things but we
+never interviewed people on this because
+we felt that if somebody knows basics of
+programming and basics of machine
+learning so for data scientists there is
+no spark how to make hive type of
+interviews because we have hired people
+who don't know what is big they think
+pink is the animal not a fool not a
+software not a software tool that that
+can be used in Hadoop ok but what we
+have seen is if you get a good data
+scientist who also knows some
+programming they can easily pick up
+these things so what we used to do so we
+never at least in my team and in many
+teams that I know at Amazon and other
+good product based companies of course
+knowing them is never bad
+okay if you know them that's great there
+is no need but if you know them you
+certainly have an advantage there is no
+doubt about that
+but not knowing them you're not at a
+disadvantage because if you if you know
+all of them but if you don't know basics
+of logistic regression gradient boosted
+decision trees and deep learning nobody
+will give you a job of a data scientist
+okay so these are not mandatory skills
+because I learned because in most of the
+interviews that I've done at most of the
+companies myself both at Yahoo research
+Yahoo labs and Amazon I was never asked
+these questions even though I knew some
+of them I was asked questions on data
+science mathematics and software and
+programming right and after I went in of
+course these are these are stuff that we
+would use every day even if you don't
+know you can pick these things up in a
+month or so right so the next question
+so please let us know about model
+persistence of difference all the
+different algorithms if you are using PI
+spark sorry if you are using a Python
+like something like psych epsilon right
+you can persist the model irrespective
+of what the algorithm is irrespective of
+what the algorithm is you can persist
+the model to disk right using your what
+is the library called very popular
+library we just discussed about it
+awhile ago right I forgot just give me a
+second let me refresh my memory here
+okay so you can do it using okay using
+the pickle using the people using the
+pickle library here right so you don't
+have to worry about what algorithm
+you're persisting as long as you are
+using pickle
+so pickle is not a scalar and specific
+pickle is Python specific right any
+model you can persist if you're using
+cycle and through pickle but if you
+don't want to persist this way for
+example if you want to store the
+parameters of the model for the logistic
+regression it will be wait and the bias
+terms for again it depends on the model
+to model right for example if it's see
+what are the parameters of the model
+right if you are using decision trees
+you can store a decision tree as a bunch
+of offence conditions we have discussed
+this in extensively in the course right
+so if you're storing an SVM
+all you need is support vectors
+if it's a non linear SVM all you need to
+store is the support vectors because if
+you have the support vectors you can
+compute the kernels on top of the
+support vectors of course you need
+support vectors and the parameters of
+the kernel right if you store them you
+can rebuild the whole SVM itself right
+so but as far as model persistence is
+concerned itself you can do it using
+pickle in Python I'm sure there are
+equivalent stuff in Java Scala etc
+please let us know about web scraping to
+extract data so web scraping is
+basically a bunch of libraries like
+python is a very popular tool they're
+also web scraping tools in Java you can
+basically obtain so one very nice tool
+is called selenium right selenium is a
+tool that you can that is used mostly
+for testing but you can use selenium you
+can code you can write code in Java or
+in Python using selenium and it
+literally get the whole page for you
+then it's a bunch of reg XS then it's a
+bunch of regular expressions that we
+have discussed in the course right so
+you just obtain the whole webpage itself
+and then you apply a bunch of regular
+expressions to scrape all the parts of
+the page that you want but please be
+warned that lot of companies don't want
+their websites to be scraped ok because
+they think that their data is very very
+valuable to them so companies will block
+you okay please so there is a file
+called robots.txt for for most major web
+pages please read this page and respect
+the terms in robots.txt please don't
+just go ahead and scrape the pages
+without the permission from the website
+owner that's illegal
+okay I'm being very very strict here
+please don't do that so whatever you're
+scraping please use the right number of
+requests because you don't want to bring
+down a web server by just scraping right
+so selenium is a very good platform if
+you want to scrape the pages okay I'll
+try to go down as many questions as I
+can how do i parallely predict multiple
+images at the same time
+how do I predict parallel what do you
+predict multiple images at the same time
+oh I think okay okay okay so okay I
+think okay so what the question here is
+you are instead of one request and one
+response right you want multiple
+requests response so I might send more
+than one image you can do that right in
+the request in the request instead of
+sending one image you can send a
+sequence of images the response could
+also be a sequence that's one way of
+doing it okay and you could run one
+model in each core of your box it's a
+young your box is four core let's assume
+is your box is four core you can run
+each of these models one model on the
+first course second model in the second
+core third model on third core fourth
+model on fourth core right and these
+I've got that there is some engineering
+hacks that you need to do to ensure that
+these requests go to one of these course
+you require you require something called
+an operating system synchronization
+thing that you need to work on but it's
+possible okay that's one thing the other
+thing that people do is they have
+multiple boxes they have multiple boxes
+and they have something called as a load
+balancer we also touched upon this in
+the course you send many many images
+it'll send one image to this one image
+to this one image to this it will get
+these responses and send you back right
+so this could be either a multi-core
+system or a multi boxes system right
+both of them are possible right so a
+roll of Cuban interests in deploying
+email models frankly speaking I am NOT
+an expert at Cuba notice I don't claim
+to be one but I've seen a few teams that
+use qubits in machine learning model
+deployment but frankly speaking I'm not
+an expert so I don't want to comment on
+it without reading a little more so I'll
+avoid this having said that when to use
+a DeBlase EMR for deployment
+by the way EMR is basically your elastic
+MapReduce elastic MapReduce elastic
+MapReduce is basically a platform where
+Amazon gives you Hadoop and spark okay
+so basically what EMR gives you is
+basically Hadoop and spark on the amazon
+clusters right so here if you want to
+pry if you have lot of data let's go
+back here so if you have lot of data in
+your Hadoop or spark if your data is in
+Amazon s3 see you should use AWS all AWS
+tools are more valuable if your data is
+stored on AWS cloud then instead of you
+setting up your own see the value
+proposition that EMR brings is instead
+of you using ec2 clusters installing
+Hadoop and spark and doing all this
+headache yourself aw a simmer gives you
+default Hadoop and you can just say I
+want 30 boxes spark cluster each one
+with so much RAM each one with so much
+disk space EMR will just give you that
+cluster in five minutes instead of you
+having to maintain deploy etc so if your
+data is on ec2 sorry if your data is on
+s3
+instead of using to access your models
+offer for using hard for installing
+Hadoop and spark it's best to use in my
+CMR for those of you who don't know
+either place and all of this stuff don't
+worry about it right this is something
+that I learned much much later very very
+important right I didn't know anything I
+don't even ABCD of cloud computing or
+Amazon Web Services before I joined
+Amazon and I was already like three four
+years experience then right for a
+machine learning role data science
+machine learning mathematics and
+programming are important cloud
+computing you will pick it up as and
+when needed I picked up all of these
+things for example I didn't pick up
+Kuban it is still long because I didn't
+get into an instance that's why I'm not
+an expert in it
+all of these AWS services I have used
+them or have interacted with those teams
+and hence I learned so what are the
+significance of running ETL you need to
+run ETL to get your models to get your
+data right without without the ETL
+pipeline you don't get your feature eyes
+data which means you don't get your
+model at what frequency should you do it
+that depends as I was referring to
+earlier you should you should do it at
+least in the frequency at which you're
+training your model if you're training
+your model once every day you should
+ideally run your ETL one
+or maybe maybe maybe much more
+frequently so that all the data is
+available see with the ETL you're
+getting feature eyes data right at the
+end of ETL you're getting feature eyes
+data which you need for models right so
+if you're going to train your model
+every day you need to run your ETL
+everyday without without the problem
+does it improve my model no it doesn't
+improve your model ETL is a necessary
+step to get the data into the model
+without that you don't have data
+especially if your data is in a data
+warehouse or a Hadoop cluster or a spark
+cluster or if it's on a if it's on let's
+say a database right how to train a
+model with combination of multiple
+machine learnings to build a solution we
+have discussed this extensively in the
+course so we have things like stacking
+so go back to the course or if you're
+not a participant of the course that
+still okay there is something called as
+model stacking there is also bagging and
+boosting right but in bagging and
+boosting we typically use the same type
+of model but with different parameters
+every time on different data sets
+stacking is what you're looking at right
+using stacking you can combine multiple
+models to build a better solution and
+this is what lot of cattle computation
+participants use right so can we run ETL
+pipeline in real time instead of hours
+or minutes very good question so this is
+this is the engineering challenge right
+so there are platforms that enable you
+to do ETL plan ETL pipelines in real
+time or almost clear or almost real-time
+building this from scratch so there is
+something called as streaming there is
+something called as a streaming data
+right which means you you're getting the
+data life and you process this data in
+life and you then feature is this data
+and train your model in real time okay
+that's called that's called the
+streaming pipeline there are some
+platforms like storm which were very
+popular at some point of time but
+actually my team we try to use storm for
+a while but then we said we build this
+ETL pipeline in real time ourselves so
+our engineer we had a terrific
+engineering team a brilliant bunch of
+engineers right we built an ETL pipeline
+in real time the
+we had a requirement to be able to
+analyze data and this was like para byte
+scale data sets you won't like its
+massive amount of data so we built an
+ETL pipeline in real time to process
+this but I believe there are some
+because we tried strong it didn't work
+for our needs so we ended up building
+our own stuff so there are instances
+where this is useful but not always
+sometimes running ETL in real time is an
+overkill if you don't need this in real
+time please don't do it because it can
+we get very very expensive right so in
+our instance we needed it because
+because of some constraint that I cannot
+discuss further because it's a sensitive
+topic ok ok so where are we during the
+deployment of machine learning models
+and production do we use scale and
+libraries where we have real-time data
+yeah so we can use a scale on libraries
+the model that you have right the model
+that you have persisted is basically a
+Ana scalar model right now using this
+model you're building a flask API on top
+of this so it's the same item code that
+is running but you have put a flask
+layer on top of it so that this becomes
+a Web API it's the same thing so on your
+box you need to have scikit-learn
+installed all of that stuff otherwise
+your model can't run all right so so
+whatever box you have whatever machine
+learning server you have right you have
+your model here this model will be
+executed you need to have scikit-learn
+installed all the libraries installed
+otherwise this model cannot be executed
+even though this is put inside a flask
+right flask is just giving you a web api
+to this so that other computers can talk
+to this computer right so what does the
+other part how do we can do we use our
+own logs and advanced mention hacks you
+don't have to worry about your own logs
+and your own hacks
+sike it enables you to do that very
+easily the webpage that I was referring
+to earlier there is a very detailed
+description on how to use a persisted
+model just in the interest of time I
+didn't go too deep into it I shared the
+reference link at the end of this
+discussion please go through it and you
+would understand some more details right
+this is a this is a fun thing which is
+the best cloud deployment I sure geez
+CIWS or IBM I have not used all of them
+I've used AWS to some extent so I don't
+think I'm an expert to comment on this
+because I've not used all of them but my
+suggestion is simple all of them give
+you some basic tools for ml deployment
+and personalization so it all depends on
+where your data is if your data is on
+AWS you should be using AWS if your data
+is on Microsoft cloud you should use
+Asia if your data is on the Google cloud
+you should use GCP there's no point
+moving your data from one cloud to other
+club if your data is an IBM Claire just
+use the ml deployment that is available
+in these platforms right but I'm not an
+expert in this I have used AWS
+extensively in many instances I have
+built the map I'm Mike by I I'm in my
+team we have built a deployment platform
+from scratch ourselves that's what we
+have done extensively so I'm not an
+expert in other stuff so I don't want to
+commit but in a nutshell the rule of
+thumb is wherever your data is just use
+that even if let's assume I don't know
+this let's assume IBM does not have a
+very good deployment platform that's
+okay you have flask you have Python you
+have all these tools that you can
+install and use and make up and make a
+very solid machine learning deployment
+platform using IBM what is stopping you
+nothing right okay how do we pass images
+to Karis models okay so Karis yeah so
+this yeah if you're trying to do
+multi-threading klaris can run into
+issues that's primarily because the way
+Kerris works is if you have a GPU or
+even in a simple non GPU setting there
+is a problem here so I'll have to think
+a little more on how to do this but one
+thing especially if you if you require a
+lot of parallelization there is always
+this option that you use multiple boxes
+and you put a load balancer in front of
+them you send all the images right and
+each of them goes to one box if you want
+answers very fast or else why don't you
+process each of them one after the other
+if you require I'm not sure because I've
+never tried multi-threading or or
+multi-core on Keros I have not done that
+myself but I have done this load
+balancer type of
+for a distributor clearance type of
+stuff that works this I need to look
+into it and as you mentioned it gives
+compatible later just google search if
+people have done this maybe on a non GPU
+setup and I know that this can be done
+if you have multiple GPUs on your box so
+if you have a box with let's say four
+GPUs I can send each of these images to
+each of the GPUs so that's a multi GPU
+but I don't know multi-threaded I've
+never tried that myself okay so this
+Google search maybe there is something
+that I don't know that it's still
+possible should we learn about firebase
+machine learning kit in creating apps
+for machine learning so I don't know
+firebase machine learning kit myself to
+be honest with you I've heard about it
+but at the end of the day right of
+course if firebase makes your life
+simple certainly do it right but at the
+end of the day even if firebase doesn't
+suit your requirements you can just use
+the you can just use so let me just see
+what firebase is anyway what is firebase
+Kate I think I've heard of this fire
+base okay what does it do just give me a
+second
+I milk it for firebase for mobile
+developers okay okay okay okay oh this
+is the is this Google one yes okay okay
+that's what that's what okay okay got it
+got it oh yes so thanks okay I've read
+about it I just forgot the name it's
+confusing it with something else so yes
+if you're doing mobile applications
+firebase probably is one of the really
+good ones there is also other of you
+have tensorflow
+you have tensorflow that you can run on
+mobile phones now especially for deep
+learning applications and I'm sure since
+Google is building it where where should
+be a very high quality because I trust
+Google to build good products so if you
+are if you are doing I'm not used
+firebase to be honest with you I'm not
+at all used it I've used tensorflow and
+mobile phones but firebase since it
+looks very good it's a better product so
+just be little careful to test your
+stuff well but seems like a good product
+okay so where were we
+um okay distribute people earning
+tensorflow has distributed deep learning
+for you so I can do even Karis to some
+extent tensorflow and carers can do
+distributed distributed deep learning
+basically distributed deep learning
+basically means instead of one GPU we
+are using multiple GPUs to cranium model
+these GPUs could be in a single box or
+they could be across multiple boxes the
+moment you have data across multiple
+boxes moving the data from one box to
+other box becomes a big headache but
+tensorflow and Karis Ward design
+actually Google uses tensorflow itself
+for most of the distributed deep
+learning so there's a lot of
+documentation on tensorflow on how to
+make it work even Karis on how to make
+it work when you have multiple GPUs or
+GPU spread across multiple boxes okay
+how ml Lib so what is the use case to
+transform data from one box to another
+box on SPARC data if you have ten
+terabytes of data or many many terabytes
+of data that you cannot store on a
+single box go to spark how MLM is
+different from scikit-learn scikit-learn
+trains models and performs everything on
+a single box this is a single box
+implementation of each of your
+algorithms ml live the the SPARC ml lip
+right SPARC Emily implements all of your
+algorithms on distributed data right
+as we discussed right so your spark ml
+this is how your data is distributed
+your models are trained in a distributed
+fashion if your trained logistic
+regression using spark the logistic
+regression model is trained on the data
+using the CPU and RAM of each of these
+boxes right so ml lip is so there's a
+whole area called distributed machine
+learning and ml lip implements most of
+those distributed machine learning
+algorithms for you without you having to
+worry okay I think there's still a flood
+of questions we are still running short
+of time just not to bore you we'll stop
+it here we'll stop it here so we have
+answered 23 questions which is a good
+track record I thought I'll answer only
+five or six of them and it's good it's
+it's it's fun to answer these questions
+and
+most importantly we want to hear your
+feedback on this experiment that we are
+doing okay let me let me stop the
+broadcast no let me stop the screen
+sharing so that I can make so what we're
+doing here is it's a big experiment that
+we're doing we also don't know if this
+format is interesting students how
+students think about it and things like
+that so it's an experiment that we are
+conducting we want to hear your feedback
+what you think of this if we take up
+topics like this like how to design a
+chat board how to how to train how to
+train a fun we also wanted to have some
+interaction right imagine if I just did
+this video one hour video and posted to
+YouTube there is no back and forth the
+way we had with Q&A right so that's why
+we thought a live session also makes it
+more regular of course we could do it at
+a time that most of your convenient the
+most of you are available in convenient
+with but in a nutshell what we are
+trying to achieve here is trying to
+create a channel of discussion technical
+discussion right not just about the
+course but about technical topics that's
+why if you saw I even covered some I
+even gave options for our because there
+are some student but not part of our
+course whom we still want to benefit as
+part of this exercise right so all in
+all please give us feedback also tell us
+what you think about this new format in
+the comment section give us feedback on
+how we can improve right that's
+something that's beneficial both for our
+students and for us it's when we all
+work together with some good interesting
+critical and valuable feedback that we
+all grow okay folks I have to take leave
+we are only 94 minutes into this
+discussion thank you for joining they're
+hundreds of students who've joined
+extremely happy with the initial
+response would love to hear hear more
+from you have a good evening and good
+night

@@ -1,0 +1,3750 @@
+hi friends I guess we are life let me
+just check if everything is working as
+expected
+please confirm that and then get back
+and then we'll start the session itself
+they just wait and check for audio yeah
+I can see myself so I guess things are
+alright no issues whatsoever because I
+can see the live session myself right so
+yeah I can also hear it sounds good
+so I'll take a few questions before we
+start the session I answer one of the
+questions so somebody's asking how long
+is the placement paused there is no
+pause per se on placements there are
+some of our students were interviewing
+but some companies have posited from our
+side there is no pause
+we have been continuously in touch with
+companies there are some companies that
+are conducting interviews over Skype
+especially those interview loops that
+they've already started before the
+before the shutdown but I I hope as soon
+as the shutdown is over and as soon as
+employees are back at their company
+offices I'm hopeful that the companies
+start their recruiting process where a
+new candidates will start there will
+start their sessions right so people who
+have already started with their
+interview loops their interview loops
+are carrying on
+but this pause is mostly from that from
+some of the companies again it makes
+completely logical sense right from
+their perspective that they're not able
+to connect because everybody is working
+from home some companies want the
+placements to be from their office
+itself those companies are just waiting
+for the shutdown to get over okay so
+okay how can can we do deep learning
+deployment end to end yes we'll do it so
+if you notice the way we are doing these
+live sessions is we are covering stamp
+topic by topic right so let me just go
+to apply to a course so the way I'm
+planning to do these live sessions again
+we discussed about it first I am doing
+basically fundamentals of programming
+right right now what we do here is
+fundamentals of programming we are just
+using yesterday we did some recursion
+basic functions right we did some basic
+numpy like we are doing basically we are
+still in this chapter right
+are not yet finished pandas by the way
+we have done some computational
+complexity today we will do some more
+mathematical programming today I thought
+I'll cover a couple of questions again
+the later to the last two questions are
+actually questions that have been asked
+in interviews like for machine learning
+engine and interviews at Yahoo labs and
+at IBM Research right so I'll cover a
+couple of those actual real questions
+that have been asked to machine learning
+engineers and and data scientists at
+these two companies so I'll cover a
+couple of real questions as in real
+interviews also so having said that see
+we are still here right tomorrow I am
+planning to do a live session again that
+will also be open to everyone
+tomorrow's live session as I mention it
+at the bottom of this current sheet is
+will do strings and regular expressions
+so we'll solve a bunch of problems
+common mistakes errors just on strings
+and regular expressions which is a very
+important topic for machine learning in
+general so I will cover that right so
+tomorrow we'll do that we'll also do one
+or two sessions and pandas once this is
+over we'll go step by step once we
+finish this will take some problems from
+EDA right I'm also thinking of covering
+Seabourn in much more detail by taking a
+real-world example going through the
+data analysis step by step again even in
+our exploratory data analysis chapter we
+have gone through a real example and
+gone line by line code and all of that I
+thought I will pick one more then we'll
+go to linear algebra right so in linear
+algebra again we'll revisit some of the
+concepts from numpy and some scifi but
+we'll do it with respect to the concepts
+that we learn in linear algebra for
+example we'll see how to write a program
+to determine if given a hyperplane given
+an n-dimensional hyperplane whether a
+point is on one side or other side how
+do you compute the distance between them
+you have discussed the mathematics here
+we have discussed some of this code also
+but I thought I'd take a real-world
+problem and solve again we'll do one
+session on linear algebra we'll do
+probably two or three sessions on just
+probability and statistics code right so
+I am planning to go step by step chapter
+by chapter module by module will shortly
+come to deep learning
+forget about deep learning case studies
+we will go through deep learning again
+if you go through a deep learning case
+study says somebody was asking right if
+you go through some of a deep learning
+case studies they're actually covered
+end to end of course we will
+some topics on deployment we have done a
+live session earlier on deployment of
+machine learning and deep learning
+models using again this is using flask
+and ec2 and AWS and things like that so
+please go through some of those live
+sessions that we have already done in
+the past we'll do more live sessions for
+short right so that that's that's the
+important part here right so I'm
+planning to go step by step topic by
+topic I mean as long as this lockdown is
+there we'll go topic by topic and do
+more and more problem solving again the
+objective here is mostly code
+walkthroughs and to solve coding
+problems for each of the concepts that
+we have in our course for each chapter
+we'll spend one or two days right I
+understand that I'm spending more time
+in Python programming because if you are
+comfortable and good here rest
+everything should follow that's why I'm
+spending almost five or six days just on
+fundamentals of programming okay sounds
+good so yeah so what are the questions
+somebody saying what are the okay so
+again we are we will we will do a
+session on matplotlib not on plotly we
+will do a session on matplotlib because
+that's what we discussed extensively in
+our course videos but we'll do it
+instead of doing it theoretically here
+we'll do it in the EDA chapter again if
+you look at a radial chapter we have
+already used lot of functionality from
+matplotlib but we'll cover more examples
+we'll cover more more functionality
+enough if lockdown is lifted then also
+these sessions will go on again we don't
+have any plan because we have some
+students who are college going students
+we have some students who are working
+professionals we will we don't know
+again we have the weekly C right now we
+have the weekly live sessions and the
+reason we conduct them weekly is because
+people only get time during the weekends
+to attend these live sessions alright so
+during the lockdown since everybody is
+at home we are conducting them daily so
+that they also keep their mind occupied
+on on improving their skills and not on
+other stuff right so somebody says you
+are getting poor video quality I don't
+see that I'm getting like 720p that's
+the best Google will allow right now
+right so
+okay sounds good I think I think we
+should get started I have more problems
+today I have like five problems that I
+wanted to go through so without any
+delay let's jump into the discussion I
+believe some of you okay again I cannot
+look at these comments as I'm explaining
+this because they're completely on two
+different tabs but I believe yesterday I
+was reading through some of the comments
+after the session some students were
+asking us about some students were
+asking us about what is the recursion
+yes I am going to assume that you know
+the you know the you know the basics of
+Python because there is no point in
+covering basics of Python because we've
+already covered it as part of her course
+and there are tons of resources
+available my prerequisite if you read if
+you recall for every live session I am
+clearly making it clear that the
+prerequisite is that you know basics of
+Python right so please understand that I
+will not be able to cover the Python
+basics or any of the concepts basics the
+objective of these live sessions is to
+improve your programming skills used to
+solve more problems in the context of
+machine learning and AI it is not to
+cover the basics I hope that that
+objective is clear right so let's
+continue with this okay so where were we
+yesterday we understood I explained you
+about this this is a very nice diagram
+from Emory University math and computer
+science department I've explained you
+how this works right and then we ran out
+of time so now let's actually some
+buddies we have a very good suggestion
+today over email that can you explain
+the mathematics and how to convert the
+mathematics to equations that I felt
+that was a very good suggestion so I'll
+try to follow that so how are we doing
+this so what is this we want to compute
+the integral of f of X DX from A to B
+this is what we want to compute right
+how are we computing this we said this
+is roughly equal to is approximately
+equal to summation right you're going to
+sum sum multiple things what are we
+going to compute from x equals to a to
+be in the intervals of Delta X right so
+first you will take x equals to a then x
+equals to a plus Delta then a plus 2
+Delta a plus 2 Delta so on so forth up
+to be that's what say you're
+approximating the integral
+the summation right what I going to
+compute f of X f of X sorry f of f of X
+es f of X will give you this height
+right then the width this is nothing but
+Delta right into Delta right so you're
+going to compute so X will take exceed
+your value which will take a then a plus
+Delta then a plus 2 Delta so on so forth
+up to be up to be I have written the B
+here right so you take each of the you
+compute these products and you sum them
+up right so this is approximation we
+discussed now the question here is how
+do you convert this into code it's very
+simple look at look at this what are you
+doing what how can you write this you
+can write this as f of X multiplied by
+Delta plus f of X plus Delta x delta
+plus f of x plus 2 delta x delta so on
+so forth you're repeatedly doing some
+operation and you're summing up look at
+this you whatever result you get you
+store it in a temporary variable you sum
+this with this that you submit with this
+so what you're computing literally is
+you are repeatedly computing this while
+changing the parameter that you pass to
+this function and you're summing it up
+so what what tool that you have in
+programming that helps you do something
+repeatedly over and over loops right so
+this should tell you that you have this
+should tell you that you have to create
+a loop we should tell you the summation
+because you're repeatedly doing it this
+should tell you that you have to create
+a loop and you have to create a some
+variable which you keep updating with
+this value because it is a summation
+right so very simple constructs again
+when you get the logic you have to
+connect the logic to programming
+concepts especially if you're a beginner
+programmer right once you have this you
+just have to translate it into code
+right so again yesterday we discussed I
+hope I hope this math part is clear I
+discussed this yesterday also and as we
+discussed yesterday if the if the Delta
+look at this what is this this is your
+Delta right so this is your Delta the
+smaller the Delta the smaller the Delta
+the more accurate your area under the
+curve would be so let's start writing a
+function okay so first let's implement f
+of X again remember what is the problem
+find the area under the curve sign X by
+X in interval minus 10 to 10 right so
+let's actually plot this first so plot
+sine X by X right so plot Google Google
+will plot it for us thankfully okay so
+from -10 to +10 you want to plot the
+area that's what you want to compute
+right cool this is looking good okay so
+let's go into it okay so first and
+foremost okay we are doing this okay we
+are getting this area and we are
+computing this cool so how do i compute
+f of X define f of X I'm just creating a
+function and I'm saying return sine x by
+x very good and this is my lower bound
+this is my a this is my B this is a
+lower bound of my integral this upper
+bound of my integral right very simple
+first I'm just creating a function do
+you see a problem in this function see
+there can you find a bug in this there
+is a bug actually in this code it's
+literally four lines of code but there's
+a bug can somebody tell me what's the
+bug in the code is okay I'm looking for
+your somebody says video quality is poor
+I don't see that once again let me check
+my streamer my streamer is streaming at
+6 Mbps right so that's the default speed
+that I typically
+Google asks me to stream at so this is
+at this is a proper speed let me refresh
+my YouTube I mean again I can see it
+perfectly alright I don't see any major
+problem yes good good good a couple of
+folks have said okay we have not handled
+the case which is x equals to zero again
+the reason I picked this is because
+there is a problem if x equals to zero
+in programming you have to always handle
+boundary cases it is very very important
+for you to handle boundary cases but
+it's extremely important ok there are
+some more errors in the code I will go
+step by step actually before we go even
+there right so let me tell you one more
+thing there is one more problem actually
+in this there is one more problem in
+this actually if you think about it
+there is one more logical bug here can
+anybody find what that logical bug is so
+in this in this way if I'm computing the
+area under the curve like this there is
+a buggy
+here can anybody tell me what is the bug
+what is the problem
+in this okay so let's let's call it this
+way okay let's just say integral okay
+fine
+let's not worry about it it's okay let's
+continue we'll come to it when the
+situation comes okay so this bug you're
+clear I'm happy that you got it so all
+I'll do is if X is not equals to zero
+look at this all I'm inputting math I'm
+just importing math I'm saying if X is
+not equal to zero return sign X by X
+otherwise return NN not a number because
+division by error division by X will
+create an error I am just saying not a
+number right very simple okay my lower
+bound upper bound
+whenever I define a function I want to
+test what happens so I'm printing f of
+zero so if I execute this what happens
+look at this if I execute this what
+happens print F of zero it is printing n
+a n very good no problem but when I say
+print F of 1 I'm getting an error what
+is the error here look at this look at
+the error it's actually very simple to
+read if you read this error it says
+where is the error the error is look at
+this when I have executed this func this
+line of code this went to this function
+f of X in this in this line there is a
+problem
+what is a problem name sign is not
+defined sign is not an inbuilt function
+you have to say math dot sign right
+let's not forget that very common
+mistakes not using math not sign and
+using math not ABS instead of using ABS
+that we saw yesterday right so I mean I
+just modified it and I said math dot
+sign cool and I'm getting the right
+answer seems like reasonable right so
+I'm getting an N F of 1 is this how do
+we test it we can always test it I can
+just go to F of 1 so this is where one
+is f of I mean if you look at these
+values here if I go to F of 1 look at
+this if I go to F of 1 okay so if I go
+to F of 1 it's close to point 8
+something something something ok cool
+seems sensible very good now let's write
+the code right all you have to do is
+translate the integral into look at this
+we just have to translate this summation
+we just have to translate this summation
+which is f of X Delta and from x equals
+to a
+or my lower in this case I have lower
+and upper right so that that's what it
+is so I'm starting with my X equals to
+minus 10 right which means x equals to a
+a plus Delta a plus 2 Delta so on so
+forth up to B so look look at how I've
+written my code again it's very simple
+once you get this I mean once you
+realize that you have to write a for
+loop it's actually straight forward from
+here x equals 2 minus 10 right so
+because I want the area from minus 10 to
++10 my Delta is 0.1 my area initially is
+0 because I have to keep adding I would
+keep adding this value over and over and
+over again so while X is less than equal
+to 10 look at this while X is less than
+equal to 10 because as long as X is
+because I want the integral from minus
+10 to +10 look at this I want it from
+minus 10 to +10 till the time B is plus
+10 that's why I'm writing this in a
+while loop I want to print as I told you
+I always print things to make sure that
+everything is working well if x equals
+to 0 look at this I want to continue the
+reason again this is a very important
+boundary case that I'm handling because
+if I don't handle this if I don't handle
+it if I call with f of X equals 2 if I
+call see in this isolation right when I
+go from minus 10 to 10 and if I keep
+incrementing my f of X if I keep
+incrementing my X with Delta at some
+point I will get X equals to 0 and F of
+0 is n n right and then multiplied by
+some Delta if I add if I add this to
+some to area it will become an N right
+so there's no point adding this so what
+I'm doing here is I'm saying if x equals
+to 0 just don't compute f of X don't do
+any of this right just don't do this
+just don't compute F of X and then add
+this whole thing to the area just skip
+it right so this is a boundary case an
+important boundary case that we should
+always handle number one number two look
+at this I am saying area equals to area
+plus C equals two so I'm updating my
+area look at this my area is nothing but
+my area is my area equals to area plus f
+of X into Delta exactly the same
+function that we have here right for
+each value of x I am computing f of X
+multiply it with Delta add it to this
+variable called area after that I'm
+changing my ex
+X also X is now minus ten then it will
+be minus ten plus Delta minus plus 2
+Delta so on and so forth at the end of
+this whole Y loop I am saying print area
+I execute it I get an error so what
+happens here is when I execute this I
+get I go into an infinite loop right
+this program never ends you can I had to
+force it because it doesn't end I have
+to click this button to force stop this
+can anybody suggest what is the bug in
+this why is this going into an infinite
+loop again a very common mistake this
+code is going into a infinite loop and
+it's not ending any suggestions why any
+suggestions why why is the limit
+condition not considered I'll come there
+I'll come there first let's answer this
+question or somebody says yes good I'm
+happy you got it somebody got it very
+good this guy so very good so pratik got
+it he was careful to see the code right
+if you'd notice python takes care of
+indentation so this whole thing is
+inside the if loop enough sorry is
+inside the if because python does
+indentation automatically right so if x
+equals to 0 only then you are updating
+the area and X so these two lines should
+be outside the if that's a problem
+number one right so number one so the
+problem here is indentation error this
+should come here this should come here
+lot of people especially people who are
+new to Python mess up indentation very
+common mistake now somebody asked me why
+did we why are we not handling this case
+right so the problem again we can handle
+it gracefully when x equals to zero
+again there are two ways to handle it
+when x equals to zero as you come closer
+and closer to zero the Y becomes one so
+you can say ok sine X by X so what we
+can do here is if X is not if X equal
+sorry if X is equal to zero we can say
+return one instead of n a n right that's
+one way of handling it because we know
+that for this function again for that
+you do know the concept of limits in
+calculus so limit f of X which is
+neck's by X right as X tends to 0 what
+does this mean again it's a very simple
+mathematical concept it says what value
+does sine X by X take as X comes closer
+and closer to zero so let's actually
+zoom this in if you notice let's just
+zoom this in okay so let's just zoom
+this in look at this if I'm coming from
+this side if I keep going towards zero
+look at this I'm going towards zero
+right as I keep going towards 0 my Y is
+moving towards 1 similarly from this
+side if I keep going towards 0 my Y is
+going towards 1 so I can say because the
+limit X tends to 0 sine X by x equals to
+1 I can just say forget all this if I
+have my function f of X if x equals to 0
+I will return 1 instead of this that
+will solve the problem yes that's one
+that's a very graceful way of solving it
+but I wanted to show you the problems
+with n am right that's why I took up
+this case if you were to implement it in
+production the better way to implement
+this is to say return 1 here and you say
+ok give a reasoning and say we are
+returning one because limit blah blah
+blah this this logic because limit X
+tends to 0 sine X by x equals to 1 and
+that's a right logic if you have to
+implement in production that's how we
+implemented but I wanted to show I
+wanted you I wanted to show you some
+boundary cases right especially with na
+and what else can go wrong with na n ok
+so I modified it I got my area outside
+this I intended it properly enough now
+ok I execute this code I execute this
+code ok I execute okay is there a bug
+here somewhere oh so this is this is
+buggy I'm sorry I need to stop this okay
+so this is buggy so this code will
+execute ok so if I execute this code
+what happens okay I got the answer ok I
+executed this cord enough see all I have
+done here is I've just changed look at
+this I've just changed this indentation
+to be properly now what did we compute
+there two things what we computed now is
+integration of f of X DX from minus 10
+to 10 this is what we computed there is
+a difference such slight a difference
+between this and area under the curve
+there is a
+a difference let me explain that there
+is a subtle there is a subtle detail
+that I skipped earlier which I wanted to
+cover okay so let me tell you so what we
+computed now is integral f of X DX right
+so this is what we computed where f of X
+is sine X by X from minus 10 to +10 this
+is what we computed by using a summation
+X from minus 10 to 10 with some Delta
+equals to point 1 this is what we
+computed write f of X into Delta this is
+what this is the approximation we have
+taken and this is what we computed but I
+have a question here ok this is actually
+not the area under this function if you
+look at this function right how does
+this function look like okay let me show
+you the function instead of me drawing
+it right so there is a small problem
+it is not so this what the integral that
+I computed the integral that I computed
+is not exactly the area of the function
+from minus 10 to +10 this area it is not
+equal to this Plus this Plus this Plus
+this Plus this Plus this Plus this it's
+not equal to this area is not equal to
+this it anybody tell me what is the
+mistake I intentionally made that
+mistake can anybody tell this
+highlighted area this area this area
+this this this this this this if you
+take the actually if you measure the
+actual area it will not be equal to this
+can somebody tell me what is wrong here
+okay let's see the comment section yes
+yes we need to take absolute value I'm
+happy I'm happy you got it I'm very very
+happy people are figuring it out very
+good so the problem here is this ok the
+problem here is very interestingly when
+you take f of X Delta X look at this if
+you take f of X Delta X right the f of X
+here Delta is always positive remember
+in the Delta we took his point 1 the f
+of X here is positive so when you
+multiply a positive number with Delta X
+you get a positive number but what
+happens here here f of X is negative
+your f of X is negative right so what do
+you get you get a positive number here
+you get a negative number here so what
+we are finding here what we are finding
+to this into
+is actually area look at this what we
+are finding here is area above the
+x-axis all the area that is above the
+x-axis minus the area which is below the
+x-axis that's what we are finding enough
+so the fix to this problem is very
+simple take the absolute value that some
+of you get area so what the code that we
+have written right now is for integral f
+of X DX right that's what we computed
+but if you want area under the curve if
+you want area under the curve because of
+this positive and negative side you
+should always use absolute value this is
+one of the most common mistakes again
+I have asked such questions in
+interviews and I've seen people mess up
+the absolute value
+I give them hints I tell them they can't
+figure it out that tells me that they
+are not thinking thoroughly if they
+cannot think of a very simple function
+like this I actually plot this function
+and explain them how the function looks
+but they are not able to figure this out
+again why our interview is asking these
+questions because interviewers want you
+to think want to understand if you can
+think critically and take hints because
+they have to work with you as a teammate
+tomorrow right they want critical deep
+thinkers right so I hope this is clear
+ok so that's that's so that's where we
+are cool now we got this now when I
+executed this whole function again our
+code right now is not for the area our
+code is actually for the integral f of X
+DX ok from minus 10 to 10 where f of X
+itself is sine X by X right so all that
+is cool what is the answer that I got I
+got an answer which is ok let's see I
+got an answer which is 3 point 3 1 1 1
+how do I know that this answer is
+correct that's important right if you
+think about it how do I know that this
+on I got some answer again whenever you
+write code you should test the code it's
+extremely important to test the code you
+have written to ensure that it is
+correct so how do you check or how do
+you test that this code is correct any
+suggestions I would like to hear from
+you guys so very true very true
+the smaller the Delta somebody suggested
+very good point
+Delta becomes smaller if Delta is 0.0001
+as Delta becomes smaller the area that
+you get is or the integral that you get
+right is close up to the original value
+so let's just because I have not taken
+the absolute value here the integral is
+the integral A to B f of X DX is going
+to be more accurate no doubts about it
+guys will come to space and time
+complexity just just wait just wait for
+a second right
+again there are inbuilt functions to do
+it all so I know that but in interviews
+people will say please don't use inbuilt
+functions I want you to write the code
+because they want to see how you write
+code because as a machine learning it
+also you have to write code right so
+let's not forget that there are a
+hundred ways of solving it I can solve
+this problem in one line right as
+somebody pointed out there is actually a
+function called trapped said write a
+number you can do that but the question
+is not that the question is to test your
+programming skills okay where are we
+manually calculate the value how do you
+calculate the value you would answer
+try try googling it and tell me do unit
+testing how do you do unit testing again
+this is the problem right so you can
+tell me do unit testing how do you do
+unit testing what are your test cases
+how do you do black box section how do
+you do white box testing how do you do
+that validate through library output
+okay that's one possible to take cool
+but imagine in an interview the
+interviewer says you can't use any
+libraries now how do you validate your
+code is correct okay this this is one
+good option manual calculation how do
+you calculate manually guys somebody
+please teach me can somebody do this
+right now
+F of sine X by X can somebody compute
+this for me sine X by X DX please tell
+me what is the answer it's an open
+challenge if somebody can solve this for
+me and put it answer here in the next
+few minutes I mean I mean you're you're
+brilliant with calculus I'll agree that
+it's not such a trivial problem somebody
+says Google answer try googling it and
+let me know if you got an answer how do
+we test it okay I'm looking for ideas
+guys I'm looking for ideas please know
+very different
+what does it mean no very diff what does
+it mean I didn't understand this can't
+calculate okay yeah it's not easy trust
+me
+I mean I can calculate a integral of a
+variation of this I can't calculate this
+integral trust me
+it's very very tough there is actually
+an integral like this there is an
+integral like this zero to infinity sine
+X by X DX this integral itself is a very
+hard problem and again since we know
+this this function look at this
+or you can calculate from minus infinity
+to plus infinity also you can calculate
+this integral right but this prior
+integration by parts please I mean be my
+guest
+right so just try to find how do you do
+this integration it's not easy by the
+way it's extremely called a Feynman's
+method of integration again as I told
+you yesterday Feynman is one of the
+greatest physicists and teachers of the
+20th century so there is a technique
+called figments integration you can find
+that out again it's not easy
+somebody said pi by 2 pi by 2 is the
+integral of what again I think you
+googled it but what is PI by 2 so if you
+if you type integral integral sine X by
+X ok yeah this is a very nice video it's
+a very nice video so if you take it what
+is the integral of sine X by X right so
+if you take the integral
+blah-blah-blah-blah there is a
+calculation you get this whole answer
+right of course it's a fairly complex
+integral it's not an easy integral let
+me tell you and it creates an infinite
+series here again there are multiple
+ways you say you expand your sine X into
+a mathematical expression all of that
+part there multiple ways of doing it but
+it's not trivial that's what I'm trying
+to tell you ok so look at this what is
+the value of integral 0 to infinity so
+again you can use Laplace transform
+there is a ton of mathematics right so
+from 0 to infinity it is PI by 2 look at
+this again somebody posted the whole
+proof it is not trivial trust me if you
+have not done calculus for a few years
+most likely you'll forget it right again
+I'm not brilliant at integrations I've
+done a few of them but I'm not the best
+it took me quite a while to figure this
+out right so integral 0 to infinity is
+this which means minus infinity
+to infinity look at this curve so if you
+just plot this curve right sine X by X
+where is this okay so if you look at
+this curve let me just plot it carefully
+if you plot this curve you will see that
+whatever is the integral from zero to
+infinity this this whole function is
+symmetric so whatever is the integral
+from zero to infinity the same will be
+the integral from zero to minus infinity
+because this is symmetric over X Y axis
+so this integral from zero to infinity
+for sine X by x equals to PI by 2 which
+means integral from minus infinity to
+infinity sine X by X is PI now what are
+we integrating we are only integrating
+from minus 10 to +10 one good thing that
+you can think office look at this one
+good thing you can do the way you can
+test this code is instead of having -10
+to +10 just say - thousand - plus
+thousand because we know that this
+function look at this this whole
+function will keep becoming smaller and
+smaller as we keep going forward look at
+look at this this whole thing this this
+values have become extremely small as x
+increases or as X goes towards plus
+infinity or X goes towards minus
+infinity this curve becomes very small
+so if you take values from minus
+thousand to plus thousand write that
+again you just have to change your code
+slightly just change your code slightly
+how do we check right so one suggestion
+one very nice suggestion here is
+integrate from this you get PI by 2 I've
+provided the YouTube video so I know I
+know very easily that yes I just have to
+use I just have to use this fact and
+solve it right I'll just say a equals to
+minus thousand B equals to plus thousand
+and I will recompute this if the value
+is closer to PI I know that my code is
+working well that's one way without dot
+is there another way actually there's
+another way I already showed you that
+another simpler way is just just change
+your f of X to something that you know
+look at this I just change my f of X to
+constant what is my function now look at
+it look at look at my code right this is
+from minus 10 this is from minus 10 to
++10 right what we have written is a very
+general for a
+work for any f of X rec so all I'll do
+now is very simple all I will do is I
+change my f of X my f of X is constant
+which means this is my f of X my f of X
+equals to 1 right if I have to if this
+is my X and if this is my f of X this is
+my Y or f of X it is constant so what
+say again
+nothing has changed the whole code is
+the same I have not changed the code I
+have just changed f of X right because
+it's easy to verify this what is the
+area under this curve from here to here
+this is basically a rectangle length 20
+height 1 so area is 20 so much more easy
+way if you are not come again this is
+certainly one way but a much more easier
+way is to just say ignore all that I
+just change my F of X because I know
+that my f of X computation is correct
+because you just sine X by X right let
+me change this to a simpler function and
+validate if everything is working all
+right so when I do this let's go to the
+answer I get a value of 20 point so I
+just changed my F right and I got I
+should actually have gotten 20 but what
+I'm getting here is 20 point to 1 of
+course that could be because my Delta is
+point 1 as I decrease my Delta this will
+become closer to 20 obviously that's one
+idea cool but can you do better than
+this right so what we have done right
+now is basically what is called as a
+rectangular method why is it called a
+rectangular method because we are using
+areas of rectangles look at this we are
+using rectangles to represent or we are
+using areas of rectangles to approximate
+this curve that's what we are doing
+right is there a better method so as
+somebody rightly pointed out there is
+actually a better method which is our
+assignment so that's called the
+trapezoidal method right
+I leave that for you as a I mean you can
+take it as an assignment it's a good
+assignment to compute so the trapezoid
+rule goes as follows again I have given
+multiple links there is a very beautiful
+video from Khan Academy for 12 class
+students right this is something that
+well class students learn across the
+world again I have taken some nice
+diagrams from math 24 there
+also a beautiful explanation from
+brilliant Auto energy right so first I
+try to draw this diagram right so I've
+taken this very nicely explained diagram
+I'm trying to plot it very good I get a
+very big diagram like I don't want this
+like unwieldy diagram so I want to
+shrink the size but I don't like this
+display again showing your data cleanly
+and beautifully in ipython notebook is
+also an important skill because other
+should be able to read it so first thing
+that I think of phase ok this image is
+there URL and giving the URL but is
+there any other parameters that I can
+modify so I go to image image in ipython
+right so where is this where which image
+I'm using I'm imaging from ipython door
+display image in ipython door display I
+want to know the function definition or
+the function reference basically ok so
+let's go to that function okay so here
+it is so there is certain there is image
+that is image here ok there is image
+image ah so here it is right so here is
+the ok here is the description so data
+URL look at I'm using a URL right look
+at this I want to understand see when
+when I just try to show this image I'm
+getting a like too big an image I want
+to resize the image now I don't know how
+to resize I don't remember every damn
+function Under the Sun it's impossible
+for anyone to remember it unless they're
+using this on day to day basis right so
+I just say ipython dot display image I
+want to understand how this works right
+so there is a URL I'm giving a URL
+variable here now what else can I give
+so I go and start reading the
+documentation here right so there is
+data there is URL there is file name I
+can also show a local file there is
+format cool there is some embedding
+there is width and height now what does
+width and height here represent with
+represents width to which to constrain
+the image height to which you want to
+constrain the image cool this is very
+good
+right so I want to constrain this image
+or I want to limit the image to a
+smaller size so I know that I can use so
+by just went to this reference I google
+search for it and I said width equals to
+400 height equals to 400 again I'm
+repeating this over and over again
+because it's important to learn this
+skill of reading function references and
+understanding it
+now when I say 400 400 I got this image
+right so I can actually go ahead and say
+final to find it because 400 400 is too
+small right so 500 500 okay they just
+execute it okay this image looks much
+better so what is that concept behind
+trapezoidal rule trips third rule is
+very simple represented rule says if
+this is my F of a and if this is my look
+at this this is my F of a right this
+height this is my F of a this is my F of
+a plus Delta right so not what on what
+were we doing we were taking this
+rectangle we were earlier we were taking
+only this rectangle area so what
+trapezoid again this is a rectangle
+right what is a trapezoid if this line
+is not straight what you get is a
+trapezoid so the trapezoid rule what it
+says here is you know what is f of a you
+know what is f of a plus Delta so
+instead of taking this rectangle also
+use this triangle also use this triangle
+the sum total is a much better
+approximation than just this rectangle
+so a trapezoid trapezoid is a better
+approximation than a rectangle that's
+the core idea behind trapezoidal rule or
+trapezoidal it's also called a
+trapezoidal sums now how do you compute
+the area of this look at this look at
+this right let me redraw this right for
+you so you have this part okay I'm just
+drawing larger okay so this area is
+simple this height is f of a right this
+width is Delta that is cool which means
+this width is also Delta right this
+width is Delta what is this height now
+this height is nothing but f of a plus
+Delta minus F of a because this point
+y-axis is f of a this point y-axis is f
+of a plus Delta so that's what this
+height is so we know the area of the
+triangle right it's nothing but half of
+base into height right so we know this
+area which is f of a into Delta plus
+half of base which is Delta into F of a
+plus Delta minus F of a because the
+height is this that's it so you got the
+area of the first part
+right this is the area of the first
+episode same program like earlier except
+that instead of just having the
+rectangular term you also have the
+triangular term to create the whole
+trapezoid right so same it's the same
+look that you have to execute like the
+previous time instead of just having one
+term you have two terms now now what I
+want you to do is use the same use the
+try to implement the trapezoidal rule
+well it's also called a trapezoidal sums
+right I hope the intuition is clear the
+exercise knob is try to find the area
+under this curve same curve or forget
+about area under the curve let's just do
+f of X f of X DX right from minus 10 to
+10 again the difference between area and
+this is just basically absolute value
+it's only difference right if you want
+area just put absolute value function
+here that's it
+please do this using trapezoidal rule
+and see that trapezoidal rule gives
+better results more accurate results
+than rectangular rule or rectangular
+sums right I hope this is clear okay
+again to be honest with you I've asked
+some of these questions again I've had a
+wide spectrum of candidates that I
+interviewed throughout my career I've
+interviewed hardcore math guys I have
+interviewed hardcore CS guys I've
+interviewed mechanical electrical
+electronics all sorts of folks right so
+this is a this is a very common problem
+that every engineer every student of
+science and mathematics should be able
+to solve if they know programming this
+is this like level class 12th class math
+right I'm not asking any complex stuff
+I'm not asking you to solve some complex
+differential equations or complex
+mathematics so for machine learning
+engineers very often again not always
+but very often they will give you a
+mathematical problem I'll show you a
+couple of problems by the end of this
+live session right they'll give you a
+mathematical problem which also requires
+programming because you as a machine
+learning engineer or a data scientist
+have to actually write programming forth
+to solve mathematical problems so this
+is much more appropriate for what you
+would do on your job right so that's one
+okay so let's go and change let's go to
+the next problem okay work is slightly
+different problem okay cool I have this
+function sine X by X
+the same function that we have been
+using because we are used to it now so I
+want you to compute a maximum between -2
+and 2 now let me explain what is a
+Maxima I think people who remember that
+felt class maths again all these are
+relevant in the context of machine
+learning we will end up using maxima
+minima studied extensively later on in
+the course right
+I'll show you tons of examples later ok
+so where were we plot sine X by X ok so
+let's let's zoom it in so let's zoom it
+in so what I want to do here is this
+let's understand the problem first sine
+X by X in - 2 - 2 right so from minus 2
+to 2 which means from this value from
+minus 2 to 2 I want to find a maximum
+Maxima basically means something which
+is the peak right so I'm given this
+function I'm not given values of the
+function I am just given this so I'm
+given this so this this function in this
+region I want to find this peak again
+finding Maxima this is what is called as
+maxima there is also a concept called as
+minima so if I am given this interval
+let's assume I'm given this interval and
+I'm asked to find the minima here
+minimize this minimum value this at this
+value you find the minimum right so
+that's a concept here so for our problem
+I hope you again minima and Maxima are
+also called as Optima again we have
+discussed this in our optimization part
+of the course but I'm just using this
+because since we anyway learn basics of
+integration I thought I'll continue some
+differentiation also right so my problem
+is clear between -2 and 2 I want to find
+this point which is 0 I know that
+visually I can see that and find it out
+right but given any function imagine you
+are given some function f of X and
+you're given an interval a comma B and
+here you asked to find the Maxima in
+that interval how do you find that again
+here it's very simple you just see it
+you just see that this at 0 f of X is 1
+that's a maximum but I wanted to write a
+program for a general f of X how do you
+tackle this problem I hope this is clear
+right again just think think logically
+that's all I'm asking you don't have to
+be expert in calculus
+double differentiation equals to zero
+okay so you have sine X by X right
+please differentiate it for me that's
+certainly one way you just say okay I
+have sine X by X I do D by DX of this
+right it will give me some function
+right I'll equate that to 0 this will be
+some some differentiation again you can
+use if you're good at calculus you can
+use the chain rule of calculus right and
+you can compute this whole thing chain
+rule or product rule all of that there
+tons of rules basic rules right then you
+get an equation here we have learned how
+to solve this right given any function f
+of x equals to zero we saw how to solve
+this yesterday right in the root
+fighting exercise we saw that if you
+recall we saw how to find f of X equals
+to zero right didn't we
+yesterday's live session right so we
+took this example right I asked this
+question where does sine x by x become
+equal to zero so the same logic instead
+of sine x by x if i can compute the
+derivative now how do you compute again
+there are ways to compute the derivative
+no doubt about it
+again computing derivative is much more
+easy so derivative sine X by X I mean
+you don't have to be expert at it you
+can just what is the derivative of sine
+X by X again I think I put the link in
+the notes also you just do it okay you
+get this as the answer x cos x minus
+sine X by X square right that's your
+answer so just make this make this as
+your G of X and just solve this G of x
+equals to zero you can solve it right
+we've learned how to do this if the
+derivative equals to zero then you know
+it is either maxima or minima you don't
+even have to do second derivative you
+just see the plot here look at this
+between this region look at this between
+minus 2 and plus 2 you don't have any
+minima so whatever point you have where
+the derivative is 0 right that point is
+only the Maxima so you can just say okay
+I find this part again some of you may
+not know what is the derivative so let
+me explain that ok
+some of you may have forgotten that
+so let me give you the intuition behind
+what a derivative is okay some of you
+actually I got caught up because
+everybody was explaining the answer but
+let me explain what is the derivative
+let's take this function right what is a
+derivative derivative of this function
+at this point okay let me just zoom out
+a little okay okay this looks good so
+let's take this point okay the
+derivative of this function derivative
+of FX with respect to X let's assume at
+x equals 2 sorry at x equals 2 minus 2
+what is this derivative mean again this
+is just a notation mathematics has
+notation what is the purpose of notation
+so that we don't have to write long
+sentences how do you read this
+derivative of this function FX with
+respect to X at x equals 2 minus 2 this
+is just a notation what does it mean
+right so I what it means is at minus 2 @
+- @ x equals 2 - 2 look at your function
+f of X what is the slope like at this
+point I can draw a tangent ok I'm not
+very good at this drawing because this
+is Donita so I hope you all understand
+draw a tangent right tangent basically
+is a line if you've forgotten that
+tangent is basically a line that touches
+only at that point okay I am NOT a
+perfect guy to draw this but a tangent
+is basically touches this curve only at
+one point a straight line that touches
+this the slope of this tangent ok the
+slope of this tangent we all know what
+is the slope of a line right suppose if
+I have a line like this what is the
+slope of this line slope of this line is
+tan theta right again all this i
+explained in the course but since we are
+anyway at it I thought I'll explain this
+right what what is the slope of this
+line slope of this line is nothing but
+this by this right so if you have this
+line what is the slope of this line it
+is the rate of change of Y with respect
+to X that's what it is or it is
+basically tan of this theta so you draw
+this line you draw this line you take
+this theta you take the tan theta of
+this right what you get is the slope
+what slope measures intuitively look at
+this what slope measures again the
+beauty of calculus is it all arrived
+from physics but it has tons of
+applications the slope here tells me how
+fast if I have more slope if the slope
+here what DF by DX is measuring is it is
+measuring the slope of f with respect to
+x here if you think the slope here slope
+measures the rate of change slope
+measures the rate of change that's where
+you use calculus in physics velocity is
+rate of change of position right or
+change of a change of rate of change of
+displacement right similarly
+acceleration is rate of change of
+velocity so slope basically measures the
+rate of change of something now we know
+the slope here again for those of you
+those for the course injured students
+don't worry I explained this a lot more
+detail like I spent almost a couple of
+hours explaining the basics of calculus
+later right for others I'm trying to
+simplify it for you enough okay I'm
+trying to close it down in a few minutes
+okay so here here look at this as I'm at
+minus 2 I'm increasing this function is
+increasing at minus 2 right so which
+means the slope will be positive most
+importantly because this function is
+increasing at minus 2 as you are going
+from as this value increases this is
+increasing
+hence the slope is positive what happens
+the slope here look at this let's take
+minus 2 okay let's take minus 2 so let's
+take my let's take plus 2 and plus 2
+what is the slope how is the line see
+the tangent will be like this which
+means the tangent theta theta will be
+here theta will be greater than 90
+degrees that's one way of thinking about
+the other way the much more intuitive
+way of thinking here is this curve how
+does this curve change at 2 again there
+is a mathematical way there is an
+intuitive way I prefer the inclusion
+always so look at this this curve at 2
+as the value increases it is reducing
+which means the slope or the
+rate of change of this function the rate
+of change or the change of in this
+function because of change here will be
+negative again what is DF by DX think
+about it intuitively it is basically
+again let me write it mathematically it
+is the change in F how much f changes
+because of change in X as limit Delta X
+tends to 0 right again if you remember
+this is the definition of DF by DX if
+you recall your 11th class mathematics
+all that it says here is how much does F
+change if I met to look at this look at
+this idea if I met to and if this is 2
+plus Delta right if this is my X if this
+is X plus Delta right X plus Delta let's
+write at X plus Delta X so this is f of
+X right and this is f of X plus Delta X
+what is the definition the definition of
+DF by DX is what is the depth what is
+the rate of change of this rate of
+change is nothing but f of X plus Delta
+X minus f of X which is nothing but the
+rate of which is nothing but the change
+in F by Delta X as limit Delta X tends
+to 0 it is the change in F because of a
+change in X but the infinitesimal change
+that's the idea here right so if you
+notice at at minus 2 as x increases
+slightly f of X is increasing which
+means the slope is positive here at to
+look at this at 2 as x increases
+slightly as x increases slightly this is
+becoming negative at all these points
+and all these points the slope is
+positive at all these points the slope
+is negative what happens to the slope at
+this point the slope at the at the at
+the place where you get this Optima or
+in our case the Maxima the slope equals
+to 0 that's why that's why I mean if for
+those of you have forgotten it you find
+Maxima or minima to find maxima or
+minima what do you do you say derivative
+of this function
+with respect to X equals to zero
+wherever this is true you will find a
+maxima and minima but why do you find it
+I don't want you to read to remember
+equations I wanted to remember the
+intuition the reason this works is
+because at that point where the
+derivative is zero you are going from a
+positive change to a negative change at
+Maxima
+this is the Maxima right at a minima
+look at this at a minimum what will
+happen here this is negative the
+gradient here or the or the slope here
+is negative the slope here is positive
+at a minima it will be zero right so you
+can easily find a Maxima how do you find
+a maxima and minima you keep trying
+again in the interval minus 2 to +2 you
+keep trying these values you keep you
+keep computing these values wherever you
+see that the derivative is close to 0
+very close to 0 that is where you have
+your Maxima right and if you're going
+from positive to negative as your height
+rating threw it in code again
+mathematically you can say the double
+derivative DF by DX DX if this is equal
+to 0 this is minima you can write the
+double derivatives but how do you write
+it in code right so how do you write the
+code part of it I think that's the
+important aspect so to get the code part
+of it you just say I want to go from
+minus 2 to 2 and as I am going at every
+point I want to compute the slope at
+every point I want to compute the slope
+I realize that the slope here is all
+positive somewhere around this point the
+slope is closest to 0 because I may not
+get exactly zero here but at some point
+the slope is very close to zero and
+after that the slope becomes negative
+since the slope is going from positive
+to negative Y is zero this point where
+it was close very close to zero that is
+a Maxima you don't have to do second
+derivative all of that again this
+question is important because this
+question especially for a machine
+learning engineer this question helps
+the interviewer understand if you
+understand the geometry behind if you
+understand the geometry behind
+derivatives you
+I'd say okay I have done deep learning I
+have done back propagation have done
+this this this this I've seen people who
+claim that I asked them this simple
+problem I asked them I'll give you a
+function f of X okay I'm not going to
+tell you what the function is you can
+just call a function you just pass X
+you'll get f of X that's all now I'll
+give you an interval A to B you have to
+find whether there is a maxima or minima
+or if there exists a Maxima or minima I
+just tell them please write the code for
+this and I've seen tons of people fail
+at it because they don't understand what
+is they don't understand what
+differentiation is intuitively they have
+done back drop I tell them they say I
+have done in lsdm they have done this
+that this is that but they don't have
+basic knowledge which means they do not
+have the skills to learn more advanced
+concepts the foundational skill is more
+important than anything else okay so I
+hope this is clear okay so let's go into
+our let's go into our code okay so the
+key observation always look at the plot
+the slope changes from positive to
+negative around Maxima now okay now this
+is cool I already told you right so we
+know we can again what one thing that I
+can do is okay as I just mentioned right
+so I have this I have this curve right
+this is at minus two and this is at plus
+two I want to find this is at zero right
+this is where my Maxima is one thing I
+can do here is I can write a for loop
+where I tested at minus two I'll test it
+at minus two plus some Delta minus two
+plus 2 Delta I'll keep testing it up two
+plus two
+at some point look at this at some point
+at one of these points this value will
+become very close to zero or zero itself
+very close to zero or zero itself so
+that point that point where it goes from
+very close to zero I also keep track of
+the fact that I'm going from a positive
+slope to a negative slope right that
+point again this is a simple iterative
+linear algorithm I can write a simple
+for loop for X from minus 2 to 2 again I
+am writing pseudocode here with some
+increment I can keep testing of f of X
+wherever f of X where wherever actually
+I don't test f of X I test the gradient
+I have to compute the gradient at every
+point right I will
+do the slope how do i compute the slope
+now that's the next question so I would
+write the function for slope right so
+first let's start writing things down
+okay this is my import Matt this is my f
+of X we know how to write f of X wrong
+so I will write slope of X I'll write a
+function call
+I want to find the slope of f of X how
+do you compute the slope of X I told you
+this earlier right suppose if I have a
+function like this right so if this is X
+and this is Delta X plus Delta X what is
+the equation for slope look at this my
+Delta has to be very small so I'm making
+my Delta very small what is it what is
+the equation for slope f of X plus Delta
+X minus f of X by Delta X as Delta X
+tends to 0 so what did I do my Delta X
+is very small what am i returning f of X
+plus Delta minus f of X by Delta that's
+what I'm doing right exactly this I made
+my Delta very small I just translated
+this so what slope F X is giving me is
+nothing but the derivative again even if
+I don't know how to compute the
+derivative of f of X f of X look at this
+my f of X can be anything guys I don't
+care if I don't know how to derive sine
+X by X I can still use this because I'm
+using the definition of what our
+derivative this is DF by DX at X I'm
+using the definition of derivative to
+compute the slope so one question that I
+used to ask is I give the I tell the
+interviewer I tell the interviewee that
+I give you a function f of X but you
+can't see the code it's in some library
+you can't see the code okay what it does
+you don't know just remember that it's a
+continuous differentiable function
+that's all I'm telling you right now you
+have to tell me the Maxima minima of
+this function so typically people tell
+me ok let's compute the derivative of
+this function second derivative all of
+that I say you can you don't know what
+this function is I can't write it
+mathematically also now tell me how will
+you solve it so that's where this
+definition this is basically the
+mathematical definition of what
+differentiation is and that's what I am
+computing here now I want to test is
+this true
+I've implemented effects have
+implemented slope of FX slope of FX is
+nothing but f dash X our derivative of X
+without computing the derivative
+explicitly that's important I'm using
+the definition of derivative now I'm
+running this okay
+print slope F of one okay I ran this I
+got some answer cool but how do I know
+that this is working correctly maybe
+I've done some small mistakes somewhere
+you should always test every function
+that you write every snippet of code you
+should always test it how do you test it
+any suggestions any suggestions guys or
+somebody's saying what if you have
+multiple maximum you might come down
+just wait for it I'll come there please
+I'll tell you I'll tell you that's a
+much more that's a much more complex
+scenario I'll come there please wait for
+it now any suggestions on how to tackle
+this my question here is how do I test
+that my again f of X we have already
+written the code earlier so we know that
+it works can anybody help me with slope
+FX can somebody help me with how do I
+test this slope and what what are the
+test case somebody told unit testing
+earlier right what are the test cases if
+I take slope f of n I get this but how
+do I know that this is a right answer
+right any suggestions maybe I've written
+some code for known function put values
+manually a good idea very good good just
+change your FX because in this I'm not
+I'm not using anything except FX no
+that's a very good suggestion quick
+learners I'm very happy just change your
+f of X to some to some function that you
+know write some function like X square
+for which you know the derivative
+because in this function I'm not using
+anything except f of X right so I can
+easily test this that way that's one way
+I can visually if I see it the other way
+I mean this is you guard or a hack for
+those of you don't know Hindi
+you got basically means innovative hack
+ok so I know at 0 look at this I just
+plotted it from minus to total I know
+that there is there is this if there is
+this point where the gradient where the
+gradient should be 0 again gradient and
+slope mean the same thing gradient is in
+a higher dimensional space right so
+just excuse me I I tend to use the word
+gradient because I do mostly vector
+calculus and not scalar calculus again
+we'll do vector calculus when we talk
+about optimization little later in our
+series okay so okay one thing that I can
+do is okay I just try f0 what's there
+okay I'm getting an in oh why am I
+getting an al no look at this I said
+float f0 I'm getting a name why am I
+getting a name because FX look at this
+because there is FX here F of zero so X
+I passed a zero it computes f of X plus
+some Delta f of X now at zero what
+happens this is going to give me an N so
+this is going to fail if I give zero
+that's a problem think about it look at
+this there's a bug in this code actually
+that's the reason I wanted to walk
+through walk you through this case so
+one thing that we should fix is if x
+equals to zero we should just return one
+point zero right because we discussed
+this earlier right the earlier example I
+want to show you to explain about n a n
+but a good programmer will always say
+written one point zero because we know F
+of 0 from the limits that I discussed
+earlier it should be 1 now everything
+will get fixed so if you actually wrote
+an N and not return one this is the
+problem that you'll encounter later on
+in your code right so I hope this is
+clear one second I want to still keep
+again this will solve our problem
+I know see this has become very close to
+zero but I still want to keep an eye on
+for a while because there is one more
+bug I want to show you because I see lot
+of students doing mistakes with division
+by zero and names etc I'll keep this or
+one second F of zero what happened here
+an N is not defined or math not a name
+no return a name that should be okay
+what is wrong with this math not an N
+one second let me see I have again it's
+very very common to get confused with
+code like this one second where am I
+return is a main in math okay let me
+just run it oh yeah it's running it's
+math latte nyan yeah again it's very
+common mistake so just just be cautious
+of it and you'll be able to figure it
+out again if I did not put this the
+error it showed me was okay nn-not fund
+n n is not defined so obviously it must
+be in math not a name right most likely
+that's it problem solved let's try a
+couple of things you'll solve it okay so
+enough remember we learned bisection
+method earlier yesterday what did we do
+in bisection method in route-finding
+what did we do we took we took an
+interval so our interval is not - - - -
+right our interval is - two - two right
+what did we do yesterday instead of
+linearly searching to every value
+instead of saying - two - two plus Delta
+minus two plus 2 Delta so on so forth we
+said let's break it down again the
+interesting part here is we know that
+this curve has only one Maxima if it has
+multiple Maxima this approach will fail
+right again in actual machine learning
+you will encounter a problem of multiple
+Maxima especially in deep learning but
+not so much all right suppose if your
+curve is like this suppose your curve is
+like this right suppose if this is your
+a and this is your B you try to now find
+Maxima right you might end up at this
+Maxima or at and this Maxima
+so such functions again we discuss this
+in the course also in optimization these
+functions are called as non convex
+functions these functions are called as
+non convex function their differentiable
+and all that for non convex functions if
+you have multiple Maxima the algorithms
+that were discussing will either find
+this Maxima or this Maxima the there are
+algorithms to find all the maxima but
+theoretically you can prove that they're
+extremely time they have extremely high
+time complexity right so again there's a
+whole area called convex optimization on
+convex optimization etcetera we'll
+discuss that when we come into the
+concepts of optimization that we discuss
+later in the course but just for
+intuition if I have multiple Optima look
+at this if I start searching from A to B
+right I try a if I do a linear search a
+plus Delta X a plus 2 Delta X a plus 3
+Delta X so on and so forth I will first
+find this point if I do my iteration
+from A to B I will find this point and I
+will stop if I start my iteration from B
+to a then I will find this point right
+to find both the points you have to try
+everything you try all
+values if you want to find both the both
+the both these up both these Maxima you
+know try every value but let's assume
+for simplicity that there is only one
+Maxima there is only one Maxima let's
+just assume in such a case why don't I
+use binary search that I can use binary
+search right if you think about it
+logically because I know that if this is
+my interval look at this is exactly at
+zero right so okay so let me change this
+interval slightly let me just say this
+is minus 1 and this is 2 okay
+why because otherwise you'll get 0
+directly the Maxima point so this is the
+initial interval that I'm working in
+first I break it into two suppose if
+this is a let's make it simpler if this
+is a and this is B this value is let's
+say a plus B okay let me just teach you
+the general question ok at this point at
+this point I have Maxima now what I do
+now is this I know that the that the
+slope or the gradient here is positive I
+know that the slope here is negative
+right I know that fact now I can use a
+bisection method which is same as binary
+search we talked about bisection method
+a in yesterday's live session right so
+what I do is instead of a and B see I
+have this big interval or a plus B by 2
+so I'm sorry a plus B by 2 is the middle
+point so instead of taking this large
+interval
+I'll start focusing on this first part
+so I compute a plus B by 2 at a plus B
+by 2 I say is the slope positive or
+negative the slope is negative I can
+compute the slope right at any point I
+can compute using my slope of f of X
+this is negative because the slope is
+negative here I know that the answer has
+to lie in this region and I can ignore
+this whole region
+that's what bisection does isn't it
+that's the idea here
+right so here instead of looking for f
+of X values look at this when we solved
+route-finding yesterday we looked for f
+of X and we said is f of X positive or f
+of X negative here we are saying slope f
+of X or derivative of f of X derivative
+of f of X is also written as f dash X
+sometimes right just for simplicity
+instead of writing DF by DX every time
+just write f dash X right so instead of
+checking for f of X the way we have done
+it in route finding
+now we are solving using f dash X for
+them for this same bisection method same
+concept
+look at this okay okay so okay let's
+let's start with this my X lower limit
+is 2x upper limit is 2 minus 2 and plus
+2 okay so I'm starting at minus 2 and
+plus 2 right my lower limit upper limit
+so there's a curve like this I want to
+find this maximum I know that the Maxima
+is at 0 it's easy to test
+so my first X is the middle point this
+is what bisection write same bisection
+concept all that I've done this is same
+code like yesterday remember we did not
+put absolute value yesterday I showed
+you a bug but instead of calling f of X
+I'm calling slope of f of X because I
+want the derivative look at this I want
+the derivative to be equal to 0
+right very simple concept this this part
+this print we know again look at this
+look at the code here this is my section
+code that we have seen it yesterday the
+only change I have done here is instead
+of f of X I put slope of f of X instead
+of f of X here I put slope of f of X
+this whole code is exactly what we have
+seen yesterday same logic nothing
+changes
+same logic not very execute it I get an
+error okay
+this this is a fun errand I love this
+this is the reason I love Ni and
+sometime I executed this look at this I
+executed this code
+I got ok so when I executed this code
+the first thing that came I got f of X
+here I got X ok cool then I got ok I got
+my answer which is x equals to 0 f of X
+is NN I got this answer I said ok this
+looks very good but I got my my slope of
+f of X remember sorry I should have said
+slope FX here I'm sorry
+ah just let me change this I think I
+copy pasted code ok so let me just
+execute it okay so what did I get now
+look at this when I executed this code
+none this printf statement did not run
+at all this printf statement did not run
+at all I directly got this statement
+look at this my initial value is minus 2
+then I have plus 2 which means my
+initial value of x is 0 right we just
+computed this no print statements this
+print statement did not execute
+this print statement did not execute why
+didn't they execute because probably
+this this failed so what is this
+absolute value of slope of f of X is
+greater than point zero zero one now in
+our implementation look at our
+implementation of f of X our
+implementation of f of X still returns n
+n when x equals to zero in such an
+implementation what will slope of f of X
+written I showed you this earlier right
+look at this slope F 0 look at this ok
+slope F 0 it is returning an N n so
+absolute value of n n is greater than
+point zero zero one look and look at
+what I got again very common mistake
+again with anions so this is acute
+addthis executed x equals to zero before
+I enter into the while loop I have to
+check this when I executed this I got an
+N right I got an N now now I know this
+because I just showed you in a previous
+line now I got n am greater than 0.2 0.8
+m were with a number this is like
+ridiculous to compare but we compared it
+we didn't handle this boundary case look
+at this we didn't handle the boundary
+case that I can get any else here so if
+you actually compare if you compare
+slope a slope F 0 which is a name if you
+compare n n with 0.001 you always get
+false
+you always get false okay this is
+something that we explained in the
+course videos also as never compare a
+name but if you compare there are these
+boundary cases that you enter into never
+compare it because it failed you just
+came out of the for loop and you printed
+the answer
+I understand x equals to 0 is the
+correct answer but slope of f it should
+be 0 it should not be a name right so
+there is a logical bug here that you did
+not handle the case that this could be n
+al and you are comparing an n a n with a
+number it's a major bug so we have to
+fix it so how do we fix it very simple
+okay a couple of facts this is my
+favorite hack okay let me explain the
+hack for you all I do is this ok again
+this code stays the same I just say
+while true always true just will break
+the loop whenever we want
+ok now let's look at this I check if
+slope F X is an N if again
+is an N is a very important thing if it
+is an N this is where I use a little bit
+of mathematical beauty or programming
+and randomization I love again
+randomization is one of my favorite
+ideas in whole of algorithms and
+mathematics it's I think the most
+powerful idea okay so what I do here is
+again this is my favorite to be honest
+with it so I just check first I always
+check look at this I write this
+condition before anything else
+he's slope F X n n the math roties n n
+tells me if it is a name I am going to
+change my X slightly what am I going to
+do I'm going to make my x equals 2x plus
+random dot random by 100 what does
+random dot random give me
+what does random dot random give me just
+a second guys just a second just a
+second please
+okay so so let's just assume that okay
+so okay so what am I doing here I got an
+error see whenever slope F X equals to
+zero or whenever it is equal to NN what
+am I doing here I'm changing X or
+unperturbed waiting X by slightly adding
+a small error
+what does random dot random give me it
+gives me a random number between 0 and 1
+I'm dividing that by 100 when it divided
+by hundred suppose if it gave me point
+five I'm dividing it by 100 what do I
+get I get zero point five right zero
+zero five I'm adding a small error or a
+small randomness to my X because I know
+that act if at X at X if the slope
+equals to zero if the slope if the slope
+equals to whatever is the slope as I
+implemented if I am getting an N mostly
+at X plus some small Delta again I'm
+writing Delta using the small alphabet
+Delta right instead of the capital Delta
+okay if I just perturbative with some
+random number here if I just randomly
+perturb it it with a small random number
+here I'll get rid of that problem
+so here what am I doing here since if
+this is an aien
+just change X slightly and just follow
+everything else again this loop
+basically says what does this say this
+says if if the slope is very close to
+zero
+just break again this condition we had
+it in the while in the previous I just
+pulled it inside first I'm checking if
+it is n n if it is MN I'm slightly
+changing X using a random value then I'm
+checking is is the slope very close to
+zero then come out of the loop or else
+this whole loop stays the same again
+this is one of the many ways to fix it
+now when I execute it look at this I get
+an ends I get an end but within a few
+iterations I get my X very close to zero
+and my slope X very close to very close
+to zero I hope this is clear right again
+what did we learn we learned a bunch of
+things right
+the biggest problem often in
+mathematical programming is na ins again
+we'll keep encountering this in the
+future also
+but I wanted to show an example that's
+why
+picked sine X by X because this is in
+the denominator ideally when x equals to
+zero please do not return n/a and return
+one so how did you decide that by
+looking at the plot by using the limits
+that's the key idea but in case you have
+an en anywhere you have an en please
+handle them please don't compare Na ins
+with numbers it's a very very common
+mistake so I'm trying to explain you
+common mistakes along with concepts
+right so please don't do that please
+don't do that mistake and eggs if you
+have it always use randomization it's a
+beautiful trick up your sleeve right so
+cool
+my suggestion now is please compute
+maxima and minima of this function again
+I will not tell you the intervals please
+plot this figure out some interval where
+there is maxima figure out some interval
+where there is minima if there exists a
+minima it's plotted guys come on what
+are we doing come on let's do it let me
+show you let me give you a small hint
+okay so okay X square okay so this is
+this is what the function looks like
+okay so does it have a minima yes it has
+a minima somewhere here and this minima
+certainly lies between -2 and 0 so it
+has a minima right it has a minimalistic
+in the interval 0 sorry you have to just
+check in the interval minus 2 to 0
+somewhere in between somewhere here it
+has a it has a 0 it has a minimum does
+it have a Maxima does it have a Maxima
+no it doesn't have a maximum because
+this keeps increasing this keeps
+increasing because X square keeps
+increasing look at this you have X
+square here as x increases X square
+keeps increasing as x increases X square
+keeps increasing
+of course sine X will keep oscillating
+between plus 1 and minus 1 but X square
+will overtake very very quickly because
+4 square is 16 your 16 plus some minus
+value maximum minus 1 won't make it any
+small right so this is continuously
+increasing it'll keep increasing so
+there is no Maxima to this there is only
+minima of course you can use calculus to
+derive that also Oh sounds good now let
+me go into the next problem again I have
+more problems that's why I am
+I hope we can I have three more problems
+Wow I have this problem is simple let's
+do it grace okay so the problem is
+simple okay I've started redrawing some
+diagrams just in the interest of time
+okay find if two circles intersect at
+exactly one point or not okay so you
+have three two circles again all this is
+2d geometry I don't even want to go into
+3d geometry all this is 2d geometry
+right you are given two circles you have
+to determine whether the circles
+intersect or not
+sorry whether the circles intersect at
+exactly one point or not if the circles
+intersect at exactly one point it is
+often called as orthogonal circles again
+we'll talk about orthogonality when we
+discuss linear algebra that's why we
+will discuss this in a lot more detail
+but I thought let me not use some
+complex terminology let's keep it simple
+okay so okay so what are the three cases
+the two circles may not intersect at all
+the two circles can intersect at two
+points or the two circles can intersect
+exactly at one point there are three
+cases here can anybody suggest how to
+find you are given two circles you have
+to determine if the two circles are
+intersecting it whether this is the case
+or one of these two is the case whether
+this or not this that's what I want to
+determine any suggestions any
+suggestions let's go back here somebody
+says won't the program become break
+break even when the value of FX becomes
+too small no the previous program no
+because I'm only checking when up when
+absolute value of slope of FX is this
+right I'm not checking for f of X look
+at this look at this line of code this
+will only break when the slope of f of X
+is very close to zero not when f of x
+equals to zero it won't it won't you can
+actually cross check this i shared this
+i shared this with you by the end of
+this you can try it you can modify the
+functions and try to no it won't
+right so let's go okay
+one second one second people are writing
+answers I'll have to read it okay it's
+going too fast
+if r1 plus r2 is less than the distance
+between the between radii then circles
+intersect okay I think most of you got
+it I wanted to throw in an easy problem
+it's actually very simple if you think
+about it it's actually it's actually a
+very very simple problem the problem is
+this so take these two centers how do
+you represent a circle first that's the
+first question right
+we represent a circle using the center
+x-coordinate the center y-coordinate and
+the radius right so you have this center
+let's call it center one let's call the
+center to center one has X Y R Center
+two has X Y are you input them if the
+distance between both of them is equal
+to radius of 1 plus radius of 2 then
+they both intersect at exactly one point
+otherwise not within this if they if the
+distance between this is if the distance
+between both of them is more than this
+radius Plus this radius then they don't
+intersect at all if the distance between
+this center and this is less than is
+less than r1 plus r2 they will intersect
+at two points that's it very simple
+problem right right so very simple I
+mean it's it's literally five lines of
+code okay so somebody asked me about
+input right we discussed about Python to
+Python 3 in the first live session so I
+ensured that we are in Python 3 enough I
+wanted to show you the input function
+once again that's the reason I picked a
+simple problem okay this is trapezoid
+method go down go down go down ok so we
+are here so all I am doing here is again
+please understand this map is a
+beautiful tool ok map is a beautifully
+elegant tool in Python it's inbuilt
+function I shouldn't call it a tool I
+should call it in built function map is
+inbuilt function right what does it do
+first it it executes this ok input
+circle 1 dot split so what does this do
+look at this my input takes in the input
+suppose if I input let's say three point
+zero zero point zero and three point
+zero when I input this what happens it
+is reading this the input reads it as a
+string the split splits this into three
+strings
+this okay it is splitting this into
+three strings right now what it will
+give me the list of strings what it
+gives me is a list of strings now on
+this list of strings
+what map does is on each of these lists
+look in this on each of these so on each
+of these strings it is apply the float
+function which is a typecasting function
+on each of these entries and you return
+that okay right so for those of you who
+who don't know map it's one of the most
+beautiful things we explain it in our
+course videos but if you don't know that
+let me okay so let me show you the
+documentation always documentation is
+got okay so what does it say okay map
+says my first parameter has to be the
+function that I want to call the second
+has to be an I terrible object we know
+list is eye trouble so how does it work
+if you give me an I terrible if you give
+me a list if you give me one string
+second string third string it will apply
+this function on each of these and it
+will return the output right again you
+can read the whole description and
+that's what it does exactly okay again
+map is a beautiful function inbuilt
+function map is by the way in built-in
+Python I mean this is one of the most
+widely used I mean if you see open
+source code people use this left and
+right again I think in one of the
+previous live sessions one of the
+students suggested this so I thought
+I'll put it here
+because it was a very good suggestion so
+I get my circle one I get my circle two
+now all I do here is I want to compute
+the distance we know how to compute the
+distance between two points we discuss
+this in one of the previous life
+sessions right center to X minus center
+one X square
+Center - why - Center one y squared
+square root I'm done if d1 - if the
+distance between circle one and circle 2
+is equal to circle one radius plus
+circle two radius print this or else
+print or printed very simple again you
+can test it I've intentionally given
+this circle so that they intersect you
+can try this very simple code Atilla
+fine lines of code right one input again
+if you just skip the prints
+one input you can skip the print 1 2 3 4
+5 7 lines okay sorry
+not 5 lengths but 7 lines it's that
+simple now let me complicate it and give
+you a problem ok so the problem now is
+imagine the two circles are intersecting
+and you can easily determine this right
+this is one circle this is another
+circle let's say this is circle 1
+this is circle 2 you can easily
+determine I just discussed how to
+determine this right take the distance
+between both of them if d1 2 is less
+than R 1 plus R 2 then you know that
+they're intersecting in two points now I
+want you to find these two points where
+they intersect given the circles given
+the circle centers and radius I want you
+to find the coordinates again think
+about it it's not rocket science this is
+high school math guys to be honest with
+you okay this is simple high school map
+please try to figure it out on your own
+what is the coordinate where they
+intersect what is the coordinate then
+they intersect you are given the centers
+again sometimes you're asked these very
+very simple problems because
+interviewers again I've seen people ask
+such a question in interviews the reason
+such a question is asked is because
+people want to see how do you think step
+by step how do you think mathematically
+step by step because for a machine
+learning engineer tomorrow he has to
+read more research papers he has to
+think clearly from a geometry standpoint
+now how can they think geometrically if
+they cannot do a very simple geometry
+problem again this is not rocket science
+again this is I think we solve this in
+ninth or 10th class when we learn
+coordinate geometry we solved it maybe
+11th class again I'm providing you a
+link here with a worked out example but
+please don't see this link try to figure
+this out on your own now then write a
+program it will also be like no more
+than 10 lines write a program where if
+you are given this Center and radius
+this Center and radius this Center and
+radius you output these two points very
+simple please try to think about try to
+solve it on your own simple puzzle right
+nothing very complex okay 7:30 okay I
+think we can finish the next problem
+anything that we cannot finish to
+we'll postpone it to tomorrow okay okay
+there's a very good problem I love this
+problem actually okay
+so printed the first ten digits of a
+factorial of a large number
+okay so again okay I'll tell you the
+history behind this problem I was asked
+this question when I interviewed with
+Yahoo Labs straight out of my ethnic
+this was an interview problem that I was
+personally asked and the way it worked
+was they did up they did I think four or
+five rounds of machine learning and they
+took us to the Yahoo labs office and
+they said okay guys here is a computer
+in front of you the computer has C C++
+Python Java Ruby all the major
+programming languages if you want to use
+the Internet that's okay but please
+don't copy paste oh sorry we were not
+allowed to use internet I'm sorry I
+forgot they said any programming
+language is okay I don't care but the
+problem given to us was given a large
+number let's assume I'm given a number
+like 100 or 200 they said the factorial
+of this number I want the first 10
+digits of the factor of this because the
+last 10 digits will mostly be zeros you
+can think why they said the first 10
+digits we want you to print and and the
+the fun part was we were given like what
+half a not so first they asked us ok
+think about the solution come explain it
+to one of the teammates and then once
+you want to explain it to one of the
+teammates will let you code you can code
+in any programming language but we want
+a working code with the algorithm
+everything in under 30 minutes and you
+have to show us the output this was long
+long ago this was like in 2009 but this
+shows you again Yahoo Labs was literally
+the best place to work straight out of
+college because they were building
+Hadoop based machine learning in 2009 so
+it was literally the bleeding edge of
+machine learning in 2009 at least in
+India right so I was fortunate I got
+lucky I got in and all that again I
+wrote the code I remember I was so bad
+at programming at the end of my mtech
+because I did pure Theory work I said
+can I write code in MATLAB my my
+interviewee is still a good friend of
+mine he said no you can write you can
+try it
+MATLAB we don't have MATLAB you can
+write in C I'm sure you have not
+forgotten C so I actually wrote this
+code in C programming language and it
+thankfully it worked out okay okay so
+okay so the interesting part is let's
+try to do that in Python okay
+so python has a very interesting thing
+actually
+I didn't realize it so first let's let's
+write it down okay so this is actually a
+real problem that I was that I was
+personally asked almost a decade ago but
+still a good problem even put it
+problems don't become trivial right okay
+so let's let's see so you I just wrote
+my factorial like this it's a right rate
+of algorithm very simple fact n R equals
+to 1 1 1 to N right R star this
+factorial 10 okay I'm getting factorial
+10 very good no problem now just check
+if the code is correct what is factor ok
+factor 5 is 120 we know that right so
+okay the code is working well I didn't
+test it earlier actually ok factorial
+tell we are getting it then I type fact
+100 it is printing this bunch of digits
+my first question was then I said factor
+in thousand it printed all these digits
+I said this question is useless no
+because Python actually is doing it then
+I started reading actually I didn't know
+that it would do it I thought Python
+would use a datatype like an integer or
+a long if you remember all these are
+data types in Python right and it would
+have a limit it can't store more than
+some bunch of digits right so it will
+overflow it will give me some error all
+that it will give me an error then I
+started reading the documentation right
+so I found this brilliant blog which
+explains why such an error is not
+happening right it's it's a very good
+blog it tells you that this is a Python
+internals block sometimes if you again
+it is instances like these that will
+teach you to read Python internals how
+Python works internally so this is this
+is Python 3 I think yeah so this is how
+python stores numbers again python
+internally uses c python to store
+numbers internally use a c right so this
+is this is the c structure those of you
+who don't see this is how python
+internally stores numbers ok again
+people who go into python
+source code or I should say Python
+implementation of int the source code
+behind Python those people will know it
+so very interestingly since Python 3
+there is no longer a simple integer type
+all integers are represented as big num
+look at is this important statement okay
+all integers are represented as big num
+so what nothing my question was what is
+bignum you start reading again I want
+you to read this this is all internal
+implementation this is Python internal
+implementation how python stores the
+data internally using c at the end of
+that is c is like a beautiful language
+right so there is all these beautiful
+internals if you have time please read
+it but the lesson learned was Python
+uses bignum right now and it can handle
+arbitrarily large integers if the
+integer initially was only ten digits
+then you might multiply it with
+something and it becomes a check twelve
+digits it will automatically it can do
+arbitrarily large number large number of
+integers from Python 3 onwards right so
+bignum is a is a concept in programming
+which says that ok let's not create any
+artificial limits to integers let them
+grow as long as long as I can store
+these digits as long as I can store
+these digits in my RAM let it keep
+growing why should I stop it right
+that's the idea now ok then I said ok
+this is cool things are much easier now
+but then what if what if such an
+implementation is not there what if what
+if let's say let's take let's take a
+case right what if python does not allow
+arbitrarily large integers let's assume
+pythons again I am using an integer here
+right because I don't mention the
+datatype here it will be an integer
+again you can check the datatype always
+so if you type print type factorial
+thousand you get into it belongs to
+class int I talked told you what is
+class right internally the integer is
+remembered as a class okay that's a
+that's an interesting point
+now what if bignum did not exist in
+python what if we did not have it then
+how do we do it right so what what I
+mean by that is imagine in
+imagine the programming language you are
+using okay an integer cannot be more
+than let's say ten digits let's just say
+I'm just creating an artificial limit
+here okay some ten digits are it has to
+be less than some number something like
+that in C I mean there are strict
+conditions if you write code in C this
+will break right so Java also has
+something called as a big number but
+Java integers will break right so
+imagine if Python also had this
+limitation
+how would you now solve this problem any
+suggestions any suggestions okay what if
+it is defined as a recursive call even
+if you define it as a recursive call
+it's a problem right at the end of the
+day look at this suppose if you write
+fact and you wrote it you would wrote it
+using recursion at the end of the day if
+you are storing it in a data structure
+or a data type which can only store ten
+digits very quickly the factorial again
+you have to keep calling this factorial
+function right over and over again if
+the variable that you have if the data
+type that you have or the variable that
+you have if it cannot cross ten digits
+it can't store it if you use a
+programming language like C C++ Java
+many of these programming languages it
+gives you something called as an
+overflow error what it means is I can't
+store such a large number here right so
+you can try it with recursion it will
+fail right so it will fail trust me you
+can try it
+I wrote again recursion has its own
+headaches the recursion is not the most
+optimal solution always but even if you
+do it I mean okay so let's assume that
+in Python just for simplicity Python 3
+has made life simple but the way I twist
+this I've asked this question to others
+also
+alright I've asked this question to
+others as a simple programming exercise
+ok so somebody says ok so people have
+some ideas ok let's see huh ok Lincoln
+list ok that's good ok somebody says
+somebody is using data structures here
+cool you're using a list again for those
+of you who don't know what is a
+linkedlist that's ok you can just look
+for what a list is that's ok ok
+of linkedlist as as a slight expansion
+on the concept of list okay somebody
+says we can use a linkedlist that's a
+that's a very good idea without doubt
+but let's say we can use lists okay
+somebody says a by B equals to quotient
+of a percent I a mod B which is equals
+to reminder digit of num being added to
+blah blah all that okay create the list
+of digits of the factorial we can round
+it we can use matrix or array yeah we
+can use matrix array a list doesn't
+matter don't worry I casting to begin
+even begin long int all of them right
+they'll have some limitation if I want
+to compute thousand factorial the number
+of digits is like massive all right so
+begin to long and let's say you've no
+debt no inbuilt datatype can handle the
+large the maximum the use long you can
+use anything right long also how many
+digits can long store 30 digits i I
+don't know I'll have to test it myself I
+don't remember this at the top of my
+mind whether you use big or big into
+whatever it will have a limitation on
+number of digits right suppose if my n
+factorial with N equals two let's say
+thousand right so N equals two some
+10,000 has some 20,000 digits right
+suppose if it has too many digits you
+can you still can't store it in bigs or
+begin to long in none of them how do you
+use somebody says dynamic program and
+how do you use dynamic programming dude
+somebody says can we use log that's a
+ingenious idea I thought of it good good
+good good you can use log yes but again
+log also we'll run into some problems
+look at this okay so it's a good idea
+Ramesh I'm thinking I like the thought
+process so his idea here is this if you
+have n into n minus 1 into n minus 2
+into so on so forth up to 1 ok this is
+what you want this is the result your
+result is this so he says let's take log
+on both sides ok log R equals 2 log of
+this whole thing log of whole this whole
+thing I can write it as log of n plus
+log of n minus 1 plus because log of
+product so log of product of things
+become sum of logs right plus log 1
+cool suppose I can compute log log log I
+compute all of them right so what do I
+get I get some number let's say I get
+some number X so my log R equals 2x now
+I want our how do i compute our are
+equals to e power X now how do you
+compute D power X now how do you compute
+e power X X is so large
+remember your ex your ex itself will be
+quite large that a power X also can't be
+computed because no data type can store
+a power X temporarily that's the problem
+here but it's a good idea I like the
+thought process but it doesn't work in
+this case it's a good idea because I
+remember thinking of log when I was
+solving this problem almost a decade
+more than a decade ago
+ok linkedlist is the solution yes let's
+try strings blah blah blah ignore
+multiples of 5 while calculating
+factorial okay return it and store it as
+a string print only 10 blah blah blah
+okay I think some of you got the answer
+I'm happy about it look at how we did it
+as kids know so if you have to 36 x 4
+how do you do it you multiply this digit
+6 fours at 24 for you store 2 here 12
+plus 2 14 1 8 + 1 9 so store each of
+this against this just create an array
+you can always resize arrays or you can
+store this in a list you can store it in
+an array whatever data structure you
+want you can store it in a linked list
+also for those of you who are suggesting
+linkedlist you can store it like this 9
+pointer for oh sorry sorry my bad
+four pointer for null you can also store
+it using a linked list those of you who
+know what Lincoln lists are you can
+store it in an array you can store it in
+a list you can store it in a list all
+you have to do now is you have to
+redefine your multiplication the simple
+multiplication so if you have two
+variables the the multiplication that is
+in the multiplication operator that is
+there in Python will not work so you
+will have to write a function called mul
+look at this so I hope you got this
+right this is what we all do it even if
+you change
+to hexadecimal anything the same problem
+occurs you can change it to binary also
+doesn't matter all this this problem
+continues whichever encoding you use
+right it doesn't matter the problem
+stays the same so let's solve it in bind
+in in decimal because all of us
+understand decimal so what we have to do
+here is we have to define a function
+called mul which will take let's say you
+know I'm using eros okay which will take
+an array as an input and which will take
+an another number right let's call this
+let's call this array as a it will take
+B as input and what should it return it
+is now multiply a with B by going ITER
+ativ li again you have to write a for
+loop inside this I am NOT writing this
+solution because I want you to write it
+on your own but I'll give you the
+intuition in here what do you do again
+we are representing a number using an
+array if if the number of digits
+increases you just create a new array &
+store that delete the old array or
+resize the array all right suppose I
+have a here some 236 and my B is 4 I
+want to multiply both of them so what do
+I do I write a for loop I write a for
+loop wherein I first get 6 how do I get
+6 here from 236 to 36 mod 10 gives me 6
+or mod 10 power 1 gives me 6 right 236
+mod 100 gives me 36 look at this to 236
+mod 100 gives me okay actually I don't
+even need mods you know I'm sorry I'm
+sorry because this is in an array so
+first I take the first element of the
+array so let's assume let's assume this
+is 0 1 2 I take the last element 6 I
+multiply with 4
+what do I get I get 24 right six fours
+are 24
+so my loop will go from the last element
+to the first element right my loop will
+go from 2 1 0 this is how my loop will
+be right so this is all my again I'm not
+writing the code here I wanted to write
+the code my loop will go from the least
+significant digit to the most
+significant digit I multiply my B with
+the least significant digit whatever I
+get I paste it here
+I keep carrying though so the same thing
+that we did right 6 for 20 for the carry
+I will copy it somewhere I'll create a
+variable called carry and copied here
+like carry is 2 then I multiplied with
+the last digit then I multiplied with
+the last but one three fours are 12 plus
+2 14 so for my carry is 1 4 2 0 8 + 1 9
+I got 944 so now my result is also an
+array of size 3 right so what do I do
+here I take this array I modified to 36
+to 944 right and I return 944
+or I can create one more array again
+just make sure that your deallocating
+memory you're removing arrays from
+memory
+you're just clearing it just ensure that
+you are clearing up memory right so
+that's all that's all there is
+please increase the zoom on your screen
+I hope I'm writing it in a very big fun
+so I hope this is OK no so I don't want
+to use linkedlist because you don't need
+it here you can also do it using
+linkedlist it's the same code now the
+logic is the same the logic is in if you
+are you if you are see if you are if you
+want to write this in C you can always
+store this as a linked list with well
+the least significant digit here suppose
+if I want to store 236 always store 6
+here then 3 here then 2 here right
+because this is a singly linked list
+which are starting from here to here
+right so what doesn't increase the time
+complexity doesn't it increase the time
+complexity what increases the time
+complexity I didn't understand this
+anyway so I didn't understand didn't
+understand ok ok I don't know what you
+didn't understand so it's very simple no
+so the code that I explained you here
+see you basically replicate this logic
+is the same again I'm trying to explain
+the logic your implementation if you
+want to write it and see the
+implementation will be different you can
+write doubly linkedlist whatever you
+want to do do it guys doesn't matter you
+can use an array you can use a list you
+can use a linked list a singly linked
+list a doubly linked list doesn't matter
+ok if I were writing this code in C I
+will most likely write it using doubly
+linked list or singly linked list if I
+am writing it in Python
+doesn't matter because I can resize my
+arrays in Python dynamically python
+gives me a lot of flexibility I can also
+resize my list if I'm doing it in Python
+I can do it using arrays and lists why
+bother about singly linked lists and
+doubly linked lists we don't know the
+size of the array good question that's
+why I'm saying Ari so let me give an
+example imagine if my number is 544 okay
+you can read this as an array you can
+think of it as a list or a linkedlist
+doesn't matter right now this you
+multiply okay with let's say six when
+you multiply with six what happens okay
+so my input here is let's say an array
+of size three this number is here so
+what do i it is six fours are 24 - 6 4
+24 - 24 plus 2 is 26 30 32 so what is my
+output now my output is not an array of
+size 3 it is an array of size 4 so what
+do I do to save space I create an array
+of size 4 right and I clean up this
+array from memory ID allocate this array
+from memory and I return this Aronoff
+now somebody's asking how does this how
+does this connect to the problem ok so
+let me explain this I think I think you
+could connect the dots but let me
+explain this so what is the problem here
+you started off with you want to
+multiply let's say I want thousand
+factorial suppose I want thousand factor
+how do you get thousand factorial you
+multiply thousand you start with one
+first ok you start with 1 1 multiplied
+by 2
+you always store your results in an
+array or a list or a singly linked list
+whatever - right so you got to cool now
+we want to multiply 2 with 3 but instead
+of multiplying 2 with 3 you just call
+this function mul with 2 comma 3 what
+does this function return this function
+returns again an array a linkedlist
+whatever way again I'm going to assume
+that you're storing everything using an
+array and arrays are resizable in your
+programming language if they are not
+resizable please use a linkedlist
+or adopt singly or doubly linked lists
+depending on a programming language
+right so you got 6 now now again you
+will call mul 6 comma 4 you'll keep
+calling this right so my for loop will
+fact n is my father look will look like
+this let me change the color slightly my
+father look will look like this fact n
+is for I equals two okay I'm writing
+pseudocode here write for I equals to 1
+to n right mul okay so first I have to
+create I have to create this area right
+so 4 ie so my result I'll have to create
+a result first okay let me write this
+down let me write it on a fresh sheet I
+think that's better
+so fact n is my function first I create
+an array okay so my result is let's say
+an array I just create it let's say
+array of size 10
+okay I'll create some array of size 10
+I'll start with size 10 I'll initialize
+everything to zeros okay I'll initialize
+it simple no I'll say for I equals to 1
+to n again I am writing pseudo code here
+not Python code okay you can easily
+translate this to Python code okay
+R equals 2
+okay so I'll have carries also all the
+time carries will initially be 0 so okay
+carry will be 0 ok so let's do this okay
+R equals 2 okay let me do this
+so what I want here is okay I don't want
+this also so my mum is defined as
+follows
+okay my R comma C my result and if there
+is a carry if there is a carry if my
+result is more than 10 digits this is a
+this is basically an array of size 10
+right if my result in this loop if I get
+a result which is more than 10 digits if
+it's more than 10 digits I'll get my
+carry so I will say mul right what am i
+what am i passing here mul are most of
+my are I'll initialize to 1 instead of
+initializing it to so mul I'll
+initialize it to 1 right so my are so
+mul R comma I right so here I don't have
+to do 1 to n I will just say 2 to N so
+what does this result in this returns
+look at this what does it return it
+returns again I'm passing R so it will
+modify
+itself so in the mull function in the
+mph on my R gets modified my R whatever
+is the initial value it gets multiplied
+by I write the result is stored in there
+okay instead of doing that right so the
+result is not stored in our again I have
+to I have to output two things I have to
+output an array and our carry now if if
+this multiplication crosses this if this
+multiplication cannot be held in ten
+digits what do I do if my carry is
+greater than zero that means I got a
+carry from this multiplication then I
+will recreate new memory for our look at
+this because ten digits were not
+sufficient I'll say whatever is the size
+of this I'll double the size then I will
+get a bigger arena right and whatever
+were the elements here I will copy all
+of them to this and you keep doing it
+this right I hope again there are pieces
+in this to be realized the reason I am
+not writing the actual code what if
+there is more than two anyway I'll come
+there
+so first the reason I want you guys to
+figure this out
+imagine if there is no big num how do
+you solve this problem I want you to
+figure it out again there is solution
+available what I want you to do is this
+please do not see this solution till you
+have the solution or you have spent at
+least three hours on this problem again
+the reason I want you to spend at least
+three hours is after explaining the
+logic it will take you some time to
+figure out how to allocate memory or how
+to allocate an array how to deallocate
+mmm array all of that lot of which we
+have covered in the course videos but I
+want you to figure it out if you don't
+know it just google search for it
+right it's just a Google search away how
+to reallocate so there's also this
+concept called reallocating memory so we
+allocate memory by thumb right so you
+can always memory allocation is an
+important task here so this task again
+depends on your implementation but if
+you know memory allocation and
+reallocation this is trivial I want you
+to figure it out if you are not sure the
+solution is available here but please
+don't look at the solution till the time
+you've spent at least three hours on
+this problem
+or you have found the solution yourself
+right I hope that is clear right
+we are 749 we have one more question
+Mali's multiply yes mul wants to do
+multiply what if we get a carry from
+multiply that's what I told you right if
+you get a carry from multiply you assign
+a larger are enough you basically take
+this array R is our Ark is made of array
+look at this R is made of an array of 10
+elements you now create a new array
+again call it our or yuri yuri allocate
+memory yuri reallocate memory for this
+array instead of size 10 make it size 20
+double the size or just increase the
+size if you get a carry what does it
+mean it means the data is not you're not
+able to fit that in this in this array
+so what do you want to do you want to
+increase the space and I get don't
+forget to copy the carry in the
+increased space right don't forget to
+copy the carry in increased space again
+this problem is all about memory
+allocation and de-allocation memory
+allocation and de-allocation in python
+if you are not sure just read up about
+it if you know it it should be simple
+why are taking one in last where is our
+taking one oh this one because if you
+take it zero multiplying anything with
+zero will give you zero no that's why I
+put it one I told you right so what does
+this result it will multiply R with I
+and place the result in R itself right
+so this is exactly this so that is
+exactly equivalent to this code the eye
+trait of code that we wrote no oh look
+at this why is R equals to 1 here it's
+the same logic if R equals to 0 somebody
+is asking this question right if R
+equals to 0 you can answer 0 because you
+are multiplying everything with zero in
+factorial you don't multiply things with
+0 no so that's the reason okay so there
+is solution available please spend some
+time again we have one more problem very
+interesting problem I want to finish
+this I hope you can spend 15 more
+minutes on this I promise you I will so
+I will finish this problem ok everyone
+okay with that
+is this classes are for people whoever
+what is yeah you can use in what if we
+use lists and delete the old one yes you
+can do that it will just create more I
+mean you can do it nothing stops you
+from doing that right yeah you can do
+that not a problem is this classes for
+all people or those are just for demo so
+the purpose again Santosh I think you
+don't get the purpose we made it an
+announcement right so the basic Python
+videos and Python problems I wanted to
+share it with everyone that's why they
+are publicly available but the idea here
+is that I'm assuming that you know
+basics of Python I mentioned this in the
+previous sessions also if you do not
+know Python you may not understand a lot
+of what I am discussing in this live
+session right so I'm assuming that you
+already know Python so how will you get
+karey you can of course that that's a
+that depends on how you implement your
+code know you get karey because you have
+to implement your mul function the small
+function you implement such that if the
+result cannot be fit in are your output
+you you output C again functions can
+output multiple values if you are not
+sure of that please read up about
+functions that can result multiple
+values in Python functions can do that
+okay it's a very simple concept just
+Google for it it functions can return
+multiple values if that's your question
+right so let's go to the last question
+today again this is a last question in
+mathematical programming this is a
+question that was asked to one of our
+students recently when he was
+interviewing with IBM Research it's a
+very popular question the question here
+is you have to estimate the value of pi
+all you can use is the formula of the
+area of a circle and the circumference
+of a circle we all know this right the
+area of a circle we all know that the
+area of circle is PI R square and
+circumference is 2 pi R we all know this
+this is the only definitions that you
+can use of course if you are if you are
+if you are an engineering student I
+there are infinite series expansions of
+Phi Phi you can't use any of that
+the problem is simple you have to
+estimate the value of pi using only two
+factors only two concepts that the area
+of a circle is PI R square that the
+circumference of a circle is 2 pi R
+right again those of you who don't know
+pi was initially defined in the ancient
+world as the ratio of circumference by
+diameter diameter is nothing but 2 R
+right so the definition of pi is pi is
+the ratio of circumference by to
+diameter that's the mathematical
+definition of pi pi it is not 3.14 this
+is the definition of Pi 3.14 is is an
+approximate value that pi takes right so
+you can only use these two facts and you
+have to estimate the value of pi it's an
+actual interview question actually it's
+a it's a simple question it's not a
+rocket science question but it's a good
+question I like it because it's a very
+app again this was asked for a machine
+learning engineer role at IBM Research
+not IBM development this IBM research
+lamps ok no you can I mean given any
+circle
+somebody says 2207 come on I mean it's
+not that simple right so somebody says
+do we have area and circumference given
+yes I mean you can take any radius and
+you get area and circumference right is
+this intermediate Python I don't know
+what intermediate Python means I'm just
+assuming that you know the basics of
+Python and I'm solving a bunch of
+problems again I never understood when
+people say advanced Python intermediate
+Python I think these are definitions
+created by people just for the sake of
+it I don't know what is intermediate
+Python to be honest with you ok
+I don't agree with you in the condition
+that if C is greater than 0 reallocate
+memory again there are multiple ways of
+solving the factorial problem the
+earlier problem it's up to you there are
+multiple ways all that I've shown you is
+one such way you can define it in
+multiple ways
+again please feel free to write your
+code and make it work that's all we care
+about assume value of area and
+circumference ok area
+is your not no no one second one second
+area is safe okay so you're assuming
+that somebody gave you both the area
+okay I know I know where you're headed
+so the assumption somebody was making a
+good interesting interesting way of
+looking at it
+somebody said that okay imagine it for a
+circle I am given both the area and the
+circumference then how do you compute it
+or you can do it you can do it you get
+it PI square I know it now that's not
+what I meant
+okay so if somebody gave you
+circumference and area of a circle right
+they already computed this then he's
+saying I'll take C square which is 4 PI
+square R square divided by area which
+make it PI R square so R square R square
+gets cancelled pi PI gets cancelled I
+get 4 pi so I'll take this I'll divide
+it by 4 I get PI I know where you are
+going but that's not that's not the
+intent you are given the formula for C
+you're given the formula you are given
+the formula for area and formula for
+circumference that's all you're given
+you don't have to derive them from first
+principles again deriving them is not so
+easy okay I mean it's a good interview
+question also especially so one of the
+interesting question is the definition
+of pi is circumference by 2r this is a
+mathematical definition using this
+definition prove that the area of a
+circle is PI R square who told you this
+how did this come to we all were taught
+in our I think sixth grade seventh grade
+but this is the area we all remember it
+by heart right we all just remembered it
+now this is the definition this is a
+definition of pi so definitions we have
+to remember but can you arrive at the
+formula for area I mean that's that's a
+good interesting question it's not hard
+it's just 11th class mathematics or
+actually even in class math anyway I'm
+not going there
+so you're just given the formula and you
+have to figure it out some of you have
+told the answer I'm not pointing them
+right now find area by trapezoid rule
+and divide by r square oh that's an
+interesting idea very good I love this
+idea
+oh wow this is good thought how do you
+find the area using trapezoid rule haha
+okay okay so you're writing the equation
+of the curve okay I got it I got it I
+got it
+ha ha so you're saying I'll find okay so
+let's take say mister
+this is a good idea room or I should I
+should I don't good idea so your idea
+here is we know the equation of the
+circle so let's take the semicircle
+let's compute this area interesting
+using episode rule cool so you get the
+area using trapezoid rule so area of the
+semicircle is PI R square by 2 so this
+area you computed using trapezoid rule
+this area is this you know what is the
+radius anyway so you will say a to a by
+R square will be equal to PI cool that's
+one idea very good very good very good
+very good
+this is this interesting I mean I didn't
+think of it to be honest with you
+yes that's good I don't know if others
+have also suggested it very good
+suggestion okay this is one way well I
+didn't think of it okay probably if I
+asked this question in my interviews I
+would have learned more ways but cool I
+like this anything else yeah I got it I
+got it I got it I got the point
+okay integration interval okay say using
+integrations all of that somebody
+mentioned okay pratik mentioned can we
+use monte carlo approach that's a good
+idea so let me introduce you to
+something called as monte carlo
+approaches i won't introduce a concept
+also concept is simple okay
+again the the ingenious idea is use
+random numbers okay so let me explain
+those of you who don't know again monte
+carlo sounds like some advanced math it
+is common sense okay so we have used
+monte carlo methods in our course videos
+also
+so in our hypothesis testing chapter
+those of you who have seen that we have
+talked about permutation tests so we
+have talked about permutation test if
+you recall in our hypothesis test in
+probability statistics but mutation test
+is one of the ways of using monte carlo
+approaches monte carlo approaches is a
+big area in physics again this came from
+a bunch of brilliant mathematicians the
+idea is simple okay the idea is to use
+randomization again i will provide you
+some reference links but let me tell you
+that let me tell you the approach
+instead of telling you the theory now
+approach is this imagine I have a
+Circle like this first of all let's draw
+our rectangle okay let me change the
+color here it's like okay I have a
+rectangle here okay this is a unit
+rectangle which means this is width is
+one square not rectangle I'm sorry
+anyway a square is also a rectangle is
+also a square so it's okay so it's a
+unit square
+all right this side is 1 this side is 1
+within this unit square if I draw a
+circle what is the radius of this circle
+now what is the radius of this circle
+the radius of this circle will be 0.5
+what is the area of this circle okay
+first let's say what is the area of this
+what is the area of the square area is
+equal to 1 what is the area of this blue
+circle area of this circle your R is 0.5
+so PI into R square
+what is 0.5 square 0.25 right which
+means by 4 this is the area so first
+observation right first observation is
+the area of this circle right is PI by 4
+so suppose if I if I take okay let me
+just name these things okay so let me
+just name them so area of the square and
+area of the circle okay so if I do
+area of the square by area of circle or
+the other way around sorry
+so if I do area of circle if I do area
+of circle by area of square what do I
+get I get PI by 4 so 4 times this what
+do I get I get PI right 4 times just
+simple area of square is 1 area of this
+circle again this Square and this circle
+is PI by 4 so 4 times area of this
+circle by area of this square because
+this is 1 no 4 PI into 4 is PI so this
+is one fact so let's write this down
+right 4 times area of this circle by
+area of the square equals 2 pi that's a
+fact let's keep that very important fact
+now what Monte Carlo approaches tell you
+is this very ingenious ok
+they tell you what if I have a way
+throwing random darts okay what is the
+dark okay let me show you what is a dot
+okay it's better to show you an image
+such you may just okay or just let me do
+dot dot Sardis okay this is a dot right
+you know what is a dot know right so the
+thing that you throw so imagine we have
+we have a way suppose suppose this is
+the board I'm throwing darts suppose I'm
+a random dot thrower
+okay important imagine if I'm a random
+I'm randomly throwing dots but I'm
+randomly throwing them such that all the
+da all the dots fall in this region
+right all the dots or all these arrows
+that I throw they just use the word
+arrows right all the arrows that I throw
+will are guaranteed to fall in the
+square
+some of them will fall in this region
+some of them will fall outside this
+region but remember this is a random dot
+thrower
+what is a random dot thrower the chances
+that it will fall anywhere is this is is
+is uniform again we'll discuss about
+uniform distributions later it can fall
+anywhere in this region sorry anywhere
+in this whole region so it can fall
+anywhere in this whole region with same
+probability but it is a random it can
+fall anywhere that's why the randomness
+right so that's why the randomness it is
+guaranteed to fall in this region right
+some of them will fall in this some of
+them will fall out changes but the throw
+itself is random now how do i generate a
+random dot or a random arrow using
+random numbers imagine if I create two
+random numbers such that this random
+number Falls is a random number between
+0 and 1 this is also a random number
+between 0 and 1 ok this is a random
+number between 0 and 1 this is also a
+random number between 0 and 1 wouldn't
+that be equivalent to and whatever
+coordinate that I get ok so what did I
+do here I took two I took two values
+this
+random number generated from 0 to 1 this
+is random number generated from 0 to 1
+this corresponds to the x-axis this
+corresponds to the y-axis now if I
+generate 2 such random numbers I get a
+point right so I can use this point
+which is generated randomly this is a 2d
+point randomly generated why is it
+randomly generated because this is
+randomly generated from 0 to 1 this is
+also randomly generated from 0 to 1
+because this is from 0 to 1 this is from
+0 to 1 I am guaranteed that this this
+whole pot this whole thing falls within
+this square it is guaranteed it is
+guaranteed that the whole thing falls in
+this square but it is also guaranteed
+that because there generated using
+random numbers this is the beauty of
+Montecarlo approaches because they're
+generated with random numbers the number
+of dots suppose if I throw some 10,000
+dots or if I throw 10,000 arrows
+what percentage of them will fall within
+the circle and what percentage of them
+will fall outside the circle that's the
+idea here
+look at this because because the dot can
+hit anywhere in this square randomly
+right right the the number so suppose if
+n is my number of throws suppose I have
+20,000 times let's say you know off
+these 10,000 times some M times the dot
+fell within the circle we can verify
+whether the dot fell in a circle or not
+right very simple take the distance
+between both of them if the distance
+between both of them is less than equal
+to this radius radius is 0.5 then I know
+that the dart fell within the circle
+very simple if M see look at this of the
+10,000 times if M times it falls in the
+circle this M is proportional to the
+area of the circle that is the leap
+right because you're throwing it you
+look at it you're throwing a dart you're
+throwing you're throwing throwing
+throwing throwing throwing because this
+covers some area how much area does this
+cover it covers pi by 4 what is the
+total area total area is 1 because this
+covers area of pi by 4 this ratio will
+be
+as the ratio of Emmys to M look at this
+this ratio will be same as this because
+my random my dart thrower is random
+within this region
+he's throwing randomly some Dutch right
+so now what I do here is I create a
+simulation
+okay Monte Carlo these are also called
+as Monte Carlo simulations because what
+am I doing here
+10,000 times 10,000 times I am
+generating a pair of random numbers and
+calling it a point let's call this a
+point P 10,000 times I'll randomly
+generate for each of these points I'll
+compute whether it's in the circle or
+outside the circle right 10,000 times
+I'll keep counting my M is basically a
+count my M is basically a count which
+will count how many times out of this
+10,000 times this fell within the circle
+right very simple now I know that pi by
+4 is 2 1 is same as M is 2 N and I know
+n is let's say 10,000 now I already
+using the simulation I can measure how
+many times I got it here this ratio is
+PI by 4 to 1 right this ratio I know
+already or you can write this ratio also
+as pi is 2 4 now here here I got 10,000
+times this ratio is same as this ratio
+right suppose I got some M times here
+now since this ratio should be equal to
+this ratio PI by 4 should be equal to M
+by n right n equal to 10,000 now now I I
+know 4/4 is a constant I got em through
+this simulation through this random
+simulation n is the number of times I
+through the duct using these I can
+compute PI so this is what is called as
+a Monte Carlo similar it's a fancy name
+again Monte Carlo simulations are a
+beautiful topic in mathematics I spent
+his assists typically study it and okay
+so let me show you this so these are
+approximations of Pi I'm sorry there is
+there is Monte Carlo simulation
+somewhere I okay so here is a Monte
+Carlo simulation okay so this is a Monte
+Carlo simulation it explains what is a
+Monte Carlo method all of that stuff
+again the classic example this is how
+it's taken
+instead of taking a whole circle they
+just took a 1/4 of a circle there
+randomly generating points they're
+seeing how many points again very nice
+simulation all that they're saying is
+how many points lies within this quarter
+circle this is a quarter of a circle
+right how many points are lying outside
+of it based on that they're getting it
+so a Monte Carlo approach basically says
+first define the domain of possible
+inputs again it's a very general method
+it's used in so many places in physics
+in mathematics computer science etc I
+told you right permutation testing is
+one example so if you go to applied
+statistics look at this they they
+clearly mention this where is it okay so
+to to provide implementations of
+hypothesis tests that are more efficient
+than exact tests such as permutation
+tests again permutation test is one
+example there are other there are there
+are other distributions also so this
+whole area Monte Carlo methods are a
+very broad topic we are just using this
+here of course I really like the
+solution that I don't provided earlier
+using area under the curve that's a
+brilliant idea but this is another idea
+I want to show you the power of
+randomization okay so if you want to
+read more there are many other ways of
+computing the area of the circle right
+so that's that's this approximations of
+pipe there are algorithms from
+prehistoric almost like from early
+history to modern day there are hundreds
+of algorithms one of the simplest
+algorithms is the Monte Carlo approach
+again the Monte Carlo approach or the
+Monte Carlo method is interesting
+because it tests your understanding of
+random numbers right you're doing a very
+simple simulation right it's a beautiful
+thing in itself again in an interview if
+you cannot come up with this but if you
+came up with something completely
+different solution that's okay but I
+wanted to introduce a new concept right
+in mathematics because the series here
+is mathematical programming okay let's
+go let's go
+so I'm just importing random this
+function basically says whether my point
+X comma Y so my circle is fixed now my
+circle is fixed my circle Center again
+this is OK
+let's go to this diagram my circle
+Center one second
+once again I think I did a mistake
+somewhere oh the circuit I think I did a
+small mistake somewhere okay so what is
+the circle center here the circle Center
+x-axis is 0.5 y-axis is 0.5 alright
+that's a circle Center and the radius
+itself is 0.5 yes this is point five
+this is point I think there is a small
+bug in my code let me fix it as we go
+okay so whether the point X Y is in a
+circle or not so that's simple right so
+I just I think I I did a small mistake
+here but that's okay we'll fix it
+quickly so if X - okay so if X so the C
+the whether the point is within the
+circle or not is what we are trying to
+determine right so X so given a point X
+comma Y I want to determine whether it's
+in a circle or not so minus 0.5 so this
+tells me so this gives me X minus center
+square Y minus center square - this
+whole thing I have to compute the square
+root all right so - this whole thing I
+have to compute the math dot square root
+so let me input math also or I must have
+already imported it okay input math so
+math dot square root okay so what did I
+do enough I computed the distance of a
+given point from the center if the
+distance is less than equal to what is
+my radius my radius is point five then
+return true else return false right this
+is my in circle function okay I didn't
+test it because I ran out of time
+actually okay so let's see okay so this
+is cool right math dot square root X -
+the center so this indentation is
+correct or so this parenthesis are
+correct this parenthesis is correct this
+parenthesis math word square root okay
+so I don't need this so I don't need
+this okay so I don't need this also okay
+so this parenthesis is matching this
+cool so square root of x - Center x
+squared + y - Center y squared
+if this square root of this basically I
+am saying that if the point is less than
+0.5 distance away from the circle Center
+then it is inside the circle or else
+it's object
+so it's basically determining whether
+the point XY is within the circle or not
+okay then I'm creating this count in
+circle number of points I'm counting the
+number of points which are inside the
+circle as zero I am doing these many
+iterations very simple for I in range n
+I am randomly generating a I'm randomly
+generating the x-axis I'm randomly
+generating the y-axis now I am saying if
+this is true if that randomly generated
+point is in the circle then I'm counting
+it right so my count in circle is
+nothing but my M my count circle is
+nothing but M M by n into four should
+give me pi because M by N equals two PI
+by 4 right we discussed this earlier
+right
+so I'm printing this as my value of pi
+let me see if this code works or else
+we'll write some simple test cases okay
+so there is a problem somewhere written
+Falls bla bla bla what is happening here
+mmm 4i okay okay so oh yes okay I'm
+getting three point one four one four
+good let me just do this a little less
+what happens enough three point one nine
+if I'm increasing it what happens again
+I have to write test cases for this okay
+as I'm increasing it takes more time
+obviously as my n increases it takes
+more time okay let's just wait for a
+minute okay three point one four one
+nine blah blah blah yeah it makes sense
+this is cool right again the whole Monte
+Carlo simulation is a beautiful idea
+once you get the idea the concept is
+simple look at is what are we doing here
+we have this we have this we have this
+that's it now this whole idea is very
+powerful in general because again you
+can read okay so let me additional okay
+you can read more about Monte Carlo
+simulations it's a it's a very big topic
+I mean I can teach I mean I've learned
+Monte Carlo simulations during my
+Master's days and I've spent I mean this
+is like a multi lecture problem right
+it's not I mean even at a master's at a
+graduate level if you take numerical
+methods and numerical simulations there
+could be four or five
+just on Monte Carlo methods right so now
+imagine this method can be extended to
+finding areas of any random shape
+suppose imagine imagine this black area
+I want to find the area of this blacks
+black region area of this black region
+area of this black region of course I
+can use the integration based method
+shortly right I can say okay first I
+will compute the area above this they'll
+compute the area below this I'll add
+both of them that's one eight that's one
+idea
+but as long as I have this function
+which says in in black region as long as
+somebody can write this function for me
+wherein I give the x and y coordinate
+and you can tell me whether the point is
+inside the black region or not as long
+as somebody can write this function and
+give me this function if somebody can do
+this I can apply my simple Monte Carlo
+approach I can simply apply my Monte
+Carlo approach again this diagram has
+been taken from scratch pixel I also
+have the reference link here please go
+check it out and okay so this is one way
+of computing pi
+there are other ways I just wanted to
+touch upon one and then we'll close it
+out so earlier before modern computing
+all of that I think the ancient Greeks
+and I'd have to look up the Wikipedia
+links so people actually tried this I
+think where is a 96 sided okay again you
+can read up all of this I mean there is
+there is a ton of there is I mean there
+lot of mathematicians you have tried
+this ancient times middle times careless
+school of astronomy and mathematics
+madhava I mean they're phenomenal
+mathematicians who have tried this
+across the world not just in India area
+but everybody right I mean people from
+the Chinese mathematicians from German
+or sorry from from Archimedes from the
+Greek mathematicians everybody tried
+this right so one very elegant approach
+is this again I just wanted to touch
+this touch upon this because it because
+of the beauty of the mathematics in this
+or the beauty of the idea so the ancient
+mathematician said okay circumference by
+2r is PI we don't know what pi is so
+they said let's draw a circle let's draw
+a square inside the circle right square
+has four sides so let's say K equals
+for four sites they said the
+circumference of this okay so let me use
+a different color so this okay so they
+said the circumference what is the
+circumference it is this four sides
+right they measure these four sides they
+summed up the four sides and they said
+this for the sum of these four sides is
+a good approximation it is a basic
+approximation to the circumference of
+the circle and they knew this circle
+radius so initially they took k equals
+to four they got a circle so they got a
+square so they measured this length Plus
+this length Plus this length Plus this
+length they use this as an approximation
+to circumference and they already knew R
+because they drew this circle right so
+circumference bed - er they got one
+value of pi they said okay why should i
+approximate only with a four-sided
+polygon what if I use a five sided
+polygon this is a Pentagon this is a
+Pentagon right so then they approximate
+it with a Pentagon when you approximate
+with a Pentagon you know that all of
+these points these five points this five
+vertices lie on the circle right and you
+also know that they have to be if you
+want if you want a Pentagon that is that
+is same same length sides what is it
+called uniform Pentagon I forgot some of
+this terminology from high school man
+okay so anyway that's okay so if I want
+this if I want this Pentagon such that
+all these sides are same right I want
+these angles this side this will be at
+theta this will be a Theta this will be
+theta this will be a theta this will be
+at theta and this theta will be 360 by
+five because I have to find five
+vertices one vertex second vertex third
+vertex fourth what to expect vertex so
+they've they've now embedded a Pentagon
+right a Pentagon of same sides same side
+length into a circle now if they
+computed the circumference of the
+Pentagon this Plus this Plus this Plus
+this Plus this now this is a better
+approximation than the square to the
+circumference this five sides sum is a
+better approximation than the four side
+son then they said why should we stop
+with
+let's go to hexagons so then they drew
+the six-sided hexagons right then what
+is this theta love first I fix a point
+here then how much should I go before I
+find the next one again I know that the
+length of this the length of this the
+length of this the length of this the
+length of this all of them I'll try to
+make it make them the same so that
+becomes easier then I just have to
+measure this length and then multiply it
+by six to get the whole circumference so
+they said if I keep drawing these first
+I start with a four-sided pen a
+four-sided polygon then a five-sided
+polygon six sided polygons seven sided
+polygons if I go up to 100 sided polygon
+I think the Greek mathematicians tried
+it with some 96 or not 96 or so I have
+to look up the key period I think so
+they realize that as K increases the
+circumference a time again it's easy to
+compute circumference because I will
+just measure this and multiply it by six
+because all these are the same angles
+look at this this triangle and this
+triangle are equal it ar-ar-ar-ar are
+exactly the same right so this triangle
+is same as this triangle because this
+side and decide are the same this side
+and this side are the same if these two
+angles are the same this length and this
+length also will be the same right so
+they just have to measure this length
+multiplied by six they got the
+circumference similarly they tried with
+seven eight nine etc finally they came
+up with an approximation to pi which is
+very very accurate right so you can also
+solve this problem not just using again
+one idea that that's the Darwin and
+other suggested is to use area the other
+is to use Montecarlo approach right the
+other is to use this approximations
+using polygons right so there many such
+methods again so some some of you have
+emailed me and asked me about some
+additional resources so again first and
+foremost we'll cover more mathematical
+and numerical algorithms in the future
+life sessions we have whole of linear
+algebra we have whole of statistics
+again we'll look at more Montecarlo
+approaches also in the future
+we have linear algebra probability
+statistics optimization and every major
+machine learning algorithm and every
+major machine learning algorithm is a
+form of mathematical programming right
+so one thing that we'll do extensively
+throughout these live sessions is more
+and more and more and more of
+mathematical programming that's why I
+spent so much time numerical numerical
+okay
+again there is no type correction there
+is no spellcheck here so I keep making
+these mistakes but if some of you are
+interested there is a very nice course
+at Brown University I think B way I
+think is brown so just check out a bunch
+of lecture notes I also Google such and
+I found this book I have not read this
+book but the syllabus or the or the
+contents looked good the best place to
+learn more about numerical methods is to
+read side by and numpy reference
+tomorrow's live session will spend on
+strings and regular expressions right we
+have done mathematical programming for a
+couple of days again tomorrow's live
+session is also open to everyone I just
+I just put out a live session
+announcement again I will not make a
+video I just put out a live session
+public to everyone please attend it
+tomorrow please refresh strings and
+regular expressions because this is
+extremely important again we'll cover
+some examples when we cover natural
+language processing we'll cover many
+more string operations and regular
+expressions and advanced operations
+later tomorrow we'll just limit
+ourselves to basic Python programming
+strings and regular expressions the live
+sessions tomorrow 6 to 8 right so please
+I again yesterday and today I wanted to
+give you a good overview of mathematical
+programming assuming that you don't know
+much of advanced mathematics or maybe
+you've forgotten some basic mathematics
+from your school also if some of it is
+complex
+please refer the MIT additional material
+that I give you and try to solve the
+exercise problems I just wanted to
+expose you to or introduce you to a
+bunch of mathematical tools that are
+extremely important and extremely useful
+to understand and to think for a machine
+learning engineer right
+I will provide this I will provide this
+ipython notebook and a pdf version of it
+in a few min
+it's just under the live session right
+so thank you folks
+so we'll we'll conduct so somebody is
+asking about future life sessions again
+all the basic Python stuff which do not
+require it's called a regular pentagon
+thank you thank you Barger
+I was thinking uniform regular is the
+word right so the future life sessions
+that we will conduct so the future life
+sessions anything that does not require
+you to go through our course anything
+that that requires only basic Python
+programming will keep them in the public
+domain will do public life sessions
+since I expect anybody who knows buy
+basic Python programming to know strings
+and regular expressions you don't have
+to know some advanced mathematics are
+and my probability or anything you just
+need to know basic programming so we are
+continuing to keep this open to all but
+as we progress through these live
+sessions there will be some that we will
+have to limit only to our students
+because they'll have to go through
+course videos we use the same notation
+the same code examples without that you
+will not be able to understand right so
+I'm from pharmacy whatever your giving
+content is it enough again the objective
+of these live sessions let's make it
+very clear I've made it multiple times
+it is to introduce you to multiple
+programming problems right again I told
+you write a couple of these problems
+were actually asked in interviews right
+again even yesterday's problems and
+today's problems some modified versions
+of them I have asked in my own
+interviews so best book for Python pick
+any book man just google search for
+Python book for beginners if you're a
+beginner right so you'll get tons of
+books best Python books okay Python for
+beginners okay why I buy a book there is
+this nice tutorial by Python datura June
+you know very nice tutorial just get
+started with this right so tons of
+simple examples completely again if
+you're completely new to programming
+they'll give you learning so the lot of
+a lot of publically available good
+material for Python so please please see
+that right sounds good somebody says
+shall I join TCS for one year until I
+finish the
+please don't quit your jobs if you have
+a job offer please don't ignore it
+please join in the job I've been telling
+this ever since we started applied a
+course please don't quit your job and
+prepare for a jobs nothing what's then
+that if you cannot prepare while working
+you're not up to the task let's be
+honest today right or somebody says can
+we use the same Montecarlo approach for
+finding yes you can protect good
+question UK again the Montecarlo
+approach is a non integration based
+approach for finding area under some
+diagram or some shape or some curve it's
+a completely different approach it's a
+non integration based approach which
+uses probability yes you can no doubts
+about it any math resources to learn
+that's what I'm giving I shared this
+document at the end again if you want to
+learn more advanced mathematical
+concepts more advanced numerical methods
+again there is no limit to it I have
+taken a numerical methods course in my
+BTech I've taken a numerical methods
+course in my home deck this is literally
+like what two semesters worth of course
+so again I don't think I'm that good at
+numerical methods my understanding is
+still basic I've seen phenomenal guys
+right but here are good resources it's a
+good I just google searched I like the
+contents in this book there are also a
+bunch of lecture notes I mean if you can
+if you have followed through these
+videos again these videos will be on
+YouTube so you can watch them I'll
+provide the ipython notebook just like
+everyday I will provide it just give me
+a few minutes after this live session
+I'll do it right some good folks okay
+that's all I had
+see you tomorrow I'm sorry I ate into
+your dinner time for some of you it's
+already 8:30 but see you tomorrow I'll
+try to keep it I'll try to end it at
+8:00 from tomorrow

@@ -1,0 +1,2042 @@
+hey folks our I'm trying to stream from
+I fall enough just to avoid any issues
+so that I can be on a 4G also let's wait
+for everyone to join in I think just
+wait here for a few minutes for everyone
+to join in its life session so sorry for
+that thank you I'm just joining from a
+phone to avoid any issues so that
+everybody so even if the power goes off
+I can be there on a 4G so let me just
+fix my phone here so that it is stable
+and I don't require my mic enough I'm
+hoping that by mic my phone does a
+decent job so just confirm if everything
+is alright if you can hear me is there
+some lag sorry folks
+sorry for the mess up I think the power
+again in and the power again came back
+is everything all right folks let's wait
+for a couple of minutes for everyone to
+join in right now I'm on my on my phone
+enough again I think the phone Leo
+called is actually better than my laptop
+with with with the camera okay sounds
+good sounds good we'll wait for a couple
+of minutes okay so I'm just joining in
+from my phone just so that even if there
+is a power cut it will directly connect
+from 4G I hope so again for YouTube I
+think when there is a power cut it
+doesn't get a stream of stream of signal
+for a few minutes it automatically
+assumes that it automatically issue that
+the is over and you to disconnect sorry
+for that okay we'll wait for a couple of
+minutes just give it a couple of minutes
+we'll wait everyone I think yeah I think
+they look really good on the phone yeah
+I just again I'm a one full span so the
+oneplus one I think is doing a good job
+[Music]
+okay that's okay since some of you have
+joined back let's continue the
+discussion here apologies once again I
+think the power that was cut earlier is
+backing off and cause of it
+my whole life at you got restarted I'm
+just joining from the phone probably in
+the public life sessions it might be
+just better to do it from phone I don't
+know I'm a junior Cummins here also
+which makes this whole viewing
+experience better for me okay folks so
+where were we so we were discussing
+about the five rounds okay here I need
+to be careful with my hand gestures can
+everybody hear me clearly is the audio
+clear is the audio clear enough just
+wanted to check if the audio is clear
+okay let me do one thing let me just
+connect all my phones so that you might
+be able to hear me better just give me a
+second is my is my but now want to check
+if my audio is better than off
+I'm just connected on then Despero
+headphones is the audio better off just
+want to check just wanted to check if my
+okay I'm on my 4G just a second
+sure is there a glitch from my audio
+also let me just shut down my laptop is
+everything all right for it one just a
+second let me see if there is any more
+glitch let me see if I can somehow
+improvise this can everyone hear me kill
+clearly enough okay so the audio is
+clear thanks to the headphones okay okay
+so I'm assuming I'm assuming things
+about the note for most of you right so
+let me just place my place my phone in
+this corner is a bit rate for everyone
+okay so I'm assuming the quality is okay
+enough I'm just on my headphones to
+ensure that there is no audio problem
+okay folks since we are back yeah so
+let's let's get going okay where were we
+we were at okay the five rounds of
+interviews right okay okay so it seems
+fine to most people so I just continue
+on this model okay so where to be right
+now a B or at okay the five rounds of
+interviews right there is a programming
+interview programming and SQL typically
+which could also include some data
+structures and algorithms and okay so
+then we had the problem solving around
+the real world machine learning problem
+solving the machine learning depth the
+machine learning breath and the
+mathematical foundations right so you
+have to be careful with mathematical
+foundations especially with topics like
+linear algebra with topics like basic
+calculus basic differentiation which is
+used extensively in machine learning and
+also with probability if you if you
+can't solve a simple problem with Bayes
+theorem that's a major red flag for me
+okay that's a major major red flag
+somebody says there is some audio issue
+let me just check okay is this better
+than off I'm on my I'm on my internet
+connection okay so video quality is not
+good why is it so let me let me just try
+to place this year
+no audio issues the video quality is
+also good
+okay so where were we uh we were at
+these five typical rooms that we have
+again these towns these rounds will
+differ a lot based on the candidate okay
+it depends a lot on whether you're a
+fresher or you are experienced and even
+if you are experienced right there are
+lots of variations even if you are
+experienced whether you're come what is
+your prior experience is your experience
+a software engineer experience is your
+experience at testing engineer
+experience is your experience more of a
+business role like the product manager
+or a program manager or is your easier X
+and also domains come into play is your
+experience in healthcare IT domain or in
+banking IT domain or is it an e-commerce
+domain again or is it in search engine
+domain your prior domain also plays a
+very important role right so again I'll
+somebody is asking about data structures
+algorithms I'll come to that just you
+may a second
+I'll come to that for freshers who may
+not have lot of real-world experience it
+will be more simple to be honest with
+you the fresher interviews will still be
+wait again for freshers if you want to
+crack machine learning rounds it's very
+very important that you build a
+portfolio of projects to showcase your
+skill set
+otherwise otherwise it won't work right
+so okay so let's go here let's go let's
+go round by round and what is expected
+from each of these experiences again
+your experience could be various things
+I've made a big list here software
+engineers or software development
+engineers it could be testing it could
+be queueing it could be production
+support it could be database engineers
+or data engineers it could be your
+experience could be in big data your
+experience could be a data analyst your
+the experience could be business roles
+like marketing sales product management
+program management etc and data
+structures and algorithms and your prior
+experience could be data science itself
+right so and again your background also
+might change if you're a computer
+science student versus you are from
+other engineering disciplines for
+example if you're an easy student there
+is a different expectation out of you
+because ECE students as if an electronic
+student comes to me for an interview I
+expect him to know a lot of advanced
+algorithms and data structures actually
+I don't expect him to know even basic
+data structures algorithms because he
+has never studied them for refresher his
+engineering or her engineering
+background is very important but if you
+come from an electronics background I
+expect you I expect you to be able to
+explain me Fourier transforms very well
+right I expect you to come to explain
+entropy very well because you study
+information carry right similarly iyx I
+expect you to be very good with calculus
+I expect you to be very good with vector
+calculus okay because these are topics
+that an electronics engineer studies
+much more deeply than computer science
+engineer right and hence I expect from a
+computer science student on the other
+hand I expect you to know what is a
+linkedlist what is a hash table what is
+binary search the basic data structures
+I am not even going to some advanced
+graph theoretic stuff I expect you know
+some basic data structures basic
+algorithms I'm not going to ask you some
+nice or drink all they are all pairs
+shortest paths type of problems I am NOT
+going to ask that but I'm going to ask
+you some basic stuff for example this is
+something that many of our students are
+again your background could be an MBA
+your if your background is NBA this has
+a very interesting background I've
+interviewed some folks from that
+background if your background is MBA I
+expect you to have lot of business
+acumen if I give you a real-world
+problem I expect you to think much more
+clearly about the business then a
+computer science engineer or a
+mechanical engineer or a civil engineer
+right for example if I give you a
+real-world problem I expect you to be
+able to come up with the business
+requirements I expect you to think about
+what is the right metric for the
+business much more clearly than what a
+computer science engineer can think of
+right if you come from other Sciences
+for example if you are if you're if
+you're a student a pharmacy or if you're
+a student of biology medicine physics
+chemistry I expect again so many
+companies what they do if they have that
+if they have that opportunity right they
+think of these students as they try to
+have at least one interview with that
+background for example at Amazon we
+interview tons of physicists right
+because this physics guys are super
+strong in mathematics and somebody who
+knows mathematics well we can teach the
+machine learning in one month right so
+what what we often do here is
+so we used to have these have actual
+physicists who work at Amazon
+interviewed them for something about
+physics if if I as an interview I don't
+know anything I've in your background
+suppose you're some chemistry background
+person I know nothing in chemistry let's
+assume I know nothing in chemistry okay
+actually I'm pretty terrible in some
+aspects of chemistry then what I will
+simply ask you is this okay dude that
+you're an expert in some field I am an
+expert in other field I don't know your
+subject let's find the common ground the
+common ground is mathematics right then
+what I end up doing is I end up doing
+more mathematics rounds right III end up
+doing one round in linear algebra
+because I expect even a chemistry person
+to know foundational Maxwell
+because without mathematics know much
+everything right so again if somebody is
+from Statistics background I can we had
+tons of stats PhDs and stats postdocs in
+my team stats guys so I'll tell you a
+personal experience right we were
+interviewing the stats postdoc from one
+the world's best universities for my
+team this person said the whatever
+problem we gave him he didn't know
+machine learning he was very clear he
+said I don't know machine learning I am
+just starting to learn we said that's
+okay but any any real-world problem we
+give he would pose it as a statistics
+problem and come up with a very
+ingenious solution we said walk this
+this guy is really smart and when we
+asked when we actually did a deep status
+--tx round
+he literally mailed it he literally like
+he was superb with that right so what
+happened was we realized that this guy's
+foundational again we did some
+mathematics rounds for him we realized
+that this person is very strong he may
+not know machine learning and when you
+asked him to code he said it's been
+seven years that I couldn't because I
+worked in I've worked in proving things
+in statistics said pseudocode he said I
+can write some pseudocode I've learnt it
+in my BTech it's been years that I
+learned I'm in my study in my be stat he
+was a beast at IM stat PhD start PO stop
+stack so he said I've forgotten some of
+these but that's okay I said can you
+write some simple pseudocode he said I
+can we said t care let's hire this guy
+and he is one of the top performers in
+my team he picked up he picked up all of
+programming he picked up SPARC he picked
+up Hadoop you name it
+and he he became a mentor for me later
+on because he taught me a lot of
+concepts in statistics that I was not
+aware of this guy is after all a PhD and
+a postdoc stats from some of the world's
+best universities so I ended up learning
+a lot of stats with this person on my
+team so again this these are some of my
+personal experiences again let's go
+let's go round by round and based on
+experience based on candidate right so
+let's take program first programing
+ground the easiest way to estimate how
+the programming around would be is this
+suppose if you're interviewing at let's
+say TCS Infosys type of companies what
+is a typical soft pin generate your TCS
+Infosys that is the level that you can
+expect at least that level or slightly
+lower that that level is the type of
+questions that you can expect if you are
+attending an interview TCS emphasis okay
+so let's broadly break down companies
+into sub again there are some services
+companies and product based companies
+within services companies there are two
+types of companies again there are
+startups and services companies there
+are well-established Giants even product
+based there are startups like swiggy all
+these companies right and with written
+written start within product based
+companies there are also Giants
+recommends and googles and Facebooks of
+the world right so typically for
+programming around the rule of thumb
+business what you have to suppose if
+you're it if you're editing an interview
+at Infosys or TCS type of companies you
+look at what are the types of questions
+that a software engineer interview is
+asked that is the maximum level that you
+will be asked for a machine learning Ram
+right number one number two is number
+two is again some often times there is a
+scheme had again this also could change
+from team to team I'll tell you how this
+changes from team to team and little one
+in my team we said that the interview
+bar that we will have for a machine
+learning engineer especially if he is
+coming from a computer science
+background especially if he or she is
+coming from a computer science
+background
+here the end flips very engineer all
+times when if somebody does not clear
+that somebody's like slightly below that
+bar he is doing very well in machine
+lapping rounds we would hire them at
+that pose if you're interviewing at
+let's SVG or all about some of these
+companies right so is there a lag nuff
+I'm just curious
+somebody says there is a lag here let me
+just check let me just check if there is
+a lag I just pause the video quickly and
+be back is there a lagged nos okay oh
+okay
+so is it fine enough I'm just trying to
+check okay so just let me know if there
+is a major lag for anyone because I'm
+still on my same connection nothing
+changes for me okay so what if what if I
+remove headphones and actually join
+without the headphones how does this
+look like now I just see how is this I
+mean without the headphones maybe there
+is some audio/video lag because of the
+headphone Bluetooth connection is this
+better without the headphones okay
+sounds good so let me hold the phone
+itself then just just so that so that I
+just hold it on my hand for the rest of
+the discussion okay so if you're doing
+programming or so for example if you're
+interviewing at let's say swiggy you
+look at what are the typical questions
+that are asked for that are typically
+asked at the swiggy interview right for
+a software engineer that will be the
+maximum level that you'll be asked for
+machine learning room typically this is
+the typical but there is a there is a
+there is a clause here if that team that
+you're interviewing at does not do more
+of real-world machine learning problem
+solving but if they do more of
+production ization of machine learning
+stuff okay there again that wide
+spectrum of roles there is a role called
+software engineer machine learning whose
+job is to actually implement machine
+learning algorithms in software for
+better efficiency right so those type of
+roles again depends on the road those
+type of roles or those type of T
+whose core responsibility is to
+implement machine learning algorithms
+efficiently right those teams the
+software engineering bar is going to be
+high that that's one type of team okay
+the other type of team is they take a
+real-world problem in the company and
+they solve it using software that is
+built by others or using open source
+software right so if that is the case if
+that is the case then the programming
+bar is also going to be lower yet again
+I've seen I've seen some teams whose
+primary job is it whose primary job is
+to actually build large-scale machine
+learning systems for that if you're if
+you're joining as a software engineer
+machine learning in those teams then
+then you have to be you have to be
+really good with software engineering
+skills also okay number one number two
+is for for real-world problem-solving
+freshers the level of again for example
+if you're interviewing at Amazon rate
+you might be asked some simple questions
+again I still remember my Amazon
+interview
+I think the software the programming
+round I was I was interviewed by a
+software engineering manager he gave me
+a simple problem to find the peak of a
+probability distribution he said I give
+you a probability distribution how do
+you find the peak optimally it's a very
+real-world data science problem right
+and I came up with a simple solution for
+it he said that's perfectly all right
+he asked me to explain the time and
+space complexity I spent some time on
+space and time complexity I explained
+him and he asked me these questions
+because I came from company science
+background okay I did my masters and my
+bachelor's in computer science so he
+explains so he explains he so he expects
+me to have that intuition that's why
+even in our course right foremost
+machine learning algorithms and for most
+concepts we have given the time and
+space complexity analysis because we
+assume that there are some students in
+our course where come design students
+who should be able to answer this space
+and time complexity questions right and
+that's very very important right number
+one number two is the concepts and data
+structures that we have covered as part
+of our course like for example we have
+covered all the we have covered the
+basic programming concepts like loops
+recursion basic concepts of SQL nested
+queries we have covered all these
+concepts as part of our course
+additionally we also covered some
+important data structures like hash
+tables which are also called
+dictionaries in in in Python and hash
+tables are one of the most widely used
+data structures in whole of computer
+science and we have also actually
+discussed about how to use hash tables
+to productionize machine learning models
+in our course right also in some of our
+live sessions we have discussed the next
+in sibling so some of these programming
+related data structures are also
+extremely important right even if you
+are not a computer science student
+because we have covered them in our
+course it would be great if you could
+learn it or even if you're not a course
+participant that's ok please try to
+learn the most important data structures
+if not all you have to know what is a
+basic cue you have to know what is a
+hash table these basic stuff people
+expect you to know now coming to
+real-world problem solving right for the
+real world problem solving if you are a
+more experienced candidate there is a
+much more expectation out of you to
+solve the problems much more end-to-end
+and rigorously for example imagine
+you're a software engineer with ten
+years experience okay imagine you're a
+software engineer with ten years
+experience right then when you come to
+the interview when you come to the
+interview if I give you a real-world
+problem I'm assuming that for the last
+ten years you have been production izing
+machine learning models you'll be with
+not much learning model sorry you have
+been writing software which means you
+have lot of experience and exposure on
+real-world problem solving so now when I
+give you a machine learning problem I
+want you to translate all the skills
+that you learned right all the skills
+that you learned I want you to be able
+to translate them and to actually shed a
+new light because most likely you'll
+join as a very senior team member who
+will solve and will help solving end to
+end problems well if you're a fresher
+I'm okay even if you give me basic
+solutions I'm not because as a fresher
+you don't have a lot of exposure and
+experience on real-world problem solving
+right so that's okay if you're a fresher
+and if I tell you how do you build big
+E's source wiggies food recommend
+restaurant recommendation suppose I'm
+interviewing for speedy and asked you
+how do you how do you build speak ease
+restaurant recommendation right that's
+perfectly okay I'll still I'll still be
+ok if you give me a reasonable first cut
+solution and as long as you end again
+for freshers the interviews will be more
+text
+Kish not too much real-world ish okay
+again that doesn't mean that you were to
+pick a textbook and read all the proofs
+that's not what I mean it will be more I
+mean people will people can easily get
+away with giving first cut reasonable
+solutions as a fresher but as an
+experienced as an experienced person you
+have to have more and more insight into
+problem-solving the same with machine
+learning breadth depth and math
+foundations especially if you're a
+fresher people expect you to know math
+foundations better because you studied
+calculus you studied you studied some of
+these topics like linear algebra
+probability much more recently than
+somebody with 10 years experience right
+so if you are a fresher you have to
+focus more and more on mathematical
+foundations because the interviewer may
+not have many touch points to discuss
+with you because your refresher you've
+not worked on real-world problem solving
+extensively right so that's very very
+important equally importantly you have
+to also think about your domain if you
+are an experienced person let's assume
+let's take some examples right suppose
+you come from software testing
+background okay let's say you me come
+from software testing background right I
+give you a problem so one of the things
+that I've asked some of the people who
+come from software testing background is
+this very simple problem we have built a
+model all that is good right we have
+built a problem all that feels good now
+the question here is how do you test
+this model is working alright or not
+here since you have software engineering
+experience I expect you to know the
+strategies of testing and be able to
+apply that learnings to testing machine
+learning models also otherwise see again
+I'm trying to as an interviewer I try to
+give you an advantage I try to always
+tell you or try to try to help you
+leverage your prior experiences
+similarly if you come from production
+support okay suppose you're supporting
+some production work then I because then
+has a production support engineer you
+would have encountered a lot of
+production related issues that you've
+escalated to your software engineering
+teams then I ask you given this problem
+let's assume this is production ice-t--
+what sort of problems do you envision
+and what type of what type of care will
+you take to ensure that this is not the
+problem similarly if you come from
+databases background then I ask you ton
+of SQL stuff
+okay because I expect you to be good at
+database if you're a database
+administrator the data data engineer
+I'll ask you a lot of things about
+feature engineering data pre-processing
+SQL and all of that right if you come
+from MBA rated roles like like Program
+Manager or product manager then then
+typically typically I'm not saying
+always but typically I expect you then I
+start working on more and more real
+world problems because most likely I
+want to leverage your existing skills as
+part of my team so I'll give you a
+real-world problem and say okay what
+should be the KPI for this and why
+should that be a KPI and not something
+else okay similarly if you're a program
+manager I'll ask you okay here is a
+whole machine learning problem how do
+you now break it and how do you set
+timelines for this okay these are some
+of the problems that you can expect if
+you're a product manager or a program
+manager okay suppose if you come from
+completely non IT backgrounds suppose
+you come from marketing background then
+I can again start I can start asking you
+problems in marketing if you come from
+marketing background one of the biggest
+applications of machine learning in
+marketing is in digital marketing I
+expect I then I start giving you a
+problem in marketing or in digital
+market and say how do you tackle this
+you said you have lot of domain
+expertise in marketing and you have also
+learned machine learning now how do you
+translate the skills that you have in
+marketing and how do you apply the
+domain knowledge that you have in
+marketing to machine learning problems
+okay again somebody is asking about The
+Bachelor of computer applications and
+MCA students BCA MCA students are
+treated equal to computer science
+bachelor's degree students you're just
+you're very close to a BTech student as
+a BCA student probably have not covered
+some of the important subjects in a
+BTech computer science but the the
+spectrum of topics that that will be
+covered it won't be very similar with
+interviewers will treat you as a
+computer science student because we
+expect you to know basics of computer
+science as a DC or an MCA student I
+think most companies will assume I think
+most companies also issue MCA to be
+equivalent to BTech if I'm not wrong
+again I'm not sure about this somebody
+is asking about network engineer
+background or there's a ton of exciting
+stuff for network engineers if you come
+from network engineering background then
+I start asking questions on network
+engineering applications of machine
+learning for example okay for example
+can you predict
+what is the latency of this video okay
+can you predict can you predict what
+what could be the latency of these of
+this video or networking related
+problems the tons of problems in
+networking or for example if you're if
+you're a I'm sorry so if you are an
+electronic student then I'll focus a lot
+especially the mathematics topics I'll
+focus a lot on concepts like entropy
+some differential calculus especially
+the vector calculus part because I
+expect you to be good at them alright
+somebody coming from a CP and business
+domain again I'm not an expert in s AP
+we expect you to have good enough
+understanding of databases and how
+business processes work so then I might
+then two people like those right so
+again two people like those we could ask
+questions like okay given this whole
+machine learning model what is the
+production pipeline that you will set up
+if you come from data analyst background
+again this is a very because I've done
+tons of interviews for this right so if
+you're doing it for a data analyst run
+right so data analysts so data
+scientists again these terms are all
+jumbled up I know people who are called
+data scientists who just do an excel
+query Excel manipulations okay so this
+vitals are all messed up in the industry
+they are not yet standardized but to be
+frank with you if your data unless I'm
+assuming that you do not play data
+analysis for people like them we
+typically end up because you can
+exploratory data analysis will ask you
+what type of analysis have you done very
+well right or what type of what type of
+work what type of analysis can be done
+here and as a data list you have done
+lot of SQL queries will also start
+asking questions about SQL queries for
+you right
+so again if you're a mechanically here
+is very good question somebody is asking
+here if you're a mechanical engineer I
+will ask you about mechanical
+engineering applications of machine
+learning like for example I think we
+have a video on YouTube also if I'm not
+wrong wherein we said how machine
+learning and AI especially time series
+analysis and deep learning can be used
+for for very very importantly how do you
+predict machine failure again companies
+like General Drake companies like Boeing
+use tons of machine learning okay
+so we'll try and give you problems even
+mechanical
+engineering which are related to machine
+learning problems right and see how we
+actually solve these problems somebody's
+asking about ETL developer an ETL
+developer will think of them as a
+database guy right because you've
+actually built ETL pipelines we expect
+you to be very wait
+ETL developers are mostly data engineers
+right so they manipulate data so then
+we'll focus a lot on exploratory data
+analysis SQL etc somebody is asking for
+a non int and it really doesn't matter
+to be honest with you maybe I'll tell
+you I did this is my own personal
+experience of interviewing with some of
+the world's best universities far better
+than IIT some of them right this is a
+lesson that they learned in life ok if
+you go to a top Institute in in the
+world it could be Stanford MIT IAT
+whatever you name it when you get into
+the first role it gives you an advantage
+right because that that brand value gets
+you an interviewer top companies but in
+the long run of a career right your
+expertise matters I'll give an example I
+have I have seen IAT ins and people from
+in instead of science and some people
+even from Stanford and Wharton it's of
+the world's best universities who are
+below people who came from no-name
+universities I had a I had a senior
+engineer in my team he came from a
+university whose name I did not know of
+okay but he has grown so fast because he
+took steps because he did not have a top
+brand institution he went he first
+started off with a decent company if not
+a great company right then he worked
+there for a couple of years he learned
+new things he built his skills and then
+jumped to the next level company within
+three four years he's already at Amazon
+and Amazon he had that fire in the belly
+he's super hard-working guy I'm not
+saying he's super smart but he was super
+hard working he still super hard-working
+play he works as an architect at
+Microsoft if I'm not wrong right he's
+super hard-working his super
+enthusiastic he takes a new work okay
+that person within five to six years
+after he graduated he grew faster than
+people who graduated from IITs right so
+in the long run of your career whether
+you came say nobody will ask me today
+which university I studied
+people will ask me which company to do
+work at what problems did you solve
+right
+so in the long run see in the short run
+right after your graduation your
+university matters because companies
+don't have an alternative way to filter
+but in the long run if you keep learning
+again I think one of the biggest
+problems we have in the current
+education system is people stop learning
+after their university education which
+is incorrect what really matters is
+lifelong education this is my own
+personal experience it is this is
+something that I've told one hundreds of
+people that have mentored we tell people
+that if you stop learning okay this is
+this an advice that they give I think
+also in our course if you stop learning
+new techniques in machine learning
+within one to two two years you're a
+dinosaur okay to be honest that that's
+the reality here right so if you don't
+continuously learn whether she could be
+a software engineer again I've seen I've
+seen some people who are stuck in some
+30 year old 40-year old technologies
+they have not upgraded their skills
+okay those people will be the first
+people to suffer because they're not
+upgrading to the new world right the
+same is true with machine learning I
+have seen some guys who are like who
+have been in the machine learning data
+science data analysis world for the last
+thirty years they start of their careers
+as statisticians but they have not
+upgraded their skills to more modern
+technologies and techniques those guys
+are already dinosaurs now we don't even
+interview them many times because they
+don't have the most important skill of
+upgrading themselves right so whether
+you come from IIT or Stanford or a
+no-name college it really doesn't matter
+if you're not continuously learning if
+you are continuously learning and if
+you're come continuously striving for
+excellence step-by-step then nope your
+university doesn't matter where did
+certain other let do is be tech from not
+from an ideal it's not it's not even so
+it is MIT it's not Massachusetts instead
+of technology okay it's your money power
+instead of technology that it is beat up
+from and today is one of the most
+celebrated CEOs in the world so your
+university should not stop you please
+understand that okay so back to the back
+to the discussion I'm sorry I'm sorry
+I'm sorry I got diverted a little so
+there is also a team specific interview
+that happen
+okay so in the team specific interviews
+what happens oftentimes is this again
+your interviews could depend a lot on
+the team that you're interviewing at for
+example if you're interviewing at a team
+that actually hires that actually solves
+machine learning problems end to end
+okay then there could be a four there
+could be more focus on the end-to-end
+pipeline everything from dead duckling
+and my team was like that at Amazon
+right so we were mostly solving problems
+end to end okay we were mostly focused
+on solving problems into end which is we
+take a real-world problem solve it end
+to end up to production ization and
+maintenance of models okay
+such teams interview also end to end the
+loop what can you write code can you do
+feature engineering can you can you
+build models can you hyper parameter
+tune
+can you production play this models can
+you deploy models can you track how the
+model is working can you design KPS all
+these are setting things that these
+teams work on this is one type of team
+these are some of the best teams to
+worked in from my own personal
+experience because you get to learn the
+whole experience there are second time
+of type of teams these are called pure
+research teams there are some of those
+teams at IBM Research someone again
+these are the companies that I know of
+those teams actually don't productionize
+things end-to-end their job is mostly to
+conduct fundamental foundational
+research to write research papers and to
+apply for patents okay such teams have a
+completely different but such teams
+focus a lot more on theory because their
+expectation from you is to do
+foundational research they actually
+typically end up hiring PhDs in machine
+learning or PhDs in mathematics
+typically right because they want to
+publish new and new research and get
+patents for them that's the second type
+of second type of the third type of
+roles are there are teams which do more
+data analysis than machine learning and
+please don't look down on data analysis
+I think data analysis is more important
+than building okay I've seen some teams
+like that they produce phenomenal
+results actually lot of MBA folks end up
+getting hired in those teams because
+what those teams want to do
+yes they're sitting on let's say a few
+terabytes or maybe if you para bytes of
+data right so what they'll do there is
+they'll take all of this data they will
+try to churn all of the data and give
+business results right so that's very
+very very important again so those are
+those are another type of things there
+are a fourth type of teams which which
+primarily work on software engineering
+of machine learning again that's a very
+cool thing because there are very few
+software engineers who know machine
+learning so the very few software
+engineers who can write optimal machine
+learning code right so those teams don't
+focus too much on the models on the
+mathematics those teams focus more on
+the software engineering aspects they
+expect you to know advanced data
+structure they expect you to know
+distributed systems all of that there
+are some things again so these are all
+these are different types of teams and
+some teams want a generalist some teams
+want a specialist ok what is the
+specialist specialist is somebody ok
+sometimes might say I cannot hire if you
+don't know spark so those teams are
+looking for specialists ok some people
+will say I only want people who know are
+if you go to an interview - such a team
+all you have to say I know Python I can
+pick up our in a week what is the big
+deal in this right I know the foundation
+again typically product based companies
+prefer generalists then specialists
+right because the generalist has
+foundational knowledge and everything
+and they can actually pick up new topics
+right a specialist knows the current
+fancy technology again since some of our
+students have requested us on this we
+have covered lot of specialists related
+stuff like for example how does Park
+work how to trade model Sun SPARC how to
+use ap ice right how does how does the
+whole Big Data ecosystem work with
+machine learning we have done a ton of
+live live sessions in the recent as from
+those topics because there are some
+companies which ask for specialists
+right these special skills like you have
+to know are if you go to an interview
+like that you say I already know - this
+is my portfolio and you can say before
+you go to the interview you learn the
+basics of our write some code in our and
+show that you said this is the basics
+that I have learned the last one
+weak technologies change foundations
+don't change that often your
+foundational mathematics does not change
+everyday your technologies change every
+year spark wasn't there when I was
+studying at this park wasn't even
+popular till last five years back
+how do posit was it was it was at its
+infancy when I started when I started
+working in the industry so every day
+there are new tech deep learning was
+almost like but nobody heard of deep
+learning when I was studying right so
+things have changed enormously or at
+least only a few people heard about deep
+learning when I was studying to be
+honest read just a very few research
+people right so the most important
+aspect here is when you are preparing
+for interviews please make sure that you
+understand the team that you're
+interviewing for it's very good when you
+set up the very first interview ask
+about the expectation right I strongly
+recommend that you ask about the
+expectation itself cause then what are
+you expecting out of a candidate and
+that's perfectly all right
+actually we asked whenever we refer any
+efforts to bills we ask them what is the
+expectation what are you looking for
+okay are you looking for somebody who
+has very strong software engineering
+skills or are you looking for somebody
+who has very good real-world
+problem-solving skills in machine
+learning what are you looking at again
+there are some themes again I forgot to
+mention this there there are some teams
+which in the math room or in the machine
+learning depth around will ask you to
+prove things ok so how to tackle such
+questions such questions you can tackle
+by saying see again if you have gone
+through our course we have covered many
+of many of the proofs very intuitively
+if you can reproduce the proof that's
+great if you can't tell them it I don't
+remember the proof but I can google it
+up and explain you in 10 minutes ok but
+again you have to be confident because
+as an interviewer sometimes I've said ok
+please open up your laptop please go
+through the Wikipedia or whatever you
+want and please explain me the proof and
+again sometimes this happens ok I don't
+like those proof based questions because
+what are the testing they're not testing
+your real-world problem-solving skills
+they are just testing your skills to
+memorize right so as Socrates very well
+said I think I think it's raka Deseret
+is total he said either you have to know
+things or you have to know where to find
+them ok Google is there right we are
+living in the generation of Google so I
+can find most things but I have to be
+able to understand and interpret the
+Merak
+that is a super important skill or
+somebody's asked a front-end web
+developer I completely forgot to mention
+this role so for a front-end web
+developer if we expect you to be very
+good with production ization of things
+we expect you to know basic software
+engineering basic algorithms basic stuff
+we expect you to know right so you will
+be treated mostly like a software
+engineer but there might be some
+additional focus for you on api's so I
+might say how unprofessional production
+is this using APs because if you're a
+front-end web double web developer I
+expect you to know about API is and how
+how the whole client-server model works
+all of that much more than this right
+somebody's asking about architects if
+you're an architect I expect if you're a
+software in an architect I expect you to
+be able to design machine learning
+solutions end-to-end right again how to
+build domain knowledge again that's
+something that again what I strongly
+recommend is don't try to go and build
+domain knowledge in a topic that you're
+not working in whichever topic you're
+working in talk to your colleagues who
+are more knowledgeable than you in that
+domain try to understand the domain and
+Google is your best friend suppose if
+you're working in banking IT just Google
+search how machine learning and data
+science is used right how machine
+learning and data science is used in in
+in in banking read up a few case studies
+talk to your colleagues who may have
+worked on that right so that's very very
+important so somebody is asking about
+the mainframe developer again if you're
+a mainframe developer we will treat you
+again on mainframes what are you doing
+are you doing mostly scripting work on
+mainframes
+are you or are you doing mostly db2 work
+on mainframes if you're doing db2 work
+then we'll treat you mostly as a machine
+learning engine as a database guy and
+expect you to know SQL and other things
+well if you are mostly a scriptor who
+write scripts then we'll treat you
+mostly like a software in general all
+right
+so again somebody is asking about the
+titles the titles are all around the
+place guys I've had I've had three four
+titles myself I had titles like a data
+science engineer data scientist machine
+learning scientists applied scientist a
+scientists you name it all these at
+business titles that I had in the ten
+years of career research engineer but
+what I was doing was the same thing
+right
+so the titles different companies choose
+different titles for hundreds of reasons
+to attract candidates all sorts of
+things right so somebody's asking about
+civil engineering very good so if you're
+coming from a civil engineering
+background I would like to I would
+assume that you have very strong
+mathematical foundations and you can
+program if you can't program sorry it's
+very very important that you can pro
+whatever whether you come from physics
+background or a statistics background
+you have to be able to write basic
+programs I'm not expecting some advanced
+programs from you some basic programs I
+am asking you and if I give you two
+lists how do you combine them without
+using any inbuilt functions can you
+write a simple for loop right can you
+write a simple simple fills conditions
+can you write simple recursion right so
+that's that that that's what we are
+looking for and that's what we have also
+covered as part of the course now for a
+civil engineer I expect you to be fairly
+good with linear algebra because you
+guys use it more than most of us we
+expect you to be fairly good with matrix
+algebra also with differential calculus
+especially the vector calculus right
+because most of most of optimization
+that we use in machine learning
+most of optimization that we use in
+machine learning is all is all of these
+all vector vector is all is all your
+videos videos of partial derivatives
+extensively right so that's something
+that we expect you to already know
+fairly well to start with right so this
+is something that I that I strongly
+recommend again if you can learn machine
+learning techniques and since you're
+working as a research fellow if you can
+apply some of these machine learning
+techniques to civil engineering problems
+that will be great somebody with
+mechatronics background it's mostly an
+electronics place mechanical engineering
+so whatever I said earlier about
+mechanical engineers and electronic
+engineers same thing will work for you
+so so somebody okay okay so people who
+are from people somebodies from by
+informatics background by informatics
+has tons of applications in machine
+learning please build a strong portfolio
+of projects again somebody is asking
+about how to build portfolio of projects
+we have discussed this multiple times in
+the previous life sessions
+do very briefly enough right so the best
+way is to pick up a problem in your
+domain of expertise if you're working in
+banking I did pick a problem from
+banking if you're working in let's say
+insurance IT companies pick up a problem
+from insurance if you're working in a
+healthcare pick up a healthcare problem
+and you can find tons of open datasets
+publicly available on sites like Google
+calm or just Google search for it take
+up a problem again we have a open case
+study in inner course right I think one
+of our case studies which is a which is
+Amazon Apple recommendation it's
+publicly available even for our non
+registered students please go check out
+those videos on how we solve the problem
+end to end you're just first you have to
+get the data from a site which is
+publically available then ask yourself
+what is a business problem I'm solving
+right again try to try to tackle a
+problem from multiple perspectives
+design what is a business problem first
+understand what is a business problem or
+what is the real world problem you are
+solving then go ahead and design the
+matrix for it try to do all the data
+pre-processing exploratory data analysis
+all of that and after you do all of
+exploratory data analysis and everything
+very importantly start build don't don't
+stick to one machine learning model try
+to apply tons of machine learning models
+because that way you can actually
+showcase your skills in all of them
+right
+additionally try to try to also shed
+some light on how to productionize these
+models if we can productionize these
+models using aps and things like that
+that's great I'll give an example one of
+our students recently okay somebody that
+we meant to very closely a very very
+good student so his case study was very
+good a little it was the case study that
+he did so we have a self-driving car
+case study as part of her coursework
+right but that is take that is using
+data that someone else collected so this
+gentleman who is our co I don't want to
+name him publicly just for privacy so
+this person actually used his car in
+India and put a webcam there and
+collected data from Indian roads okay
+and he trained a deep learning model
+that can predict how much you should
+rotate your car driving wheel based on
+Indian road conditions
+and he wrote a detailed blog wrote a
+brilliant github put up all of his code
+so just by looking at his at his foot
+for this just because of this one
+project that he has done he has gotten
+tens of calls tens of calls from
+companies and companies I think he
+recently joined as a very very senior in
+a very very senior machine learning role
+very recently he joined in a in a very
+senior machine learning almost like a VP
+role at a startup and he's doing
+phenomenal work there and the company
+loved him primarily because he took a
+real-world problem and unlike others he
+actually went to the market collected
+real world data and solve the problem
+end to end and put up his whole solution
+he wrote a very detailed Tuesday I think
+these are two blogs that he wrote or
+maybe one blog I don't remember it so he
+discussed everything in detail he also
+showcase his github profile in lots of
+domain right and he got tons of calls so
+those are the types of projects that we
+want our students to do try and do well
+class projects don't take shortcuts most
+importantly please don't put the
+projects that we have asked we have left
+some 15 case studies in the in the
+course right please don't put them as
+case studies that you have done you have
+not done them please these are stuff
+that you have been taught by us by
+portfolio we want you to solve original
+problem that you have solved on your own
+with some mentorship from others okay
+it's very very important you do it okay
+so so okay again there tons of great
+problems to solve to be honest with you
+okay solving them end-to-end shows a
+recruiter or throws a hiring manager
+that it takes time for you they willing
+to put in time you are willing to do the
+dirty work to solve a problem and to end
+right that's super duper important again
+coming coming back to some of the
+interview stuff for interviews when you
+prepare for again I just wanted to
+mention this very clearly when you're
+preparing for machine learning specific
+interviews right when you're preparing
+specifically for machine learning based
+machine learning depth around and
+breakthrough it's very important that
+you understand various aspects of an
+algorithm
+okay that's why we have been doing some
+live case we have been doing some
+two case studies recently on a player a
+course based on each technique for
+example I think last week we picked up
+logistic regression we did it to our
+live case study is not a case study
+where did we need it to our live
+interactive session on what type of
+interview questions you can expect from
+logistic regression again you have to
+know a technique in-depth across all the
+application for example if you tell me
+again I've seen some list of some of the
+candidates that I've interviewed I ask
+them can you write what is the loss
+function that logistic regression
+minimizes I tell them think about it
+write down carefully they can't write it
+down if you can't if you can't tell me
+what is the loss function that logistic
+regression minimizes you don't have the
+mathematical depth right you don't have
+the mathematical rigor that is important
+I'm not asking you to remember things by
+heart all I'm asking is if you want to
+derive it go to the whiteboard and
+please feel free to derive it I would
+love to see the derivation okay so when
+you learn a technique the theory is as
+important as practical when I ask some
+people okay explain me about logistic
+they say or there is a hyperplane that
+separates all of that that's a very
+simplistic
+interpretation if you really know
+machine learning you will say okay you
+will give me multiple interpretations
+multiple interpretations of this you
+will say okay logistic regression from a
+geometric perspective is just as the
+simple hyperplane but from a loss
+minimization perspective I can think of
+it as minimizing the logistic loss and
+this is what the logistic loss does and
+why should we minimize the logistic loss
+then we regularize it all of that stuff
+but there is also a probabilistic
+interpretation of the Gaussian naive
+based based interpretation and we can
+also arrived at logistic regression from
+from from probability so if somebody
+gives me these three viewpoints I'm much
+more convinced that this person actually
+knows what it is speaking what says if
+somebody says okay there is this
+hyperplane which separates these two
+come on dude let's too simplistic that's
+how you explain a ten-year-old kid when
+you're in an interview I wanted to
+showcase your skills to me your breadth
+and depth of understanding similarly
+when we ask you some of these boundary
+questions right for example for example
+if you ask you okay how do you how does
+a logistic regression work when you have
+outliers or should we use regular
+when we have our players should you
+pre-process the data you can only answer
+some of these questions if you
+understand the mathematics behind it
+that's why in our course we did focus
+quite considerably on the math as much
+as on the practical aspects because
+without math you don't get the inclusion
+you're just remembering things by heart
+again just like software engineers right
+you can remember the syntax of a
+programming language versus
+understanding how the programming
+language works internally that's the
+difference right again there might be
+some people who have not too much
+experience maybe two years experience so
+basic software skills nothing very fancy
+and see a do a guy a - very experienced
+person is neither a fresher not very
+experienced person ok so I think there
+is some problem with audio let me just
+check I everything works alright for me
+is there a problem with audio ok so I
+just changed my hands ok so if you are a
+two year experienced person you're
+neither somebody with whom either you're
+either a fresher not you're an
+experienced person but I expect some
+maturity from you we don't we don't want
+to treat you just like a fresher okay
+because because you have worked in the
+industry for a couple of years we expect
+that you've picked up a few concepts
+like for example look at a software
+engineer right somebody who works for
+two years the expectation out of a
+software engineer who works for two
+years is different from a fresher from
+somebody who has worked for two years
+for example if you're a Java developer
+if you've worked in industry for two
+years I expect you to know the actual
+clusters in Java
+of JVM works have the real time engine
+how the JRE works much better than a
+fresher and fresher may not know all of
+these things I also expect you to know a
+little more about object-oriented
+programming than a fresher if I should
+not the theory part of it what is
+inheritance all of that stuff but it
+doesn't how it is used but since you
+have spent two years in them
+three I expect you to know some aspects
+of it right so okay so again somebody is
+asking about aerospace industry and
+things like that
+aerospace industry whatever I've
+mentioned for help for mechanical
+engineering it's very similar but
+aerospace could have some specific
+problems again as an aerospace engineer
+I mean zooming that you're pretty good
+with mathematics you are supposed to be
+good in mathematics and and other areas
+of and calculus all these little algebra
+probability all of these things so I'm
+assuming that you're pretty decent at
+them so we'll focus more on that and of
+course it will be great if you could do
+a couple of real-world problems in
+aerospace engineering or related fields
+which require which require machine
+learning right so that will be great
+so again somebody's asking about salary
+expectation salaries salaries range
+widely to be honest with you
+salaries range crazy okay and salaries
+depend a lot on your skills okay so what
+we typically see at applied a course
+with the hundreds of students that we
+have placed it is assuming a No Name
+College let's start there assuming a No
+Name College with the minimum packages
+that we have seen is like five lakhs
+okay for a machine-learning fresher but
+typically we see in the six to eight
+more and more okay even if you're decent
+with this techniques you can expect six
+to eight lakhs and if you're reasonably
+good we have seen some freshers with no
+name college who have gotten also we
+have also gotten 1213 lakhs packages
+because they learnt the concepts and
+they're able to crack interviews better
+right see so much of scarcity of good
+machine learning engineers in the
+industry that people are willing to pay
+a premium so money is not a problem
+right and see we have had people again
+we have had some kind because we've been
+we have had students for the last year
+and a half or so we have had some
+students who joined one company who also
+interviewed another company got a much
+better package right and the company was
+forced to was forced to increase is paid
+because he was a very good very good
+employee so if you're good salaries are
+not a problem at all again for
+experienced folks you can comfortable
+what we observed again from our own
+students what we observe is typically a
+40 to 50 percent hike in the salary for
+experienced folks okay again what I'm
+telling you are are are like media
+numbers or are more commonly found
+numbers there are exceptions I don't
+want to promise you exceptions here
+right there are people there are people
+who have gotten 50 lakh packages there
+are freshers who got 13 40 lakh packages
+were no hood from no specific brand of
+college there are people from top tier
+colleges who got 22 25 lakhs right I
+don't want to take exceptions and say
+that that is the truth no I don't want
+to I don't want to mislead you in the
+direction what we typically see for
+freshers is the six to eight lakh
+bracket again of course you have to be
+decent with programming you have to know
+decent machine learning to get into that
+six to eight lakh bracket for
+experienced folks we typically see at
+least a 40 percent increase but we have
+seen folks who have transitioned from
+testing QA rules to machine learning
+rules because they really learned the
+topics well they got like hundred
+percent even polar person hikes in some
+cases right so the spectrum is huge it
+all depends on your skills right so
+somebody is asking about somebody who
+has a faculty background teaching
+background so if you are coming from a
+teaching background like me now right I
+would expect you to explain machine
+learning concepts value to me because as
+a teacher that's a skill that I expect
+you to have learnt as a teacher what is
+your job your job is to explain your
+students a concept very clearly and very
+very beautifully right so my suggestion
+if you're a teacher if you have been
+teaching in some company some sorry if
+you're teaching in some institution or
+college right and if you are preparing
+for machine learning roles I mean even
+even if for for a road hiring at apply
+records we've had some teachers who
+approached we tell them please record a
+50 minute video explaining the concept
+of your choice if you can explain this
+concept we would love to have you when
+right so your clarity of explanation is
+something that will that people will
+look at so poor communication skills
+that's certainly a problem that we have
+seen some students face to be honest
+with you because
+if you can build all the models but you
+can't explain what you have done okay
+people will not believe you people
+communication skills are so foundational
+today unfortunately or fortunately I
+have seen brilliant people who can't
+explain what they're doing and we had to
+reject them because how can he work in a
+company how can he work in a team if he
+can't commit
+forget about language he can he can tell
+me his concepts in Telugu Hindi Tamil I
+don't care but if we can communicate
+what he's saying I'm happy right
+communicate clearly any language is
+already most companies especially
+product based companies they are not
+like you have to speak very fluent
+English not required if you can if you
+can communicate your ideas clearly
+verbally if you can clearly commit if
+you can talk to your teammate and
+explain them what is happening people
+are happy with it
+right so there is there is one more
+question that I saw which I wanted to
+answer physics background
+yes that's what I'm honored answer so
+actually I've had the opportunity to
+interview some terrific physicists we
+even had physicists in my team we had
+some professors of physics in my team so
+I was very fortunate one thing that I've
+observed with physics guys is that
+mathematics is terrific again in physics
+there is this whole area called
+statistical mechanics and quantum
+mechanics right so again I'm not an
+expert in those fields but one
+observation that I had is people from
+physics know mathematics and statistics
+brilliantly so if you are coming from a
+physics background I expect you to have
+very very strong mathematics in
+statistics knowledge okay far more than
+a computer science engineering right so
+if you are coming from physics
+background you better be good at linear
+algebra you better be good at
+probability actually not just good very
+good at it right you better be really
+good at calculus the foundational topics
+and you should able to write some code
+I'm not asking you to be a great
+software engineer but you should be able
+to write some code right that that's
+what I would expect again I think I've
+mentioned about QA folks to machine
+learning again as a QA person if you are
+not writing code please build that skill
+of writing code right the ability to
+write code is mandate driven machine
+learning if you can't write code sorry
+it could be any programming language
+because you can
+our new programming languages later on
+later right but if you are working in QA
+and you don't have any programming
+experience please build up your
+programming knowledge first and then in
+the QA round you will have to project
+because you have not the lot of
+programming you have to showcase your
+skills on how you can end how you can
+analyze the quality of a model so you
+build a model I am assuming that Priya
+folks also do some amount of testing
+right so I assume that you can shed some
+light on how to test these models and
+how to avoid problems Oh
+people with Hadoop and spark background
+you guys have the best chance to be
+honest with you in a way in a way again
+you have your own disadvantages if you
+have big data experience because lot of
+companies want to leverage big data
+right now you have an advantage but if
+you come as a Hadoop developer I'll ask
+you how do best questions thoroughly I
+will ask you the internals of Hadoop
+I'll also ask you how to implement
+machine learning algorithms on Hadoop so
+you better be prepared for it and
+actually it's actually not a fun to
+interview people with big data
+background atne big data tool it could
+be your MongoDB it could be any of you
+have no SQL databases it could it could
+be anything I we can again since I've
+worked on these problems extensively
+given any major no sequel database or a
+Hadoop or a spark we can start asking
+questions on you on how machine learning
+can be leveraged along with the tool for
+example if you tell me that I know
+Lorena Kafka somebody was telling me
+earlier Kafka and all these things right
+I'll say how can you use how can you use
+inverted indices machine learning
+algorithms in production if you know if
+you are using Kafka right then you have
+to know about the inverted indices
+everything that is there as part of
+Kafka similarly if you know how you
+don't know MapReduce internally how it
+actually works right so that is that is
+SuperDuper important ok so sounds good
+somebody is asking about a full stack
+developer to a machine learning engineer
+I just explained it a while ago
+somebody says amazing mathematics with
+empty cup designs you are treated like a
+computer science student but since you
+have an MSC in mathematics you would
+expect you to have far more
+far more knowledge in mathematics also
+somebody says I don't know Kafka you
+don't have to know Kafka okay some I
+answer that question because somebody
+asks that earlier right
+again Kafka and all these are tools ok
+there is a huge difference between tools
+and foundational knowledge right tools
+come and go today you have a fancy new
+database tomorrow it may not be there
+things change very fast in the in the
+tech world right so so tools are
+especially product based companies will
+get tools are less important than
+foundational knowledge right so somebody
+is asking about I just came across this
+question somebody is asking I think I
+just missed it ok somebody's saying
+about chances of going abroad in machine
+learning I think again there are very
+few people at applied a course that we
+have placed who have gone abroad through
+us ok people who are in u.s. got placed
+in u.s. right that's because of that's
+because of the whole hiccup with all the
+work visas and stuff like that but
+thankfully some companies in Europe and
+Japan have been hiring Indian students
+or Indian candidates much more freely
+enough we have some folks who got placed
+in Rakuten in Japan some folks were
+interviewing there right now so
+depending have some folks who have
+interviewed for four holes in South
+Korea right again there are fewer roles
+there and yet if it really really get
+really really good to get some of those
+interview calls to be honest with it
+right so ya know somebody's talking
+about manufacturing sector yes
+predictive maintenance is a huge deal
+actually I think we have a video on our
+YouTube channel where we discussed how
+machine learning and deep learning can
+be used for predictive maintenance okay
+that that's a huge area so somebody says
+PG Diploma in statistical methods and
+analytics from ISI I expect you to be
+really really good with stats and if you
+know statistics very well machine
+learning is a cakewalk folks right so
+somebody asked me to teach offline sorry
+we don't teach offline right now because
+that way we are limited to a very small
+set of students while we want to serve
+lot more students today right so our
+courses are only online as of
+because we want to reach and we want to
+help as many students as we can so okay
+so again somebody's asking about data
+structures and algorithms see depending
+on the company that you're interviewing
+yet the importance of data structures
+and algorithms comes into play again
+depending on your background if you're
+if you have studied undergraduate level
+computer science or BCA MCA computer
+science I expect you to know basic data
+structures stack queue all these things
+and they expect you to write basic
+programs if you can't write that that
+means you have not studied anything in a
+BTech or you at the idea in the graduate
+level but if you come from races civil
+engineering I don't expect you to know
+what is the stack and a queue because
+you because you've never encountered
+that right or I don't expect you to know
+what is a graph but if you come from
+computer science background and again if
+you again depending on the company that
+company and team that you're
+interviewing at also that's what I
+mentioned earlier right depends on your
+background depends on the team depends
+on the company that you're interviewing
+it depends also on your experience if
+you have if you're an experienced
+software engineer we expect you to know
+what is the stack and what is a queue if
+you can't tell me come on sorry so
+somebody's asking how to build portfolio
+projects we've actually discussed that I
+think in a video on our on our on our
+youtube channel just google it in the
+interest of time I'm skipping that
+question but I think we have answered it
+so there is actually a video on how to
+do case studies or how to build
+portfolio projects on our youtube
+channel just search that right after
+this right okay so how much data again
+data storage let's assume okay let's
+take a simple example right assume that
+you are a computer science student okay
+so if you are a computer science student
+if you are interviewing at a services
+company enforces TCS cognizant etc they
+typically ask very basic questions okay
+they typically ask questions like you
+have a link you have a linkedlist how do
+you invert a doubly-linked list this is
+something that you have done in your bit
+decorate very basic concept or they ask
+you how do you implement a queue using
+her using a using linked list or how do
+you implement a queue using us how do
+you implement a queue not using a stack
+how do you implement a queue using using
+arrays or given two sorted lists
+how do you find the median of them these
+are very simple questions right these
+are very simple questions if you're a
+comparison student if you're not a
+computer science student they might ask
+much simpler questions but if you go and
+interview a top-notch product based
+company like Amazon or Google again I'll
+tell you something about Google a little
+later if you if you interview a
+top-notch companies and if you're a
+computer science student they expect you
+to be able to solve slightly harder
+problems in data structures and
+algorithms for example they'll ask you
+how to implement a stack using a queue
+how do you implement a stack using a
+cube it's not a very hard question okay
+it's a fairly easy question if you are a
+computer science student and it's one of
+the medium to easy questions that Amazon
+or Facebook or Microsoft could ask right
+so the question depends a lot on your
+background and the company that you're
+interviewing at that's very very
+important okay so somebody is asking
+about books for machine learning so my
+suggestion for books for machine
+learning would be there is pattern
+recognition book by there is pattern
+recognition by Christopher Bishop very
+good book very standard textbook
+mathematically very rigorous but the
+problem with most textbooks is they
+don't shed light on real-world problem
+solving they teach you beautiful theory
+but they don't shed much light on
+practical real-world problem solving for
+deep learning there is this book called
+deep learning buddy and good fellow and
+others very very good book they give you
+a lot of mathematical rigor but
+sometimes most textbooks assume that
+you're a student who has all the
+required background right you know what
+linear algebraic operations are you know
+you know all of this stuff very well but
+the problem here is with these with
+these good textbooks one of the problems
+that you'll encounter
+let me just charge up my phone just give
+me a second I think I'm running a little
+low on battery just give me a second
+folks I just connect it to the battery
+I just been here for just a second I
+don't expect to do the lime on my phone
+okay I've connected it so I'm hoping
+will not have hiccups okay so where was
+I so most of these textbooks gives you a
+lot of good mathematical rigor there's
+also elements of statistical learning by
+tips irani and others terrific book but
+they don't give you the intuition
+inclusion is something that you have to
+build on
+and practical experience how do you take
+all of these learnings and solve
+real-world problems actually I
+personally learned that in the industry
+when I graduated from uni instead of
+science I had tons of theory knowledge I
+could prove theorems left and right but
+I could not solve vehicle problems it's
+something that I learned as part of my
+work experience and as part of applied a
+a course I try we trying to cover as
+much of it through case studies so we
+take real-world problem and solve end to
+end so that you get an idea on what's
+happening right so somebody says
+computer vision versus okay somebody
+says computer vision versus machine
+learning I think there's not much of a
+difference because machine learning
+folks can learn computer vision very
+quickly and computer vision folks learn
+machine learning very quickly so instead
+of saying computer vision or machine
+learning just say machine learning with
+computer science expertise right so how
+to clear case study round or real-world
+problem solving wrong the best solution
+that I would recommend is actually to
+solve more and more case studies to read
+how others have solved problems that's
+your best shot at it right it's very
+very again you can just Google up if you
+want to see how any company again most
+major companies have blogs technical
+blogs on how they solve problems or go
+to cackle and see how some of these
+winners have solved these problems that
+if she can do that it shed a lot of
+light on how real-world problems are
+solved again goggle has the problem that
+it doesn't solve real world problems end
+to end it's more of a competition set up
+while they're tall suppose if you want
+to learn how to build a recommender
+system using for YouTube just Google
+search for it there tons of blogs that
+you'll come across that people have
+written which explain this right so okay
+a good book I can pick for calculus
+necessary for machine learning I don't
+know see typical calculus books
+typically cover everything in calculus
+they cover everything in differentiation
+limits integration differential
+equations everything so I don't know if
+there is a book that only covers the
+necessary part in there is I don't know
+if there is in if there is any book that
+only covers the calculus required for
+machinery I can think of
+any book at the top of my head oh by the
+way there are some there are some good
+oral ebooks also that gives you hands-on
+but one problem again there are problems
+with oral ebooks also or really books
+teach you about packages they teach you
+like for example I thing they have a
+book called introduction to machine
+learning using scikit-learn it's a good
+book but it doesn't go too deep into
+mathematics it doesn't give you too much
+mathematics intuition also that's a
+problem so somebody says how do you get
+head start in career in machine learning
+for it felt clasp a student my
+suggestion for you since your since
+you've just finished your 12th class my
+suggestion for you is to pick up
+programming especially in a programming
+language like Python become good at it
+also become good at linear algebra and
+calculus that you've learned in 11th and
+12th class that way you will have a good
+idea and if you see since this is your
+vacation time just pick up I mean first
+of all you have your foundations right
+right so pick up pick up pick up
+programming in Python that's what I
+would strongly recommend also it refresh
+your mathematics knowledge and just
+start just start data structures and
+algorithms also why not right so that
+that's what I would recommend okay folks
+I think we've almost run out of time
+again somebody's asking about
+mathematics courses from other online
+websites like Coursera the problem with
+mathematics courses is they teach
+everything that is there for example you
+take if you take calculus course right
+at MIT or Stanford they teach everything
+that is there of course if you have time
+it's great to do it so suppose if you
+take linear algebra course by by
+Gilbert's trying at MIT he's one of the
+best professors I know for linear
+algebra
+he teaches brilliantly well but to
+finish his whole his whole lecture
+series will take you three four months
+and if you have time please go ahead and
+do it but if you are in a hurry to learn
+machine learning and learn only those
+topics which are necessary then doing
+course by course might take a lot of
+time but if you are let's say a bit a
+first year student or second year
+student or somebody who just passed off
+passed out of 12 right then then you
+have a lot of time so then you should go
+and look at Gilbert Strang videos on
+linear algebra or somebody is really
+reminding me that it was about to tell
+something
+Google yes so Google has a very
+interesting culture whether you are
+interviewing for machine learning round
+or for any round even program manager
+rounds or product manager drums google
+has a programming interview ok Google
+has a very deep programming culture
+right so I have encountered cases where
+people who interviewed at Google from a
+friends and family for machine learning
+rounds went through three four rounds of
+programming just like a proper software
+engineer along with three four rounds of
+machine learning right so Google loved
+one type of company which gives lot of
+importance to programming English
+programming data structures algorithms
+right so that's that's very very
+important so it depends on the company
+so if I'm preparing for Google today in
+addition to preparing all the machine
+learning I will prepare thoroughly data
+structures algorithms design principles
+big and distributed systems
+architectures all of them because I know
+they're going to ask that right when
+other companies may not ask that right
+so again so that's why your preparation
+has to be very tuned to the company a
+lot right so yeah that that's all I had
+and thanks for joining in sorry for the
+couple of hiccups we had with respect to
+the power cut and my apologies for that
+thankfully we were back on the mobile
+phone probably next time I should just
+do it on this mobile phone the video
+quality is good I'm hoping the audio is
+also pretty decent here somebody
+somebody okay somebody again before we
+before we take leave somebody start
+talking about mobile app developer look
+at this if you're a mobile app developer
+one thing that I'll ask you again if you
+have learned machine learning will treat
+you mostly like a software engineer
+itself but in addition to that one very
+interesting question that I used to ask
+these folks is how do you take a machine
+learning model like a random forest and
+implement it optimally on iOS or on
+Android ok very important question
+because look at this because on a
+smartphone I have battery constraint
+which I don't have it with desktops and
+laptops so you have so in addition to
+all these constraints you also have to
+design algorithms that will not consume
+that lot cuz you
+lots of battery right so so that's
+that's very very important right so okay
+that's all that's all I had and in the
+interest of time since it's a Sunday
+people who are people might want to sign
+off from here and thanks a lot for
+joining in folks thanks thanks again and
+sorry for the hiccups because of the
+power cut we'll try and do more live
+sessions like this in the interest of
+everybody but these live sessions will
+be more in general right so any
+questions that I could not answer here
+because of time constraints please feel
+free to shoot an email to us we'll try
+and respond back to you as soon as
+possible just email us at team at apply
+da codes calm and we'll try and do our
+best to answer as many questions as we
+can okay folks thanks a lot have a good
+weekend and have a good time bye bye

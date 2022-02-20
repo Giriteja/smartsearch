@@ -1,0 +1,41 @@
+<html>
+<title>COVID AI</title>
+<!-- stylesheets -->
+<link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/yeti/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="{{ url_for('static', filename='main.css') }}" rel="stylesheet">
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+<center>
+<div class="row">
+ 
+  <div class="col-md-7">
+    <b><h1>Smart Search</h1></b>
+    <br>
+    <form action="" method=post enctype=multipart/form-data>
+	  <label for="review_text"></label>
+      <textarea name="review_text" rows="5" cols="20" placeholder="Please type your query" style="width: 554px; height: 67px;"></textarea>
+	  <br>
+      <input type=submit value=Submit class="button button1" align="left"><br /><br />
+    </form>
+  </div>
+ <br>
+ <br>
+ <br>
+</div>
+ {% block content %}{% endblock %}
+ </center>
+</html>

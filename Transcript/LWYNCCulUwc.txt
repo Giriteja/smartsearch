@@ -1,0 +1,3199 @@
+hey folks I guess we are life let me
+just check the stream quality could you
+also please confirm if everything the
+both audio is clear and as far as the
+video is concerned that you're able to
+see my screen being shared can you
+please confirm that
+let me also confirm from my side that
+there are no hiccups yeah I can hear
+myself fairly clearly no major issues
+from my side at least I can hear I can
+see also the screen so cool ok sounds
+good
+ok so one thing that I wanted to mention
+anyway let's wait for a few minutes for
+everyone to join but in a nutshell I'll
+try to so I went through the chat window
+from yesterday's discussion I'll try to
+cover an answer some of the good
+questions from yesterday's live chat
+window using some examples little later
+also some some of the participants
+suggested some good functions to cover
+which I will be covering in today's
+session right so I just wanted to
+mention that ok so everything is clear
+good so please understand that in a in a
+live session with with so many students
+and so many participants it's hard to
+answer everyone's questions in a live
+session because unlike a class if it's a
+physical class people will raise their
+hand and ask question all that would
+happen here it's it's very different
+right so it's so easy to put in a
+question but it's so hard to answer
+because of time constraints so what I
+have done today is I'll cover a few
+topics that I wanted to complete in
+objected programming then I have picked
+up a few good questions from yesterday's
+live chat window also a few suggestions
+from yesterday's live chat window and
+I'll try to cover some of those things
+and very importantly a huge thank you to
+all the people who are answering in the
+chat window while I am not able to
+answer I see that for some questions I
+see other participants giving very good
+answers thank you very much I mean
+you're helping everyone here thanks a
+lot and
+yeah so I'll try to cover some of these
+again please understand that in a live
+session of this scale it's very hard to
+answer every question that comes here
+but we'll try our best sounds good
+okay let me take a few general questions
+then I will go into c+
+so not C++ sorry then I'll go into
+Python object on programming
+specifically right so so somebody is
+asking we are passing in variable and
+map function in the map function it just
+calls in twice it so so the logic here
+is just look at the again whenever you
+have a doubt like this so just ipython
+map function all right so first read the
+documentation there is a documentation
+for this function reference right so
+okay Python reference ah no no read the
+doc sorry I want to read this
+documentation again I prefer reading the
+you asked about map right I guess you
+asked about map if I'm not wrong you
+asked about map function right so let's
+look at the map function itself in the
+map function the first thing that we
+pass is a function again here we are not
+again if one question one very common
+misconception that people have let me
+just open my writer so lot of again the
+question that you asked was map we just
+pass int here and some I terrible object
+right why are we not calling so your
+question here is why are we not doing
+this map int comma and I terrible so the
+way it works is every function so all
+you in the function place all you need
+to give is the name of the function
+right the parameters to the function are
+taken from this I terrible object itself
+each of the elements in this I terrible
+object imagine there is a list here
+right so imagine if I have this map in
+to imagine if I have a list 1 2 3 so
+list is an eye trouble object right so
+the way it works is the parameters of
+int so it will call the int function
+which is basically a typecasting
+function which costs everything into an
+integer it will take each of these as
+parameters now your question here is why
+do we not need the parentheses here
+because that's how the function is
+find internally again this is something
+that you might appreciate if you know
+compiler design or in this case the
+interpreter design so internally Python
+stores every function okay how does
+Python store internally functions Python
+basically in your RAM when python loads
+a function this these are the lines of
+code that that are part of a function
+and there is something called as a
+symbol table
+okay these are stuff that you learn when
+you go to the internals of python right
+in the symbol table where where all the
+variables all the functions all the
+objects everything is stored actually so
+the way python stores this is that there
+is a function called int and some other
+information about this function
+including the location where if it wants
+to execute this function where in memory
+again this is your RAM again this also
+symbol table is also in the RAM by the
+way right so what it says here if I want
+to execute the int function where do I
+go in the RAM to execute each of the
+lines of the code right because the this
+function code itself is loaded into the
+RAM as part of the loader right so the
+way the symbol table is storing is
+symbol table just towards the name of
+the function without the parenthesis
+that's why the designers of the
+designers of Python just said just give
+me the function name I'll make it work
+because in my symbol table I just have
+the function name I don't care about the
+parameters the parameters or the
+parenthesis you don't require to give
+the balances because that's how it is
+defined that's why it's always important
+to read the documentation carefully
+again if you don't understand symbol
+table all of that that's okay right of
+course see there are layers of
+understanding for any programming
+language right so what we're trying to
+do is maybe the first two layers of
+internals but then if you really want to
+understand if you really want to go in
+depth and understand the programming
+language you will have to read the
+internal documentation internal
+implementation specifics you have to
+know quite a lot of computer science in
+terms of compiler design etc right so
+again this is the simplest way again you
+just don't have to give the whole
+function name that's all okay sounds
+good
+so somebody says can we discuss some
+interview questions around opie acid in
+ml interviews again I have
+I have not seen anybody asking at least
+I don't recall myself maybe there are a
+few cases but I don't recall cases where
+people would ask object-oriented
+programming specific questions in the
+context of ML interviews because in ml
+interviews I mean even in top product
+based companies I don't recall any
+specific object or programming specific
+stuff of course if you're if you've
+worked as a software engineer if you've
+worked as a software development
+engineer for a few years and then you
+are transitioning to machine learning
+roles right then and if the machine
+learning roles involves lot of
+engineering or software engineering work
+typically there is this round called as
+low level design right so low level
+design or object design round this is
+the round in which a lot of again this
+is not asked to fresh up software
+engineers also this is typically asked
+to software development engineer two or
+three right so these are people with at
+least a few years of experience in
+software or software development and who
+know the basics of objective design and
+low level design so especially at
+companies like Amazon Google Facebook
+all the top product based companies for
+software engineer to role or software
+engineer three role right two or three
+they would have a round called low level
+design where they would actually ask the
+object or programming concepts and
+object a design specific stuff like
+design principles etc or or design
+patterns and things like that for
+machine learning roles you typically
+have one or two rounds of programming
+interview and then you would have mostly
+rest of the four or five rounds as
+mostly machine learning specific rounds
+you could have one round or data
+analysis one round in probability
+statistics one round of machine learning
+will depth practical applications
+etcetera etcetera even this programming
+round will will revolve a lot on
+mathematical aspects of programming a
+lot and if you come from CS background
+there might be some data structures and
+algorithms also very seldom I've at
+least I don't recall any case where
+specifically object programming stuff
+was asked to machine learning engineers
+or machine learning scientists or data
+scientists unless they work their
+software engineers in the prior role
+where they were doing software design
+right so if your prior experience
+involves object under design then they
+would say okay let's test where he
+stands on
+design right sounds good Oh anyway it's
+already six or six so let's get started
+again let me just clarify a couple of
+things
+so today the way we are going to run is
+slightly different from the previous
+days I'm going to cover a bunch of
+concepts that are still left in ovulated
+programming I went through yesterday's
+live chat window a couple of things some
+of you mentioned that that the
+instructor is not answering all the
+questions it's not possible right in a
+live chat like this it's almost
+impossible to answer every question so
+we try our best to answer a few
+questions so it's its first and foremost
+it's important to recognize that it's
+not possible to answer every question
+because if you start answering these
+questions we will not be able to cover
+what we wanted to cover right number one
+and that's why we we have some general
+Q&A sessions that we conduct so we have
+general Q&A sessions that we conduct
+every now and then where the objective
+is just only to answer questions that
+come in the live chat window even in
+that week we are often it's often
+impossible to cover every question but
+we try so in the general Q&A sessions
+probably we can cover more questions
+from the live chat window than in an
+information session like this number one
+number two is what I've also very
+importantly there are a few volunteers I
+don't know I don't know what to call
+them and a very few good netizens who
+are answering others questions thanks a
+lot thank you very much I can't thank
+you enough because whatever I could not
+answer some of these volunteers I mean
+these are these are just other viewers
+like you they're not somebody that we
+selected and all that no these are just
+other viewers who are answering good
+questions thanks a lot you're doing a
+great job thank you very much
+the third thing that I thought of was I
+went through the live chat window
+yesterday I took some of the key and
+very good questions and also good ideas
+that others have suggested like one of
+our viewer suggested I forgot the name
+that why don't we use the Dare function
+a very useful idea so what I'm doing now
+is once I finish these concepts I will
+cover a few key questions that I saw in
+yesterday's live chat window again for
+each of these questions I've written a
+snippet of code and I will try to
+explain with
+but of course and I'd also teach you how
+to answer the questions yourself by just
+writing a snippet of code I'll also
+cover the few good ideas that others
+have suggested in the chat window
+yesterday this is how we'll go okay
+first let's finish some of the concepts
+that I wanted to cover then I will cover
+all the questions if time permits we'll
+cover more questions right cool
+again we covered a big chunk yesterday
+that's why I couldn't that's why I
+couldn't answer many questions yesterday
+okay so one of the very popular
+questions that that I've seen repeatedly
+are being us I thought I'll cover that
+first is how is obtained water
+programming typically used in an ml role
+in the industry typically again I'm
+saying typically because every ml role
+is different right there are some ml
+rows the roles where you do more of
+research work there are some ml roles
+where you do more of engineering work so
+it depends on the role itself right but
+most often you use existing classes I
+showed an example yesterday for a
+matplotlib right so whether you use a
+mat plot lab whether you use
+scikit-learn whether you use tensor flow
+you use a bunch of very specialized
+libraries that are meant for plotting
+statistics numerical operations machine
+learning deep learning you mostly use
+existing classes so you have to know
+what is a class what is the object basic
+understanding right cool
+second thing that you often do at least
+this is what I have done in over a
+decade of experience in a wide spectrum
+of roles so reading documentation to
+understand how to use the functions
+classes and modules right this is this
+is something that you do see again the
+the the functions modules classes they
+evolved for example there is this module
+called c1 that did not exist just a few
+years ago when I was when I was working
+and writing production quality code or
+even research quality code right so
+whenever new modules like this come it
+is our job to read the documentation and
+understand the functions the classes and
+the whole module so that we can use it
+tomorrow right and nothing beats that to
+read the documentation you need basic
+understanding of objective programming
+cool the third one is to fix bugs and to
+understand error messages
+right suppose you are using something
+from tensorflow okay you get an error
+message some error message you have to
+know what is an attribute you have to
+know what is a method you have to know
+those basic stuff right so it is
+extremely useful in get in fixing code
+bugs and understanding error messages
+this is what I have done extending
+existing classes to modify some
+functionality in an existing class okay
+I've showed you this example yesterday
+right yesterday I showed you about my
+URL shortener right my URL shortener and
+this was my URL shortener was was the
+subclass or it was the derived class
+from short URL final I've shown you
+imagine if this was there in some
+library or module how can I modify it to
+the needs that I want again what we'll
+do in the future sessions is we will see
+how to extend existing classes in
+machine learning libraries for example
+we'll take let's say logistic regression
+okay I mean I'm just giving an example
+right so logistic regression is a very
+popular machine learning model that is
+implemented in scikit-learn
+so right so we will create a child class
+or we'll derive a class from logistic
+regression modify some functionality of
+logistic regression right and this is
+something that is often done because you
+want to modify maybe you want to modify
+a specific implementation of a function
+or you think this implementation is not
+good you want to change some
+implementation specifics that happens a
+lot right next you also work a lot with
+software engineers to build ml classes
+so for example imagine you're building a
+huge product or a service this is a huge
+product that you're building the
+software engineers the software
+architects they write a lot of code this
+is all the code that they've written but
+they need somebody to implement a
+machine learning class right or the
+let's assume this is the machine
+learning functionality that you need to
+write so they might ask a machine
+learning engineer or a data scientist or
+a machine learning scientist saying hey
+can you please implement this class with
+these functions and these functions
+should be doing this and we will call
+these functions from our code again a
+lot of production quality code is
+written by software engineers so your
+job is to implement a class with some
+specific functionality
+they ask you right so here again
+remember you're not doing object related
+design you are working with experienced
+software engineers in writing the
+machine learning module because because
+the software engineers may not know how
+the machine learning internals work
+right so you work extensively with
+software engineers to build machine
+learning classes for them to use in a
+larger software again very importantly a
+lot of people do this mistake please do
+not perform observe object-oriented
+design this is what I meant when I said
+low-level design
+I mentioned this earlier right so low
+level design is is typically an
+interview round that is conducted for
+software development engineer two or
+three at Amazon and other similar
+companies it is again and not around
+that is meant for freshers right so even
+even for are also called as principal
+engineers right so most of these guys
+have a low-level design interviewer on
+where they mostly do object-oriented
+design using something called as design
+principles again this is typically done
+by senior engineers or architects in a
+role if you do not know object-oriented
+design please don't do it because if you
+do not design it properly it's a mess
+those of you who want to learn design
+patterns and who want to learn how to
+design there is a very nice book from
+órale which I have linked here again
+this is a completely tangential topic
+this is not a topic in machine learning
+this is a topic in software design again
+this is one of the simplest and a really
+good book that I love again there are
+many other more complex books but I'm
+but I'm linking you to a beginners book
+so if you want to learn how to do
+object-oriented design using design
+patterns this I think is one of the best
+books for a beginner level there are
+more advanced books etc but this is a
+very good with lots of real real with
+real examples I really love this book
+it's a great beginner book that I have
+recommended earlier also cool so I hope
+this this makes it clear again as
+somebody was asking in most machine
+learning roles you are typically not
+asked in interviews object unit
+programming as much unless you evolved
+as a software development engineer for a
+few years or a Software Architect for a
+few years and you know a lot of imp
+imitation specifics right again if your
+vault as a software development engineer
+for five plus years people expect you to
+know some basics of object-oriented
+design so in such a case they might say
+okay since he has worked for so long can
+we also test him on a low-level design
+or lld or object-oriented design right
+but if you if you have not worked as a
+software development engineer for at
+least five years I don't think people
+will ask you object-oriented design or
+object principles for a machine learning
+rule again in the machine learning role
+this is the lowest priority in terms of
+interview okay just wanted to make that
+clear again I have interviewed people
+with five even 10 15 years of experience
+for machine learning roles and in none
+of these interview roles I recall a case
+where somebody was asked objected
+programming specific stuff I don't
+recall personally cool sounds good so
+let's get into multiple inheritance love
+okay so what is multiple inheritance
+okay so we talked about inheritance
+yesterday right so imagine if I have a
+Class A right I inherited into Class B
+how do I do it
+I just say Class B and within the
+parentheses if I say a this becomes my
+inherited or my derived class this
+becomes my base class we have seen this
+now interestingly there is also a
+concept called as multiple inheritance
+again this is there and most object on
+route programming languages like C++ and
+of course it's implemented differently
+in different programming languages but
+this concept exists right so the idea
+here is this so the syntax is this class
+the derived class name and I can derive
+it from multiple parent classes so the
+way it will work is this imagine if I
+have let's say let's say I have Class A
+I have Class B and I have Class C now I
+can create Class D and I can derive it
+from Class A Class B and Class C so all
+the all all the members all the
+attributes and methods that are there in
+a are inherited by D similarly
+everything that is in B is also
+inherited everything in C is also
+inherited but a quick question is what
+if I mean this is obvious question right
+suppose imagine there is a function f
+here there is also a function f here
+same function
+right or same method name or some same
+variable name which of these is love is
+now is now actually inherited into D
+because it has the same function name
+what happens in such cases those are the
+interesting cases in multiple
+inheritance again multiple inheritance
+while it's a beautiful concept in object
+design this is much less used than
+simple inheritance in practice even an
+object under design okay cool because
+there are lots of complexities that you
+can get into multiple inheritance I show
+you one such complexity okay again this
+is a simple toy example I've taken the
+code from over IQ and modified it
+slightly okay so look at this okay let's
+write the structure here okay so I have
+a class a which has this function called
+explore right so I have Class A which
+has the function called explore let's
+write this down I have Class B again
+Class B is not inheriting from anything
+so I have Class B which means Class B
+inherits from object let us not forget
+that right
+it has search and explore it has two
+functions search and explore it has two
+functions or two methods alright so you
+have C C has something called as a
+discover again remember all these three
+we should not forget that all these
+three are actually inheriting from
+object right because the default class
+from which everything inherits is object
+in Python let's not forget that right
+so now next thing look at my syntax of
+class D so class D ABC right so Class D
+inherits from a the order here is very
+important it first inherits from a then
+from B then from C the order is very
+very important okay so it inherits first
+this second this third this now comes a
+very interesting question so what
+happens enough okay so here comes a very
+interesting question okay let me show
+you the output also okay it's very
+simple actually it's very it's very
+simple to understand again multiple
+inheritance can be extremely complex in
+other programming languages python try
+to make it fairly simple and
+straightforward okay so let me get a
+different color a slightly brighter
+color just give me a second if I can get
+ok this color is also cool this is green
+right yeah this is good so I create
+an object so the object is basically an
+object of type D right so when I say so
+so remember D is an object of type class
+D now when act where I call D or D
+object okay sorry I should just call it
+D obj okay when I call Explorer when I
+call Explorer remember there is an
+explorer in a there is an explorer in B
+which Explorer should call okay so the
+the the python implementation the Python
+documentation or the programming
+language implementer said whatever is
+there first in this order that will get
+a preference
+so this Explorer will execute here for
+example in this case so again Explorer
+is there in both the cases so when I say
+Explorer it will because the order I
+told you just a while ago right then the
+order is important because a is before B
+is explorer will be inherited by D not
+B's explorer so for example in Asics
+ploor if you notice what is the code
+that we have so def explorer i am
+creating a method where i am saying
+explore in a call I'm just printing this
+so the moment I call the D object dot
+explore what it prints is this explore
+in a called
+that's how it should behave right so
+this basically returns this so remember
+the order here is very important okay
+left to right that's the important
+portion here okay again you can see this
+in in the documentation also for example
+if you go to I showed you the dock
+earlier right Python classes
+documentation okay in this tutorial also
+they have this okay multiple inheritance
+look at this it clearly says in this
+document also okay you can okay so okay
+so
+oh there is also another case there is
+depth first and left to right right so
+the meaning the meaning between so it
+always so if I'm given these three it
+goes from left to right now what does
+this depth first mean here imagine
+imagine a scenario like this imagine I
+have a b c and i have d d is derived
+from ABC right now a let's assume is
+derived from x they just say let just
+say right suppose
+there is a function f imagine there is a
+function f here there is a function f
+here there is a function f here there is
+no function f here so when now if I say
+D equals to this object and if I say D
+dot F if I call d dot F which f will get
+executed
+look at this the order is important it
+always goes depth first so D goes to a
+it says do you have F no I don't have
+deaf but I don't have F but F is there
+in my parent so first it goes depth
+first it goes depth first right so it
+since this F is there this will
+basically be equivalent to executing the
+F in X the F in class F X so depth first
+okay you're going depth so first this
+again depth first and left-to-right
+that's also important left-to-right you
+always go to the leftmost first then if
+it has an under bliss class you go
+search for that first right so since F
+is here left to right that first is the
+is the logic here again these types of
+multiple inheritances are something that
+good object under design should avoid
+like very very complex cases they should
+avoid because it will make maintaining
+code very hard in the real world
+but sometimes it's necessary okay so
+where were we
+okay we were here right so next now if I
+if I execute D object search again very
+search search is only here so be search
+in B is called so this will execute now
+if it calls discover okay what happens
+if I call discover discover is there
+only here so discover will call now with
+indeed there is there is another
+function or method called test so if I
+call test what happens B itself has an
+another function called or method called
+test so if I call D object or test it
+will first check here so first it will
+always check so the idea which is very
+important here is this first it will
+check in the class that I am part of
+then from so left to right and depth
+first depth first okay first it will
+check in the same class first it will
+check if it's in the same class
+if it's in the same class
+cool no problem if it is not in the same
+class it first goes to the left in the
+order in which you have inherited look
+at this it goes to left and if a has
+other parent classes it keeps going then
+it keeps going depth-first if it is not
+there then it goes to the next one next
+one and so on and so forth right so
+that's again that's how if multiple
+inheritance works again multiple
+inheritance from a software engineering
+perspective from a software design
+perspective can be crazy to maintain
+again multiple inheritance is is
+extremely dangerous that Java actually
+comes up with some interesting concepts
+because C++ had straightforward multiple
+inheritance and when people wrote large
+software in C++ multiple inheritance
+would create so much of havoc so Java
+introduced a concept called interfaces
+and things like that to get away with
+some of the headaches of C++ multiple
+inheritance Python is like okay we we
+have a lot of again Python makes the
+language simple again Python doesn't
+want to have all the complexity of Java
+or C++ so they said ok this is a very
+simple thing we will have it but from an
+object-oriented design standpoint we
+recommend that you avoid it unless it is
+absolutely necessary right so that's why
+there are very few real-world examples
+of complex software where it is used it
+is used I am NOT saying it's not used
+but very few examples okay so next there
+is this there is this very deadly
+situation called as a deadly diamond
+this is a standard problem that you
+encounter in multiple inheritance okay
+again it's a very standard problem this
+is a problem that C++ designers like
+it's called the diamond inheritance it's
+also referred to as the deadly diamond
+problem in in multiple inheritance right
+so look at this I have Class A okay
+Class A has explored it has a method
+called explore then I have Class B Class
+B has something called as explore right
+again oh sorry sorry my bad my bad I
+should draw it carefully so B is it B is
+inheriting from a let's not forget that
+so you have B here B is a B is
+inheriting from a okay so B also has its
+own explore each of these explore
+functions just say exploring be
+exploring a explore NC
+right so again you have another class
+called C C is also inheriting from a so
+you have C C also has explore now you
+create D this is where things go crazy
+okay now you have D here okay D has no
+other implementation D is an empty class
+here again this is one other application
+of empty classes where if you want to
+inherit from multiple classes but you
+don't want to implement anything here
+okay that's another example of an empty
+class which is used sometimes not very
+often but sometimes now now let's see
+what happens okay so D is empty so now
+what I've done here I've created an
+object of type class D okay let's call
+it D object okay let me change the color
+so I have D object here
+now when I say D object dot explore what
+will run first okay remember it always
+does left it up first it checks in the
+same class it checks in the same class
+then it also follows left to right and
+depth first right so this makes life
+much more easy in Python okay so it goes
+up again my inheritance order is B
+followed by C in the same class I don't
+have it Explorer is not there so B is
+what I have so does explore there in P
+yes it is there so I will go executed
+first very simple so when I say D object
+dot explore explore in B is called again
+deadly diamond is a problem that can
+make your software design crazy
+especially in C++ where there is lot
+more complexities in object or
+programming in C++ than what you are
+seeing in Python right so deadly diamond
+is not a very crazy problem in in in
+Python specifically again there can be
+some boundary cases where things are
+crazy
+but this is how python operates in a
+deadly diamond best or a diamond
+inheritance very simple again you can
+modify this what if there is no Explorer
+here okay let's ask that question what
+if there is no Explorer here what should
+you do then right so from what I think I
+think it should execute a because left
+to right parent right so let's actually
+try that okay I think it should execute
+that
+so let me just come into this okay so
+now oh yeah me does not have it so what
+is that structured enough me does not
+have it now if I now if I execute it
+what should i what will I get here okay
+let me just execute this okay so what we
+do do be does not have Explorer D
+Explorer is what I am calling so it
+should actually print a Explorer
+expected indentation sorry I should say
+pass if there is nothing I should say
+pass my bet Class B pass okay now I
+think it should work
+oh it's calling and see but it should go
+okay okay this is the problem okay so
+it's calling and see so one second what
+is order here that they say parent class
+as a depth-first left-to-right not
+searching twice in the same class where
+there is an overlap in the hierarchy
+okay okay so there's also this case I
+forgot yes okay my bad I got it wrong
+yeah so it executes see so the way it's
+doing it is this look at this it's doing
+a depth-first left-to-right again there
+is a third case not searching twice in
+the same class when there is an overlap
+in hierarchy so in our case we have an
+overlap in hierarchy right so look at
+this in our case where is the diagram we
+have an overlap in hierarchy because
+this and this both of them have the same
+thing there's an overlap in hierarchy
+right B's parent class and C's parent
+class aren't the same right so there is
+an overlap in hierarchy in the case
+there is an overlap in hierarchy like
+this I forgot to I forgot to read that
+point sorry if there is an overlap in
+hierarchy it just goes and executes this
+again to be honest with you I have never
+seen deadly demon being implemented in
+production because people know that it's
+a tricky case to be honest with you I
+fell for it like I assumed that it
+should print a but then I forgot to read
+this single line again if you forget to
+read this single line in the
+documentation it's very easy to make a
+mistake
+so in general multiple inheritance is
+filled with potholes if you are not
+careful
+deadly diamond more so right just a
+simple example that I showed you where
+where we at least I fell for it right so
+again it all depends on how clearly you
+read the document
+again the biggest problem here is not
+everybody reads the documentation
+thoroughly we all read the documentation
+to whatever depth we want to use it
+right so again please don't use deadly
+diamond type inheritances unless you
+need it and if you see it any time when
+you're working with a software engineer
+if you see it just point it and say do
+we really need it right not just in
+Python in C++ Java wherever you go it's
+a tricky case ok good so this was a good
+lesson for me also because I have
+forgotten how this works I get to be
+honest with you I'm not perfect I forget
+all these things I experiment I figure
+it out right so but again if I were a
+software engineer I can't effort to do
+this as a machine learning engineer I
+can say I missed this that's ok right
+but if I was designing large software I
+have to be much more careful with this
+okay sounds good the next concept is
+called polymorphism so ok let's go to
+polymorphism enough again it's a very
+standard technique in many programming
+languages it's also very important in
+the context of object Android
+programming but before we go into
+polymorphism what does this word mean
+poly basically means many forms right
+see polymorphism basically means many
+forms are different forms for example
+look at this when I just if I say 2 plus
+3 okay
+what does it written in Python it
+returns 5 right look at this my plus is
+an operator to which I'm passing two
+integers here if I do the same thing
+same operator look at this it is the
+same operator but completely different
+strings same operator completely
+different strings what happens
+it still concatenates and returns me
+ABCDEF now which means which means the
+plus operator is behaving differently
+based on what I pass in different
+contexts the plus operator is taking
+different forms polymorphism basically
+means many forms so the same plus
+operator is taking is basically
+performing numerical addition here the
+same plus operator is doing string
+concatenation here this is what is often
+referred to as operator level
+polymorphism it is the same operator but
+behaving differently
+the parameters that you have number one
+then there is something called us
+function level polymorphism okay take a
+length function the length function that
+we have in Python right I can pass
+different things to it look at this I
+can pass a dictionary I can pass a
+string I can even pass a set here right
+whatever I pass it will print the the
+length of or the number of elements that
+are there in that structure in the data
+structure right string is also a data
+structure or this is this is basically a
+list whether I pass a list whether I
+pass a string I think I said big - sorry
+whether I pass a list whether I pass a
+string or a set it will still print the
+same thing so if you think about it the
+length function also is performing
+function level polymorphism which means
+it is behaving differently it is
+printing you see at the end of the day
+it is printing the same thing but even
+if I pass if whether I pass a list or a
+string or asset class a no now look look
+at what I am doing here this this is the
+interesting part so I create a variable
+a of type a variable B of class capital
+B again lower case I'm using for
+variable names upper case I'm using for
+class names again this has function P
+this has function P now here comes the
+most interesting part this line is the
+crux of it's one of the great ideas of
+polymorphism in most programming
+languages for example imagine I take a
+and B I create a tuple out of it right
+we know tuple is AI turrible we've seen
+this in the previous life sessions we
+wrote up please I trouble which means I
+can first pick the first item then the
+second item so on and so forth suppose
+if I want to write a for loop like this
+for I in a B again what is this this is
+basically so I let me explain this
+function right so let me explain this
+two lines of code for I in a comma b
+tuple print i dot p suppose I call this
+how does this work
+right so first what happens first I will
+be equal to a look at this first I will
+be equal to a because this is this is
+basically I two doubles right I variable
+I will will now will be equal to
+then I will execute I dot P what is I
+dot P is nothing but a dot P right so
+what should what should execute it's s P
+method
+this one this one should execute nothing
+right look at this the first in the
+first iteration I equals to a then I'm
+saying I dot P now what should this
+execute this should execute this line
+logically if you think about it next in
+the second iteration I will be equal to
+B now when I say I dot P what should
+what should be executed it should be it
+should this should execute B's P
+function now what is happening if you
+think internally internally if you think
+what's happening is this your which
+function is being executed whether this
+function is being executed or this
+function is being executed depends on
+the the object type right the function
+that runs or executes depends on the
+object type so now again look at this a
+is of is an object of type capital a B
+is an object of type capital B right now
+your I look at this what is happening in
+the first iteration this is what is
+happening in the second iteration this
+is what is happening if you think
+logically in both cases i dot p is it's
+the same thing that is running but this
+will go and run a dot P this will go and
+run B dot P because it depends on object
+type when you say I equals to a a is an
+object of type capital a so SP will be
+executed so polymorphism or class level
+polymorphism right in in in Python
+basically says the function that gets
+executed depends on the object type
+making the code much more easy to work
+with for example imagine imagine if this
+did not happen imagine if this did not
+work like this imagine if we did not
+have polymorphism then if I were to
+write a complex loop like this again
+here we have only two objects imagine
+you have 100 objects of many different
+types right somewhere suppose I have ten
+classes and I have hundred objects from
+these ten classes I will not be able to
+write this for loop without wherein I
+have objects of different class types
+without having class level polymorphism
+that that's an important catch for us
+it's cool now now look at this now okay
+so we have printed this so what what
+happens here this for loop look at what
+is printed first function P in a is
+printed then function P in B is printed
+okay so this loop runs twice and first
+function P na then function P in be cool
+then I have just put in a bunch of lines
+here so as a separator now let's look at
+a slightly different concept
+okay whatever we have done here in an
+iteration let's see it in a simple
+expanded code snippet if I say x equals
+to a now remember a is an object of type
+capital a now when I say X dot P what
+should execute a P should execute a SP
+class SP function should execute that's
+what it executes cool now the moment I
+say X equals to B now now what happens X
+is no more again when I say X equals to
+B what happens B is an object of type
+class B so X is not an object of Class B
+right so when I say X dot B what will
+execute B dot P will execute and that's
+what you see here again what I've done
+here is the code that is there in the
+for loop I've just expanded it here for
+clarity whether you do it like this or
+whether you do it like this look at this
+this line and this line are exactly the
+same but you're getting two different
+outputs because X is pointing to an
+object of class a here X is pointing to
+an object of Class B and based on the
+based on the class of the object being
+pointed the corresponding P function is
+executed right cool now polymorphism and
+inheritance can also be combined okay
+let's go into it okay let me finish this
+we have I traitors also right so okay so
+let's see that there are a few examples
+then I'll go to the questions from the
+previous session I just wanted to finish
+these in the next few minutes again
+there are a few eggs again if required
+we'll extend the session by 20 25
+minutes if need be okay I hope we don't
+need it but if you need we'll do it okay
+sounds cool so okay polymorphism plus
+inheritance right so let's go into it so
+I have taken this is an example that we
+saw yesterday right
+we saw a class called shape
+rectangle if you recall look at this we
+have seen this rate we have a class
+called shape we've seen this yesterday
+we have a class called shape from shape
+you get rectangle right from rectangle
+from shape we also have circle we have
+seen this example yesterday right so how
+does polymorphism work in the case of it
+in the case of inheritance in the
+previous example there was no
+inheritance so this example will use
+both polymorphism plus inheritance in an
+example because rectangle and circle are
+a derived classes from shape right so
+let's say let's see how this works okay
+the same code snippet I haven't changed
+much it's the same code snippet I just
+wanted to change this this part changes
+except that this code that that we have
+seen yesterday is the same code that I'm
+using now here comes the most
+interesting part okay so let's go into
+it so I have SS shape okay so I'm
+creating a variable S lower case s of
+class shape I am creating our of
+rectangle C of circle now look at look
+at the code that I am writing here for I
+in s RC okay look at this again this is
+a loop where I will first take s I will
+be equal to s then I will be equal to R
+then I will be equal to C now when I say
+I dot get color
+what should it print okay first it
+prints s dot color the color function
+that is there in the shape then the
+colors the get color function which is
+there in the rectangle because it all
+depends on the object type but here is a
+here is a very interesting case right so
+for example okay first case is simple
+okay I have s here I say so I equals to
+s so let's write this down actually that
+might be better
+okay first first iteration I equals to s
+so when I say I dot get color what
+should get executed when I say I do not
+get color what should get executed the
+get color function that is there in
+shape and that's simple okay so there is
+a get color function where is this there
+is a get color function it will the
+default value of color is always black
+it will print that cool so you get you
+get this print statement that you want
+right so you get this print state let me
+just erase this this is okay so you get
+the black it prints black so that that's
+cool
+second iteration okay in this in the
+second iteration I will be equal to R
+now when I say I dot get color what
+happens so first thing that you have to
+notice here is the get color is not
+defined in rectangle look it is the in
+the rectangle the get color is not
+defined but rectangle inherits from
+shape which means whatever is the get
+color that is there in the shape is
+inherited by rectangle so what happens
+now when I say I dot get color what
+happens now so it goes to a rectangle
+okay this it goes to it goes to the
+rectangle class sees if there is get
+color there is no get color that I've
+implemented here then it goes to its
+parent its parent has a get color so
+it'll actually this will basically
+execute the get color in shape because
+rectangle doesn't have it rectangle is
+inheriting the get color function from
+the shape in the third case I will be
+equal to sorry I will be equal to circle
+same thing circle also doesn't have get
+color so when I say I don't get color
+here when I say I don't get color what
+happens wrong the circle also doesn't
+have get color implemented but the get
+color is inherited from shape so it will
+go ahead and and execute the shapes get
+color which means in all the three cases
+the output will be black because the
+shapes color is by default black in our
+implementation right so if you look at
+this the shapes default color is black
+because the default parameter in the
+constructor color takes black and you
+are saying self underscore underscore
+color equals to color it's a very simple
+very simple code again this is how this
+is how your polymorphism in the context
+of inheritance works now there is an
+other catch here okay so imagine if I
+just say again this this is one more
+example both are both rectangle both
+rectangle and circle have implemented a
+function called get area they have their
+own functions they have their own
+functions of get area okay so the shape
+does not have get area right this is
+derived from this this is derived from
+this right
+so now what happens if I say I equals to
+R comma C I don't get area so I will
+first be equal to R when I say get area
+the rectangles get area will be printed
+right so look at this I'm creating a
+rectangle with length 10 with 20 so the
+area is 200 which is printed here cool
+very simple next when I say in the next
+iteration I will be equal to C C dot get
+area the circles get area will be called
+the circle has a radius of 2 so if I
+print the area I will get 12.5 cool so
+this is how polymorphism plus
+inheritance will work out okay so let's
+let's go through some more examples okay
+so oh this is this a very nice example
+so let's look at polymorphism any
+inheritance in the context of inbuilt
+data structures remember all of the
+inbuilt data structures even your int is
+actually a class in Python we have shown
+this yesterday right
+so imagine imagine if I have D which is
+a dictionary again D is nothing but it's
+an object of type dictionary so it's an
+object of class dictionary l is an
+object of class list s is an object of
+class set right and again we are
+initializing them because these are
+inbuilt data structures you don't have
+to call dick you don't have to follow
+the same notation that you do for other
+classes there are some shortcuts because
+there these are in Bill data structures
+now comes the best part when I say for
+int LS again all these three are inbuilt
+data structures behind each of these
+data structures there is a class so when
+I say i equals to b LS remember that my
+dictionary my list and my set all these
+three classes would inherit directly or
+indirectly from object because object is
+directly or indirectly okay it could be
+direct or indirect way I have not seen
+the code behind how dicta list and set
+is implemented in Python I've not I've
+not seen it for this session but anyway
+everything has to be derived from object
+and let's not forget that I discussed
+this yesterday right object has this
+underscore underscore strength right
+object has this function called
+underscore underscore string which will
+help us print the day print anything
+that we want to
+now with indict this is interesting part
+the people who implemented the dick data
+structure within Python have overwritten
+this string I'm sure of it
+they have overwritten the string again
+that they're inheriting it from object
+they have overwritten it similarly there
+is a string implemented in list there is
+a STR implemented in set also now the
+implementation of STR or string indict
+says okay whatever are the elements in
+my dictionary I want you to print like
+in this format curly braces right my key
+key 1 value 1 comma key - value 2 so on
+so forth braces closed so the underscore
+underscore string underscore underscore
+let's call it the string function right
+the string function which is there an
+object would have been overwritten with
+indict and and this says if anybody
+wants to convert any object for printing
+purposes this is how it should print
+this is defined within the bits internal
+implementation I am sure of it 100%
+right similarly within the lists
+implementation there is this overridden
+stuff and it says ok you should always
+print all the elements that we have in
+the list start with this braces print
+each of my values value 1 value 2 so on
+so forth with commas and all of this set
+says print all of them with a curly
+braces the value 1 value 2 so on so
+forth curly braces so what's happening
+enough ok this how these things are
+internally implemented now when this
+line is executed what happens first I
+will be equal to D now when I say when I
+say print D now so print I see look at
+this in the first iteration I equals to
+D right now what are we doing print I
+print I basically means print the
+dictionary again the way the print
+function is implemented somebody asked
+this in yesterday's live session also
+somebody said ok how does the print know
+that it should call underscore
+underscore STR underscore underscore in
+this that's how the print function is
+implemented in Python right the print
+function is implemented such that when
+you pass any object to it if that object
+if the class that this object belongs to
+look at this so ok
+take this example concretely right so I
+equals to B so when I say printed a the
+way print is implemented is it says okay
+I is there what is the data type F of I
+ice or what is the class of I I is an
+object of type nicht so let's go and
+check in bits implementation if
+underscore underscore STR is that if it
+is there let's call that whatever string
+it returns I will print it that's how
+the print is internally implemented so
+when you actually execute this code when
+you actually execute this code II's
+initially be but what is happening here
+is so this is this is calling mixed
+dictionaries string function in the
+second iteration I equals to L so when I
+say print what is happening it is
+calling lists underscore underscore STR
+function in the third iteration I equals
+to s and s is an object of type set or
+class set right so it is going to call
+sets string that's why this whole thing
+looks so beautiful and works out of the
+box but this is what is happening
+internally there is polymorphism that is
+happening internally there is
+inheritance from the object class which
+ensures that the string is available in
+all these classes and the implementers
+of dict list and set have overwritten it
+again i wanted to show you a real
+example of polymorphism inheritance by
+using in Bill data structures because
+these are extremely simple classes that
+are already implemented in Python right
+cool next is the concept of a terrible
+objects or this is very interesting okay
+so we all know what I tell a bill is
+like we have discussed this in the
+previous life sessions let me you do a
+quick quick recap so when I do this
+whenever I want to use something like
+this in a for loop whenever I want to
+say for I in something if I take a list
+here list is I terrible
+which means what happens here first I
+will be given the first value then I
+will take the second value then I will
+take the third value then I will take
+the fourth value in each of the
+executions of this for loop so these are
+called as a terrible objects okay your
+topple is also a terrible we have seen
+this in the previous examples right so
+these are all terrible objects cool
+simple now can I create okay this is
+this the interesting part can I create
+again remember that this is an object
+let's not forget that basics this is an
+object of class list it's an object of
+class list so can I create classes so
+the question here is this the question
+here is this can I create classes whose
+objects are also a terrible so I want to
+create a terrible object I want to
+create a class which I want to create a
+class look at this I want to create a
+class where the objects are I terrible
+like a list or like a tuple can I do
+that
+or like a string for that matter shrink
+is also a terrible we know that right so
+can we do that that's the question right
+so I terrible objects is a very
+interesting concept it's there even in
+the documentation in lots of detail so
+if you go to this again this is not a
+documentation this is just a tutorial so
+I traitorous is a very interesting
+concept so let me go through it okay
+again there's a very very nice example
+it's a beautiful example from Python
+official tutorials I mean it's it's it's
+a very real-world example look at this
+imagine okay let's let's talk about the
+real world problem then we'll come to
+the solution so when I write like this
+look at this this is my this is my list
+when I write again remember that list is
+an inbuilt class and which also
+implements the inbuilt data structure
+now whenever I write code like this it
+first takes the first value then the
+second value then the third value and
+then the fourth value is it possible
+that instead of going in this order if I
+give a list
+suppose if I write this if I write for I
+equals two sorry for I in for I in 1 2 3
+4 if I say if I say print I write so the
+way the way list is implemented for I
+iterators is first it takes the first
+element second element third element
+fourth element but I want it to be in
+reverse order I will write it like this
+first it should take 4 then it should
+take 3 then it should take 2 then it
+should take 1 so I want to reverse the
+internal implement I want to reverse the
+order in which
+my I will take values the default is
+this IFAs takes 1 then 2 then 3 then 4
+but if I want to reverse it how do I do
+it
+cool so let's again this is a very nice
+example from Python official tutorials
+it's a beautiful example so here comes
+the fun part again I've just copied this
+code from Python official documentation
+so the idea here is this let's create a
+class called reverse ok let's create a
+class called reverse ok I will explain
+this class called reverse and we'll see
+how we can make any object of this class
+i turrible any object ok here comes the
+fun part
+first I am creating my constructor my
+constructor look at this i have self and
+data this data can be anything this data
+again I am NOT saying the data has to be
+list or anything look at what I am doing
+with the data I am first creating a
+variable within this class called data
+self dot data equals to data self dot
+index so in my reverse class in my
+reverse class I have data and I have
+index these are the two attributes that
+I have let's say these are the
+attributes right so these are the
+attributes that I have of course I have
+a constructor here and if you want to
+make objects of a class I turrible
+you have to implement ok this is very
+important you have to implement both the
+ITER and the next functions again this
+is given in the documentation so if you
+want to implement them where is this the
+function bla bla bla bla bla bla bla
+okay so for statements called ITER bla
+bla bla okay sounds good so what you
+have to do here is you have to implement
+this function what are you doing here
+again this is just underscore underscore
+ITER there is one more very important
+function that we had implement called
+next the ITIL function it just takes the
+object returns the object very simple
+nothing fancy here ok but if you want to
+make objects of any class like reverse
+here I terrible you have to input this
+is mandatory you have to implement this
+and you have to implement this let's
+look at the implementation of next again
+remember that this data can be anything
+the data can be a list it can be tuple
+it can be strength
+okay look look at how it's done it's
+done very beautifully okay so enough in
+that what does the ITER function
+basically says if you give me an object
+I just return the same object it's not
+doing anything fancy the next is what is
+doing okay I'll explain you how the next
+let us understand the function then LLL
+explain how the whole thing works you
+just just be patient five minutes I'll
+explain this okay the idea here is this
+so it says because look at this I have
+two attributes here right again I have I
+have an init init function I have
+basically and I have basically a
+constructor I have basically this I
+treasure this hydrated hydration
+function I have the next function odd
+method these are the three methods that
+I have these are the three methods that
+I have now let's see let's see how this
+let's understand the implementation what
+this is saying this is saying if the
+index value equals to zero again in the
+in the suppose let's just take this
+right suppose in this data
+suppose I pass one two three four let's
+understand this okay so look at this if
+I say R equals two rivers I'm creating
+an object of type reverse class and what
+am i passing here one two three four so
+what is this this is nothing but the
+data that you are passing right so in
+the data in the data what happens you
+get one two three four right and what is
+the index being initialized to in the
+constructor index is nothing but length
+of data what is the length of this
+length will be equal to four because
+there are four elements here till of
+everything is cool now comes the fun
+part
+okay I'll explain you how the next works
+now when it says for I in are look at
+this for I in our what is our R is
+nothing but it's an object of type
+rivers internally look at this
+internally it is storing this this
+dictionary this are not dictionaries at
+this list right this list of one two
+three four is being stored internally
+within this class rivers in an attribute
+called data okay it's been stored
+internally now we're sorry okay so let
+me just erase this part so that I can
+explain this just give me a second I'll
+erase this part so that it's easier to
+just scroll up okay so okay
+so enough enough look at this so when I
+say for I equals to R now what should
+happen here this basically says that we
+want to iterate this right
+so this ITER right this underscore
+writer writer basically makes this
+object I terrible to start with so R is
+an object of class reverse and every
+object of class reverse is a terrible
+now because of the presence of this
+underscore underscore ITER right because
+it is lighter able there is no error in
+this line right because it is I terrible
+there is no error in this line next look
+at this when I in are I don't want to
+rewrite the same line but anyway I will
+explain this so when I say print I look
+at how this loop executes this is where
+the next function plays an important
+role so watch what will happen here
+first I for I in our we don't know how
+our works internally okay because there
+is this underscore underscore ITER it
+makes any object of class reverse I
+terrible that we know next what is the
+first value that I should take nuf look
+at this this this variable I has to take
+some value of the values that are stored
+in our what value does it take for that
+you have to go to next
+so whenever whenever we run this line
+for I in our whenever we want to so this
+will run multiple times right this is
+basically an iteration right
+it will run multiple times whenever the
+value of I has to be initialized to some
+value based on the object are as soon as
+we want to do this I equals to what to
+determine this python goes to the
+underscore underscore next so the
+underscore underscore next function
+basically tells us in an eye traitor
+give me the next value that I want
+that's why it is called the next
+function now how is the next function
+implemented it says if the index value
+equals to zero then raise an exception
+there is an error that's right will
+raise an exception otherwise again index
+value is not equals to 0 it is equal to
+4 now so it says okay there is no error
+now so we don't have to raise an
+exception or an error self dot index
+equals to self dot index minus 1 which
+means this in
+value will become three again this is
+all object ours data every object has
+this data right this is all object ours
+lowercase ours data so index becomes
+three then it says return self dot data
+self index so what is self dot data self
+dot data is this index is 3 so what what
+will return it would return data 3 what
+is data 3 it is value 4 so now this next
+function see whenever I has to be given
+a value it will call the underscore
+underscore next function now why does it
+call the underscore underscore next
+function because that's how Python
+language defined it there are some rules
+of a language so the Python language
+said whenever we want to iterate
+whenever I want to initialize this
+variable to one of these to some value
+from an I terrible object I will call
+the next function whatever the next
+function returns I will place it here
+the next function returned for here
+right it returned this value right then
+it is say print for so what do you get
+you get print 4 enough this is over now
+as soon as I have printed this is for
+loop right in the second iteration again
+I says I want to value so I goes to
+object are and says give me a value now
+python rules say okay
+r is an eye trouble object so we have to
+go and call the next function now how
+does the next function what next
+function checks is the index 0 no the
+index is not 0 if it is 0 will raise an
+exception or else decrement the index
+the index becomes tune of right and
+return the value in data 2 so it will
+return 3 look at this look I becomes 3
+in the next iteration I becomes 2 in the
+next iteration I becomes 1 cool right so
+you can make any object I turrible by
+just defining this function this
+function says that any object is
+iterable any object of class reverses i
+turnable this function says whenever i
+whenever i have a line like this and
+whenever i want to pick a equals to give
+me a value in whenever this line is
+executed INR okay I says okay give me a
+value I goes to
+and says please give me a value from
+your from your whatever you're storing
+internally I don't care how you're
+storing it so then we go into our Python
+internally does this for us it goes into
+the next function whatever the next
+function returns it will place it here
+so the way we have written the logic for
+the next function is as if we are
+iterating backwards
+we are not iterating forwards we are I
+trading backwards the beauty of this
+implementation is whether we pass list
+here if you pass a list it will work but
+we have not used anything specific to
+lists here right this could have been a
+string and it will work this could have
+been a couple and it will work right
+because all the functions that we've
+used the index all the functions all the
+methodologies that we have used C it
+will even work for if I pass instead of
+instead of passing a dictionary if I
+pass a triple like this it will simply
+work because for a couple again remember
+oh there is there's okay even for string
+it will work okay so let me show you
+multiple cases okay good
+let me show you where it will work and
+where it will not work so if my data
+that I pass into the constructor is a is
+a is a list it will work because live
+list is indexable I just need the index
+right here again what am i doing
+given the data I am indexing it and I am
+getting the length of the data these are
+the only two places where the data's
+functions where I am using where I am
+performing some operation on the data
+right here I'm indexing it in this line
+I'm indexing it sorry in this line I am
+indexing it in this line I am getting
+the length so wherever the length
+function works and wherever I can index
+I can use the data structure right on a
+list I can do it so it will work right
+on on a tuple I can index right I can
+also get the length so it will work on a
+string it'll work look at this if you
+want to reverse a string this is the
+object-oriented way with iterators to do
+it right but it will not work on sets
+why doesn't it work on sets okay simple
+look at this it doesn't work on sets
+because where does it run into an error
+it will run into an error in this line
+because lengths on a set is okay you can
+say lengths and you can give a set right
+you can give a set and it will work the
+length function will work but a set is
+not indexable and it says this set
+object
+is not subscrip double which means you
+can't index into it so that's why it
+will not work again here what are we
+doing here
+we are creating a class whose objects
+are I terrible right and this class I
+can pass in the constructor I can either
+pass a list I can pass it to pull I can
+pass a string anything that is indexable
+and anything on which I can on which I
+can call the length function that's the
+idea here okay sounds good so now let's
+go into a few questions from yesterday's
+live session okay sounds good okay so
+are there any questions here which are
+important there is slight buffering I
+don't see any hiccup from my side I had
+a small interruption I think it's full
+speed enough thankfully yeah sounds good
+okay somebody says please teach ml again
+please understand that the objective of
+these live sessions is to improve the
+programming skills and not specifically
+machine learning so we will cover
+machine learning and again we'll cover
+machine learning from a programmatic
+standpoint later right so the objective
+here is not to teach machine learning I
+think I've mentioned this earlier in the
+announcements also somebody says can we
+apply recursion in class you can you
+have to be careful but you can apply
+recursion in classes again try it like
+it's very simple very importantly
+somebody again let me go back to this
+question somebody's asking please teach
+machine learning I think we made it very
+clear at the very beginning when we
+announced these live sessions that the
+objective of these live sessions is to
+improve programming skills of the
+students right I think I taught a bit of
+numerical programming also again in the
+context of machine learning applications
+without doubt right so I hope there is
+yeah now I'm streaming it like 6 Mbps
+enough I hope there should not be any
+cups nuf sounds good now let's go into
+some of the questions from yesterday's
+live chat window ok somebody said what
+is the use of empty classes ok these are
+the questions one-by-one I'll tackle
+them there are some concepts also that
+I'll introduce as we go ok
+first and foremost somebody said what is
+the use of empty classes
+I mentioned in yesterday's session
+itself it can be used as a structure in
+C programming now those of you who don't
+know structures in C programming here is
+an example that I've made okay so let's
+say I have Class E okay there is nothing
+it's an empty class so here if you
+notice what I've done here is I've
+created a variable E one of class type e
+again remember E is empty plus E is an
+empty class let us not forget that class
+E is an empty class cool now I can
+create any variable name or attribute
+name that I want and give values to it
+so I can say e 1 equals to e ok so this
+is an empty class class e does not have
+any attributes does not have any methods
+but because it is an empty class I can
+use it as a structure in C programming
+language right so one of the
+applications of structures is this
+suppose I created I create a one-way
+variable of class E I can create any
+attribute name that I want I can say e 1
+dot name is ABC e 1 dot number is 1 2 3
+and if I print even dot name and e 1 dot
+number it will print ABC one two three
+right so I've created an object of e1 I
+have added whatever attributes that I
+want for this object because the class
+itself is empty I can do this the class
+is not empty I can't do it number one
+number two I create another object of
+type a of class a basically class E I
+could add an object a two now here II 1
+has look at this
+II won has name and number these are the
+two attributes that I have object II 1
+not class II object even object e 2 I
+can have the same attributes or I can
+have any other attribute I can have name
+and address if I want right so an empty
+one of the applications of empty classes
+is I can just use it like a like a box
+right you can think of this like this e
+is a box in which I'm holding these two
+variables together e 2 is like a box or
+a container in which I'm storing these
+two values now if I want to print these
+values I can say e 2 dot name e 2 dot
+address even dot name a 1 not number I
+can do that that's one application the
+other application that I just discussed
+a while ago is if
+want to inherent so we have done this we
+have written this code right if I want
+to inherit it from both classes a and B
+but I don't want to implement anything
+here again I have a bad habit of putting
+semicolons it's not mandatory in Python
+but since I come from C C++ and Java
+world I do put in these in place right
+so what do what do we do enough I just
+say Class E a B now what does class II
+have everything that is there in a and B
+is inherited into E I don't want to
+override anything here I want all the
+stuff that is there in a and B to be
+inherited without overriding or without
+implementing anything extra if I want to
+do that in empty class like this with
+inherited with with base classes from
+which I'm inheriting is one application
+so it's a very simple so next somebody
+asked or this is a good question
+actually somebody asked can we create a
+function with it in the init constructor
+again for any question the easiest way
+that I know of again it's always great
+if you can read documentation but
+documentation can become very cumbersome
+so whenever I get a question I just
+write like simple code like this and see
+how it works
+okay and then try to understand why it
+is working like that if I can understand
+or else I will read the documentation so
+somebody asked in yesterday's live
+session I think there is also comment
+like this which I responded today in the
+morning
+within the init function look at this in
+Python functions you can define an
+another function so in the init function
+because in it is a special function
+right it is a constructor can we have an
+another function within in it that's a
+question that somebody asked in the
+comment section in the live session
+yesterday so let's look at this I have
+class a def this is my this is my
+constructor within the constructor I
+have an another function look at this
+this is a function definition I am
+defining a function called as function
+within which is there within the init
+function this is valid you can define a
+function in an another function in
+Python in it is not no special you can
+do that even on an init because if you
+just write it it works another very nice
+thing that somebody suggested it's a
+very useful thing that I missed earlier
+which is there is this inbuilt function
+called dinner okay very nice function
+actually
+what bill does is this okay bill can
+help us obtain all the attributes and
+methods in a class right in a module or
+in dictionaries in lists etc for example
+let's just write this right input math
+remember math is a module right I mean
+you can think of math as a library or a
+module that you're importing right so
+print dillmouth when I say dear math
+what it prints is it prints all the
+functions that I have in math see in
+math if you recall you have square root
+function that we have used earlier you
+have a constant PI you have math dot na
+n that we have used in our initial life
+sessions you can compute log base 2
+right you can compute cosine all right
+these you can compare you can compute
+sine right you can get radians all these
+stuff so these are all the functions
+that are there in the math module that
+you can use so at any point if you are
+not sure of course one way is to go and
+read the documentation the other way if
+you don't want to go through the whole
+documentation just print it if you want
+to know that's the simplest way next
+this can again that there is a very
+useful here we are applying dill on a
+module now what happens if I apply bill
+on a class so let's define a simple
+class here very simple example again
+dill can be extremely useful to see
+what's happening internally ok I wanted
+to cover
+ok let's go to it ok let's go step by
+step suppose if I say Class B within
+class B I have function f that I've
+defined M I'm saying print will be when
+I say it didn't be all the functions and
+attributes that are there especially the
+functions that are there in B will be
+printed now F is a user-defined function
+I have defined this function the
+programmer defined it so you'll see F
+here listed clearly F is printed here
+but along with F there are many other
+functions because B is inheriting from
+the object class let us not forget that
+because there is no inheritance here the
+default inheritance is from object so
+all the functions that are there in the
+object are also printed here ok this
+there is a default constructor that I
+told you yesterday about there is STR
+function that I told you yesterday about
+there is also a new function
+discussed about these three functions
+yesterday knew basically creates a
+variable in it is the constructor string
+basically helps you print the objects I
+discussed these three yesterday right so
+dinner is a very useful thing at any
+point for any class if you are not sure
+what it should be just go and say it
+there you'll get all the functions that
+are there in that class very easily okay
+in many so in this case let's see so if
+I if I want to know what is there in
+math right in math so in in in ipython
+especially if a type dot and if I type
+tab so I just perhaps typed tab okay
+those of you can't here look at this
+math dot I don't know what is that what
+what is to be there so if I just type
+tab it will autofill it will give me all
+these values again this is very specific
+to ipython and jupiter notebooks so i
+can go here and they say what is pi okay
+there is pi here okay and i can i can
+just execute it and it will print pi
+again this is called as autofill or
+smart fill there are more there are much
+better integrated development
+environments that also tell you
+given a function it will tell you what
+are all the parameters in that function
+so there are better and more complex
+ideas for Python the reason we use
+ipython is because it's it's much more
+widely used in the machine learning
+community to see how things are working
+step by step
+right so ipython or Jupiter is something
+that is very popular in the machine
+learning community and that's why we are
+using here but if you are using a
+different ide for python it will have
+autofill smart fill smart suggest all of
+those things okay so somebody asked this
+question okay so we talked about private
+attributes yesterday the question here
+is how do private methods work do they
+work very similar to private attributes
+yes they work exactly like private
+attributes let's take an example so I
+create a class see look at this I create
+a class see again please understand that
+I am using Python okay okay I should
+have said okay sorry there is a small
+typo here but that's okay not a major
+issue so Class C right so if you notice
+anything which has two underscores again
+this is a convention
+these are all conventions these are not
+rules of the programming language when I
+say again rules are something there two
+differences anything that is a rule of
+the programming language you have to
+follow it otherwise it will go crazy
+conventions like this like double
+underscore if you have this this is a
+convention that all the programmers
+agreed upon but how it behaves depends
+on the implementation of the Python
+interpreter if you are into again we are
+using a Python interpreter to execute
+this code right it depends on the Python
+interpreters implementation so the
+convention says again when I say rule it
+has to be strictly followed convention
+is something that everybody has worked
+on but its behavior depends on the
+Python interpreter okay there are two
+different things so yesterday we saw
+that by convention if you have two
+underscores this will behave like a
+private member right again
+there could be some Python interpreters
+which will get which will not throw an
+error there are some Python interpreters
+that will throw an error the one that
+I'm using now throws an error what am i
+using now I'm using the default one that
+I get in my okay where is it okay I
+didn't run it okay so let me just run it
+anyway I think I'm using version three
+if I'm not wrong but let me just check
+just give me a second insert cell above
+imports this print sister question I
+think I'm sorry
+so again system basically is a module
+which has a bunch of interesting
+functionality yes so I'm using three
+point seven point three and I'm using
+the the interpreter built in C version
+number ten point zero point one all of
+that stuff cool so in this in this again
+remember that having two underscores
+makes a member whether it's an attribute
+or a method does not matter here this is
+a method yesterday we saw private
+attributes this is a private method so
+now let's see what happens
+so this private method is called within
+the class okay I'm so I have class C let
+me explain this code snippet quickly
+right so I have class C which has a
+function which is underscore underscore
+PR which is a private method
+a private function and I have PU because
+there is no underscores before this I
+treat it as public by convention this is
+not a rule it's a convention that's a
+subtle difference that's important so
+within PU I am calling this function
+okay again there should be ok right
+because it's in the same class a private
+member should be accessible within the
+pub with within the other members of the
+same class it's not accessible from
+outside ok so now let's see so I said
+seeing equals to this
+ok I'm creating a variable called lower
+case C of Class C I say C dot pu4 okay I
+think there is a small error in the code
+but let me just execute it yeah so the
+error was slightly off but anyway so now
+what happens I created this I execute
+this now what does it do again remember
+that there are no underscores here so
+it's a public method so it will go it
+will pass for here x equals to 4 now
+within this I am calling the private
+method so what is it cut saying self dot
+I again with from within this public
+function I can call the private function
+nothing stops me from doing it right so
+I passed to power 4 is 16 plus 1 I
+returned 17 17 is being printed no
+worries enough when I when I call this
+remember the convention says if you have
+double underscore it's a private so if I
+if I try to call this private method
+from outside right look at this I'm
+trying to call this from outside the
+class from within the class there is no
+problem when I call it from outside the
+class what happens look at this it says
+has no C object has no attribute
+underscore underscore PR so it says it
+has no object at all to start with so
+now one thing that you can do here so
+you've just run this right you can use
+dar here to help you so if you say print
+dir see yeah
+print dar see yes the syntax is right
+look at this so print D arcy what should
+it do it will print all the functions
+that are there in this class see now if
+you notice like all these so look at
+this you
+pee-yew here you have your PU here the
+public function you also have your PR
+but PR is not as PR PR is done
+represented using this look at this the
+again the others are all being basically
+see the Class C is is is deriving from
+object that's where you get all these
+other other functions but the PR
+function is not there s PR function it
+is there as underscore C underscore
+underscore PR again this is a hack that
+Python does internally just to cover up
+its private its private variables or
+private class members okay this is
+something there is there is a so okay so
+this is often called as name mangling so
+in the documentation that I shared
+yesterday also
+so private instance members right
+whether it is a whether it's a variable
+or a function doesn't matter so what it
+does is it internally represents this
+using this concept called as name
+mangling which may again that is for
+internal for internal details again if
+you want to learn that you have to learn
+the internals of how Python stores all
+these things internally right so when
+you're when you write DRC you see the PU
+which means you can it's a public
+function so you should be able to call
+it but the PR is not available PR is
+represented like this which means it's a
+private function which you cannot come
+so given any class if you want to know
+which are private and which are public
+the simplest way is to print this
+anything that you see in the simple form
+like this at the end they are all public
+this is private again both private and
+public the Tuda the double underscore is
+a convention let's not forget that the
+double underscore is a convention right
+some interpreters respect this some
+interpreters do not the interpreter that
+I am using which is the interpreter in C
+language version 10.04 one or this whole
+thing this is following this convention
+it's not a rule it's a convention okay
+sounds good now okay next comes some
+somebody has a very good question
+yesterday again right so so okay sorry
+okay so there is no problem with speed
+right I just want
+to ensure that before I continue okay
+okay
+Oh somebody's asking can we call okay
+that's a good good question can we call
+it using this so let's try it I don't
+think you can call it but let's try it
+again
+I'm not annex internals expert but let's
+try it why not
+insert cell below again I think that
+will be slightly
+implementation-dependent
+but let's try it right seedot so we have
+variable C right we have variable C what
+did we call here we called okay we call
+this so instead of calling this so what
+you're suggesting here is let's call
+this with C underscore underscore C is
+that what it is
+underscore C underscore underscore pr4
+oh it worked yes so it worked so
+somebody asked this question it's a good
+question so can we access the private
+variable from outside using this syntax
+again that is implementation specific at
+least the interpreter that I am using is
+letting me do that because again
+remember the whole concept of private
+methods is a convention it is left to
+the interpreter and programmers to
+figure it out
+so within within again if I call again
+this is a question that somebody asked a
+very good question I just bumped into it
+right so again in some interpreters this
+might work in some interpreters it may
+not work in this interpreter it's
+working just wanted to make that clear
+right again any doubt you have just
+write five lines of code and you will be
+able to figure it out that's what I do
+very often because I don't remember the
+internals of Python programming so well
+that I just try it I just say okay I
+don't know let's figure it out in five
+minutes what is that it's not rocket
+science again from him from if I were a
+software engineer designing production
+quality C code I should be knowing much
+more internal depth than this obviously
+but as a machine-learning guy because
+I'm not going to go into internals as
+much it doesn't really matter okay so
+yesterday somebody asked this question I
+think they wore a C or C as the never
+C++ programmer so just like public and
+private in C++ there is this concept
+called as protected so again
+blick private and protected are keywords
+in Python in C++ so somebody asks do we
+have productive members in in in Python
+ok again remember that in Python
+everything is public by default it is
+only convention that if you put two
+underscores it will make it private and
+if you want protected and I'll tell you
+what is protected with an example
+protected one underscore makes it
+protected now let me show you what
+protected basically means okay so the
+definition of protected in C++ in C++
+the production the the definition of
+protected is this this variable whether
+it's a whether it's a function or
+whether it's a it's an attribute it is
+accessible in all subclasses but not
+from outside the class that's a
+definition in C++ right that's a
+definition in C++ so let's modify the
+code that we wrote a while ago and what
+I'll explain you with examples right
+cool so now what do we have okay so
+double underscore double underscore
+basically it is private do two two
+underscores again it is implementation
+dependent and it is a convention
+suggested right so you have private and
+you have public cool both of them are
+cool now if you inherit it look at this
+so this is private this is public right
+so this is where things get very
+interesting I'll introduce you to
+protected with a small example so I have
+C here let me use a different color I
+have class C here and I have Class D
+there is try again remember that private
+and protected our only implementation
+specific conventions not part of python
+programming i can't reinforce eyes this
+in python by default everything is
+public it is just implementation okay I
+can write a Python interpreter where I
+don't give a damn about double
+underscores or single under underscores
+so it's left it's a convention that is
+used ok so now come back let's let's
+come back here you have double
+underscore PR and you have P you right
+now now let's let's let's go end ok so I
+have class D which inherits from Class C
+so within Class D I have function f1 f2
+cool all this is good now let's do a
+couple of very interesting things first
+I would say print D arcy
+I want to see what all stuff are there
+see in see if you notice we have seen
+this earlier right your private function
+is there as a underscore C underscore
+underscore PR your public function is
+there as public itself cool that we have
+understood what about B so I create an
+object of type D and I say print did D
+now in DD what do you have this is
+interesting in D will be look at this in
+B look at this in D what all functions
+do I have defined F 1 F 2 so I have F 1
+F 2 because I have defined it in the
+definition of D and D is also inheriting
+remember the D is inheriting from C
+which means everything that is there in
+C will come here so if you notice
+carefully you get P you here you get P
+you here right you get PR also here so
+when I say dildey I get this also right
+and if I say print D dot again one more
+interesting thing suppose if I have this
+okay so very interestingly one more case
+okay so my D has whatever is there in my
+C is coming into my D along with it I
+have two more functions F 1 F 2 now here
+comes the interesting part now if I call
+print D dot F 2 with 4 as the variable
+then what happens
+let's see what happens I pass my 4 here
+I think I think I have to execute this
+there is a small error somewhere in the
+code let me also execute this ok fine
+cool I wrote to power I instead of to
+start star eyerly err I was doing some
+other notation mad my bad
+anyway so the moment I call this look at
+let's see what happens here I go to F 2
+F 2 is being executed with I equals to 4
+then what is f 2 calling internally it
+is calling tu now where is PU there PU
+is there in Class C right remember she
+has Class C has PR and PU from this I I
+have D D has F 1 and F 2 I always draw
+diagrams like this so that it's easier
+for me right so I call d dot F to for
+could be has F 2 I go to F 2 and of F 2
+internally calls PU it can call PU
+because PU is a public function right so
+it will it can call it work perfectly
+no issues now comes a funny part okay
+now instead of that now let's look at
+this look at imagine if I call it D dot
+F 1 d dot F 1 and if I pass for what
+happens enough okay suppose if I say
+print if I write this line print D dot
+f1 for if I'm not written it that's
+there in the next next thing but I want
+to show with the code if I run this what
+happens first D has F 1 so I go to F 1
+there is one parameter this parameter
+value will be for now I am saying self
+dot underscore underscore PR look at
+this I'm saying underscore underscore PR
+but then PR is a private member of C PR
+is a private member of C now now the
+question here is again in this
+implementation in this implementation of
+the interpreter can I access PR what am
+I doing here if you think about it from
+a subclass D is a subclass let's not
+forget that from a subclass C is a some
+laser subclass C is a parent class this
+is this is the cont
+this is one of the terminology is also
+used in C++ C++ Volvo was one of the
+first optional programming like was all
+the first objective programming
+languages so a lot of terminology came
+from there so not what happens look anis
+I am calling a private function in the
+parent class from a subclass this
+implementation gives an elephant so this
+implementation says if you have a
+private class in the parent class you
+cut you can only access it in this class
+you can only access this function in
+this class any private member whether it
+is an attribute or a method you can't
+access it even in your subclasses so
+when I execute again remember in this
+Sigma this is all implementation
+specific unfortunately okay so a private
+variable again in C++ also a private
+variable or a private function you
+cannot access it in subclasses right
+cool this is simple right well now let's
+see let's see when I execute this line
+when execute this line let's see what
+error I get I know how to fix it also
+enough so if I say D dot f1 for you just
+say
+the object has no attribute underscore D
+underscore underscore PR and what does
+this mean look at this what does it say
+it says I don't know D underscore
+underscore PR I don't know how to run
+this look at this it says I don't know
+how to run this I just can't run it
+because in D when I when I inherited it
+D from C look at this when I inherited D
+from C the private function was not
+inherited but here comes the interesting
+part but if I want to call this if I
+want to call this is there a way around
+in this interpreter in this
+implementation of the Python interpreter
+there is a way around because the moment
+I said print B a or D what did I get
+where is the pure function the pure
+function is called underscore CPR this
+is what I have now right so if I just
+change my implementation so if I just
+change my implement instead of calling
+self dot this if I say self dot C dot
+double underscore PR because in my in my
+class D when I said better be I have
+this no I have this so if I do this I'm
+assuming that in this implementation it
+should work let's try it let's try it
+okay no error so I'm calling h1 for now
+let's see if this works
+yes it works look at how I've changed my
+code earlier what did I have earlier I
+just had
+again this is implementation specific I
+am repeating it multiple times earlier
+what did I have I just had self dot
+underscore underscore PR I that did not
+work right because of the name mangling
+thing that Python is doing but instead
+of calling it like that if I just call
+it using this name it was working how do
+I know I have to call this name again I
+somebody just asked a few minutes back I
+just tried that a while ago I tried this
+here right it was working because it is
+working in this implementation of Python
+I said when I do print drd I'm seeing
+this function here which means I should
+be able to call that function what stops
+me from calling that function nothing so
+I just call that function it is working
+right again this is a confusing part
+whenever you are using a Python
+interpreter you be very careful to check
+for all these cases because
+implementation-specific but name
+mangling is something that is done in at
+least in the official interpreter that
+is given by by python dot over G this is
+how it's implemented because to the best
+of my knowledge I am using the official
+Python interpreter okay sounds good now
+okay all this is good now what if what
+if what if I want slightly different
+stuff okay there is this concept called
+protected right the way protected works
+in C is also in C++ is this so if I have
+a Class C if I have class B again we
+represent protected by convention using
+a single underscore private by two
+underscores public no underscore that's
+that's that's the that's the convention
+in Python right suppose if I declare
+suppose if i declare a function like
+this let's say i say PR or protect PR or
+let us call it protected right let's
+call it protected here now if i if d
+inherits from c right so what is
+protected
+technically in c++ predicted is
+accessible in all subclasses so in this
+subclass i should be able to access
+protected but i should not be able to
+access it outside the class but here in
+this implementation what happens here is
+okay let me show you the code so that it
+becomes clearer in this implementation I
+can access it okay let's go through so
+protected in Python is one underscore
+public this underscore this is to
+underscore remember convention and not a
+feature of the programming language it
+is implementation dependent again you
+can read the documentation here now
+let's see okay let's let's see slightly
+modified version of this I have class C
+again here single underscore so it is
+protected by convention protected due to
+one underscore again it is convention
+implementation dependent I just always
+mentioned that then I have C so what do
+I have now let's write down the
+structure here I have C which has
+underscore P R and P you and I have B
+which has F 1 and F 2
+now within F 1 look at this in F 1
+I'm using the protected method and I
+should be able to use it right I mean
+it's a protected method right
+technically I should be able to use it I
+have a public method public anyway I can
+use
+but to be very clear let's actually
+print the beers again deers are useful
+if I just say DRC look at this this is
+very interesting if I say DRC and print
+it look at what all i get i get my pu
+but I get my PR my underscore PR I don't
+get name mangling look at this name
+mangling is not happening name mangling
+is not happening if you remember if I
+put double underscore if I made it a
+private variable the name mangling was
+happening like this right earlier we saw
+this C double underscore PR this was
+what was happening for private right for
+for protected when I just do one
+underscore nothing is happening no name
+mangling is happening for protected
+because in this official implementation
+of Python they actually don't care about
+protected well if you want protected in
+the programming language you can use the
+convention here this single underscore
+PR is just being treated like a public
+method I'll show you how in this
+implementation again I am using the
+official si Lang interpreter that is
+given by Python Otemachi right so the
+single underscore PR look at this so
+okay this is where I run it look at this
+it so when I run okay let us look at
+this code right D f-14 okay so I'm
+calling f1 right so I'm passing for this
+is calling underscore PR no errors it is
+giving me an answer no error see if I
+even execute this it gives me an answer
+comfortably it gives me an answer of 60
+no errors but now here comes another
+question remember this is single
+underscore earlier for private methods
+we could not call it from outside the
+class look at this I have Class C in
+Class C by convention this is protected
+and this is public right in in Python in
+this implementation of Python in this
+interpreter if I say C equals to C I can
+call the protected method from outside
+the class so the protected method right
+protected method is just behaving like a
+public method in this Python in Python
+3.7 using the si Lang interpreter
+in C++ it behaves slightly differently
+those of you who know C++ so in protect
+so the way protected works in C++ is it
+works like a private variable which
+means you can't call it like this you
+could this won't work in C++ but you can
+access it in subclasses right so the
+whole reason in having protected
+sometimes is those people designers
+those those algorithm designers who
+designed earlier in C++ who want to
+follow the same convention of public
+protected and private they can just
+follow this convention and say double
+underscore basically means private
+single underscore is public and you have
+sorry single underscore is protected
+single underscore is protected no
+underscore is public but this is just a
+convention the Python 3.7 si Lang
+interpreter is respecting private it is
+not respecting the protected definition
+as in C++ I just wanted to make that
+clear another question that came up
+yesterday was constructor overloading
+again this is a way this is somebody
+probably who wrote C or C++ code sorry
+not C code so again it doesn't work in
+Python let me show you an example what
+is overloading suppose if I have Class A
+I am defining two constructors look at
+this this is one constructor I am again
+defining the same constructor there is a
+difference this this constructor is only
+taking one variable this constructor is
+taking two variables which means this
+constructor is different from this
+constructor cool so this is what is
+called as constructor overloading in C++
+right again this is possible in C++ in
+Python what happens is this if I just
+say a1 equals to a10 look at this I'm
+just passing one parameter if this was
+C++ it would actually call this function
+and it would execute without any errors
+Python says sorry I am NOT doing any
+overloading whichever is the function
+that is defined later so it says you
+have defined seats it doesn't give an
+error here for this snippet of code it
+doesn't give an error it gives an error
+here it gives an error for this line
+so what Python says is okay you have an
+init function you are doing one more
+same function with a different set of
+parameters so whatever is defined later
+I will take this I will simply ignore
+this so now if you pass only one
+parameter this will say hey I don't have
+anything which is one parameter so it
+will it will throw an error so what it
+throws is this look at this it says
+again where is the error error is in
+this line it says in it missing one
+positional argument J so what it's
+saying here is the unit that I know is
+this because again remember this is
+there and this is there so whatever is
+the later definition it keeps that the
+uglier definition it will completely
+remove it we'll get rid of it right
+again this is one form of constructor
+overloading this is one form of it all
+right so now in this case it will only
+take the mode the later definition and
+it will make it work cool so that's that
+was one of the questions another
+question also on the other hand if I
+don't use this one parameter if I just
+give two parameters if I just give two
+parameters there is no problem right it
+will take because this is the valid one
+or this is the active one
+this got overwritten here this got
+overwritten only this exists you don't
+have this you know it's other
+programming languages this will work
+without an error this will also work in
+another but not in Python now another
+question can we call other functions
+within in it okay this was a question
+that was asked okay look at this
+can we call another function within it
+why should we not be able to call it
+okay let's see let's see but let's be
+sure let's just write simple snippet of
+code so my in it has two parameters I J
+I am calling another function called F
+cool there should be no problem here and
+I am calling this function f cool I mean
+what is the problem here everything
+should work right but the moment I
+execute this I start seeing an error I
+say okay suppose I go through this I
+said I read name f is not defined why
+the heck name F is not different I have
+defined my function here right what is
+wrong with Python why is it misbehaving
+look at this very simple code here very
+simple code here right again look at
+this
+constructor I'm calling an another
+function in the same class nothing
+nothing crazy same plus I'm calling
+another function they should work right
+the problem here again a very common
+mistake is not using self you should say
+self dot then it will work look at this
+again it's a very common mistake that
+people do is missing out self when you
+are writing your own classes please
+don't miss out self self is extremely
+important because here it didn't
+understand what F is the moment you
+change it and say self dot F which means
+in this object there is a function
+called F call that function the moment
+you do this everything will work right
+that's it that's the only error now
+again so I think yeah we have 10 more
+minutes so these are some of the
+questions that I saw from yesterday's
+session with it which I thought we'll
+cover again anywhere is plan to planning
+to cover protected methods today but
+thankfully somebody asked that question
+and we got it away again the most
+important thing is again if you've
+worked for years on Python and if your
+world as a software development engineer
+you are expected to know the internals
+fairly well right if you have especially
+worked as a software development
+engineer for a few years for machine
+learning folks the internals of
+object-oriented programming
+object-oriented design if you know some
+internals it will help you but at any
+point if you are not sure of the
+internals this is what I do I do not
+consider myself as a very good Python
+programmer because I have seen people
+who know the internals like crazy inside
+out in my own team
+phenomenal senior software engineers I
+don't consider myself to be an expert at
+Python internals I know a few of them
+not not all of them and if I don't
+revise I forget very common right and as
+a machine learning guy I mostly use lot
+of a lot of others libraries and things
+like that so I seldom implement classes
+and objects of my own unless I have to
+extend an existing class so as to help
+my software engineers build it right so
+the amount of object-oriented
+programming that I have written is less
+than 10 percent of my total programs
+that I've ever written all that in
+almost 10 plus
+right as a machine-learning engineer
+machine learning scientist all of that
+right I think I've written less than 10%
+of my code probably when less than 5% of
+my code okay to in object loaded using
+object like I have used object hundred
+programming because I use classes I use
+objects I use all of that but I have not
+written core object-oriented programming
+with multiple inheritance wherein I have
+to know all the internals etc for a
+software development engineer they spend
+almost 70 plus percentage of their time
+writing classes doing object-oriented
+design hence they know the internals
+much better right so everybody has this
+consent so at any point my general
+suggestion is this if you don't know how
+the internals work simple just write a
+simple snippet of code figure it out if
+you are not sure just read up about it
+and write a snippet of code right so
+just one more point in later sections
+will use major libraries again in later
+sections but if you're if you're a
+course participant in the course we use
+lots of libraries also in the future
+live sessions that we are planned to
+conduct in this series we use a lot of
+major libraries either for plotting like
+matplotlib scikit-learn
+the tons of libraries we use again in
+those instances we will revisit some of
+these object hundred programming
+concepts because in there I can actually
+show you the practical aspects in lot
+more depth right now I can't take you to
+scikit-learn and and overwrite let's say
+logistic regression because you don't
+know what scikit-learn does you don't
+know what logistic regression does at
+least I did not expect that to be a
+prerequisite for this session right
+that's why I'm not covering it but as we
+progress in this series I'll surely
+cover more object I will revisit again
+and again the object under concepts when
+we look at other machine learning data
+signs and plotting libraries number one
+number two as an as I exercise what
+we'll do later is we will extend some
+inbuilt classes like I told you right in
+scikit-learn there is this class called
+logistic regression right so we will
+extend some mush somebody asked this
+question in yesterday's live session but
+I
+thought it is not right to implement
+here because there are participants here
+who may not know how scikit-learn
+logistic regression works internally
+right how what what even logistic
+regression does or what scikit-learn
+does because I did not mention that as a
+prerequisite so later on as we progress
+in this series I will extend the
+logistic regression specific I'll extend
+some of these logistic regression I will
+extend the logistic regression class and
+will modify some of these classes to
+suit our needs but that will do later
+after we cover a bunch of libraries for
+machine learning data science plotting
+statistics deep learning etcetera we'll
+do it in a very contextual manner so
+that you are connecting the concepts to
+real-world stuff instead of just
+learning it again remember all these
+that I explained here if you don't
+connect it to practical stuff will
+forget it in no time
+I've forgotten some of this to be honest
+with you I have not used multiple
+inheritance are not I don't recall
+diamond diamond inheritance I know what
+it is I've never used it so I don't know
+how Python behaves in that situation
+right it's very common to forget it so
+it's okay just revise these concepts as
+and when you need better still whenever
+I am in doubt I just write code right so
+that's my suggestion here somebody says
+are can you tell about operator
+overloading I will do that later because
+overloading is operator overloading is a
+slightly different concept we'll
+probably do it at a later time right
+sounds good so any any general questions
+we have like ten more minutes so any
+general questions you have I would
+happily take some of these and again
+we'll announce the next next bunch of
+live sessions on YouTube little later we
+are just still planning what we should
+cover after this oh good somebody says a
+very good form see you say I feel like
+cheating when using a method or class
+directly without actually knowing the
+know-how of it example numpy or any
+other particular research we do what is
+there so the problem here is this one
+c2b ought to be fair to be honest with
+you it's very hard to know everything
+because my question to you is this okay
+suppose we are using nd array okay to
+represent an end
+numpy and we have used it in the
+previous life sessions you can go one
+step below right you can go one step
+deeper and say hey I want to understand
+how ndr is implemented I touched upon it
+in the previous life session right it is
+implemented just as a block of memory in
+and this is all implemented in C C++
+right this is basically a block of
+memory that is used now you can see you
+can go one level deeper you can say hey
+how is this block of memory how does C
+program allocates this block of memory
+okay then you have to know concepts in
+operating systems called virtual memory
+right then you have to go into the core
+of operating system kernel itself then
+you have to go into the hardware itself
+so where do you stop again an
+undergraduate computer science student
+learns many of these things again you
+learn about virtual memory and operating
+systems in operating systems course you
+learn about you learn about hardware in
+computer organization and architecture
+right again the high-level details to be
+honest with you I know the high level
+details but if you ask me specifics like
+okay how does again when you allocate a
+block of memory in C C++ using ml ock
+right what functions does ml are
+internally call imagine if I am using
+let's say Linux operating system within
+the Linux operating system what
+functions exactly is Linux is ml are
+calling or if I'm using the Macintosh or
+the Mac OS what functions is it exactly
+calling how does the C compiler work
+internally again there is this whole
+thing of compiler design that also come
+in here right so there are lot of
+designs my question here is where do you
+stop at an undergraduate level in
+computer science you are given a broad
+overview of many of these concepts right
+imagine if I am if I'm developing a
+compiler for Python right or if I am
+developing a compiler sorry if I'm
+developing a compiler for C C++ then I
+have to read the whole compiler design
+textbook then if the famous dragon book
+write and explain this concepts in depth
+and I have to know many more things if
+I'm designing the compiler because if I
+am designing a compiler for Linux for C
+C++ on Linux I have been a lot of Linux
+internal functionality how does Lucas
+work how do loaders work there is a ton
+of thing again I know some of these
+thing
+because I've refreshed it recently I've
+also taught gait computer science where
+I taught all undergraduate core subjects
+right but if you have not worked in a
+field it's very common to forget it
+so in machine learning knowing these
+things is good but knowing these things
+will not help you solve the problem at
+hand suppose if your problem is okay I
+want to predict what the sales of the
+company next year is right you want to
+build a time series forecasting problem
+knowing these things is great if you
+know it but then your problem is not
+knowing these things your problem is to
+use existing functionality and to solve
+the problem at hand that's what a
+machine learning engineer that's what is
+expected out of it but if you have
+studied undergraduate computer science
+you will have some high-level knowledge
+of all of them if not in depth knowledge
+you can only gain in-depth knowledge by
+actually implementing it if you have
+implemented a compiler of your own you
+will learn it if you have built an
+operating system of your own you know it
+if you have designed a computer
+architecture if you've built actual like
+if you if you have if you have worked on
+eight zero eight five eight zero eight
+six Pentium the other processors or ARM
+processors only then you understand the
+core hardware nobody can be an expert in
+everything so it's okay to use existing
+functionality right okay so again I'm
+just scrolling yeah somebody is asking
+do you plan to cover PI spark in future
+sessions we want to cover PI spark but
+in the context of machine learning only
+right so because PI spark itself is like
+a massive thing like teaching somebody
+whole of distributor again what our
+teaching philosophy at apply da course
+has always been when we teach something
+we want to go into the internals as much
+as possible and do it and the objective
+again we have done a spell session
+called how to use spark for machine
+learning applications right we have done
+we have done a live session on this we
+were thinking that in the future
+sessions we will focus on using spark
+again using spark for the core tasks
+that you have in machine learning for
+example can you build a data pipeline
+do you build a data pipeline in spark
+right of course remember you I'm
+assuming that you know SQL so there is
+something called a spark SQL so we will
+build it in the most popular way which
+is Park SQL instead of writing coding PI
+spark it is much more easy to write to
+build data pipelines in spark SQL so we
+will do that right next if you want to
+do let's say let's assume you want to do
+you want to build some machine learning
+models in a distributed fashion now I
+can implement these machine learning
+models in raw pi spark but why do it
+there are already beautiful libraries
+like spark ml Lib which we can use right
+so we want to cover spark from a
+applicative perspective on applications
+that are most relevant in the context of
+machine learning because PI spark is
+much broader if I have to teach PI spark
+or even spark to its core I think for
+software engineering or distributed
+systems applications again for machine
+learning applications it's very simple
+because people already know how machine
+learning models work they have seen a
+bunch of libraries like tensorflow
+scikit-learn and XG boost they have seen
+a bunch of libraries right they know how
+the mathematics internally works so now
+we just simply using ml live with some
+of course there are some spark specific
+things that they have to know but they
+don't have to be experts at PI spark
+right they don't have to know the
+internals of how spark distributed
+computing actually works they don't have
+to know how ardently how rdd's work
+internally in spark so again most
+machine learning folks use Park
+mostly for building data pipelines for
+building machine learning models and for
+some data analysis and for some data
+analysis so we will cover spark from
+this perspective not from a software
+development engineer or not from a
+distributed systems engineer perspective
+right because that's a whole course onto
+itself
+this we can't cover in two or three live
+sessions this we can cover in a few live
+sessions okay sounds good so
+if you write a class then how other
+people are able to use that class so you
+should just check yesterday's live
+session so in yesterday's live session
+we did this right we took again we just
+took a library so I gave this example
+yesterday which is I built a URL
+shortener called URL short URL final
+right let's assume this is there in a
+library right right if somebody wants to
+change the functionality of it partially
+then in yesterday's session I created my
+URL shortener right as as a derived
+class from this base class so this was
+my base class this was my derived class
+I wanted to use most of the
+functionality of this class but change a
+couple of things whatever I wanted to
+change I just used inheritance I got all
+the functionality here I change whatever
+functionality I wanted that's how you
+extend or you inherit a class and modify
+it to your needs
+so somebody says do you recommend any
+certification for python specifically
+for data science and machine learning I
+don't know you need to be honest with
+you again certifications which are
+proctored by mean by what by which I
+mean anyway so I again in the industry
+certificates especially a product based
+company certificates don't matter much
+to be honest with you but there are some
+certifications which are proctored which
+means there is an in visitor right so
+there is an in visit and you have to go
+to a test center and write a test these
+are given more preference so you have to
+go to a test center so that there is no
+cheating right so there is no cheating
+the test is conducted in a proper manner
+so those are those those tests tend to
+have higher Vantage and Industry number
+one member to the test also has to be
+has to have a high bar it should have a
+high bar if the test is like trivial
+test then the certificate is useless
+right see in the real world recruiters
+say given a certificate can I trust that
+certificate which can only be trusted
+today most of the most of the cases
+where it's trusted is where
+there is a proctored or a envision lated
+exam in a physical location so
+recruiters respect that or companies
+respect that and the bar has to be high
+there are some certifications which are
+actually most certifications don't have
+a high bar and most certifications are
+not proctored or in visited in a test
+center that's why most product based
+companies don't care there are again
+four for distributed systems and cloud
+computing there are some certificates
+that I know of there are some
+certificates by AWS and by asier
+where you have to go to a test center
+and you have to write those tests and
+these certifications are somewhat
+respected by the industry but again the
+bar for them is okay not not too good
+the bar for again I've seen some of
+these tests even for machine learning
+the bar was okay it was it cannot
+measure if you're a really good again it
+doesn't give you that scale that this
+guy is a brilliant machine learning
+engineer
+this guy is an average guy etc because
+both the average guys and the brilliant
+guys get roughly the same marks right so
+some of these certificate if you are
+applying for a machine learning role in
+some of these top product based
+companies I don't think any of the
+certificates that I know of again my
+knowledge is limited here though any of
+the certificates are really really that
+useful for for Python or for anything so
+are NPTEL certificates worthy again I've
+never seen any company taking NPTEL
+certificate seriously because again they
+have the same problem right is the exam
+high bar is the exam being conducted in
+a proctored or in related manner if it's
+not nobody cares to be honest with you
+again I have done I have done quite a
+lot of interviews and I have seen people
+send me all sorts of certificates from a
+bunch of MOOCs and I don't think the
+recruiter ever used those MOOC
+certificates as a criteria to conduct an
+interview
+I don't think so to the best of my
+knowledge
+so if getting a call for Python not ml
+so is it good for that so you're saying
+the certifications again what
+certification are you talking about any
+certification that you take just make
+sure in the real world guys let's get
+let's get real right it is the it is a
+exams with high bar any exam any exam in
+the world where the bar is high where
+the exams are proctored proctored
+basically means there is an inn visitor
+right and there is very low scope for
+cheating only when these two conditions
+are satisfied that the certificate has a
+value it could be even be your degree
+certificate right suppose suppose you
+have a degree certificate or a or a
+bachelor's degree certificate from
+little IIT Bombay or you have a master's
+degree certificate from ISC people know
+that the examinations at IITs and IISc
+are quite hard they are not trivial by
+any means and all the examinations are
+proctored so somebody who has gotten a
+nine out of ten C GPA or nine point five
+out of ten C GPA or in the case of ISC
+the cg pays are all out of it somebody
+who got seven point two out of eight
+CGPA those guys have cleared a very high
+bar and exams are proctored and
+invigilator that's why these
+certificates have a high bar on the
+other hand take some university take a
+Tier three university take or TA I don't
+want to name any universities take a
+Tier three university yes I'm happy that
+the exams are proctored right I'm
+assuming that very little cheating is
+happening again most universities in
+India are truthful to this matter but
+the examination bar is too low they'll
+just ask you some theory questions like
+I have studied in a small university I
+may not be able to call it tier three
+but it's it's a small university in a
+small Engineering College in the
+examination for recursion I will be
+asked to write recursion for Fibonacci
+that's a joke guys that's a textbook
+example at IIT you will be given a real
+hard problem and you'll be told okay
+write the recursive function for this do
+the time complexity analysis do the
+space complexity analysis we were asked
+write the program for Fibonacci so the
+examination is low bar
+that's why universities even though they
+give degrees which are proctored the
+degrees don't have high value that's the
+problem
+this is true across the world not just
+in India if somebody graduates from
+Stanford right stand for exams are
+really high quality their coursework
+you have to do real-world projects to
+get through and all of them are very
+well proctored their process is terrific
+if you are found cheating on any of your
+assignments they'll simply throw your of
+the university first time they'll give a
+one in second time they'll throw you out
+of the University right so they have a
+very high bar of exams and they're
+proctored that's why there is value in
+the certificate this is true for any
+certificate whether it is given by a
+university a company anybody even in our
+apply day a course we try to maintain
+the high bar through our assignments
+right we try to maintain it using
+assignments and we also we don't have
+real-time proctoring but we check for
+each of our assignments if there is any
+plagiarism we just we just don't give a
+certificate this is one of the ways that
+we figured out again we're also
+experimenting right so we also have this
+platform called master ego which we
+build right so in master ego we can
+conduct tests again this is still an
+experimental platform that we are
+working on wherein will give high
+quality tests and we will Proctor them
+using your webcam we'll do screen
+recording we'll do webcam recording and
+we have actual humans and deep learning
+systems that will actually evaluate to
+see if there is any cheating if there is
+even a suspicion of cheating we do not
+give a certificate again I think online
+methods are also slowly evolving to
+create high quality proctoring because
+giving a high bar test is easy right
+it's the same test whether you take it
+offline or online is easy but online
+proctoring and invitation is I think the
+future because then more and more people
+can get high quality certificates low
+quality certificates are useless right
+so I hope I hope you understand that
+sounds good okay folks thank you very
+much for joining in will again please
+please stay please just follow us on on
+youtube if you want to know about future
+live sessions again we'll make these
+announcements slowly as and when we have
+the next set of topics that are ready
+okay thank you very much bye bye

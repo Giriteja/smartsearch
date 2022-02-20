@@ -1,0 +1,3096 @@
+hi friends a very good morning and thank
+you everyone for joining in let me just
+verify if everything is working as
+expected before we jump into the live
+session itself just give me a couple of
+minutes that's the reason I typically
+try to join in a few minutes early to
+ensure that everything is working as
+expected
+let me just hi friends yeah I see that
+everything works as expected
+yeah so again since this is on YouTube
+it's open to everyone you should be able
+to watch it on any device of your choice
+hey good morning folks thank you for
+joining in and yeah
+so since I'm a little early let's wait
+for others and since many of you are
+little early let's wait for others to
+join in and in the meantime we have I'll
+start the session itself at 10:05 which
+is five minutes past 10:00 so in the
+meantime if you have questions please
+shoot them into the chat window I'll try
+to answer as many as possible
+hey good morning folks thank you so
+somebody says please create a separate
+course for live sessions only the
+problem with that again it's a good
+suggestion no doubts about it the only
+problem is for many of our live sessions
+that we do for our registered students
+we go back and refer to the course
+videos a lot so if you have not gone
+through the course videos you may not be
+able to understand it whether it is
+notation whether it is cold weather it
+is mathematics I try and connect back to
+concepts that I have taught earlier in
+the course videos right that's why I
+don't know how this can be well note but
+I will surely discuss with other
+students and our whole team and get back
+to you that's a good suggestion
+thank you near week
+so somebody says give tips for campus
+placements again depends on the
+placement that you're sitting for and
+the type of company that you are
+attending at the end of the day if it's
+a software development role you have to
+be good with programming data structures
+algorithms whether it is services
+companies small companies or world-class
+top-tier
+product based companies most companies
+typically focus on programming data
+structures algorithms there are some
+companies which also focus on simple
+aptitude which is nothing but your
+pretent class mathematics right so yeah
+so yeah at the end of the day you have
+to be good at at least one major
+programming language basic data
+structures and algorithms that you study
+in your BTech first year and second year
+what online that's what it is right
+somebody says how do you deploy bird gp2
+in real time size is challenging yes it
+is challenging so one suggestion that I
+suggest for people who want to use
+bird-like models is either use a cloud
+API like Google API can give you these
+bird-like vectors again if you want to
+really deploy it at scale you will have
+to use some cloud-based system and large
+array of GPUs the challenge certainly
+exists so if you have dedicated GPU
+based hardware that's okay but otherwise
+it's best to use cloud-based systems
+either you host your own systems on AWS
+or Google compute platform erasure or
+IBM cloud or you just make API calls so
+amongst all the cloud service providers
+one of my favorites as far as machine
+learning api is is concerned is google
+GCP well google google compute platform
+may not be very good for other tasks for
+AI and machine learning based ApS it's
+one of the best out there so you can
+just give your app you can you can just
+make these cloud API calls to get some
+of these wet books or you can build your
+own cloud-based infrastructure because
+on AWS if your Google compute platform
+you get GPU instances right that's
+that's the best way to deploy to be
+honest with you especially if you have
+high compute deep learning
+with lot of compute requirements
+so okay somebody says almost all
+companies attend your campus okay we are
+talking about campus placements my
+suggestion is this okay so I mean you
+there there are tons of resources on the
+internet where you can find interview
+questions ask that the company that is
+visiting let's say um Amazon is visiting
+just Google search for Amazon is de
+interview questions right you get
+hundreds of them try to see whenever
+you're preparing for these software
+development engineer interviews please
+make sure that given a question
+typically data structures are algorithms
+question you should solve the whole
+question including code in 20 to 25
+minutes that's a typical expectation
+from the interviewer especially for an
+SD one rule right so you read a problem
+the problem might require dynamic
+programming some graph algorithms some
+data structures whatever it is read the
+problem it will take you a couple of
+minutes try to come up with a good
+solution with a decent time and space
+complexity right and then implement it
+you should be able to do this whole
+thing in 20 to 25 minutes because
+typically for most of these interview
+questions the code required is not
+humongous if you use a modern
+programming language like Java Python
+even C C++ the code will not be more
+than 30 lines of code right so what the
+biggest mistake I see lot of folks do is
+they don't practice coding but the
+interviewer say say they'll go to a
+whiteboard and write code or they'll
+give you a document and say type your
+code here write in such so there are
+people who practice these questions read
+an answer come up with the algorithm but
+they don't write code but in the real
+world writing code is as important as
+coming up with the code coming up with
+the algorithm of the solution with good
+time and space complexity number one
+number two when you're writing code
+please make sure to handle the boundary
+cases gracefully that's a very important
+thing that is expected out of
+entry-level software engineers okay so
+before we dive in folks
+we may not be able to I may not be able
+to answer all the questions because of
+constraints of time so if there is
+anything that I am NOT able to answer
+either in this open-ended
+or in the live session which is which is
+related to big data storage technologies
+please shoot an email and we'll respond
+back to as many as possible
+as early as possible right so okay what
+are these questions okay okay so again
+folks please avoid typing the same
+question and again again because you're
+just occupying the space in the chat
+window like Vishal asks a question but I
+don't understand what this question is
+can you discuss the basic idea and frame
+of work and tool which will be performed
+so I don't understand that question so
+anyway I look at the other questions so
+so somebody says do you have plans for a
+full stack developer again we are
+looking for phenomenal instructors to do
+these multiple courses as in when we
+find a good instructor
+we are certainly keen on starting a full
+develop a full stack developer course
+also but currently we are still on the
+lookout for some good world-class
+instructors with great experience and
+real-world knowledge right so as a stat
+student this is a very good question
+from Gotham so as a statistic student
+how can I compete with BTech or
+engineering students so to be honest
+with you stats students I'm assuming
+you're not just a beast at but you also
+done your master's in statistics or I
+may see in statistics or as some
+universities forgive it's an M stat or
+an MSC statistics so as far as machine
+learning data science roles are
+concerned and M stacked with good
+programming knowledge is equivalent to a
+BTech in computer science with the
+statistics and the data science
+knowledge actually there are roles for
+which M stats and I may see statistics
+and mathematics force folks are
+preferred than BTech computer science
+because a bit of computer science folks
+are very good with expected to be good
+with programming data structures
+algorithms but not as much as with
+statistics but a message statistics for
+sorry folks are expected to be very good
+with statistical analysis so if you're
+anime see statistic student please try
+to become good at programming basic data
+structures algorithms
+not nothing too advanced basic data
+structures algorithms and you should be
+able to compete with BTech CS folks for
+data science and machine learning rules
+fairly easily because your depth of
+knowledge of Statistics is significantly
+more than a typical BTech whether it's
+computer science or any other department
+even EC folks you are supposed to be
+better than them because you have
+studied statistics and applied
+mathematics and core mathematics or pure
+mathematics itself much more rigorously
+than a CA student okay so somebody asked
+a very good question Rohit ah I'm a bit
+confused if you get a role where you're
+your compensation is less than your
+current role but you get a role in
+machine learning data science should you
+take it or not that's a very good
+question
+you should first if the compensation
+that you're being offered for a data
+science or machine learning role is less
+than your current comp first you should
+talk to the recruiters and say folks you
+should at least match okay so try to get
+it to the matching level so that you are
+not taking a financial hit number one
+most companies would at least match
+number one number two is the the
+potential to grow in data science
+machine learning roles is significantly
+more than other traditional roles which
+have been there for a long time for
+example imagine if you are a QA engineer
+or a testing engine all right so if
+you're a QA engineer your potential to
+grow will be significantly less both
+financially and in terms of career then
+a data science or a machine learning
+folks right so let's assume you're a QA
+engineer making let's say 10 lakhs per
+annum I'm just making some numbers up
+right with some experience
+suppose somebody offers you a machine
+learning job with let's say 9 lakhs per
+annum just talk to them and tell them at
+least match my comp when the match your
+comp right
+you're not losing on it financially now
+from 10 lakhs with some experience right
+and by building on top of your skills
+you can certainly grow significantly
+faster as a data science guy Banaszak
+you a guy so if you look at it even if
+you get the same compensation if you
+look at look at it from a five-year
+horizon perspective you'll be much
+better off from a data science role so
+lot of people do
+this mistake they look at compensations
+as a one time jump please don't do that
+you should look at compensations and
+growth from a slightly long-term
+perspective because most of us will work
+we'll have a career of at least 35 to 40
+years right so don't don't just say okay
+hey I'm not getting I'm not getting a
+hike here so I won't go
+probably the role is so good that you
+get to learn so much and you get to grow
+a lot again this is my own career from
+my own career I have made choices where
+I got slightly lower compensation but I
+got terrific roles where I could grow
+and learn a lot and I picked those roles
+like when I joined Amazon I had
+competing offers from other top-tier
+product based companies where the
+compensation was slightly better than
+Amazon but in Amazon I was one of the
+earliest machine learning scientists in
+her whole org so I knew that this will
+be more like a startup where I get to
+learn a lot and grow a lot so in the
+long run of a five year time that I
+spend at Amazon I got to grow a lot I
+got to learn a lot which I may not have
+had if I joined another company where I
+had a competing offer with a slightly
+better salary so please try to look at
+your career from a longer lens from a
+five-year horizon rather than the
+instant jump that's very important so
+somebody says does Amazon hire fresh
+shots for a male role yes there is a
+role called applied scientist one ok
+there's a job family called a flight
+scientist there is a role called applied
+scientist one which is parallel to
+software development engineer one that's
+where most freshers are hired at Amazon
+for machine learning roles freshers who
+are typically bachelors or master's
+degree holders typically PhD students
+tend to join at applied scientist to
+write and from applied scientist one to
+two if you work for a couple of years if
+you deliver good results you can easily
+go from applied scientist one at Amazon
+to applied scientist 2 typically PhDs
+join at applied scientist two right so
+that that should give you a sense of it
+right so if you're a bachelor's or a
+master's degree student Amazon does
+higher ed applied scientist one and
+there are more people there then at
+higher levels to give you to give you a
+perspective there ok
+so this is a good question I'm recently
+hearing a lot of imbalance between work
+and life at product based companies how
+does your experience pan out again
+amongst product based companies there is
+a huge variance right I know I have my
+classmates my close friends it also
+depends on the company and also the team
+right I'll give you my own perspective
+when I joined my team I was the first
+machine learning scientist and I had a
+very good friend of mine from a Yahoo
+Labs days who was a manager great friend
+of mine so we were just building so many
+things and nothing existed so we were
+more in a startup mode and in a startup
+mode we were putting in like 12 13 hour
+days consistently day in and day out
+there was a lot of work pressure but
+there was also a lot of potential to
+learn and grow right so there were there
+there were a couple of years when we
+were in that mode but as a team grew as
+a team grew to a massive team spread
+across both Bangalore Silicon Valley and
+some folks in Seattle as a team grew the
+workload reduced but more managerial
+effort started coming into her into her
+shoes right so no team will be always
+boring no team will always be like like
+crazy workers but compared to other
+companies Amazon and Facebook tend to be
+more more I would say workaholic more
+work oriented where there are there are
+very strong measures of performance
+taken into consideration as compared to
+other product based companies right so
+we often joke that people who survive
+Amazon for one year can comfortably
+survive for a very long time because the
+expectation Amazon moves very very fast
+as a company right again this could
+change I know people in Amazon and some
+teams who are bored right so it's not I
+can't draw a single paint single picture
+for all the teams at Amazon some teams
+they'll be they'll have very good
+work-life balance nine-to-five
+government job type stuff will be some
+teams at some periods of time where
+there
+put in 12-hour days there will be some
+teams where I mean people are like bored
+that happens in every company but there
+is a higher chance of finding a higher
+growth and more learning work at
+companies like Amazon and Facebook of
+course I'm not saying companies like
+Google don't have great work there are I
+know teams at Google I have colleagues
+and friends at Google who doing terrific
+work again it all depends boils down
+more to the team than to the company
+itself ok so let's see okay sounds good
+it's it's already ten or seven so we
+have overshot a little so I will pause
+this chat based answering let's jump
+into the live session itself let me
+start sharing the screen I hope
+everybody can see the screen let me just
+refresh and check if everybody can see
+the screen just give me a couple of
+minutes okay okay so since everybody can
+see the screen just confirm if everybody
+can see the screen enough okay so this
+is the live session that I wanted I've
+written some notes here I'll give you a
+lot of pointers okay so I hope everybody
+can see this let me just cross-check
+okay okay okay I hope everybody can see
+the screen so let's get started with
+this a today's session is called big
+data and cloud storage for machine
+learning and AI right so we'll focus on
+various types of data storage
+technologies from the 1970s to today
+why some of them came into existence of
+course it's impossible for me to cover
+everything because I mean this is
+typically a multi semester subject if
+you're studying especially a graduate
+level right so this is a massive subject
+I know people have done PhDs in these
+topics so by no means I can cover
+everything in depth in this short
+duration but I'll try to give you one
+second let me just check if everything
+is okay yeah uh-huh okay so there is or
+there is a screen skew I see one second
+so is everybody able to see the screen
+clearly just let me check
+oh there seems to be a small hiccup just
+give me a second I'll just fix this just
+give me a second folks
+can everyone see the screen let me go to
+youtube and see if everything is as
+expected
+it's cropping it's for some reason it's
+cropping it's not fullscreen okay let me
+just fix it give me a couple of minutes
+I'll do this let me just do this quickly
+mmm
+or else I also have a PowerPoint backup
+in case something like this happens okay
+just give me a second let me see how the
+PowerPoint works in case there is a
+problem with this let me see so we are
+not seeing the full screen for some
+reason screen share display capture just
+give me a second
+just give me a second Creative Cloud
+um okay is this better than uh uh let me
+see let me just check I think this is
+fixed now right so I'm hoping it is
+fixed yeah the screen share has a small
+hiccup I'm just trying to see if the
+screen share is working as expected
+just give me a second
+[Music]
+mmm-hmm just give me a couple of minutes
+folks
+I'm just trying to set this right mm-hmm
+or else let me start and there is one
+too we just have the display display
+capture okay
+of course okay okay
+Mic Check Mic Check okay so let me just
+see if this is better than off just give
+me a couple of minutes I'm just trying
+to adjust okay this seems to be working
+so let me just do a full-screen can you
+guys check unable to see full screen I
+understand is this better off can you
+guys confirm mmm I'm in the full screen
+mode okay
+is this better not let me just refresh
+everything okay not yet
+yeah so let me okay you're still seeing
+is this better enough okay let me go to
+OBS to window no cropped none okay like
+a display captured - okay this is
+working display capture settings
+yeah
+just give me a second none okay okay let
+me see how I can fix this
+okay I'm trying to adjust so as to
+squeeze everything in just give me a
+second I think this is just okay so I
+hope we should have this not yeah I'm
+hoping you should have this snuff yeah
+you should be able to screen the full
+screen off let me just refresh
+everything just give it a minute
+I'll fix it ASAP this is not about
+window resizing this is this is a no BS
+bug so I'm just fixing it yeah so I
+think it's is you're seeing the whole
+screen so yeah so you might see as
+little sorry for that hiccup I hope we
+are fixed enough okay sorry for those
+five minutes of wasted time but that's
+okay so I'm hoping just confirm if you
+are able to see the screen properly I'm
+assuming yeah
+you are able to see it cool so let's go
+into the session itself right so I'll
+take a break in between also so this
+session is called big data and cloud
+storage so we look at various data
+stores that are available both in the
+SQL and no SQL and Big Data frameworks
+and we'll also look at how how some of
+these big data storage technologies are
+available on the cloud also specifically
+for machine learning and AI techniques
+there are today hundreds of
+special-purpose databases literally
+hundreds of them right and it's
+impossible to cover all of them so I am
+trying to cover a few of them which are
+most important and give you context
+right so okay so with that let's get
+into the section so here the assumption
+that I'm making here is most of you know
+about SQL and also know at least the
+basics of Python okay so that's the
+assumption that I'm making because
+otherwise this will again even if you
+don't know SQL and Python you will be
+able to understand some of the details
+not all but some of the details but if
+you know this you have a better chance
+of understanding more of what I am
+discussing enough and
+the whole agenda again please understand
+that this is only an overview session
+not a dive deep if time permits we will
+do more dive deep sessions or deep dive
+sessions in the future right today I'm
+just going to give you a big overview of
+special databases both regular databases
+and cloud-based databases right so this
+is what I wanted to cover again this is
+mostly about data stores this is not
+about compute right for example I have
+done a session called big data for big
+data platforms for machine learning and
+a it's a live session that I've done
+publicly earlier there we talked about
+Hadoop and spark and ec2 all of those
+details in lot more detail so this
+session is not about compute it's mostly
+about data storage right so that's very
+important for the story it recognize ok
+so I'm just trying to set the stage
+first is obviously a relational
+databases this is the database that most
+of you may have encountered so if you
+look at some of our free videos in SQL
+we use my sequel as one of the most it
+is a very very widely used open source
+relational database
+there are also Oracle databases that you
+may have used or encountered also there
+are cloud-based relational databases
+like AWS RDS RDS stands for relational
+database service right so first I will
+cover the standard relational databases
+that all of you may be comfortable with
+so that where we are warming the stage
+right then we'll go into flat files ok
+this is this is a typical type of type
+of data storage that is used on Hadoop
+and spark and I will give a quick
+overview about big hive and spark SQL
+again I have discussed this in one of
+the earlier sessions where I discussed
+about how to use big hive spark SQL from
+a compute standpoint right here I just
+wanted to mention this for completeness
+sake because many of you might have your
+data stored on Hadoop or spark and you
+can access and perform lot of data
+pre-processing and data analysis work
+using big hyvent spark SQL so I just
+want to give you a brief of this then
+comes all the so this is your
+traditional relational databases this is
+your flat file based storage which is
+mostly in the context of Hadoop ants
+back then you have all of these are your
+no sequel databases mostly right so when
+people say no sequel databases they mean
+non-relational databases today right so
+very popular database again there are
+hundreds of these no sequel databases
+that I'm not going to cover here just in
+the interest of time okay there is
+Cassandra there is CouchDB the tons of
+them which are popular which we cannot
+cover given the time constraint right
+the first and very popular no sequel
+databases are called document databases
+and it'll give a brief overview about
+MongoDB right then you have in memory
+databases like a radius and memcache
+which are very very powerful which are
+very very useful especially in the
+context of machine learning and AI
+applications similarly there is a whole
+data structure called an inverted index
+and there is a there is a special type
+of data store we don't call it a data
+base we call it a data store called
+elasticsearch you may have heard ALK
+stack where he stands for elasticsearch
+here I'll talk about elasticsearch and
+why it's useful especially when you're
+designing a search engine right then
+there are other special-purpose
+databases and data stores for time
+series data for graph data etcetera I
+will give a brief overview of these
+right so again we will try to cover as
+much as possible in this live session if
+you cannot probably we'll have one more
+live session we might overshoot a little
+in case time doesn't permit if required
+we'll do more live sessions like this
+going in-depth into one or multiple of
+these data stores themselves right so
+let's let's let's jump into the
+discussion again I'll keep taking breaks
+in between and I'll keep answering your
+questions on the live chat so let's jump
+into it
+the relational databases again those of
+you again relational databases is a
+semester-long subjected in undergraduate
+level computer science right so so this
+is a whole subject I've also taught this
+recently for our computer science
+students and also for our gate students
+so this is one whole subject it's a six
+month semester long subject at
+undergraduate level so I I don't think I
+can do justice to this by trying to
+explain everything in 15 minutes right
+but I will give you an overview these
+are databases that started in 1970s
+right Oracle
+was the pioneer in terms of these
+databases and Oracle as a company
+started primarily to build relational
+databases in the late 1970s early 1980s
+right so all these are very popular
+examples of relational databases right
+in again there is a whole area called
+relational algebra but I'll come to it
+you might have heard of Oracle databases
+like or at 11g 18g 1119 see again the
+multiple numbers here Oracle has like a
+huge set of databases of course a while
+Oracle database has started off trying
+to be relational databases now Oracle
+databases can do many other things apart
+from doing traditional relational in a
+basis right my sequel is an open source
+database if you look at our free videos
+for SQL and of course you will see that
+we do we actually use IMDB data on my
+sequel to teach you how SQL itself works
+then there is SQL Server from Microsoft
+very popular especially in the
+enterprise world then there is possible
+SQL this is again an open source
+database just like my sequel again very
+popular in the academic circles then
+there is IBM db2 ok very very
+interesting and very a db2 is one of the
+one of the pioneers of relational
+databases along with Oracle and SQL
+Server and these are some of the most
+popular again there are tons of
+relational databases I am just listing
+the most popular and widely used so
+relational databases are based on
+mathematics called as relational algebra
+again I will not be able to cover
+relational algebra in detail but this is
+the whole area and many of you who have
+used relational databases might have
+learnt about tables right so SQL SQL is
+the most popular popular querying
+language I won't even call it
+programming language I called querying
+language to query relational databases
+right so if you if you know SQL you know
+what a table is you know lots of
+operations like select join group buy
+all of these stuff right so everything
+that you have that we have covered as
+part of our course and as part of the
+free content of our course ready to SQL
+we have talked about it in the context
+of relational databases where everything
+is a table tables are the most important
+structures here then we talk about
+primary key is foreign keys all
+that stuff is here right and the
+relational algebra is the mathematics
+behind SQL right everything that you
+have in SQL can be represented using a
+mathematics called as relational algebra
+again this is something the computer
+science students studied both in
+undergraduate and graduate-level
+right so again this is this is a fairly
+this is not hard but this is a very
+lengthy topic so I will not be able to
+cover into it but whenever you listen
+relational database actually in in
+mathematics a relation or in or in
+computer science in databases a relation
+basically means a table mathematically
+speaking right so relational databases
+are all about tables and they're
+typically used for transactions for
+example imagine you buy something on an
+e-commerce website that is a transaction
+right that's a transaction where you're
+buying something similarly if you book a
+train ticket or a flight ticket
+that's a transaction if you buy
+something from a retail store that's a
+transaction if you if you use your
+credit card or debit card to purchase
+something that's a transaction so
+relational databases war the great
+databases almost they were like
+monopolies from your 1970s to early
+2000s to early 2000s or to early 2000s
+for almost 30 35 years they were the
+Kings right because again most of the
+use cases were for e-commerce companies
+flight tickets all of that stuff right
+again there is a whole area within
+relational databases called transaction
+management systems again I'm not going
+to go into it but I'm just giving you an
+overview right so what are the
+objectives why well why were relational
+databases designed in the first place
+right relational databases were designed
+primarily for transaction driven
+purposes if you're buying a ticket or if
+you are booking something on an
+e-commerce platform they are designed
+for transactions right and remember this
+was they were designed all of this
+mathematics and the early relational
+databases were designed in the 1970s
+late 1970s early 1980s in those days
+hard disk hard disk space was hard space
+was too little people didn't have like
+the terabyte hard disk that we have
+today
+I still remember days
+and we had 8 GB of hard disk space hard
+disk space not RAM HDD ok I still
+remember those days right so this is
+again in early to thousands I saw 8 GB
+of HDD imagine in 1980s I mean hard disk
+was a premium commodity so what they
+said was whenever I'm storing data I
+don't want to store duplicate data so
+one of the most important objective of
+relational databases is how can I save
+disk space while I am storing this data
+because in the early days of computing
+or in the early days of modern computing
+in the 1980s what people wanted to do
+was people wanted to store a data so a
+lot of relational algebra what a lot of
+databases that you study in your
+undergraduate level computer science one
+of the big objectives is to avoid any
+duplication of data so as to save disk
+space that was one of the most important
+objectives right again
+things have changed so I told you that
+relational databases ruled almost till
+early 2000s but after early 2000s right
+especially around 2008 or so right
+things started changing even companies
+like Google started changing the whole
+scene of data storage in the early 2000s
+right around 2000 to 2003 right see
+Google had to store the whole the whole
+crawl of the Internet how do you think
+the relational databases will ever scale
+to a problem like that they would not
+right so in the early 2000s things
+started changing and also hard disk
+prices have started falling dramatically
+right because of the following hard disk
+space people said disk space is no more
+important what is important is speed
+again in the early 2000s as Internet
+applications as Internet applications
+like such ecommerce started becoming
+popular even social networking in the in
+the mid 2000s as Internet applications
+started becoming more popular people
+said I want speed I don't care if we
+have to spend more on disk space but I
+want speed and reliability and
+scalability ok that that's that's what
+companies like Google Amazon Facebook
+brought to the table these are new types
+of applications right so new types of
+applications came up with new type
+of data stores new types of data bases
+right because the classical relational
+databases the mathematics behind the
+relational databases would not scale to
+our new modern needs right so just
+wanted to give you that context here
+that historical context now again if you
+don't understand some of these that's ok
+there are broadly two types of data
+structures that are used in your
+relational databases okay we talked
+about indexing right when we learnt
+about SQL as part of our course which is
+also available in free videos we talked
+about indexing because indexing is a way
+to speed up your select queries if I
+want to select or if I want to filter
+something if I want to filter data and
+get only few rows or few columns of data
+right indexing can speed up these things
+dramatically right so indexing is
+basically an activity of constructing
+new data structures on your datastore to
+speed up queries so indexing as an idea
+came from relational databases
+similarly there are special data
+structures called bb+ trees and again
+this is something that you study in your
+computer science databases course right
+I'll not be able to go into the details
+of it you might have learned this in
+data structures and algorithms courses
+also but mostly people learn it in a
+databases course a B B+ tree is
+basically a special data structure that
+is designed to optimize disk reads and
+writes
+okay I'll not again explaining bb+ trees
+is a 2/3 our topic in it onto itself
+right so I'm giving you a high-level
+overview of where is what right so a
+relational databases want the king till
+early 2000s because everything that we
+wanted to do what transactions tables
+operations like joins filters group buys
+those who are the important things but
+remember SQL is still a very very
+powerful query language which is even
+used today right so let's not forget the
+power of SQL right well relational
+databases are not useful in every
+scenario SQL has been ported to make it
+useful in many real-world situations ok
+so this is the big idea now you might
+say now you talked about cloud databases
+and self hosted databases now what do
+that what does this mean look at this a
+self hosted database basically means I
+buy up our
+computer typically a server computer and
+I installed my database here whether
+it's my sequel or Oracle whatever it is
+this is basically a in-house database so
+this is on premise ok which means in my
+office I have a server room where I
+install this is where I have this
+powerful computer which is a server with
+lot of disk space I install my sequel
+here this is self hosted ok I'm hosting
+my sequel on my own server
+now cloud databases on the other hand
+right again I this server itself I can
+use the physical server that I have in
+my office or I can borrow a server from
+Amazon or Google or any of this so we
+discussed in our in one of the previous
+lab sessions I've got ec2 like ec2 is
+Elastic Compute cloud so you can you can
+literally rent a powerful server on
+Amazon AWS and you can you can install
+my sequel on this like when you do this
+what happens you as the administrator or
+the installer of my sequel you are
+responsible for optimizing my sequel you
+are optimizing your you are responsible
+for backing up data you are responsible
+for everything on the other hand cloud
+databases right have become very very
+popular nowadays and the reason for this
+is suppose imagine imagine a world right
+imagine if I want to create a database
+I'll give an example actually that that
+will make life better so we have a
+database to store all of our user
+comments or user data ok we at apply to
+a course we have a database to use user
+data so one way to do it is okay we
+borrow a we borrow a computer from
+Amazon Elastic cloud again we host most
+of this on amel a AWS and I can install
+my sequel here and I can store all of my
+data here all of that stuff I can do it
+that's one option this is self hosted on
+on a cloud a cloud database on the other
+hand says ok don't worry about you
+taking a box from us and installing it a
+cloud database basically says just
+create a database ok we'll create a my
+sequel database for you you just query
+this database we will look after
+everything in the backend we will look
+after how much compute it requires how
+much storage it requires what backup it
+requires all of that we will take care
+of it
+so in a self-hosted or a self managed
+database of your own you have to do
+all the admin work yourself whereas on
+the cloud database look at this if I do
+this hosting myself I need to hire a
+full time data admin database
+administrator to ensure that my my
+sequel server works well because we have
+thousands of students that we have to
+cater to on the other hand if I say okay
+I don't want to do this I'm willing to
+pay a small additional money let Amazon
+take care of it
+so today we use something called as
+Amazon RDS
+okay RDA stands for relational database
+service so which gives you a my sequel
+server and what we do we just create a
+database there we create our tables
+there everything we do it and let Amazon
+or AWS do all the administrative work
+for us all the backing up it takes care
+of it although some of the optimizations
+also it can take care of it for us
+instead of us having to worry about it
+so some of the database administrator
+what is being taken up right by the
+cloud databases that's why cloud
+databases are becoming more and more
+popular and that's the reason for people
+to move from self-hosted databases to
+cloud databases to cut costs and I can
+also scale imagine if I imagine if I
+want to go from let's say 2000 users to
+10,000 users my database has to increase
+right if my database size or my number
+of computers have to increase or the
+size of my compute resources have to
+increase now I need a full full
+full-time developer or administrator to
+take care of all of this if I'm self
+hosting if I'm using it on a cloud
+database I don't have to worry about it
+AWS takes care of scaling it if I say
+okay this is how many queries I will
+call every second but I want to make it
+10 times that tomorrow it is clearly
+immediately so both in terms of cost and
+speed cloud-based databases are becoming
+more and more popular there is one place
+where self hosted databases have better
+than cloud-based or cloud databases
+which is if companies say we cannot host
+our data on other computers we need to
+host it ahran or on our own computers ok
+for privacy whatever reason force
+against security for cloud databases is
+also terrific nowadays ok there are
+financial institutions which run on AWS
+Azure and Google compute
+platform today right so there are some
+companies whose policies say you can't
+move our data from our own offices to
+anywhere for security whatever reasons
+again American Defense Forces and
+Pentagon itself is using claw is
+planning to move to cloud databases I
+think they have struck a deal with
+Microsoft Azure for that right so again
+though so I hope you've got an
+understanding of why cloud databases in
+general are being preferred especially
+by startups and even by large companies
+and government organizations over self
+hosted databases now having said that
+what are the examples of cloud databases
+there is something called as Amazon RW
+RDS ok relational database server ok so
+again I provided some links for you for
+your additional reading so if you just
+click on this link it will take you here
+right it will simply take you here ok by
+the way so I'll try to give an overview
+of three most popular databases so you
+can just go to aws.amazon.com go to
+products if you go to products there is
+something called as database if you
+click on this database page these are
+all the databases that are available on
+Amazon AWS itself again I can give you
+more inputs about AWS because I have
+worked with some of these actually many
+of these I've worked with while I was at
+Amazon also for our own startup to some
+extent so so these are all the databases
+that are available and I'll try to give
+you an overview of most of these if not
+all of them right so then similarly
+again I was talking to about Amazon
+relationship a relational database
+service what is it not what is an RDS
+RDS basically says whether you want to
+use my sequel whether you want to use
+possible SQL or whether you want to use
+a Microsoft SQL Server or whether you
+want to use Oracle doesn't matter just
+come to our service and say one database
+do you want do you want a my sequel
+database will give you a my sequel
+database you want a PostgreSQL sequel a
+poster a sequel yes we'll give you that
+there logs and other database Amazon's
+own database called Amazon Aurora
+there are other databases like MariaDB
+etcetera all these are relational
+databases so what Amazon RDS says is
+whatever database you want just come to
+us we'll give you an instance of the
+database use it scale it will maintain
+it will will do all the admin work
+for you just use it pairs a small fee
+it's simple as that
+similarly Asia okay so this is also a
+very nice page this is Microsoft Azure
+again I'm trying to cover AWS Asia and
+Google compute platform the three most
+popular ones so on Microsoft Azure
+itself okay so if you go to Microsoft
+Azure go to products there is something
+called as databases here these are all
+the club databases these are all the
+cloud databases that are available on on
+Asia itself right so on I sure if you
+see there is a sure database for my
+sequel right so if you want a relational
+database which is my sequel in the back
+end you just use an insurer database if
+you want an insurer database but
+PostgreSQL you can get that if you want
+an azure SQL database this is a sequel
+servers a database right similarly on
+google ok so if you go to google compute
+platform go to products there is
+something called databases here if you
+click on databases these are all the
+databases that Google has these are the
+relational databases like cloud SQL and
+there is non-relational databases so if
+you go to cloud SQL which is the most
+popular of these because we have used it
+and tried it so if you want a cloud SQL
+you can either get my sequel you can get
+PostgreSQL or SQL Server SQL Server is a
+Microsoft own corporate database right
+so you can get all of this so what these
+companies have effectively done is
+they're like ok if you guys are used to
+using my sequel that's ok
+we'll give you a my sequel instance if
+you guys are used to using Oracle
+database we'll give you an Oracle
+instance ql server will give SQL server
+instance you want possible SQL will give
+you a positive SQL
+write whatever you want use it just come
+to our platform user cloud database
+services right now the most important
+thing here is for for loading data for
+retrieving data for modifying data for
+querying data because that's what that's
+what will most likely do as a machine
+learning or a data science engineer
+right or a data scientist SQL is the
+most popular plot more popular like most
+popular language to insert delete modify
+all of that stuff so if you know SQL you
+can use any of these relational
+databases with minor changes like for
+example my sequel has some additional
+edition
+at additional functionality that Oracle
+may not have Oracle has something called
+as pl/sql which is a small modification
+to SQL itself right so as to make choice
+to write better programs you especially
+for oracle databases so every data store
+uses SQL every data store is compatible
+to SQL but they will add some additional
+stuff on top of SQL which are very fine
+tuned to that to that to that relational
+database right so if you know SQL you
+can use any of them like it we have
+sample and free videos in our course for
+SQL please check it out it's in the
+first module itself where we actually
+show you how to install a my sequel
+server all of that stuff like if you say
+I don't want to install my sequel server
+I just want to use a cloud server all
+the documentation it's very simple
+actually it's about a bunch of clicks
+you can go to RDS again I've sure we
+have done a live session on how to
+create an ec2 instance using AWS
+something similar is there even for RDS
+they're phenomenal tutorials on this
+page just go check it out
+you should be able to create a simple
+for all for all of them not just for a
+SS for Azure and Google compute platform
+also it's very simple to create a my hit
+my sequel database and use it right so
+that's one okay so okay so the next
+prominent type of data store is flat
+files
+what are flat files so if you recall if
+you open a file some of you who know C
+programming right you have this command
+called F open right you might have
+studied this in your BTech first year or
+in the early stages of your higher
+education right you open a file and you
+write something to the file
+similarly in Python I can write and read
+two files Python Java whichever
+programming language you want this is
+simply about storing data in a flat file
+right I'm just storing data first column
+second column third column first column
+second column third column I'm just
+storing data in flat files right so this
+is again when I store flat files on a
+single box okay imagine if I have my
+laptop or my desktop and if I'm storing
+all of this on a single box I can just
+use any major programming language like
+Python or C or any language or Java
+whatever language I have to read and
+write to these files right so
+but imagine if I have a large amount of
+data okay so typically log files like
+this is something that I've seen used
+extensively for every transaction for
+everything that you do on Amazon right
+there are log files that are created
+from by the servers right there's a
+literally huge amount
+they're like petabytes worth of log
+files that are created on daily basis
+these are just plain text files with
+some timestamp information saying okay
+this time so interactivity was done by
+so-and-so user bla bla bla bla bla bla
+bla there's a simple log files okay
+and these log files can be in CSV we
+know what is comma separated value files
+or tab separated value files or more
+recently people are preferring JSON
+files right so your file how do you
+store your data you can just store it as
+comma separated values right all see
+this is exactly like storing a table we
+talked about CSVs and TS V's in our
+codes also right so if you if you have a
+table structure like this if you want to
+store something in a table instead of
+storing it in a table you say this value
+comma this value come and this value
+come at this value that's that's what is
+your comma separated values right so
+jason is a very very popular format
+which has become very popular again
+because of multiple reasons and it is
+Jason basically of let let me go into
+this right so this is okay I don't have
+to I already have this page open so what
+is Jason first of all Jason was
+basically a JavaScript object notation
+Jason was created in the context of
+JavaScript to represent to store data
+right I've given this link in the
+document also by the way this whole
+document I have shared it in the live
+session so if you go below in this live
+session so if you just go below in the
+in the description section I have this
+whole document already shared so that
+you can look at the links also right so
+okay so Jason is a file format like this
+it's a text file remember this is an
+example of a JSON file right so in a
+typical file how do we store our data
+let's look at this in a typical table I
+mean because I you I'm assuming that you
+know about SQL in tables I might have a
+table like this my first name
+my last name is alive right what is the
+age all of those columns or fields
+and for every person i keep entering
+this data they serve i stow in i stored
+in tables in Jason what I do is this
+Jason okay there's a very very popular
+data format nowadays what I do here is I
+clearly mention what is the field name
+like for example let's take the first
+row row one this Row one is represented
+by saying for Row so this this
+parenthesis parenthesis open again there
+will be parenthesis close at the end
+write this parenthesis close so this
+parenthesis open two parenthesis close
+basically means first row within this
+first row I have a column called first
+name value is jump so everything is
+stored as key value pairs here if you
+think about them or the field name and
+the value last name is Smith the third
+one is is alive is true age is 27
+address within address again there is
+street address very city state postal
+code right so this is this again I've
+given a link to this this is how JSON
+format looks like again this is all the
+text file don't forget that this is a
+simple text file where the name of each
+field is followed by the value in that
+field for each row alright so so where
+is a document yeah a document is here
+again you can just go click here again
+with this click you'll just come to this
+example okay again we'll see why this is
+useful when we look at document data
+stores all of that stuff in a little
+while okay but these are three popular
+ways of storing data and I have seen lot
+of companies teams use JSON extensively
+and if you want to create a JSON file or
+read a JSON file Python especially in
+more modern programming languages like
+Python it's trivial to read it right now
+okay flat files are cool when they're on
+a single box you can just use Python to
+read and write files but oftentimes we
+have this on a distributed file system
+in a single see look at this if I have
+let's say you know 10 computers let's
+assume I have 10 computers that are
+connected via of wildin right they are
+all connected via a LAN right computer
+one computer to computer 3 so on so
+forth computer 10 they take him each of
+them have a hard disk let's assume this
+has 1tb hard disk this has 1tb hard disk
+this has 1 TB hard disk and so on so
+forth
+imagine if the data
+I have is let's say five terabytes and I
+want to store okay this is not this is
+not very uncommon especially to Internet
+companies five TB is actually a joke
+okay because we typically work at
+hundreds of terabytes of data or even
+petabytes of data right so when you have
+log files or when you have any data
+which is of this scale how do you store
+this data right what all you have is a
+bunch of computers that are connected to
+very fast ethernet or LAN so what we do
+here is this five terabytes will split
+it into five or so will spread into ten
+ten five or ten 512gb chunks and each
+512 GB chunk we will store it so 512 GB
+will store it here feistel GB will store
+it here files to a frightful GB will
+store it here so on so forth so that
+this whole fight terabytes is
+distributed ly stored on these ten boxes
+right just like the way your computer
+has a file system to manage all the
+files distributed computers use a file
+system called as HDFS this is one of the
+most powerful and widely used file
+systems called Hadoop file system Hadoop
+distributed file system this is the most
+popular data store that is used as part
+of both Hadoop and spark again there are
+lot of internals on how HDFS itself
+works but I am giving a high-level
+overview of how it works okay so when
+you have large amounts of data it is
+split and stored across multiple boxes
+which are connected via an Ethernet
+cable a fast ethernet cable now if your
+data is stored on HDFS as flat files
+remember there is no indexing there is
+no special data structures and up thing
+is there here okay all you have is
+simply JSON files or TSV files or CSV
+files no indexing because if you look at
+it whenever when I was discussing about
+sorry so not this okay so when I was so
+when I was discussing about relational
+databases I told you that there are
+special data structures called B B plus
+trees that are used to optimize disk
+range and range
+similarly lot of indexing is done to
+speed up queries in the case of HDFS
+it's just a file system data is stored
+in a file system in a distributed file
+system that's it no indexing nothing now
+how do you now
+tane data from this from the hdfs and do
+data pre-processing one of the most
+popular languages there is called Apache
+pink again I have been very fortunate
+because I've seen the evolution of this
+programming environment called big at
+Yahoo research when I was there it was
+being built right so what it does is it
+says give me HDFS data right and I will
+be able to do I will be able to run
+extract data do some basic
+pre-processing do all of that for you no
+indexing nothing that's why this is slow
+ping is slow because there is no
+indexing there is luck there is no
+attempt to speed up things but Pig was
+very very popular around pig pig I think
+became very popular around 2009 2010
+right when it was it was being used by
+companies like Facebook companies like
+Amazon companies like Yahoo research at
+that time tons of companies were using
+this right and pig itself is a very
+simple language if you know SQL pig is a
+cakewalk not a pig looks slightly
+different from this but pig is extremely
+simple again I provided a link to Pig
+itself if you look at it let's look at
+this right so let's look at a simple
+simple four lines here it says load data
+from so in so file then it says group by
+this for each generate this so we know
+about for each from Python programming
+right so we know about group by right so
+these are all again this is how pig
+looks pig doesn't look exactly like SQL
+Pig doesn't look like Python it looks
+like a combination of a typical SQL
+program and a typical it looks like a it
+looks like a combination of SQL at some
+programming language Pig is a
+programming environment on its own but
+if you know again this document is
+something that I've used extensively I
+mean I must have read this document and
+referred to this probably hundreds of
+times in my own professional career
+right it's an extra again we have had
+people who didn't know about Pig who
+picked it up over a weekend I've had
+teammates like that right who knew only
+SQL because pig is so simple if you know
+any programming language like Python or
+Java and if you know SQL picking Pig is
+true
+right again I provided a link if you
+want to use Pig and pick pick this is
+one nice document for your other again
+it's extremely simple to pick it up and
+you don't have to know lots of internals
+about HDFS all of that stuff again
+a pig became very popular because in the
+in the early in the late 2000s in
+2009-2010 timeframe there were very few
+engineers who understood HDFS Hadoop
+spark all of that because writing the
+Ross Hadoop code or spark code is very
+very hard so they are so researchers at
+Yahoo research they said ok let's build
+a programming language which is very
+similar to SQL which many of our
+developers and engineers know very
+similar to SQL but slightly more
+powerful than SQL which can work off
+HDFS without people having to write rock
+code in C C++ Python Java all of that
+stuff so pig made life easy and I've
+written like I've written hundreds of
+Pig scripts for data analysis in the
+early days of my career right so while
+Pig was developed at Yahoo research
+there was an other huge development
+called Apache hive this was built at
+Facebook Facebook said ok pig is good
+but Pig is very slow number one number
+two pink is not exactly like SQL it's a
+huge modification on SQL so ping said so
+so Facebook said ok we will build
+something called as Hiva ok hive is also
+a distributed data store on top of
+Hadoop on top of HDFS right so HDFS
+stores all of its data or said Hadoop
+stores all of its data on HDFS so high
+sits on top of this right so how you
+said ok we will have a query language
+called hive QL which is 95 percent
+similar to SQL so if you look at hive
+queries they look exactly like SQL with
+a small modification but I've also said
+why should we use just the flat files of
+HDFS let's build some more indexing
+functionality on top of it so that hive
+is going to be much much faster than big
+and much more easy not just for a
+developers but for our business folks
+again in lot of top product based
+companies not just develop personal xql
+I've seen say
+folks I've seen marketing folks who know
+SQL because they have to actually crunch
+data they have to actually make SQL
+queries to make business decisions so
+Facebook said okay let's build hive QL
+and hive itself which is significantly
+faster than big and which is much much
+closer to SQL and hive today is one of
+the most widely used it's open sourced
+obviously hive is much more widely as
+I've used hive extensively myself at
+Amazon it's still one of the most
+popular big data stores on Hadoop and
+spark right again hive itself is very
+simple if you look at hive queries I'll
+show you an example here ok so look at
+this this is an example from big this is
+how high query looks like look at this
+this looks exactly like a nested SQL
+query right look at this this is about
+drop table all of that load data all of
+that stuff but look at this line this is
+the most important line thread so select
+whatever you want again within that very
+select this is like a typical SQL nested
+nested SQL so this is like a typical
+nested SQL statement right so high fuel
+looks very much like SQL with small
+modifications right so again I provided
+a link to this in the in the document
+itself so if you want to use hive it's
+extremely simple to get hive and
+learning hide QL is much easier than
+even learning Pig it's very much it's 95
+percent SQL right next what happened is
+spark became again Hadoop was the
+pioneer in many ways on distributed data
+stores and data processing then came
+spark again I discuss about the
+differences between Hadoop and spark
+from a compute standpoint in the
+previous life session that we've done
+right in one of the earlier live
+sessions that we've done but spark has
+something called a spark SQL where spark
+says ok can I get the best of everything
+ok spark says ok this is built on top of
+spark spark SQL is built on top of spark
+it is I have all the functionality of
+spark I have all the functionality of
+spark but you can write programs and mix
+SQL along with spark programs written in
+Scala Java or Python
+and spark uses something called as data
+frames earlier it used to be called
+rdd's now they're called data frames
+these are very similar to your Python
+data frames or pandas pandas dataframes
+right they're very similar to your
+pandas dataframes they're just
+distributed data frames right and
+sparkles well said why should i limit
+myself just to connecting to HDFS
+sparkles will set okay I'll connect to
+any data store whether you give me a
+hive data store whether you give me a
+HDFS data store whether you give me
+relational databases doesn't matter I
+can execute spark SQL on any date any
+major data source that I care about so
+companies which use spark you spark SQL
+extensively okay let me open up spark
+SQL page here look at this okay so look
+at this is this very interesting example
+okay some some of you may not know Scala
+may not be able to understand this but
+it basically says okay look in this this
+is an Apache spark this is your spark
+SQL spark SQL sits on top of Apache
+spark now Apache spark can connect to
+any database so some of you may already
+know about JDBC and ODBC that you might
+have learnt in your undergraduate days
+JDBC stands for Java database
+connectivity so if you have any database
+okay if you have any database let's
+assume you have my sequel database okay
+let's say you me have any database you
+need not be my sequel could be any
+database if you want to connect it from
+a Java program what do you do you have
+JDBC that is sitting in between you talk
+to JDBC JDBC talks to database and all
+the communication happens to JDBC
+library right since spark is built using
+Scala right and spark uses the Java
+runtime environment right Scala also
+uses the Java runtime environment
+anything any database in the world which
+you can connect using JDBC you can
+connect it using spark right because
+Park works on Java Java Runtime
+Java Runtime and Java virtual machines
+right so the whole objective here is
+again you can connect to any database
+you can connect to HDFS you can connect
+to relational databases you can contain
+non-relational it abysus nowadays right
+so now you have
+question maybe should I use bigger hive
+or should I use Park SQL if your company
+uses a Hadoop cluster then my
+recommendation is instead of big my
+recommendation is to use high five is
+faster it's much more easier this is my
+recommendation from my own experience
+but you can also use big nothing stops
+you from using pigpig is slightly slower
+that's that's a key now if your company
+uses Park just use Park SQL because it
+gives you everything right now you might
+wonder what is this useful for
+applications where you have hundreds of
+terabytes of data or petabytes of data
+okay anything which is which is a few
+terabytes of data you can use relational
+databases today there are some relation
+at the basis that can even scale to tens
+of terabytes of data but if your data
+storage is in hundreds of terabytes or
+petabytes scale you should prefer to
+build everything on Hadoop or spark
+because and you should I mean if you are
+using Hadoop I would recommend you use
+hive if you are using spark I would
+recommend you use Park SQL alright so if
+your data scale is actually in this
+range then hyvent spot make lot of sense
+where they actually they're they're the
+only options that you have to be honest
+with you right so these are these are
+again these are two important ones so
+I'll answer a few questions and then
+take a quick break before we dive into
+the rest of the session so okay let me
+answer a few question post base where I
+mentioned about PostgreSQL right
+PostgreSQL is also fairly popular
+it's used by okay let me let me change
+to webcam okay so possibly SQL is
+something that is used by a lot of
+academic institutions also used by a few
+companies I've seen that so is big data
+necessary for data science not always
+because not every company has this big
+data data stores right but if you know
+Python and SQL you should be able to
+pick up waste see what is data science
+data science is all about acquiring the
+data that you need right so big data is
+all about acquiring the data that you
+need
+and just give me a second okay it's all
+about acquiring the data that you need
+doing a bunch of pre-processing and then
+building data science machine learning
+models on top of it right now if your
+data is stored in a Hadoop cluster
+you'll have to retrieve the data using
+something like hive and the beauty of
+most data stores today that are
+available is most of them are compatible
+with SQL so you have to know SQL very
+well so even if you don't know how hive
+works internally all of that stuff there
+might be a database there might be an
+admin who is managing a hive cluster you
+just write your hive ql query which is
+mostly like SQL query you retrieve all
+the data and then you do all of your
+processing after that right so what is
+important is knowing all the internals
+of how hive works how hive builds
+indexing that is mostly not necessarily
+for data science folks that is mostly
+what software development engineers and
+big data engineers should know about
+right most data science folks should
+know how to query this how to query data
+from these data stores which you can do
+extremely easily using SQL and modern
+programming languages like Python right
+what's the difference between spark SQL
+and spark so spark is the whole
+distributed computer platform okay you
+can you can write code in spark using
+Scala
+which is which is a functional
+programming language you can write it in
+Java you can also write it in Python
+right well spark SQL is built on top of
+the spark platform so that the end users
+like you and me data science folks we
+don't have to write spark like spark
+code because writing spark code is much
+harder than writing SQL queries so what
+spark SQL is doing for us a spark SQL
+talks to spark itself it's like an
+interface between spark and our data
+scientists like us we're in if I don't
+know how the spark works if I don't have
+the right spark code I can just use
+spark SQL write SQL query which is very
+similar to standard SQL queries that we
+know of and it will retrieve all the
+data that we want right so I hope spark
+SQL gives us an SQL interface to process
+and to retrieve data spark itself is a
+much more complex distributed compute
+and storage platform
+that can do much more than that okay so
+many are saying there is no scope for
+data science is that true I would add
+the other way so today we have we have
+more companies that are willing that
+that are looking to hire from our
+students then the students were
+completing the course in a given week so
+we do this on a weekly basis so we get
+so many so much of requirement from
+companies because they have hired a few
+students of Arts they like the students
+they're like folks we want to hire 10
+more guys do you have people we are like
+ok some of the students are completing
+just give us one more month as soon as
+the complete we will send them to you
+right so the the problem is the other
+way the problem is there aren't enough
+good data science and machine learning
+folks while the market needs tons of
+them this is what we observe okay so how
+data store is different from database
+again I'm using the word data store
+because databases typically is a word
+that is used to mean relational
+databases and no sequel databases HDFS
+is not a little database HDFS is a data
+store where I am just storing data right
+so I'm using the word data store for
+example inverted indices something that
+I'll discuss a while later it's a data
+store it's not a database because
+databases typically mean your table or
+relational databases or no sequel
+databases data store is anywhere where
+you can store databases including a
+database right so okay sounds good folks
+I give me five minutes let's take a
+quick five-minute break
+I just pause the video here and I will
+be back after a quick five minutes break
+and we'll continue with the other data
+stores right so what do we have enough
+so let me let me put up the next slide
+for you the next slide for us is
+document stores okay we'll go into
+document stores again I will try and
+cover document stores in memory
+databases inverted indices and
+special-purpose databases today I might
+overshoot by little but if you all can
+cooperate we'll try to finish as much as
+possible right so just give me a couple
+of minutes I will be back
+okay folks uh I'm back and yeah so let's
+just start in a minute or so I just
+forgot to get my water book okay so
+let's look at the comment section if
+there is something I can care so this is
+a very good question that narsimha has
+asked well no sequel databases like
+CouchDB MongoDB replaced traditional
+sequel databases not always to be honest
+with you I have seen cases where
+relational databases are hard to beat
+okay they're they're really good
+like for example ecommerce transactions
+right again the reason why we have these
+no sequel databases is each no sequel
+database has a special purpose behind it
+whether it is speed or whether it is to
+store documents or whether it is for IOT
+applications or whether it is for search
+they all have specific niche
+applications right and relational
+databases the traditional relational
+databases are still extremely powerful
+right otherwise companies like Oracle
+would have died by now right things like
+my sequel would have died long back
+actually on on cloud services like AWS
+or Google I don't know about Google
+compute platform but on AWS and ensure
+the most popular database service is
+actually the relation database services
+right so I think they are nowhere close
+to dying
+they are extremely powerful but there is
+scope.c this is like this
+and here we only had relation databases
+for alt all tasks now there are
+specialized tasks for which
+non-relational databases make much more
+sense right especially because we want
+speed or we want I'll give you some
+examples like datastore etc right or
+maybe we want extremely wide tables
+where most of the stuff is going to be
+empty whatever it is I'll give you some
+examples while we go through it right
+so difference between Hadoop and spark
+why before that a white pink is good
+even if there is no indexing because to
+be honest with you when you have again
+indexing is time taking if you have a
+raw data on your raw flat files on your
+HDFS why not use big right if you want
+to do one ad hoc query if you if you if
+you are doing some data analysis you're
+doing some ad hoc query Inc right then
+Pig works fairly well again it is slow
+let's be realistic there it is slow but
+I mean if you don't do some specialized
+queries that require indexing that
+require speed why not just do Pig again
+there are big is pig is more non so so I
+like Pig but I also dislike its lack of
+speed so I used both big and high I also
+use Park SQL here and there so okay okay
+somebody is asking about Python and
+spark right so sorry Hadoop and spark
+not Python spark so Hadoop is the
+earlier of the distributed platforms
+wherein wherein so and Hadoop became
+popular when Ram was small but disk
+space was large right so the
+intermediate results that are computed
+are always stored on disk and not in RAM
+in Hadoop right so spark came along I
+think spark became popular in 2012 2013
+2013 2014 right how do you became
+popular around 2008 2009 right so there
+is almost like a 7-year gap and spark
+was designed and built at Berkeley
+one of the great places for distributed
+systems and operating systems so what
+they did was around the 2013-2014 time
+the size of RAM was also increasing so
+spark said why should all the
+intermediate results be stored on disk
+like Hadoop if we can store it in memory
+let's store it in memory
+right so spark tries to use that the
+growing amount of RAM on our systems
+much more efficiently than Hadoop itself
+that's a basic difference that's why
+spark tends to be faster than Hadoop if
+you have more RAM on your boxes in the
+distributed system that that's the core
+of it again there are many many more
+details that we can go into but we'll
+have to get back to a discussion right
+so okay okay where are we here yes
+so we are back here and okay so let's
+jump into document stores right so when
+many people say documents when many
+people say no sequel they often mean
+document databases as no sequel but
+document databases are one type of no
+sequel now in in SQL see in the
+traditional relation in a basis
+everything is table centric everything
+is about a table in a document database
+this is not table centric this is
+something called as a document centric
+I'll explain you what is document
+centricity in a couple of minutes and
+why document centricity is very useful
+right so since this is not table centric
+people said this is not like SQL or not
+like traditional relational databases
+right so now what is the document okay
+that's the first question that you have
+okay I'll give you some again MongoDB is
+one of the most popular document
+databases out there
+I'll give you I've given some reference
+links here now what is a document a
+document is a JSON file it's a text file
+or an XML file for those of you who
+don't know what is XML okay let me just
+show you this I think I have it open
+here yes so this is your JSON file right
+I've showed you JSON file what is a JSON
+file yes and file has these curly braces
+in which I have C this is what is a
+document so remember in your in your
+traditional databases you have tables
+right you have tables you have multiple
+tables each table has multiple rows and
+you join tables if you recall you join
+tables to get more data and why did you
+marry do first not ready to split the
+data between tables to avoid duplication
+of space to save space that's what
+that's a core object of relational
+databases in something like a document
+store we everything is a document so
+this is a document this is document 1 a
+document typically modern document
+stores or document databases it's stored
+as a JSON file ok so it's not in a table
+it's a text file and this is what is
+called as one document you can store so
+if you think the other thing about it
+are row in a table can be thought of as
+a document because this is all the
+information that you will store in
+typically in one row here this is
+so you can either store it in JSON file
+Jason is one of the most popular ones or
+you can store it in XML if you remember
+XML looks very much like HTML okay with
+contact so this is a conte within
+contact there is first name last name
+phone cell phone what there is address
+all of this type again XML was very very
+popular in the early 2000s but slowly
+people move to Jason right but most
+document stores today let you either use
+XML or JSON there are other ones also
+there is by Sun be som which is binary
+Jason basically and things like that now
+okay this of this is one of the best
+pages okay this is from MongoDB
+documentation what is a document store
+okay so first of all what is the
+document okay let's look at this so
+typically this is this is one of the
+best diagrams I think I have this
+diagram yes I have this diagram here
+okay so look at this okay so we'll come
+back to this statement schema fields are
+dynamic for example okay let me answer
+the sake actually suppose if I have a
+table like this okay for a person okay
+let's say you might have multiple
+columns first name last name all of
+these things suppose this is my table
+one okay now there might be some people
+suppose there is there is person one
+here there is person two tomorrow if you
+want to add a new column here let's say
+you might want to add a new column let's
+say a grade okay suppose I want to this
+column didn't exist if I want to add a
+new column I can add it in relational
+databases when i adding relational
+databases let's go four percent to I
+give grade A for everybody else it will
+be null because for everybody else it
+will be none which means I am unless see
+where I have when I have a column like
+this which I'm adding later or if I have
+a column where only very few of these
+rows have a valid value most of these
+are not I am just wasting space here
+I am simply wasting space here if I
+store everything in one table number one
+right so to about this what do we do we
+create a new table okay let's assume
+there is also an ID okay let me show you
+this example okay so I little humanly
+one large table okay let's call it table
+one okay so same table I'm just drawing
+it here ID a bunch of
+fields so let's assume there is a field
+called grid a bunch of fields okay
+single table so let's assume only for a
+but only for a small subset of rows here
+only for some of them the grade is
+available for most of them it is null so
+what is happening here there is a lot of
+wastage of space so in relational
+databases what do we do we track we we
+change it into toe tables what do we do
+with we create two tables table two and
+table three right what do we do in table
+two we store all these fields except
+grade so we have ID we have all of this
+we don't we don't have grade here so we
+create one more table where we have ID
+and grade right for any person if I give
+given an ID if I want the grade what do
+we do we join these two tables right we
+join these two tables we do something
+called as an email joint if you record
+if you know SQL so what does relational
+databases say relational databases say
+if you have a column which is mostly
+empty break this into two tables and use
+join for most of these tasks but what is
+the problem with join joins are
+expensive imagine if I have to compute a
+join of these two tables for every for
+every column with this ID even if it is
+indexed I will have to go and check for
+this and then combine them so joins are
+very very computationally expensive but
+relational databases ask us to do it
+because relational databases try to
+optimize a disk space they try to
+optimize disk space not necessarily the
+speed right this is one of the biggest
+flaws of relational databases relational
+databases says ok you can join the table
+but imagine if the data is humongous
+internet scale data joins can be
+extremely expensive imagine if I have 1
+million rows here and if I have 100 rows
+here look at the cost of joining all of
+them even if I have indexing if I don't
+have indexing it's worse off right so
+what document store says why are we
+storing information in two tables why
+can't I store everything in just one
+document problem is solved right so
+again this is a very
+nice diagram again I've taken this
+Dagenham from MongoDB documentation let
+me just see is there a hiccup of any
+sort just give me a second oh I forgot
+the screen share I'm sorry I'm sorry
+folks I'm sorry I'm sorry my bad my bad
+sorry sorry sorry sorry my team just
+reminded me that I need to screen share
+sorry sorry sorry sorry sorry my bad my
+bad I'll repeat this I'll repeat this
+I'll repeat this my bad
+extremely sorry I'm extremely sorry I
+will repeat I'll repeat everything okay
+my bad I just lost it okay so okay so
+you have your document databases
+okay I'll repeat the document databases
+I'm very sorry about this screen share
+yeah I hope I've done the screen share
+right so yeah the screen is shared
+everybody is let me just verify that
+everybody can see the screen my bad
+just give me a second
+can everybody see the screen now let me
+just verifies my bad okay everybody
+sense can see the screen now I'll repeat
+the document store part no problems I'm
+sorry so okay so let me just stick to
+the screen itself from right so document
+stores are not table centric they're
+document-centric so now what is the
+document so here I have the links here
+right that I just showed you okay so
+what is the document here a document you
+can store a document using using JSON
+that we have seen and each row okay so I
+think I have I have the drawing here
+okay I've drawn a lot without realizing
+it sorry my bad so okay so okay so this
+is what I was trying to I was trying to
+tell you so this this entry here that
+you have this first name address hobby
+everything this is document one right so
+typically what you want to store in one
+row is what is typically typically
+referred to as one document you can
+store it either using JSON or using XML
+but people the Grist space storing nulls
+right and relational algebra and
+relational databases say you can always
+use joy and operation to combine these
+two tables and get whatever you want but
+the biggest problem with join is joins
+are hyper expensive in the real world
+why are joins expensive think about them
+imagine in the especially in the in the
+post 2000 where Internet became popular
+well most data is generated on the
+Internet
+if I have 1 million entries here and if
+I have hundred entries here just joining
+these two tables can become very
+expensive even with indexing and 1
+million is a joke for most internet
+companies you can expect this number to
+be 100 million and this number maybe
+even 1 million right so this whole thing
+is basically breaking this large table
+into two tables to optimize for disk
+space at the cost of compute and the
+cost of speed your joins are terribly
+slow especially when the data sizes are
+large right so this is the problem with
+relation in a basis now want to so how
+do document stores avoid that this is
+one of the best pictures again let me
+just
+five everything is all red for everyone
+okay so everything is all right okay so
+okay so four for MongoDB okay look at is
+for MongoDB this is a very nice example
+from MongoDB
+so typically imagine there is an ID
+there is some information there is some
+ID some information some ID some
+information some ID some information
+okay now this data if you use the
+traditional relational databases concept
+relational databases concept okay you're
+storing the data you're splitting the
+data about one person called Mary Jones
+whose ID is one you are splitting it
+into four tables and you will have to
+join all these four tables to get all
+the information about this person called
+Mary Jones now we have the tape okay so
+the reconnection is successful let me
+just check on the live itself I think
+there might be a small small gap here
+please excuse that we should be back
+yeah we should be back yeah I had a
+small interruption so I am back here is
+this better enough I'm back just let me
+know if we are okay they will continue
+Immy
+okay I guess you can see me enough I
+think the connection is back to stable
+let's wait for a couple of minutes
+because my internet speed is pretty good
+I mean it constantly shoots above 60 and
+most of you can see let's wait for a
+couple of minutes yeah
+64 Mbps is pretty decent speed for most
+of these requirements
+let me just update so can you hear me
+enough you're able to hear me good good
+good good good okay I think it was my
+streaming software that gave up on me
+so working fine okay we can continue
+from wherever we left off
+is this okay now folks I can see your
+chat comfortably okay okay okay
+no it's good okay thank you good job
+good good good let's get back okay now
+you can see without any interruption
+right so where did we stop we stopped
+here right so let's get back to the
+discussion where we stopped so okay let
+me go back and verify if everything is
+all right everything is cool okay so I
+might overshoot this session by a while
+but please be patient I promise you I
+will fix it for you okay so let's
+continue this okay so let's go ahead
+with this okay so in the inner
+relational databases what did we do to
+save disk space we broke up this big
+table into multiple smaller tables right
+but if I want to get all the data for a
+person called Mary Jones I have to join
+these four tables which can be very very
+expensive and why did a DBMS do that
+because this space is more important in
+the 80s when the whole concept of
+relational databases started off what
+MongoDB says is okay why should I do it
+today when MongoDB was designed in the
+early or mid 2000s I think they started
+in around 2007 if I'm not wrong
+mid-2000s to late 2000s they said why
+should we do that today disk space we
+have we have we have hundreds we have
+like terabytes of disk space this space
+is no more a problem speed is important
+right so we have more disk space today
+and disk space disk space is very cheap
+right and what we want is fewer
+expensive joints compute I won't speak
+it I don't want to wait for joints to
+happen so MongoDB says let us try to
+store this data in a very logical
+fashion it says I will create one
+document here this is one document I'll
+create one document for this person
+called mary jones all the information
+about this person will be stored in this
+document only look at this this is the
+beauty of a data document data store all
+the information about a person is going
+to be stored in just one place in a very
+logical manner this is what we
+intuitively think about it right how do
+we intuitively think about data stores
+right we intuitively think about data
+stores this way right all again I've
+taken this from the MongoDB web page
+itself so what is the water white why
+should we use document data stores over
+relation at a bit data stores because
+the data model is very intuitive right
+again my schema or my table structure I
+can change it whichever way I want how
+can I change it whenever I want it's
+very simple today let's assume for these
+users I want to add one more field what
+can I do I can just add one more field
+here let's say you might want to add a
+field called grid I just add a field
+called grid and I will say A for all the
+users who have a grid for the users who
+don't have a grid I will not even have
+this whole a whole field but in the
+relational databases I have to create an
+another table right which which has ID
+and grade and I have one more table to
+join I have to join five tables enough
+not four tables so MongoDB says since
+space or disk space is no more important
+because it has become extremely cheap
+and we want speed we want to get a view
+of a customer or we want to get a view
+of each logical entity like a person
+here in one single shot they said let's
+use let's use document stores right it's
+a very very ingenious idea in in
+databases right again it uses JSON you
+can again it's you can query okay let's
+go back to the slide here this is
+crux of the relational verses document
+stores now you might say but is it fast
+so what MongoDB did was on a document
+store they gave you the ability to
+perform indexing okay so just like in
+your traditional relational databases
+they also have indexing so that it's
+fast to query this database it is also
+extremely scalable on cloud-based
+databases it's extremely scalable I can
+add suppose if I have one box on which I
+have a MongoDB I can add one more box
+and both these boxes can work together
+to increase the size of my database very
+very fast right now how do you how do
+you insert data into a look at this how
+do you insert data into a MongoDB how do
+you retrieve data into MongoDB all of
+that stuff there are four operations
+called as grunt operations in MongoDB
+okay so let's go to this page and look
+at that okay so I think we have this
+year current operations basically mean
+cut basically stands for okay so let me
+open this create you want to create a
+document right you want to read the data
+you want to update data you want to
+delete data and you want to do bulk
+correct so crud CR you D these are the
+four operations for which MongoDB is
+heavily optimized for right and if you
+want to write data into MongoDB or read
+data into MongoDB you can do it using
+any major programming language there is
+something called a spy py
+this is basically how do you write how
+do you perform crud operations create
+read update delete operations on a
+MongoDB using Python okay let me just
+check if everything is working well okay
+yes okay so you can you can actually do
+everything in MongoDB using Python using
+PI again this is a very simple
+tutorial for this it's actually very
+very simple look at this if you want to
+add some data you just say your database
+is called posts here okay do this you
+want to insert a document a document is
+one logical entity that you want so it
+has a function called as insert one
+right here you created a JSON you create
+a JSON you insert it right similarly you
+can you can retrieve one very simple
+there's literally like five or six most
+important commands and you can just
+install pymongo very simple to install
+you can just install it using pip right
+once you install pip event once you
+install pymongo you just say input
+pymongo
+and you can just I mean that literally
+this document is good enough for you to
+get started with pi-bond go with MongoDB
+right again there is no to the best of
+my knowledge I don't know an SQL
+interface but I've used pymongo
+extensively it works very very well
+right so so what is it giving you it is
+giving you when you have data like this
+in when you have data where you you
+might have to break the data into
+multiple tables to avoid duplication of
+data in a traditional relational
+database it's better to use a document
+DP because all the data about one entity
+here like called Mary Jones is stored at
+one place so no joints it will take more
+disk space because I am storing the
+first name for this for Mary Jones for
+someone there is more displaced but so
+what it's giving me more flexibility and
+speed
+nowadays we care less about less about
+this space and more about speed and
+that's what that's why MongoDB is very
+powerful it has indexing scalability all
+of that stuff now on the cloud if you
+want MongoDB what do you do again you
+can download MongoDB install it on your
+laptop try out everything but if you
+want to do it on on a cloud you have AWS
+documental DB so if you just go to AWS
+document to DB here ok I don't think I
+have a link here but you can just Google
+so this is the link you just go to
+document DB it gives you a DB
+instance a table yes doc you meant DB
+gives you a DB instance as if it's
+a DB instance on your laptop you
+just that it stored on our AWS cloud
+similarly I sure has something called as
+cosmos DB right so let's go to cosmos DB
+and show you so cosmos DB is very
+interesting because unlike unlike AWS
+ DB cosmos DB says whatever
+database you want whether you want
+DB Cassandra these are all the types of
+no SQL databases
+whatever database you want I can give
+you any database just like the way the
+relational database is said I can give
+you my sequel I can give you a positive
+SQL I can give you whatever you want the
+a sure the issue has as your cosmos DB
+is very interesting because it says you
+want monger
+give you MongoDB you want Cassandra I
+will give you Cassandra you want proper
+core SQL Olivie core SQL you want you
+want other types of data stores some of
+them I don't know to be honest with you
+I will give you those right so it gives
+you everything that you want okay so
+this is the crux of why document
+databases which is one of the most
+popular types of no sequel has become
+very popular in the Internet age right
+again you might in the real world as a
+data scientist sort of machine learning
+engineer you might have data stored in
+MongoDB that happens I had to work with
+MongoDB because some of the teams that I
+was obtaining the data from stored in
+MongoDB what do I do I install PI
+get the data that I want that's it done
+next comes in memory databases okay so
+there are two very very very very
+popular in memory databases called as
+the Redis and memcached I have I've used
+both of them in the real world
+extensively now what is in memory
+database
+okay let's understand that right most
+databases store the data on the disk
+because disk is where you have most
+space in memory basically means in your
+RAM in your main memory if your data is
+stored in main memory you can retrieve
+it much much much much faster than disk
+we all know that right we all know this
+we all know this fact that ok let me
+just check if everything is again
+working well ok so everything is working
+well ok
+somebody says key value I'll come there
+I'll come I'll come - what key value is
+so in memory basically refers to the
+fact that everything is stored in RAM ok
+so everything is stored in RAM right so
+now people said ok if everything is in
+RAM I can access this data much faster
+than if it is on disk traditional
+databases including document data stores
+store data on disk so what is so ready
+said memcache a one line representation
+of them is they are distributed which
+means all this need not be stored on one
+box because one box may not have enough
+RAM but I could have 10 boxes I could
+use the RAM on all the 10 boxes together
+it could be big I could have let's say a
+16 GB RAM box and let's say you might
+have 10 such boxes I have 160
+B of total ram across all these boxes so
+MongoDB sorry Ready Set memcache are
+distributed they're in memory which
+means they try to store all of the data
+in the RAM itself as much as possible
+they are also key value stores and what
+are key menu in Python we have something
+called as dictionary in standard
+computer science it's nothing but a hash
+table what is the purpose of a hash
+table I can search in a hash table in
+order of one time this is something that
+we discussed in a Python chapter right
+dict is an implementation of hash table
+in Python so these are data stores where
+the retrieval where the search time is
+extremely fast its order of one because
+it's in the main memory it's no more on
+the disk they try to keep everything in
+memory and they are distributed which
+means you can scale them so why are they
+useful if you want to read something
+very very fast or if you want to write
+anything or update something fast in
+machine learning
+give given given let's say you have a
+feature for a person you want to build a
+model let's say let's assume you want to
+build a model you have these features
+this whole data let's assume for each
+person you have an idea corresponding to
+it let's assume you have an idea ok let
+me just use a different so let's assume
+you have a big table like this right
+where you have an ID and feature 1
+feature 2 so on so forth feature 100
+right now you want you want to you want
+apply a machine learning model right to
+apply machine learning model you need
+the features so you get an ID from let's
+say Kim you get the user ID I take all
+the features I pump all these features
+into a machine learning model the
+machine learning model gives me some
+output which I used to make a decision
+now if I store this whole thing in a
+traditional relational database in a
+relational or document database this
+whole thing may be stored on disk if it
+is stored on disk it might be slower to
+retrieve this information on the other
+hand if I store everything in Redis or
+memcache radius or memcached right which
+are in memory data stores which means
+that this whole thing is going to be
+stored in the RAM in the distributed
+fashion right now given an ID see if I
+use my ID as
+he right if I use all these feature
+values as value a concatenation of all
+the feature values if I use it as a
+value this is round like a dictionary
+this is the key and this is the value
+except that this is in memory and
+distributed this whole table this table
+could be large for Amazon this could be
+200 million rows right because there
+there are close to 200 million customers
+for Amazon worldwide right now in such a
+case all this need not be stored in one
+box it could be distributed across
+multiple boxes in a distributed
+environment
+ladies and memcache automatically do
+this for you you give it an ID it gives
+you all these features in just of in
+just like 2-3 milliseconds it you can
+get all of this data in just a
+single-digit milliseconds which you can
+send it to your machine learning module
+which will apply whatever model you're
+training it will give you output right
+so you're in memory data stores or
+in-memory databases like radius and
+memcache are extremely useful for low
+latency machine learning applications
+either to store features or to store
+weights but typically for storing
+weights you can use a simple dictionary
+you don't require a distributed hash
+table but for features miss tubular hash
+tables are very useful similarly in
+memory databases are extremely useful in
+real-time streaming applications imagine
+because this is stored all in memory if
+I keep getting some requests and if I
+want to count how many times this user
+visited my pages what do I do I just
+have a feature here called country count
+whenever a whenever a user visits a page
+I just go I increment it because this
+whole thing is in memory and they can go
+to the corresponding row very fast
+because the key is the ID I can I can
+edit or I can keep track of very fast
+flowing real-time data using an
+in-memory database right so ready set
+memcache are extremely powerful in
+memory data stores but I've so another
+big application of in-memory data stores
+is for database queries database caching
+now what does database caching mean look
+at this let's say this is my traditional
+database it could be a document store it
+could be a it could be a relational
+database
+suppose I have Rana suppose this user or
+a programmer or a data scientist ran an
+SQL query suppose I am trying to
+retrieve some data when I retrieve the
+data from here let's assume I'm trying
+to retrieve the data from here I write a
+SQL query I get the data back I use it
+but imagine if there is other user who
+might also want something very similar
+to that query right but next user when
+he when he goes and queries the database
+has to redo the same work again and
+again instead of that the search results
+of the database the results of the
+database if I can store it in memory in
+a redis or if I can catch these results
+in memory this user when he queries it
+he can directly get the data from the
+ladies from the ladies data store which
+is much faster than going to the
+traditional databases because these
+databases store data on disk right so a
+lot of again in big data architecture
+Redis and memcache are also used to
+cache database search results right
+again if you want to learn about Redis
+you can you can you can insert edit all
+the data under it is using any of these
+programming languages you can literally
+write in every major programming
+language Under the Sun okay you can if
+you have if you have a radius instance
+you can insert data delete data all of
+that in any programming language Python
+being one of them within Python there
+are tons of Piratas is something which
+is very popular the tons of api s-- the
+tons of the tons of libraries which you
+can use to talk to to talk to ladies
+itself and Redis and memcache are so
+powerful that all the major cloud
+platforms have them so AWS has something
+called as elastic cache where you can
+either create a radius or a memcache
+instance Azure has is your cash for
+Redis Google compute platform has cloud
+memory store okay so if you want it on
+the cloud the cloud systems are
+available you can just click on this I
+get these are simply Redis ok and you
+can you can use the radius or memcache
+or you can insert data delete data using
+any major programming language including
+Python ok ok next comes a very
+interesting thing called as inverted
+indices
+very very interesting very very powerful
+concept right so let's go I'm just I'm
+just cross-checking if everything is all
+right
+constantly just to ensure that there are
+no hiccups again so what is an inverted
+index let me give an example okay again
+this is one of the best examples and
+diagrams have come across on the
+internet and this is taken from Hitachi
+up in Tara's website right so on such
+this is web search right on web search I
+have a lot of documents or web pages
+let's assume this is the data on one web
+page this is the data on another web
+page or another document this is an
+another on another web page or document
+right now what do I do I remove all the
+stop words this is my stop word list
+given this I remove all the stop words
+and I create this table and what is the
+table that I am creating look at this
+okay
+I'm creating an ID this term here is
+best for best I created an entry and I'm
+saying best is available in document to
+this term best occurs in document to
+write similarly I'm creating another
+entry called blue again all these are if
+you notice they're alphabetically sorted
+right the second the second word that I
+have again from these documents I've
+removed the stop words we discuss about
+what stop words are in our course videos
+right so Mis basically most often used
+words like a and which are not very
+meaningful so the bright look at the
+word bright bright so there is an entry
+for this word bright and we say bright
+exists in document one and document
+three it exists in document one and
+document three so this is called
+inverted index because what am I doing
+here I'm creating an index here wherein
+I have every word and I have them I have
+the numbering of the documents in which
+this word occurs right begins it's
+called as inverted index because I have
+an index which has all the words for
+every word I have the number of the
+document in which this word occurs now
+why is this very useful look at this
+imagine if I have a search query word
+called bright butterfly sentence suppose
+this is my search query now I want to
+find the documents where both the words
+bright and butterfly exist how do I do
+that right suppose if I if I don't have
+this inverted index I have to
+through each of these documents and
+search if bright is their butterfly is
+their and that'll take a lot of time and
+I could have millions of documents like
+this on the other hand if I have an
+inverted index created what can I do
+I'll search for tube right here because
+this is alphabetically sorted I can
+easily find bright here and I know that
+bright exists in document one and three
+next I look for the word butterfly okay
+butterfly I know exists in document one
+it doesn't exist in document three now
+look at the intersection of these two
+what is the intersection of these two
+document two one which means now I know
+that in document one the word both
+bright and butterfly both of them are
+there so if this is my search query
+document one is most likely a good
+search result as compared to document
+two and document three it's simple very
+simple this is a data structure sput
+inverted indices are a concept in data
+structures in computer science which are
+extensively used in search now this is a
+very simple Thai example imagine this
+with billions of documents where the
+inverted index itself is humongous that
+it has to be stored again we want to
+store this inverted index in memory
+right and we want us to of course this
+whole look imagine Google search or even
+Amazon search for that matter right with
+thousands millions of products on Amazon
+this inverted index can be humongous
+right so this will be stored in a
+distributed fashion in memory but what
+is being stored here the inverted index
+is being stored now how do you do it
+again I've been fortunate to to work at
+Amazon search that the team which works
+in Amazon search very closely and Amazon
+search like most search engines uses an
+inverted index to speed upgrade again in
+addition to this they do lot of machine
+learning this is one of the basic data
+structures that they use in addition to
+lot of machine learning and deep
+learning right so to speed this up again
+what do we want let's let's not forget
+what we want here what we want here is a
+distributed in memory inverted index
+which can scale to billions of documents
+right now what gives you that so
+in an earlier time there were software
+which are open-source called Apache new
+scene and solar ok very popular very
+popular open source software for
+building inverted indices and search
+engines they were very popular from from
+mid-2000s from mid 2004 mid-2000s to
+almost 2000 I think 2013 12 suck right
+they were very very popular then came
+something called as elastic search which
+is also an open source software which is
+also managed by a startup called elastic
+Co which is the most powerful or the
+most powerful inverted index search
+based facility that is available today
+right so today again some people do use
+leucine and solar enough but if you're
+trying to pick something to build a
+search engine especially the inverted
+index part of search engine it's best to
+use elastic search right and there's a
+company called elastic which will help
+you do that again you can query elastic
+search in many many programming
+languages I have I've seen this being
+used so Amazon has something called as
+cloud search which gives you a leucine
+or solar instance while it also has
+something called as AWS elastic search
+which gives you an elastic search
+service and these are actually used by a
+team called a nine at Amazon which is
+responsible for all of search so these
+systems were built by a nine Amazon
+search team and it is used and it's open
+to everyone so that you can also build
+your scalable search engines right very
+again very simple so inverted indices
+sorry
+so inverted indices inverted indices is
+one type of data store primarily
+designed to make your search faster
+that's the goal here right now there are
+other other special-purpose databases
+right so there is something called as
+again I have not used some of these
+special-purpose databases so I'll not be
+able to go deep into it because I have
+personally not used them extensively
+I've read about them but not use them
+extensively so there is something called
+as time series databases
+one good example is something called as
+AWS pie
+stream which they announced very
+recently right which is specifically
+designed for IOT applications and which
+is primarily designed to perform time
+series operations very very efficiently
+suppose if you want to take the fast
+Fourier transform on some time series
+data suppose you're collecting data from
+let's say some heartbeat monitors and
+you want to compute FFT on it right or
+you want to do any time series analysis
+on it right you want to do some advanced
+time series analysis on that storing the
+data in a way to facilitate faster time
+series operations is the objective of
+Time series databases but I merrily
+designed for IOT applications again I
+have taken this diagram from Amazon time
+stream their objective here is if you
+have time stream data whether you're
+getting it from chips whether you're
+getting from Alexa like devices or
+you're getting it from transportation
+devices or industrial equipment whatever
+it is you can just dump all of the data
+into Amazon time stream and on this data
+you can build phenomenal again the
+beauty of this is they give you a
+sql-like interface you can also write
+code in advanced languages like Python
+to analyze all of this SQL time series
+data and you can build machine learning
+predictive and anomaly detection models
+on these time series using this so here
+time series data is stored very
+specifically in a special format to make
+analysis and machine learning modeling
+on time series data much much more
+efficient ok again to be very clear I've
+read the documentation for time stream
+but I have not used it myself so so feel
+free to read it and learn more and it
+you get us all so next comes graph
+databases all right this is also a
+special purpose database so there is a
+database called as AWS Neptune again
+other cloud platforms also have it but I
+am NOT but I don't know them very well
+that's why I'm only referring to AWS
+Neptune and AWS time stream that I know
+of no again you can find that or you can
+find the documentation here again there
+is lot of data which is graph based if
+your data fits into the graph format
+whether you have social networking data
+or recommendation system data or
+knowledge graph based knowledge graph
+data or fraud detection data that you
+can represent as a graph these are for
+big applications again Amazon knows this
+very very well right so if you have data
+again recommender systems as we
+discussed in your course you can
+represent it using a bipartite graph
+right you can represent it using a
+bipartite graph like this right social
+networks we all know there is a social
+graph we know about knowledge graph all
+these things so wherever you have these
+special-purpose
+ok let's go to Amazon Neptune page and
+see that and see what they say about it
+so let's go here so this is elastic
+cloud this is leucine ok this is cloud
+search that I talked to about Amazon
+timestream ok so ok so this is this is
+graph databases again you might wonder
+why do we need graph special databases
+for graphs because there are special
+operations that you want to perform on
+graphs right suppose you want to run the
+PageRank algorithm on a graph or you
+want to find the distance between two
+vertices in a graph suppose you are my
+friend suppose this is me you are my
+friend you have a friend whose friend is
+this suppose I want to compute the
+distance between this person and this
+person the distance is 3 right this is a
+graph operation right or if I want to
+recommend similar products I can post it
+as a graph problem so there are lot of
+real-world systems which can be
+represented using graphs search itself
+can be represented or PageRank is one
+type of search algorithm on graphs right
+so if you have graph data you can use
+Amazon Neptune and the objective here is
+again their special use cases like
+social networking if people use and like
+all of that stuff you can recommend
+friends again this is this is something
+that you can build very easily
+again recommendation systems fraud
+detection and knowledge graphs all these
+sorts of stuff so again I have not used
+Neptune extensively I have read about
+Neptune and there are there is the I've
+read about gremlin also which is another
+very very popular graph database at
+these databases are special-purpose
+databases when your data is represented
+as a graph right so in a nutshell the
+the core idea coming back to our whole
+agenda itself
+right we have understood what relational
+databases are what flat files are
+where do spark pig and hive play an
+important role what a document databases
+and why do we need document databases in
+the modern world in memory databases
+especially for feature storage for
+machine learning and a applications
+inverted indices for such and
+special-purpose databases for special
+needs like if you want to store time
+series data or graph data right this is
+the broad overview of all again this is
+not the big set there is something
+called as columnar data stores which I
+have not gone into right there there's
+some there's a whole area called
+columnar databases right which i've not
+like there is something called as
+Vertica which is supposed to be very
+popular here again I've not gone into
+some of those other databases I've gone
+into some of those that I've mostly used
+or some of the special purpose ones that
+you might be interested in right so
+that's the whole goal here and sorry for
+the couple of hiccups that we have faced
+in in the last few minutes so yeah
+apologies for that but thankfully we
+could finish everything in the one-hour
+session right so sounds good okay if you
+have any questions I could answer some
+of them for the next five six minutes
+and then we can take leave right so yeah
+if you have some questions please feel
+free and I'll try to answer as many as
+possible in the next 5-10 minutes
+so somebody says okay so let me get into
+this questions okay somebody says if you
+want to use AWS again you don't have to
+set up the instance yourself so if you
+go to this so if you go to AWS elastic
+cache so if you want to radius right you
+can just go to this Amazon Elastic cache
+for Redis they give you a Redis instance
+which you can start using you don't have
+to set it up again the whole objective
+of this whole scheme is as I mentioned
+earlier right so we want to move away
+from self hosted databases and data
+stores to cloud based because they help
+us lower the admin responsibility scale
+gracefully reduce costs and improve
+speed right so for many of these
+databases that are discussed today there
+is an availability of readily available
+cloud storage for Amazon you have this
+for Redis you have Amazon ElastiCache so
+you don't have to install it on your own
+box right so how helpful data are
+experienced in Azure and Hadoop in
+learning data science again if you know
+Hadoop if you know other Big Data
+technologies that's great right no I
+mean knowing more never hurts okay to
+put it bluntly if you know more it's
+always good but if you don't know that's
+ok ok because if you so so for example X
+take two candidates right one candidate
+who knows all the Big Data technologies
+but doesn't know what is hypothesis
+testing or doesn't know how deep
+learning works or doesn't know I would
+Adam algorithm in deep learning right in
+the deep learning optimization algorithm
+versus another candidate who knows about
+hypothesis testing who knows about Adam
+who knows SQL but who doesn't know Big
+Data ok most companies will hire the
+candidate who knows machine learning and
+data science for data science and
+machine learning roles because if you
+know SQL and Python you can easily pick
+up all these Big Data technologies
+because you are not going to work as a
+big data developer or architect C if you
+are looking for a big data developer
+role or a big data architect role you
+have to know this Big Data technologies
+inside out but if you are looking for a
+signs are a machine-learning role just
+knowing how to use them how to extract
+data from them using SQL or Python is
+more than sufficient in 99% of the cases
+right okay sounds good so let's look at
+it I can pandas dataframes be used to do
+what's part data frames does not exactly
+because the spark data frames are
+distributed data frames okay so they're
+not stored on one box we see where does
+Park become powerful if you have large
+amounts of data that you want to crunch
+in a distributed environment spark data
+frames play an important role there used
+to be something called rdd's earlier but
+spark moved away from a hadees' two data
+frames because people know about data
+frames from pandas pandas data frames
+are a single box data frames the very
+powerful when I work in a single box
+environment but if you're working in a
+distributed environments party data
+frames are very very more powerful okay
+so where are we so somebody say to take
+a class on AWS actually you can look at
+look at the live sessions I think
+sometime March or April of 2019 you can
+just go to our channel there are earlier
+live sessions just go through them I've
+given our overview about Big Data in AI
+and machine learning and also about AWS
+itself how to create an ec2 instance how
+to install the software that you need
+from that I've discussed that in one of
+the previous life sessions please check
+it out if you're a registered student
+you can just go to the desktop app on
+the live sessions that there is there is
+something called AWS for machine
+learning and for machine learning and AI
+that video is shortly there but if
+you're not a registered student you
+should be able to find it in one of our
+previous live sessions that we have done
+I think I think it's in March or April
+of last year so manoj are you talking
+about ml internship opportunity to apply
+to a course this year we haven't we
+haven't specifically decided on it as in
+when we decide on it like we had
+something last year we had something
+before last year also
+we are still planning this as in when we
+have some an official announcement will
+surely let you know and we'll post it on
+YouTube itself right so you'll easily
+know as soon as we have an internship
+announcement made so oh yeah for readies
+and cash if you want to make things
+persistent it's it's not very hard you
+can always saw everything that is in
+memory you can always have one more
+thread which will dump all of the data
+into disk to make things persistent
+that's doable
+and that's actually done in practice a
+lot because you don't want suppose if
+one of your computers goes down you
+don't want everything to be lost because
+everything is in memory so ready sent
+memcache facilitate a feature wherein
+whatever is there in memory you can you
+can have one thread which constantly at
+a slower rate dumps it to disk just so
+that in case of any power failure things
+don't break down okay okay so somebody
+says you've worked as a DBA for three
+years my sequel what is opportunity
+designs and machine learning one good
+thing that works for you is you know
+about databases very well so you know
+how they work
+and if you can learn the mathematics the
+machine learning and the deep learning
+required we have we have lot of database
+people who come from the database
+domains and software engineering domains
+I'm sorry
+we have successfully graduated into data
+science and machine learning roles one
+big advantage is you already know how to
+tackle with later that's your biggest
+advantage so unlike a typical Java
+developer you know more about data
+storage data manipulation and I'm
+assuming you're much better at SQL
+queries especially complex nested SQL
+queries which makes your life especially
+when you have to build a data pipeline
+or more specifically when you do it data
+analysis you can do it much better than
+a typical Java or a Python developer
+how much programming knowledge is
+required for machine learning you
+certainly need to know the foundations
+of all of a major programming language
+preferably Python because that's the
+most extensively used you have to know
+SQL for sure you have to know the most
+important data structures which are
+available in Python and you don't know
+the most important libraries for example
+you have to know mat plot lib we have to
+know pandas you have to know cyber numpy
+very important libraries in Python you
+have to know preferably some couple of
+machine learning libraries like
+tensorflow
+XG boosts I could learn these libraries
+are very very important in addition to
+basic knowledge of Python itself right
+yeah so
+so yes Python data data frames there are
+implementations of Python data frames
+that can work in distributed
+environments right so in such a case yes
+again SPARC is not just data frames Park
+is also the compute layer on top of it
+right so if you just have Python data
+frames and not compute platform you will
+have to implement the compute platform
+yourself making your life very very hard
+because implementing distributed systems
+algorithms is a nightmare
+I used to write I mean I have written
+some distributed systems platforms
+distributed system code using something
+called as MPI and PVM this is much
+before Hadoop and spark they are so damn
+hard to write code and trust me I mean
+I've been there
+okay so Hadoop and spark make your life
+much more simple it's not just about
+datastore it's also about the compute
+layer the previous distributed system
+compute platforms like MPI and pvm are
+much much harder to write code in than
+Hadoop and spark right so okay folks
+athough sounds good we have overshot by
+a few minutes but thank you all sorry
+for the couple of hiccups that we have
+had but I hope you have had some
+understanding it is a high level
+understanding of all the important data
+stores and cloud systems and why we go
+for cloud and other big data systems and
+yeah so please let us know if you want
+us to conduct more live sessions like
+this please
+please share your ideas too on our email
+address you can just go to apply to a
+course comm we have an email address at
+the top left which steam it applied a
+course we'll try to convert some of
+these live sessions to benefit everyone
+additionally if there is something that
+we could not cover in this live session
+please shoot your email and we'll try
+and answer as many as possible as fast
+as possible
+see buh-bye

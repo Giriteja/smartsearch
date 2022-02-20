@@ -1,0 +1,1715 @@
+should stabilize I'll also just cross
+check if everything is working as
+expected just give me a couple of
+minutes if there is any issue do let me
+know on the on the chat window so let's
+just wait for it yeah so I can hear
+myself so there are no issues here
+sounds good so let's see in the comment
+section we'll wait for a couple of
+minutes for everyone to join in since we
+just started the session right so let's
+let's go into it okay let me also okay
+so somebody says a please make a session
+on Seabourn I think I mentioned this
+yesterday also right so we will do one
+session just on Seabourn library but
+very importantly the reason we are
+spending so much time on python is one
+thing that you all have to realize and
+remember is that libraries come and go
+Seabourn wasn't there when I was
+learning Python when I was using it
+actual tensorflow wasn't there when I
+was learning machine learning right so
+if you are strong in fundamentals of
+Python right the basics of Python what
+are functions how to use them the basic
+stuff that we are trying to cover enough
+if you are strong with foundations of
+Python give it any library you should be
+able to pick it up right
+whether it is Seaborn any other library
+see at the end of the day a library or
+module is simply a collection of classes
+and classes consists of some attributes
+and functions right if you are if you
+are confident with the basics of Python
+again will somebody ask me would we
+cover classes in lot more detail I want
+to cover classes again I think in the
+very first live session I gave you the
+intuitive understanding of classes so
+I'll do one live session just on object
+or programming where I will discuss
+about object about programming not from
+toy examples so not from toy examples
+but by using much more concrete concepts
+of object programming in the context of
+machine learning and AI libraries right
+because I've seen lot of people who are
+good with toy examples who don't know
+how to connect it to real world so I'm
+just waiting for us to finish the basics
+of Python the very very very basics then
+we'll go to object literal the basics of
+object programming again I will not be
+covering object or design
+but by the end of it I think you should
+become comfortable enough to learn any
+new package that is thrown at you that
+is the level of skill that you should
+y'all should arrive at right so somebody
+says please make a live session on
+speech-to-text after long term we have a
+live session now so we have a live
+session on speech-to-text I think it's
+publicly available we did a live session
+called
+using web api s-- so i think that is the
+live session name is called using web
+api s-- right of course this is not just
+the mathematics of speech to text
+because explaining the mathematics of
+speaks to text cannot be done in one
+live session I think we spent some six
+or seven live sessions just to cover the
+basics of Transformers all the advanced
+models attention models birth etc right
+so it cannot be done in one live session
+but if you want a shortcut we have just
+go check out this live session that we
+have done it's available on YouTube it's
+called using web APs
+one of the examples that I take here is
+given speech how do you get text it's
+already available please check it okay
+sounds good ah hey I really want to
+watch the Ramayana and Mahabharata which
+I watched when I was young but I don't
+have bandwidth I I really am looking
+forward to I I don't know when I'll get
+time it's it's a beautiful I mean I
+learned a lot about Indian mythology
+watching these so so somebody says I've
+recently joined the course I've started
+watching YouTube module one watching
+module 1 are these videos helpful for me
+I be shake this some of these module
+some of these that's why I'm giving the
+context now I'm saying this this session
+will be on strings and reg X's if you
+have gone through strings and reg XS I
+think this will be helpful otherwise
+we'll add these videos we'll cut them
+add it to our course videos also so you
+can always watch it later don't worry
+about it
+okay sounds good somebody says his
+MacBook Pro good enough for data science
+of course it's not very good for deep
+learning because deep learning Nvidia
+graphics cards are better but for most
+of it I use a Mac Book Pro myself it
+works fairly well for most tasks okay
+sounds good folks since it's already 602
+I don't want to spend any more time and
+other topics very importantly I have a
+meeting at 7 p.m. so I will have to make
+this a one-hour live session
+unfortunately I could not change this
+timing so today we will do a one-hour
+session we'll try to solve two problems
+but I will make up for this by
+continuing on the same strings and reg
+X's tomorrow also right so that's very
+important so today unfortunately because
+I have a meeting that I cannot skip I
+have to attend so we just limit
+ourselves to one our but and we'll solve
+a couple of problems and I'll go over or
+the basics of reg X's because some of
+you emailed me that you are not
+comfortable in things like that so we'll
+we'll keep going so a couple of
+questions is the mathematics content
+required for for Strings and drag excess
+no you don't require this right so let's
+go into the live session itself I have
+my notes
+okay so sorry so this is also important
+there is a reason why I have this open
+this is also very important I'll come to
+that ok so let's spend the next one or
+as fruitfully as possible wherever we
+stop we'll continue from there tomorrow
+ok so first and foremost since we have
+done some mathematical programming some
+simple recursion some basic stuff right
+we also learned how to fix bugs in
+Python now we will look at strings and
+reg X's this is extremely important
+because a lot of jobs and lot of work
+the data scientist machine learning
+engineers do is around text right next
+is one of the most widely available
+pieces of information at our disposal
+and text is mostly strings reg XS reg X
+is a short form for regular expressions
+right again those of you who come from
+computer science background should know
+regular expressions much better than non
+computer science folks regular
+expressions is something that you may
+have learnt in your theory of
+computation right I mean this is an
+undergraduate level subject in which you
+must have learned about
+finite automata finite automata and
+regular expressions it is the same
+regular expressions here so if you are a
+computer science student and if you're
+going for an interview especially for a
+machine learning role you might want to
+brush up a little bit of finite automata
+also sometimes sometimes not all this
+again if it's for if it I mean even if
+you know basic like X's that's good
+enough don't worry but I just want to
+connect these dots you all learn about
+theory of computation finite automata
+and you think hey this is a math subject
+I'm not going to use anywhere in my life
+but reg X's are so widely used across
+the world right especially when you're
+processing text so I'm going to assume
+that you know some of the basics of
+strings and Python strings and reg X's
+I'm assuming that you know some of these
+but what I will do is since some of you
+may not be very comfortable with reg X's
+I will do a quick recap and it'll
+provide some reference links I'll use
+reference links to recap reg X's right
+and then we'll solve a couple of very
+simple real-world problems problems that
+you would solve as an engineer somewhere
+right next so the prerequisite is some
+basic knowledge of strings and reg X's
+and I'm assuming that you know you have
+gone through some of the previous code
+sessions that we've done in this series
+so that you know the basics of Python
+and how to read documentation and things
+like that again there are a bunch of
+references I'm pointing my favorite
+references are always the Python Docs
+but there are also other nice references
+from w3 schools again w3 schools has
+been one of my favorite places which
+I've been learning from a BTech first
+year because their explanation is very
+simple elegant beautiful geeks we're
+geeks sometimes can become overwhelming
+because there are so much that is thrown
+at you right so first let's go a couple
+of things we'll go through some simple
+examples to understand reg X is better
+again regular Express I can't emphasize
+the importance of regular expressions
+right again today we may not be able to
+cover it but tomorrow I will walk you
+through a couple of real-world interview
+questions that you that that are
+actually as I've asked this myself by
+the way when you go for a machine
+learning interview or even for a
+software engineer interview around rag
+excess around simple Python programming
+it's a very common type of interview
+questions that you will encounter okay
+especially if a computer science student
+more so
+if you're a non computer science student
+people may say okay this guy may not
+know regular expressions as much so it's
+okay again one of the things that I keep
+seeing very often especially among
+students from India again I also see
+this from students across the world but
+more from India is we do not learn to
+learn as part of our education if you
+ask me one of the most important skills
+that you should have that you should
+learn it's it's it's I would call it one
+of the most important life skills right
+just like problem-solving is a
+transferable life skill so is being able
+to learn from resources that there are
+there are like billions of resources on
+the internet to learn you just have the
+Google search be patient to learn right
+so I wanted to show you that in the
+context of regular expressions obviously
+the best place is Python Docs but it's
+very easy to get overwhelmed by Python
+Docs because these are written in a very
+in a very rigorous format again this is
+Python 3.8 documentation regular
+expressions and this is a huge page if
+you see this this is a massive page it's
+very common for people to get lost in
+this huge thing right I completely
+understand that but this is a great
+reference this is this is a type of
+pages that I go to when I forget regular
+expressions by the way please don't
+think that I remember everything in
+regular expressions in Python I don't
+very often I get stuck I just go to
+documentation I read it even while
+writing this notes in the morning today
+I got stuck a few times and I said okay
+let me go read up the documentation
+again if you are writing regular
+expressions regularly obviously you not
+forget it
+but I don't do it of course I review a
+lot of code but then I'm not writing it
+so I've forgotten some of it but I have
+the key life skill that I can pick it up
+within just a few minutes sometimes in a
+couple of parts right then as I told you
+w3schools is a very nice resource if you
+just google search for rec regular
+expressions Python tutorial this is one
+of the things that you get right so I
+want I want to walk you through this I
+hope I've zoomed it enough okay let me
+zoom it in so that everybody can see
+this
+there is there is some distraction but
+again the reason I like w3schools is
+because it is extremely simple to pick
+up a concept there are many other
+resources by the way I'll show you other
+resources also but typically again I've
+learned JavaScript complete JavaScript I
+picked it up over a weekend by going
+through w3 schools I mean I wanted to
+build a website I think in my BTech I
+forgot which year and I thought okay
+what is there I know the basics of
+programming again programming is a skill
+which is if you know one programming
+language picking up other programming
+languages at least the basics should not
+take you much time right so I started
+off my my programming with C++ and
+FoxPro visual foxpro this is this is a
+Windows programming language but then I
+quickly picked up other languages
+whenever I needed
+I wrote code in Perl I wrote code in
+Java I wrote code in Python
+now I've stuck to Python mostly I have
+written code in our every major
+programming I have written code in
+c-sharp anyway so back to this so let's
+look at this reg X is a module right I'm
+assuming you all know what is a module
+module is basically a bunch of important
+functionality put in together so if you
+want to use regular expressions you
+import ari now what i like with this is
+there's simple examples here okay so i'm
+assuming again please understand that i
+am assuming that you know at least some
+basics of regular expressions and
+strings that's my prerequisite here
+please don't so I'm not going to teach
+you everything in regular expressions
+the objective of going through this page
+is to help you understand resources that
+are publicly available through which you
+can also learn of course it will take
+more time no doubt about it but there
+are tons of resources good resources I
+really like w3 schools okay I mean as I
+because I've used it personally so look
+at this suppose if you want to search
+for a string search if you want to
+search the string to see if it starts in
+the and ends in Spain very simple this
+is what you want to do again regular
+expressions are used to do pattern
+matching for example take this string or
+take this text right I want to find out
+if this text starts with the and ends in
+Spain whatever is there in between I
+don't care right how do you write a
+regular expression again
+okay it's always important to read
+others code also when you get stuck
+there is always reference to go through
+right so first and foremost right so you
+say okay this is my text okay what is re
+dot search if you don't know what is re
+dot search just go here and say search
+this is the documentation right so this
+is our e dot search okay what does the
+search function do look at this scan
+through the string looking for any
+location where this regular expression
+matches okay I can go for through the
+documentation here what does it say it
+says I have to give the string look at
+this it is basically scanning through
+the string to find to find the
+occurrences all right so my regular
+expression dot search okay let me go
+back to the original documentation page
+yeah this is a big page as I told you
+now enough okay sorry let me go down
+here okay so here I want to search for a
+string I want to verify whether this
+string starts in the and ends in Spain
+how do I do it so the moment I see this
+I see this cap symbol what does this cap
+symbol mean it means starting and if you
+have forgotten that if you forgotten
+that you can always go to this reference
+look at this you can always go to this
+reference and search for cap right so
+where is this cap okay go down go down
+go up see look at this on the right side
+you can see where the cap is first
+mentioned okay cap this this this is
+called as a cap symbol so the
+exponentiation symbol so where does
+where is it represented okay okay look
+at this
+usually cap matches only the beginning
+of the string and dollar matches only at
+the end of the string so what you're
+trying to tell now is you are saying in
+this text I want to find this pattern
+again this is called the text right or
+the string and this is the pattern that
+I want to match and what is the pattern
+that I want to match
+I want the pad I want this string to
+start in the okay this what does this
+mean this means start with capital T Hg
+then okay so that's the first part
+followed by dot star now what does dot
+star mean if you have forgotten it it is
+just in the documentation yes
+let's go read the documentation or there
+are actually multiple nice
+sources or there's also this page that
+I've mentioned earlier right this is
+also nice operators all the
+documentation ok so let's go here and
+dot there just search for where dhatus
+or dot is there at so many places look
+at all these yellow things ok where is
+dot dot operator ok the special
+character not it's not an operator is
+just a special character dot in the
+default mode this matches any character
+except the newline character right so
+what does this mean this means now what
+does this pattern mean this pattern
+means I want this type dispatch this
+will result this this so basically this
+text will match this pattern if and only
+if this text starts with the followed by
+the second part here look at the second
+part the second part says dollar a dot
+dot will match any any any any anything
+except newline character newline
+characters are your backslash n ready to
+match anything it will match space it is
+patch it will match our it will match a
+it will match everything when what does
+dot star mean again if you don't know
+what star is right you can always go
+here star star basically causes the
+resulting regular expression to match
+zero or more repetitions of the
+preceding regular expression what does
+that mean it's very simple so it means
+so the door will match so this door will
+match this the very good then the dot
+star dot star basically means any
+character repeated zero or more times so
+if you look at this I have a space I
+have our a ie n space ie n space so what
+is happening here
+this dot star will match all of this
+because this is basically zero or more
+characters what is what is it saying
+here is it could be zero or more
+characters then it is saying Spain and
+dollar
+what does dollar mean dollar means end
+of the string so what this pattern is
+literally telling us again this is a
+quick recap that I am trying to do what
+this pattern is telling us is that the
+string should start in string should
+start in the followed by zero or more
+any characters I don't care then it
+should always end in Spain right so the
+good thing
+the good thing with w3schools is you can
+try it try the code yourself you can
+execute the code for example if you
+remember if I change this if I just have
+this painter on the code again they give
+you an online compiler also beautiful
+actually yes we have a match look at
+this this x re dot search right if the
+test if this match works X is going to
+be X is not none X is the result that
+you get right if X then just print it
+else no match what does it print it is
+yes we have a match it is matching the
+Spain also what if I have this will it
+match or not I don't have any space here
+the nothing Spain will it match or not
+just let let's see will it match or not
+it's a very simple thing will it match
+or not I'm looking for some ideas
+somebody says can we have a session on
+web scraping we actually have done a
+session on web scraping using
+beautifulsoup already so yeah okay where
+were we I asked a question right can
+anybody help me with that so the
+question that I asked you here is in
+this with this regular expression with
+this regular expression will the Spain
+work or not yes or no it's a simple yes
+or no no yes okay all over the place no
+no no there are more knows than yes ok
+ok no it will not it will not yes it
+will yes it will ok all over the place
+ok let's run it let's run it I changed
+it right the spin yes we have a match
+why is there a why is there again why is
+there a match again that's the
+importance of regular expressions
+regular expressions can be extremely
+confusing it's very easy to make a
+mistake what does this what does this
+pattern tell us this pattern tells us
+that it should start with the this derp
+is matching this the right so let's just
+strike it off this the is matching this
+the very good then dot star dot star
+means zero or more repetitions of any
+character except except backslash n
+right so here what do you have you don't
+have any characters it could
+zero can what this means is zero or more
+repetitions which means no character is
+also a cat is all means zero characters
+no so it could be zero or more
+characters so after the I don't have any
+characters this pain matches remember
+but this pain matches this pin and this
+is the end of the string there's the end
+of the string that's why this is
+matching so very often people make this
+mistake of ignoring the fact that dot
+star basically means zero or more
+repetitions so when you are learning
+code from external resources it's very
+important for you to try out these
+boundary cases ask these interesting and
+important questions okay again this is a
+very very simple example again in
+regular expressions there are a bunch of
+functions there is something called
+findall which returns a list of all the
+matching occurrences it returns a list
+of matching occurrences of course if you
+want more documentation we can read the
+documentation in Python Docs don't don't
+ignore Python Docs anything at the end
+of the day at the end of the day if you
+go to Python Docs for any function for
+any function that you have as long as
+you know what is the input and what is
+the output and what this function does
+you can use this all you have to ensure
+is that you are passing the right input
+you are getting the right output you're
+processing the output correctly and you
+understood what the function does that's
+all there is
+so today reading the Python
+documentation is the most important
+thing again there are a bunch of
+functionalities here I am assuming some
+of you know this at least again I'll
+describe some of them later on also
+right so again there is a huge list of
+again if you go to this documentation
+right there is a huge list of rules on
+how to write regular expressions to be
+honest with you I don't remember all
+these rules but when I get stuck I go to
+this documentation this is a Python 3
+regular expression operations
+it's a beautiful resource and again
+whenever I get stuck I just search for
+this this is a huge document look at the
+size of this document it's a huge
+document so nobody can keep at least
+because I don't write these regular
+expressions every day if I have written
+this every day there are days when I
+wrote regular expressions they in day
+out I remembered it by heart but I have
+not done it in the recent past so I
+don't remember it
+but I know where to find and where to
+debug things right so it's very
+important for you to go through these
+external resources my suggestion here is
+when you are going through any external
+resource when you encounter any function
+the most important thing is what is the
+input to the function what does this
+function do and what is the output of
+this function right read that in the
+Python documentation read that in the
+documentation this is super duper
+important again there are a bunch of
+functions that you can do I'm assuming
+again those of you who are not
+comfortable with reg X's since this is
+only the first session as I mentioned as
+we as we got started I'll spend one arc
+today tomorrow we'll spend two if time
+permits slightly more than two hours and
+those of you who are not comfortable
+with reg exes I strongly recommend you
+go through these resources and comfort
+tomorrow session ok those who are not
+comfortable those who are comfortable
+will be able to understand what I am
+discussing now again those who are not
+comfortable also can fall but still know
+some of the basics of regular
+expressions and strings will be able to
+follow through what I'm explaining right
+but I've just listed this so that you
+guys can prepare for the tomorrow's
+session better in case you've not
+brushed this up again this is my
+favorite resource library re dot HTML
+this is like literally the documentation
+page ok so let's take a real-world
+problem
+ok so we'll break up this problem into
+two parts first is I want to mask
+personal information in an email or
+phone number you may have encountered
+this right you get an SMS from your bank
+wherein they say ok we have sent a mail
+to so-and-so so-and-so imagine if my
+email address is some some some name at
+something dot this I don't want to write
+a so imagine if this is my email address
+ok imagine if this is my email address I
+want you to mask it and print this email
+address which I'll send using SMS so
+what are the rules
+look at this if this whole thing is my
+email address I want you to keep the
+first character right I want you to keep
+the last characterizes all the
+characters in between I want you to
+replace them with hash with five hashes
+exactly
+right ampersand stays the same the whole
+domain name so let's call it two things
+right this is my name at some domain
+name the domain name stays the same this
+way again what I doing here
+you're masking the email address suppose
+a bank has to send me an SMS saying hey
+we have sent you an OTP to your
+registered email address which is C hash
+hash hash hash hash hash hash hash hash
+or five hashes a @ gmail.com so by
+looking at this I know that yes I know
+my email starts with C my email ends
+with a again that's not my email by the
+way and I know that there are hashes in
+between this way even if someone else
+reads the SMS they don't know what my
+what my email address is they don't even
+know how many characters are there in my
+email address because how many our
+characters are here I'm going to replace
+it with five hashes right so this is
+what is often called as a masking
+problem it is a problem that is often
+asked I mean this is the very simple
+problem Aslan interviews have seen this
+being asked especially not at Ronald
+product based companies for sure but
+I've seen this being asked to some of
+our students it's a very real-world
+problem so I can you mask your email
+address that's the first subtask right
+the second sub task here is given a
+phone number like this look at this my
+phone number consists of digits from 0
+to 9 it can consist of any other digits
+it can consist of space it can consist a
+comma it can consist a - oh it can also
+consist of sorry not comma sorry I'm
+sorry it can consist of sorry it can
+consist of open braces close braces - or
+space for example and it's a 10-digit
+again my phone number look at this phone
+number right the phone number is 10
+digit 'add there are exactly 10 digits
+but again different parts of the world
+right phone numbers differently right in
+the US they write 3 digits followed by 3
+digit - followed by 3 digits - followed
+by four digits in India they write in
+many many different ways so imagine if I
+have a 10 digit phone number which
+consists exactly of 10 digits but in
+addition to 10 digits I could have - I
+can have open parenthesis
+close parentheses or space given this I
+want to mask this so for example they
+could my bank could send an SMS I said
+my bank could send a sender email saying
+I've sent your OTP to your registered
+mobile number which is - - so I want you
+to print this I want you to convert a
+given phone number in this format to
+this format right so the two tasks are
+simple right the first task is email
+masking the second task here is phone
+number masking very simple questions
+right so let's take let's take the email
+masking imagine my string is this again
+my strings are like what I give as an
+input is just my is just a valid email
+address is just an email address what I
+want to output look at this I wanted to
+retain the first characterizes the last
+character in the name look at this in
+the name I wanted to retain the last
+characterizes whatever is there in
+between I want it to be replaced by five
+hashes ampersand the domain name stays
+the same any suggestions on how we can
+solve it let's start with email we'll go
+to we'll go to four digits later let's
+start with email any suggestions guys
+okay so somebody is asking can you share
+the link to this document I'll share it
+by the end of this live session just
+like just like the previous live
+sessions at the end of it I'll put it
+under this under this video itself right
+just like the previous ones
+okay using sub okay the many ways by the
+way there are many many ways of solving
+this there is no single way I mean I
+mean I could think of three or four ways
+myself in just a few minutes so there
+are many ways of solving it use replace
+okay okay split with ampersand and dot
+after this blah blah blah length okay
+okay split people are suggesting again
+you can solve it using substitute there
+are many ways some basically means a
+regular expression subs regular
+expression substitute there many ways of
+doing it yes some of you are thinking
+but try to write the code that that's a
+fun part right so okay so first and
+foremost again if you my suggestion here
+is we don't even have to do lot of
+complex regular expressions for this
+task we can just do it using string
+formatting you don't require you don't
+require any fancy regular expressions
+for this I wanted to show you that again
+if somebody doesn't know what is string
+formatting there is this very nice blog
+I borrowed an image from this block it's
+a beautifully written block I'm sharing
+the link please read it it's very well
+written block this diagram has been
+taken from the program is blog itself
+right so I hope all of you remember
+string string formatting right we all
+like string formatting is used when
+you're trying to print something in a
+specific format so the string formatting
+works like this here what do I have here
+I have a string here right for those of
+you have forgotten this everything in
+double quotes is a string within the
+string see you can call the format
+function on any string right so this is
+a string and I have a format so what it
+does is within the string if I have
+these curly braces 0 so curly braces 0
+is replaced by the zeroeth argument the
+zeroeth argument
+so whenever actually if i if i print
+this if i run this whole statement and
+they print it what I get is a low adam
+so that the parentheses the curly
+parenthesis the curly braces 0 is
+replaced by argument 0 right next look
+at this next what do you have here you
+have similarly you have one here
+again within curly braces within curly
+braces you have one here the one
+represents argument one now we are
+formatting this argument one with some
+number of digits after the decimal and
+the total number of digits being nine
+again this is basically your formatting
+of a float:right this this is basically
+your float formatting right again those
+of you who don't know string formatting
+or if you have forgotten it here is a
+resource that I have pointed to please
+use it it's a very good resource so my
+argument here is I can do it
+without using any fancy stuff I can
+simply use basic string functionality
+look at this okay okay so let's let's
+let's go look at this okay I have some
+okay I have some follow-up questions for
+you also so I'm just writing a function
+this is my s right I'm defining this
+function called mask email wherein I am
+passing a s now first thing that I am
+checking here is if if ampersand exists
+in s if there is no ampersand I mean
+this is not obviously a valid email
+without doubt it's not a valid email so
+what is the first thing that I check for
+if ampersand is in this string right if
+ampersand exists in this string what am
+i returning first I'm splitting the
+string with ampersand so what is string
+dot split if you don't know how string
+dot split works just google search and
+go to the documentation string split
+Python I get w3schools has some good
+resource I'm sure but I prefer sometimes
+reading the original documentation
+because I know split okay where is a
+split function typo split so string
+split okay split STR dot split okay
+string split basically says what is the
+separator okay so returns a list of
+words in a string using separator as the
+delimiter string right basically it says
+what do you want to delimit it with so
+given this string given this string
+given this string it is going to use
+ampersand as a delimiter which means it
+will use this as a delimiter it will
+return all of them as the first string
+it will return all of this as the second
+string so what does it return remember
+what is the input and what is the output
+to this function the separator is one
+input what does it output returns a list
+of words that list of words I am going
+to assign it to name and domain so
+because I know if there exists an
+ampersand this first part will go to
+name right so the second part will go to
+domain right simple so I got the name I
+got the domain now what is it that I
+want to achieve look at this I am just
+writing so I want to print this look at
+this this is basically a string and what
+do I want to print I have my name and
+domain right string dot format name zero
+what is name zero content look at this
+name contains this whole thing so name
+zero will contain a so this a will be
+printed here because dot this 0 this 0
+basically represents the zeroth argument
+here so a gets printed here followed by
+five hashes then the first argument what
+is the first argument name minus one I
+hope you know the indexing of arrays
+right an indexing of strings minus one
+basically means from the last so name
+contains this whole thing from the last
+the first one which is d so it will
+print D here so it will print a followed
+by five hashes followed by five hashes
+followed by D AK it is there then you
+have dollar to assert not dollar to I'm
+sorry uh kernel appearances to kernel
+appearances to is domain so it will
+actually print whatever EFG H com that's
+it
+I didn't use any regular expressions I
+just split the string into the name part
+and the domain part the name part I took
+the first character I took the last
+character again I'm not saying this is
+the only way of doing it this is one of
+the simple ways of doing it all I'm
+using is string functionality I'm not
+using regular expressions here but
+whenever you write code like this you
+should always write boundary cases and
+test cases first and foremost my
+immediate again this is something that I
+asked even machine learning engineers
+write in interviews I used to ask this
+even in my previous companies also I
+used to ask very simple questions and I
+used to ask what happens in this case
+will your code work in this case or in
+which cases will your code fail because
+I want people I want to see people
+thinking Tyrell
+about their code for software engineers
+this is like super duper important
+machine learning all engineers also it's
+important but for software engineers
+because they're going to write
+production quality code any mistakes
+it's a big mess so whenever you write
+any code like this you should always
+check for boundary cases so what happens
+if if my name consists of only one
+alphabet will this work how does it work
+look at this if I do it what I get is
+this and this is in a way good because
+I'm still masking because if I just
+printed a and if I did not print any of
+these hashes you're you're you're not
+serving the purpose of masking right so
+it's a good thing that we masking it
+that that's good now what happens if my
+email does not contain ampersand right
+because I've not handled that case in
+such a case functions default return
+none right so if we call this function
+from some other function we have to
+handle the case that this function could
+also return none right that's important
+that's a boundary case we should handle
+so what if the other problem right so
+what if my email cut my email address
+that I give contains ampersand but it's
+not a valid email address there is no
+dot com here or dot in or dot dot
+something what if what if this is not a
+valid email address the tories there are
+two possibilities one you could say the
+purpose of the mask email is not to
+verify whether the email is correct or
+not for that we'll have to write in
+another function right so as a software
+engineer or as a machine learning
+engineer again this is mostly software
+engineering not so much machine learning
+engineering here but when you write code
+you have to be very careful to handle
+all these cases right so when you input
+this you are getting this output it's
+serving the purpose but you should
+always check if the email is valid using
+an another function if you have to write
+any suggestions how we can verify
+whether an email address is valid or not
+again this is a very very very very
+common interview question as then many
+many companies they they just ask you
+can you can you write a simple function
+to verify whether a given email address
+is valid or not any suggestions or
+somebody says
+how can an email not have ampersand yes
+that's a point right so what if number
+of hashes must match the characters
+present in the mail address you can
+write it again I mean take it as an
+assignment right it's not it's not hard
+you can't do it it's not rocket science
+dot after okay so you're going to check
+whether there is dot after this or not
+okay that's one that's one simple trick
+but again to compose emails there are a
+bunch of rules whether they're a bunch
+of rules in composing emails for example
+when I when I was a student right so I
+used to have so I used to have this
+email address see I think it was warm ah
+oh it was warm ah yes it was warmer at
+IA see dotted net dot in look a this in
+this part there are multiple dots here
+reserved
+again it this email address does not
+work anymore this was the email address
+from almost a decade ago when I was a
+student that instead of science right so
+my email address was varma at IA c dot n
+n dot in so even multiple dots is also
+valid email address again there are a
+bunch of rules that the World Wide Web
+Consortium w3c as it is called as they
+they have a bunch of rules on what is a
+valid email address again you can make
+it very very complex or you can make it
+very simple so let's look at a slightly
+more complex example right so if okay so
+again submit what you just mentioned
+here right which is if the ampersand
+doesn't exist or dot-com not in the
+string hey why don't I just give you an
+example right need not always be calm
+what if it is what if it is something
+like this
+what am I at IAC dot n n dot n it's a
+government of India institution right ad
+net dot in this was actually my my my
+student email address right doesn't have
+it calm right so again interviewers
+could complicate this question I've seen
+software engineering interviews where
+people have complicated this problem to
+such an extent that it would take a good
+software engineer almost half an hour to
+write all
+the cases I've seen this I've seen some
+programming contests and even when when
+companies like Amazon go to universities
+they give this as a as a programming
+task and they say these are all the
+rules now solve this problem and you can
+actually solve this if you know regular
+expressions well you can actually solve
+this in 15-20 minutes at maximum okay
+let's solve again I'm not saying this is
+the best definition I have taken this
+from other interesting sources again I
+have not written this myself I've taken
+it from other sources but I'll explain
+you and step by step right so import
+regular expressions right again I'm
+going to use a regular expression as you
+might expect is valid email address okay
+so as I told you please refer to this
+w3schools
+document if you don't know reg egg
+syntax okay there is also again I wanted
+to re-emphasize that point sorry that if
+you want more tutorial if you if you are
+not comfortable with reg X basics please
+go through these tutorials also go
+through the documentation here I always
+keep the documentation handy because I
+am one type of guy I have a very bad
+memory of things if I don't learn
+something logically I forget it within
+no time okay so I actually got this
+string from let me show you I actually
+got this string from geeks or geeks
+right there are like thousands of
+programs that people are organizing why
+should I put my mind to it let just
+copy-paste that now this is the string
+that I got and this looks like crazy man
+this looks extremely cumbersome like how
+do you make head and tail of it one of
+the biggest problems with regular
+expressions again if you don't know
+regular expression search the way it
+works is this okay so this is a pattern
+that you give this is the pattern that
+you give this is a string in which you
+want to compare this pattern with the
+string and re dot ignore case basically
+means just ignore whether cap whether
+capital letters are lowercase or
+uppercase all that because email
+addresses anyway are always in lowercase
+so re not ignore case basically says
+whether your string is in uppercase or
+lowercase just ignore that and try to
+match now the reason why while
+out of again why lot of regular
+expressions are cumbersome is this looks
+like like some alien language it's it's
+again yeah I mean this is not trivial
+right I hate this type of syntax because
+I personally don't like it because this
+is not at all readable this is not at
+all readable imagine if you write
+production quality code like this and
+somebody has to come after you and
+understand what the heck you've written
+again I used to write code in Perl for a
+short while I hated the language because
+Perl would do something like this
+beautifully I have written production
+I've seen production I've read
+production quality code when I was at
+Yahoo does yahoo lamps well people who
+wrote like could take stuff like this
+and it would take me hours to debug they
+would write like lines of something like
+this and I'm like that is what the heck
+is wrong with you one of the most
+important things with software is
+readability so if you write it like this
+you probably your code will work but as
+a good software programming habit please
+don't write code like this there is a
+better way to write it I'll show you
+that in a couple of minutes okay but
+let's let's try to read it anyway if you
+have to do it let's do it what it stays
+is it starts this is start this is end
+we know that cool what is what does /w
+mean /w plus let's break it logical into
+pieces now this part we have understood
+this part we have understood this is
+starting ending what does this say /w
+plus what the /w mean again if you don't
+know there is always the reference here
+what does plus mean plus means causes
+the regular expression to match one or
+more repetitions plus basically means
+one or more repetitions now backslash W
+what does that mean is it is it capital
+W low it's a lowercase W right again
+lower case and upper case matters so if
+you go here here is the first instance
+of W okay characters such as w KS blah
+blah blah okay here they are not
+defining what it is oh okay let me go up
+let's see where it is again the first
+occurrence is where lot of fun is
+oftentimes front slash W okay
+where is www okay here it is what does
+it say slash lowercase W is different
+from uppercase W okay lowercase W says
+it matches unicode word characters this
+includes most characters that can be
+part of a word in any language again
+ASCII and Unicode are different I hope
+you all know that Unicode basically
+means asking basically is your typical a
+to z capital A to Z lowercase A to Z 0
+to 9 underscore etc unicode basically
+means you can write characters in hindi
+you can correct character in Telugu you
+can write characters in Chinese all of
+them are there in Unicode right so /w
+matches any unicode character right not
+just asking any character in any
+language so what does this part start
+with again documentation is important
+whenever I read this because the person
+who wrote this code could have used
+anything so I always go back to
+documentation so this is you are
+starting with any character plus 1 plus
+basically means one or more repetitions
+any character but one or more
+repetitions followed by you have this
+parenthesis okay
+so within the parenthesis what is there
+again paralysis is also used for other
+purposes in regular expressions that
+we'll see later
+okay just just ignore them so first some
+this basically means one or more
+repetitions of a unicode character
+followed by again dot means something
+special right dot we saw this earlier
+right what does not mean dot means what
+will make me match any single character
+dot will match any single character so
+if you don't want it to match with a
+single character but you want it if you
+want it to match with an actual dot
+right what do you do you say Batz slash
+dot slash dot is called the escape key
+this is called the escape eraser not an
+escaped escape character right it's
+called an escape character so what this
+does is it matches with only dot right
+now wonders what does the square
+parenthesis mean again if you don't know
+this is how you read it again I'm
+showing you a couple of examples you
+will have to break this down what the
+square parenthesis mean so characters
+can be listed individually so if you
+write anything
+square square parentheses like this this
+will match a this will match M so what
+it means is a or M or K that's what this
+means right that's that's one way of
+writing it you can also write it this
+way in in square pattern says you can
+write a to Z it will match all the
+lowercase from A to Z you can write 0 to
+5 it will match any of the numbers from
+0 to 5 right so that that's what that's
+what this part basically means right now
+again in the interest of time I want you
+to guys to figure out what this whole
+thing does line by line you have to go
+step by step you have to go step by step
+again reading others regular expressions
+is a great way to learn about it but I
+don't like this way of writing regular
+expressions I'll show you a better way
+in a couple of minutes in the interest
+of time I've shown you how to read this
+I've shown you how to read this what
+does question what does question mark
+mean again if you don't know if you know
+it great if you know it you can
+immediately understand if you don't know
+what question mark means just go to the
+top of the document where question mark
+is used
+okay various question mark used yes
+causes the resulting regular expression
+to match 0 or 1 repetition only right so
+like for example a B a B question mark
+matches a why does it match a because
+this means 0 or 1 repetition of B it
+also matches a B it will not match a BB
+look at this it will not match a BB
+because a BB has two repetitions of B so
+it will not match this right so it's
+very again it's very very common for
+people to forget the whole syntax and
+the rules of writing and Aguilar
+expressions but it's good to read some
+of these so that you know what to use
+again documentation is king here again
+even to write some of this i've got
+while i've borrowed this from other
+places i have written another one and
+i've done it using this i I can't write
+it out of my memory because I don't
+remember all these symbols at the top of
+my head I need to remember some of them
+but not all ok let's assume we got this
+from the internet ok we also always as
+usual you have to give credit to where
+you get the data from or where you took
+the snippet of code from
+so what am I doing here re not such I'm
+searching for this it returns some arias
+I want to print this if re s return true
+or else return false let's check if this
+works first because this is not
+something that we have written so we
+don't know how this works
+let's write a few test cases ok so this
+does not have dot so it's failing even
+this is failing look at this even this
+is failing why is it failing because
+this again this this also takes care of
+the fact that what if you have dot if
+you don't have comm if you don't have
+three characters here dot com is okay
+dot in is okay so two or three look at
+this two characters after the dot is
+okay three characters is also ok for
+example Canada has dot ca us has not us
+right
+so all this dot in a dot d for Germany
+the Chilean right dot F R so all these
+are valid but you will not see anywhere
+with a with one character this is not
+valid so which means in the domain name
+at the end
+you either have three characters or two
+characters that's why this is used right
+so I wanted to again I just stand
+through this I saw okay they are doing a
+good job here and etc etc etc right so
+all that is cool now I've tested this
+this is not working and it should not
+does this work yes this is working and I
+also look at this I'm also printing rest
+in my code as usual I always print the
+outputs of functions to understand what
+is happening and this is this is re not
+match object we talked about what is a
+class what is object right so if you
+want to understand more about it just
+google search for it r e dot match r e
+dot match python okay
+documentation cool okay ar e dot match
+sorry
+so you should look at the documentation
+of this class okay there is re not match
+here okay
+ar e dot match now re dot match is a
+match function what does it return I
+want to see the documentation of the
+class okay so it is giving me the
+documentation of okay so if you google
+search for it
+we'll get the documentation blah blah
+blah match objects yes so there is some
+documentation here on how to do it what
+are groups there is a ton of stuff to
+read if you have time please read it
+right so okay so it's also working with
+my ABCD at ISC dot a C dot in or is C
+naught n and gotten right so even if
+there are multiple dots it is working
+and they have taken care of that
+actually now while this is a I mean I
+personally don't like it because I've
+gone through a phase of my career where
+I was reading again I did lot of work on
+NLP at various places and whenever I
+used to see the regular expressions like
+this this would be a nightmare thing to
+go through right so okay here is a
+better version this is what I prefer
+okay this regular expression is highly
+non readable what I personally read is
+something what I personally like is
+something called as a verbose version of
+regular expressions so what does the
+verbose version tell you again you can
+actually I I hope all of you know about
+regular expression compilation right so
+you can you can again if you don't know
+here is a documentation that I provided
+please read it or if you have forgotten
+it so I can write my regular expression
+in a much more readable format like this
+is much less readable here what am i
+doing I am breaking my regular
+expression into parts for each part I am
+also giving a explanation on what this
+part is so that the software engineer
+who comes after me can read this and
+understand right that's very important
+but when you are writing this you have
+to mention clearly that this regular
+expression is a verbose verbose
+basically means you are writing more
+details and everything after the hash
+everywhere will be ignored thankfully
+right try it this is a way I mean I
+personally prefer writing regular
+expressions like this when they get
+complicated now a regular expression
+like this I can write comments and I can
+say okay what this tells me is start
+followed by this part what does this
+part tell me we have seen this I know
+what this part tells me I know what star
+tells me this is readable so what this
+whole thing is telling me is valid names
+in my email address if we
+email addresses name at domaine right
+now this name is being represented using
+this this is much more easy to read of
+course I can
+this is exactly the same as this I have
+just taken this part but I am writing
+comments here making the reading of this
+whole expression or reading of this
+whole pattern much more easy then I am
+saying ampersand okay this is basically
+a single ampersand sign then my domain
+name this is how my domain name will be
+then I can have multiple it has to work
+with com dot a c-note in dot add net dot
+in right they could be multiple dots
+this to three part is meant for multiple
+dots right so again it is ending with
+the dollar and why do we have plus plus
+means look at look at what does plus
+mean again if you're not sure all the
+way plus means it matches one or more
+repetitions so what does it do it says
+you should have dot look at look at what
+it says look at the ending it says you
+should have dot dot followed by some
+word but this word has to be linked two
+or three and two or more sorry one or
+more repetitions of it so dot com will
+work because dot followed by three
+characters only one repetition right dot
+AC dot in will work right because two
+words dot this so this will match this
+will match all right so I my
+recommendation it's a good readable
+software engineering practices whenever
+you write code like this whenever you
+write regular expressions please try to
+follow the verbose methodology again lot
+of companies make sure nowadays
+especially if you are writing Python
+code it at least in our team we used to
+have this that please don't write like X
+s like this because I used to review
+code if you encounter a code like this I
+would say sorry please make it in
+verbose pattern so that others after you
+even if you leave the company or even
+you can read it later much more easily
+so we always encourage this and it's a
+good software engineering practice right
+so so this is how we solved it again I
+want you in your after this session I
+want you to spend some time going
+through this line by line
+I've shown you how to go through this
+line by line right I've explained some
+of the pieces please go through this and
+try to understand everything always keep
+the Python documentation handed again it
+is only by writing many such regular
+expressions and by reading others
+regular expressions that you become good
+at it there are no shortcuts here there
+are no shortcuts let's be frank there
+okay now comes the phone number masking
+problem okay any suggestions on how we
+can solve it okay so what is the task
+here let's go to the phone number we
+have like 10 minutes right let's finish
+the phone number masking so one problem
+will be there two parts to this problem
+but I wanted to finish this okay
+so imagine if my phone number is like
+this right I want to mask it and print
+it this way three has - three hashes -
+the last four digits should be visible
+the last four digits here are seven
+eight nine zero again remember this
+could contain open parenthesis closed
+parenthesis hyphens I said something
+else no space also I think yeah space
+also it could also contain space it
+would contain any of these other symbols
+that's okay so any suggestions on how we
+can mask it actually in the interest of
+time let me go to the solution right
+because I have a hard 7:00 p.m. deadline
+as I mentioned a while ago let's go to
+the I mean it's it's actually it's
+actually this is a very simple question
+again I've seen some companies
+especially when they go for campus
+placement so okay so when they go for
+campus placements even for non campus
+placements especially for freshers
+especially for freshers many companies
+including companies like Amazon
+Microsoft they conduct a test it will
+contain again if they go to a campus
+they'll conduct the test on the campus
+if it is an off campus where you go to
+an Amazon or Microsoft Office they'll
+ask you first to go log into one of
+their boxes ask you to write a simple
+test and the reason for this is a
+filtering suppose imagine for a for a
+test I mean this is very common
+especially at large colleges let's
+assume there is a university like bits
+let's say but there are thousands of
+students no interview panel can however
+large the interview pan
+they cannot interview these thousands of
+students so they'll just give a simple
+they'll simply give a question maybe one
+our question z1r 1r bunch of
+multiple-choice questions
+small programming questions right and
+they use this as a filtering criteria
+both for campus placements and also on
+also on the office campus placements
+especially when they have large groups
+like sometimes they get like hundred
+people coming in and there is only one
+team to interview right so they want to
+pre-filter to get good candidates
+problems like these like that like this
+right problems like this phone number
+masking they'll give a snippet of code
+and say is this code correct or not or
+they could give you four snippets of
+code and say which snippet of this which
+which of these snippets of code will
+work perfectly for this right very
+common type of questions again this this
+this is literally two lines of code okay
+so let's go step by step first we have a
+suppose imagine this is my phone number
+anyway everything which is not numeric I
+want to get rid of it I want to get rid
+of this I want to get rid of this I want
+to get rid of this anything that is not
+numeric not digit not a decimal digit
+one two three four five six seven eight
+nine zero I want to get rid of it so is
+there a simple way to get rid of it yes
+that's where the substitute function
+comes in the regular expression dotsub
+again this is called a regular
+expression substitute function and if
+you don't know the documentation I've
+placed the link here what it does is
+this again if you've forgotten what is
+front slash D it's perfectly okay people
+do forget it okay
+slash D a very / D / D is here right /
+capital D come on guys you should show
+me capital D where is capital D ok I
+think I've missed it so let me go up let
+me go up yes capital again small D
+lowercase D is different from capital D
+right so matches any character which is
+not a decimal digit remember matches
+everything that is not a decimal digit
+this is exactly the opposite of
+lowercase D lowercase D matches the
+symbol digits / uppercase D matches any
+character which is not a decimal digit
+so what has it work enough look at this
+how does the sub function work our
+substitute function it says the way to
+work is this this is a string in this
+string wherever this pattern matches
+this pattern will match with anything
+which is not a decimal digit so it will
+match with this it will match with this
+it will match with this some of you are
+suggesting about the sub function even
+for the previous case no it's the same
+thing so what I'm asked what am I saying
+I'm saying wherever you encounter a non
+decimal digit or non decimal character
+please replace it with with nothing so
+this basically is an empty string no so
+wherever they encounter this it will
+just replace it with an empty string it
+will replace this with an empty string
+so the moment it is replaced with empty
+string what do I have one two three four
+five six seven eight nine zero this is
+what this is this will be if you print
+digits look at this if you just print
+digits that's what you get here again
+after every step please try to print to
+understand what is happening this is
+what I get now when I get this I can
+easily print what I want
+using simple format that we saw earlier
+right look at this I can simply format
+it and everything will work enough how
+will my format work anyway I don't want
+to show the first three characters are
+gone I want to print this three three
+hashes three hashes this last thing
+because I did not say anything this will
+by default point to the first argument
+here because I could also written zero
+here we have seen the format function
+earlier right
+so what does this give me this tells me
+from the fourth character from the very
+ending so I have what I have this stuff
+in my digits this is what I have in my
+digits right everything for again minus
+4 basically means from the end fourth
+digit from the end fourth Ridgid to the
+end right this is how view index arrays
+this of your next strings right so now
+what what does it do my masked contains
+enough if I print it it will get the
+last four digits as is the first six
+digits are masked with this problem
+solved but is this solution correct
+again
+whenever you write code please write
+boundary cases
+now what if look at this
+so first boundary case that I can think
+of is what if after I remove all the non
+digit non digit characters what if I
+have less than ten digits right so first
+thing we should always check is again
+this is a boundary case we should always
+handle in your code right you did this
+if lengths of digits is not equals to
+ten return 0 return none right it's it's
+an important it's an important boundary
+case that we should always handle right
+very important you can again run
+something like this let's see if this
+works
+oh it's where are we ok this works yeah
+I just I just added this and I'm running
+it that's it so the next thing that I
+want you to do is this ok small exercise
+before again I don't think we'll have
+time for problem - but problem 2 is very
+interesting we discuss it in the first
+thing tomorrow morning right so the next
+exercise that we have here is excise
+problem from this is you have 20 digit 4
+numbers with the first two digits being
+is decode look at this first two digits
+are the international code right
+international code is often it will
+always start with + right so imagine if
+your phone number is given like this
+international code for India is +91
+right so imagine instead of your phone
+number which is 10 digit imagine if
+somebody gives you a 12 digit phone
+number which should always start with
+plus the first two digits are always is
+decode the last 10 digits can be
+anything given this this is how I want
+to mask it I want to keep the
+international code but I want to print
+the international code in simple
+parenthesis the next six digits I want
+to mask the last four digits I want to
+print this simple extension whatever we
+have learnt till of a simple extension
+to that write very simple exercise
+sounds good
+tomorrow the first thing again I shared
+this document I don't think I can share
+it right away I'll share it immediately
+after my meeting is over or I'll ask one
+of my teammates to share this right away
+okay next problem is very interesting
+next problem here is again this is a
+question that we get asked a lot from
+our students I'm given a PDF invoice
+I'll show you an example I it's a very
+good problem imagine I'm given an
+invoice I've downloaded this invoice
+from a website right I've downloaded
+this from this from this website right
+so the question here is given a PDF like
+this you can download it I want to
+extract let's say this total do you
+amount right or I want to extract this
+total amount or I want to extract let's
+say this email address right okay sorry
+sorry quit quit quit quit or I want to
+extract this invoice number or I want to
+extract this order number or I want to
+extract this date so again lot of a lot
+of invoices of companies are actually in
+PDF formats because people don't want it
+to be modified right so given an invoice
+like this how do we extract information
+from this using Python right again let's
+I'm assuming here that the format is
+fixed again we'll see what if formats
+keeps changing we'll discuss that in
+tomorrow's live session right so what if
+we have an invoice like this how do you
+extract information from here using
+regular expressions and simple Python
+packages that's what we'll discuss
+starting the very first thing tomorrow
+more tomorrow in life session tomorrow
+again 6 p.m. to 8 p.m. we'll do this
+there again again I think we only could
+cover one live session today because I
+wanted to go through some basics of reg
+X's reg X documentation is very
+extensive I wanted to walk you through
+regular expression documentation also a
+little tomorrow we'll focus again please
+go through the documents that I've
+shared here so that we can move faster
+tomorrow tomorrow I will be going faster
+with regular expressions and strings so
+that we can solve at least four problems
+tomorrow right so we'll start with the
+Python or so we'll start with this
+extracting data from PDF invoices it's a
+very simple very good problem we'll
+start with this then we'll take up a
+couple of problems that are asked in
+various interview questions at various
+companies including foreign based
+companies ok ok folks sorry I cannot
+spend more time and it's actually it's
+actually simple extracting data from PDF
+is very simple let me do one thing I
+share this whole sheet with you those of
+you who want to go through this go
+through it it's ok because I have not
+I've only done part of this I have not
+finished it completely
+go through it it's a very simple tool
+I'll share this whole document with you
+those of you who are again it's very
+simple you just have to use a library
+called PI PDF you just call this simple
+PI PD you just use this library and you
+can extract all the text text once you
+extract the text it's all about using
+regular expressions to extract data from
+here I've extracted some data here I'll
+add more to this life to this I'll add
+more okay or so okay I'll have I have
+much more to cover here so I'll add more
+cases for tomorrow's live session right
+I share the share problem to also
+tomorrow I will come up with two three
+more problems so that we'll have four
+problems for tomorrow's live session but
+please please do cover regular
+expressions and come from the live
+session because our objective here is to
+solve problems more and more so that we
+are spending more time on code
+walkthroughs and on problem solving
+rather than explaining basics which our
+core students anyway we cover it mostly
+in the course people who are outside our
+course I'm assuming that you know some
+basic Python if you don't know here are
+resources that you can use right sounds
+good folks thank you very much see you
+tomorrow
+sorry I have to run to the next meeting

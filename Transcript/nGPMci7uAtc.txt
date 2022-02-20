@@ -1,0 +1,3034 @@
+hi folks I guess we are life I'm just
+sharing my screen for the rest of the
+session
+yeah so the good thing here is just let
+me know if everything is clear I'm an
+audible can you see my screen all of
+that stuff just wanted to make sure that
+everything is clear
+let me just yeah I can hear myself so
+things are looking good no issues from
+my side is am i audible can you please
+confirm folks I have a live session with
+all the so we will be using ipython
+notebooks for most of these code-based
+live sessions again I've made ample
+number of mistakes so that I can teach
+you how to get out of problems and bugs
+in errors that typically students make
+so yes audible that's good that's good
+folks thank you thank you for the
+confirmation that everything is clear
+and audible we'll start in a couple of
+minutes because the scheduled time is 6
+p.m. I'm a couple of minutes early so
+any questions you have
+just shoot on the just shoot on the on
+the chat window I will try to answer as
+many as possible before we start we'll
+start sharp at like maybe 1 or 2 minutes
+past 6:00
+all right so that sounds good so I'll
+share again I have a ipython notebook
+which I'll share at the end of it you
+can open it using Google collab you can
+run it on your own laptop slash desktop
+whatever you want later right I'll share
+the link after the live session is over
+okay sounds good again just wanted to
+make sure that the objective of these
+live sessions is very clear the
+objective is to help everyone become
+better programmers because that is one
+of the one of the things that we see
+many students both from especially from
+non computer science backgrounds but
+also students from CS backgrounds slack
+so this is a this is a critical skill
+you might know everything in machine
+learning and deep learning you could you
+might be able to prove
+every mathematical equation but if you
+cannot write programs you cannot get a
+machine learning job it's as simple as
+that very often the first round itself
+for most companies is a simple Python
+programming round very often in 90% of
+the cases right so you have to be good
+with some programming language people
+are comfortable with Python or whichever
+language you are in right again I limit
+the discussion to the topic at hand
+somebody is asking can we cover data
+structures and algorithms Rama I think
+he also emailed us I don't think we can
+cover it in these sessions because our
+objective is very clear of course we
+will cover some data structures
+algorithms some good problems around
+time complexity space complexity but
+which are relevant only in the context
+of AML because if I start doing data
+structures and algorithms that's a beast
+onto itself right I can spend I mean we
+have a course for interview preparation
+data structures algorithms which is
+already like what which is already 150
+160 hours enough right so I don't think
+we'll do justice to students for machine
+learning and arrows if I focus only on
+data structures algorithms our core
+focus will be Python programming for
+machine learning and a applications in
+this process we will cover some data
+structures algorithms without doubt but
+the focus will not be data structures
+algorithms right so okay sounds good
+so what habit can you make to become a
+good programmer you just have to code
+like I remember I started coding in 1999
+I was in ninth grade then I was a ninth
+class I started so thankfully I was in C
+BSC and computer science was one of the
+options that we could take I think in
+11th and 12th when I joined it used to
+be called information informatics
+practice or something like that
+right I started coding from 1999 I
+started coding in language called visual
+FoxPro which is a Microsoft language
+then I also learned C C++ of course in
+my BTech I learned tons of languages but
+the only way you become good programmer
+it's a very simple concept the way you
+become a good programmer is a
+percent 80% practice 80% code yourself
+my practice I don't mean see others code
+I mean write your own code write your
+own code right 20 percent read others
+code read others code this is when you
+are at a beginner level when you are at
+a beginner level 80% you should practice
+write your own code again I'll share
+hundreds of problems by the end of this
+live session that you can practice from
+20% read others code and as you become
+better and better as you become a more
+mature programmer what happens is you
+can do like today let's take after five
+years of somebody with five years
+experience ten years and twelve years is
+slightly more but once you are
+comfortable with programming in any
+programming language or at least one
+programming language once you become
+slightly more mature then you can spend
+50% of your time reading others code
+reading others could and 50% writing
+your own code there is no escaping to
+writing your own code of course when you
+become so this is when you become
+intermediate level this is basic and
+when you are at the entry level this is
+intermediate level once you become an
+expert level then probably you can do
+30% write your own code and 70% read
+others code from open-source libraries
+right this is this is expert level right
+so again I do most of this because I
+read a lot of open source code of
+libraries and things like that again
+I've been doing this for for a quite lot
+of time right so this is what I would
+recommend if you're a beginner I
+strongly recommend you spend most of
+your time writing code I'll share
+hundreds of problems with you by the end
+of this live session that you can use
+from multiple websites and resources
+write 20% read others code but at
+intermediate level 50% write your own
+code 50% read others code because you
+can learn a lot from reading others code
+in expert level this is what you would
+be doing again you read others code a
+lot because you're doing code reviews
+and things like that right so this is a
+simple rule book that you can follow
+okay sounds good folks let's dive into
+the discussion itself where are we okay
+so okay so let's again this is the first
+session in this series so I've kept it
+quite simple I also did not know I hope
+everybody can see my ipython notebook
+and again this is the first session in
+this series so I've kept it quite simple
+to be honest with you we are only
+solving some basic Python problems some
+of you who are good programmers may not
+benefit much from this session okay let
+we'll be very clear so I'm assuming that
+I've listed it in the for the three live
+sessions this live session tomorrow and
+day after tomorrow for the first three
+live sessions I mentioned that I already
+showed you an announcement video that
+I'm expecting that students know the
+basics of Python as we listed here
+except SQL right so what we'll do in
+this live session is as follows I have I
+think five or six problems that I've
+listed again I didn't know how many
+problems we can cover in a two-hour live
+session so I kept it slightly open-ended
+let's see how many we can cover right if
+you are if you are able to finish these
+five six problems quickly again for
+every problem I'll tell you what I'll
+cover if you're able to cover these five
+six problems quickly today tomorrow
+we'll have more problems we'll do more
+problems right so first and foremost
+given a problem first understand the
+problem break the problem into smaller
+subproblems this is very important and
+then connect the dots from the sub
+problem to coding concepts that you
+already know again here I'm assuming
+that you already know basics of Python
+programming right then I'll walk through
+line by line of code wherein we are
+putting everything together since this
+is the first session I also want to
+focus more on common errors and mistakes
+okay of course I'll also focus on common
+errors and mistakes in the future life
+sessions also in this series but I will
+focus more in this live session I also
+focus a lot on reading function
+references and fixing bugs so what I've
+done in this live session is I have
+taken simpler problems but I'm going to
+spend lot of time in these issues
+because even when we evaluate students
+code and apply their course this is
+where lot of people get stuck right this
+is one of the places
+a lot of people get stuck there are
+other places also they get stuck but I
+thought since this is the first session
+I will focus on this so that once this
+one's once we have this out of our way
+we can focus on slightly more complex
+and interesting problems okay so for
+every problem that I discuss I will give
+a related problem or problems for
+exercise feel free to practice them if
+you have time I strongly recommend you
+practice them right other thing is I'll
+introduce new concepts as we need if
+there is some concept that is needed to
+understand a bug or an error message
+better
+I'll introduce those concepts as we need
+them I will not just do theory sessions
+I want to do more hands-on sessions now
+very importantly if you are a good
+programmer or an experienced programmer
+you may not benefit much from this
+session right because you might already
+know everything that is in this session
+so just wanted to make that clear if you
+are a good programmer maybe if the first
+couple of maybe first three four
+sessions you may not benefit much right
+so I leave that decision to you okay
+sounds good
+so let's start with some simple problems
+okay the problem is simple add two
+randomly generated number matrices using
+loops again one more very important
+thing is the context all the problems we
+pick will be in the context of AI and
+machine learning right I'll try to pick
+problems that you will or code snippets
+that you will have to build as an AI
+engineer or a machine learning engine at
+right so first and foremost numpy is one
+of the most extensively used libraries
+in whole of machine learning and AI
+along with pandas obviously right so
+data frames along with data frames so I
+thought I will focus more on numpy right
+away because it's a very simple thing so
+I want you to generate two numpy
+matrices and add them using loops not
+using the plus operator right so I will
+go slow very beginning and I will speed
+up again this live session I will go a
+little slow so that so that everybody
+can follow me even absolute beginners
+can follow me but slowly I will speed up
+right sounds good okay so first let's
+think of this problem okay so the
+problem I hope the problem definition is
+clear I want you to generate two
+random-number matrices and I want you to
+add them using loops right you can't
+just say okay you can't say I generate
+one matrix a one I'll just use the plus
+operator and I'll say B equals to a 1
+plus a 2 this is not allowed you can't
+use the plus operator on numpy matrices
+right let's assume a 1 a 2 or 2 matrices
+numpy matrices you can't do this you
+will have to implement it using for
+loops the objective here is so that you
+become comfortable with writing nested
+loops that's one of the objectives here
+okay so let's look at the subproblems
+here let's let's dumb the subproblems
+the first sub problem is okay so i'll do
+these things okay i'll break it into
+subproblems
+i'll keep solving the subproblems one by
+one and I'll connect the subproblems to
+coding concepts I'll do code
+walkthroughs and often done mistakes and
+then I'll give you an exercise write
+that that's the flow first and foremost
+what is the first subproblem first we
+have to generate random number matrices
+that's the first thing right so let's
+assume I want to generate two random
+number matrices a1 and a2 then I want to
+add both of them using for loops I want
+to add both these matrices and store the
+result in B this is what I want to do
+right so very simple very easy concept
+okay first and foremost okay how do you
+create so the first subtask here again
+I'm going to describe subtasks along
+with code along with common errors also
+okay so first is first subtask is let's
+assume I want to create matrices of size
+five cross four five rows and four
+columns
+alright first task is create a random
+matrix of size four Phi cross four if
+you know the appropriate functions in
+numpy great if you don't know the
+appropriate functions what should you do
+first Google search numpy create random
+matrices I just googled this in
+incognito mode and my suggestion is
+always read the top four to five links
+because the first link may not be the
+best link always my suggestion whenever
+again what is a task
+what is that sub task or sub task one is
+create a random matrix that's a first
+subtask right or sub problem now
+whatever just simply Google search numpy
+create random matrices that's it
+because you want to create a numpy
+matrix and we want to create and the
+matrices read through always when you
+google search don't leave with one link
+be patient read the top four or five
+links I read through the top four or
+five links and this was one of the good
+links that I found okay let's go to this
+link right so let's go to this link
+let's see what they say
+again all so let's copy this go here
+okay okay so it says okay how to create
+random make matrix of random numbers in
+in Python using numpy okay so random 1d
+array matrix right this is 1d array
+which is like a vector right then it
+says 2d matrix okay this looks right
+right so what did they do first look at
+this code this is very important for you
+to understand right look at this code
+what did they say first the important
+numpy then he saying a numpy dot random
+dot r and three comma four look at the
+code snippet first look at the code
+snippet first write three comma four and
+then they are printing this random area
+what did it what did did result in it
+resulted in three rows and four columns
+okay this seems to work please don't
+just copy-paste it first and foremost
+look at what does this function do NP NP
+is nothing but numpy numpy random R and
+it wanted this function do once you find
+a link on Google first and foremost
+please Google search for it and say just
+type just such that and say Python okay
+you get the actual reference it's very
+important to read function references
+because that's the best way for you to
+understand these concepts it's extremely
+important I can't emphasize this enough
+so what did I do I said import numpy as
+NP and I'm using this but please don't
+copy paste code because if you just copy
+paste code and not learn what's
+happening internally you're just wasting
+your time you're not learning anything
+right so you saw this code great you you
+read someone else's code but you also
+should go to function reference read
+what does it say look at what it says
+okay this is very important to
+understand okay so what does it say it
+says okay random values in a given shape
+okay so what are the parameter
+what are the parameters of this function
+and what is the return value of this
+function these are two important parts
+right so this function takes d0 d1 up to
+BN all these are integers and they are
+all are optional so you can give a bunch
+of integers here right so what does it
+what does it say this is nothing but the
+path the dimensions of the return error
+should all be positive so all these
+numbers should be positive if no
+argument is given a single float value
+is returned right just a scalar value is
+returned because a single value is like
+a scalar value it's not a vector or a
+matrix what is a scalar just 23 is a
+scalar what is a vector a vector is like
+this a vector is like an array right
+again the mathematical term for it
+so this is called as a scalar right this
+is called as a vector or array this is
+called as a matrix this is what is
+called as a matrix or a 2d array right
+then there is this right so then there
+is a 3d array there is a 3d array which
+has the depth also like this right so
+this is your 2d array also called as
+matrix right so this is called a 3d
+array or 3d 4d arrays all of them
+mathematically they are called as
+tensors right again the library tensor
+flow that Google open-sourced is a
+tensor or it performs tensor operations
+again those of you who know deep
+learning will appreciate the fact that
+deep learning is all about tensor
+operation not matrix operations right so
+I'll use the same terminology a scalar
+is just a single number a vector is a 1d
+array a matrix is a 2d array or 3d array
+for D array 5 D arrays all of those are
+tensors right so please read the
+documentation here clear fully read this
+line by line what does it out put it out
+put an NB array
+a numpy nd array with this shape
+this is the shape of the array right so
+you have to always understand what is
+the input parameters what is the output
+that dysfunction generates and
+oftentimes in the reference you are also
+given simple snippets of code like this
+right
+so please don't just google search and
+copy/paste code very importantly you
+should always understand the function
+reference okay again if you want to read
+the function reference you just have to
+Google n P random R and reference I get
+the link I read it okay sounds good so
+okay okay so one common error that we
+often observe is again you should read
+what this 5 comma 4 means right so this
+5 comma 4 this is the resultant array
+size or resultant nd array what is this
+this a 1 is an ND array it's an umpire n
+dimensional array right that's what it
+is that's very important to remember
+right so this gives you 5 rows and 4
+columns so this is basically giving your
+matrix with 5 rows 1 2 3 4 5 and 4
+columns that's what it is giving you
+many people that we have seen in code
+assignments that people actually write 4
+comma 5 they swap rows and columns this
+is a very common error please don't make
+this error now a good habit is once you
+have generated this always print it
+because when you see it when you see
+that the data is as you expect you are
+much more convinced so what I often do
+typically is I often print the data
+I often print the shape of the data
+sometimes even the datatype also so if
+you print a 1 this is what you get what
+is it it has 1 2 3 4 5 5 rows and 4
+columns as we expect cool now I also
+want to print the shape of a1 so I say I
+just say print a1 dot shape and it
+results in 5 comma 4 now there is one
+error that I've seen lot of people
+commit once very simple error that not
+again thankfully our team which
+evaluates hundreds of assignments on
+daily basis has gone through a huge list
+of errors and they've shared it and I am
+covering some of those errors here we
+see lot of students saying instead of
+print a 1 dot shape a 1 is an ND array
+remember what it is always remember what
+is the data type a 1 is an MD Eric a 1
+is an MD array let us not forget that
+right so when you say a 1 dot shape okay
+when you say a 1 dot shape
+this thing printed this appropriately a
+very common error is they actually
+called they actually put the parentheses
+here calling the shape function which is
+there which is a shape function under MD
+array some people call this the moment
+you execute that what happens look at
+this the moment you execute this it
+gives you an error what I read does it
+give it gives you a type error it says
+couple object is not callable now how do
+you understand an error like this look
+at this it says couple object is not
+callable what do you call you call
+functions
+remember the terminology you typically
+again thankfully python gives very very
+readable error messages you should look
+at programming languages like c it's
+much much harder to understand and
+interpret the error messages thankfully
+python is terrific see it says couple
+object is not callable it says you can't
+call this function that's what it's
+saying why does it taste a couple here
+let's understand that in a little while
+right why does it say couple right
+that's very important why does it say
+couple right first and foremost the
+moment you read this every error message
+please read it it says couple object is
+not callable which means you can't call
+this function number one which means
+there is no function like shape there is
+no function called shape so what do you
+do okay which means this is an ende
+array there is nothing called shape
+function inside it now how do I get
+shape one option is to just Google
+search just try four or five things
+brute force and you'll get a solution
+but a better thing always is to go
+through the documentation let me go
+through the documentation here okay so
+okay before we go there again I'll tell
+you how to fix this bug in a little
+while by going through the documentation
+again I started programming as I told
+you from 1999 onwards right those were
+the days when Google search was in its
+infancy we did not have proper internet
+connection to Google search Google
+existed in 1999 right but it was not as
+powerful and as good as it is today
+number one number two it is not it was a
+we didn't have internet connections
+so what we would do when I remember I
+learned C or C++ in 99 mm period so you
+have the whole C++ reference book right
+so for every major class object data
+type function key words you have the
+reference so we used to go through this
+reference and understand why things are
+not working unfortunately people stop
+especially people who started
+programming much later have stopped
+doing it they just google search they
+get four or five links they just
+copy-paste it and they're done sorry
+that's not how you become a good
+programmer you should be extremely
+comfortable reading references and
+becoming a better programmer that way
+right please understand that number one
+okay so now if I want okay so I'll tell
+you I'll tell you why there is couple
+here and why is it not callable I'll
+just come to that in a little while but
+equally importantly I hope the life is
+all okay there is no issue with the live
+session somebody says can we get ipython
+notebook yes you will get it by the end
+of this live session I'll share it I'll
+share it in a just under this in both in
+the description and the first comment
+section okay
+I'll share it so this is the first thing
+the second thing if I again as I told
+you what I often do is whenever I have a
+variable which I'm creating like this I
+print it to visualize this I also want
+to see the shape of it I also want to
+see the data type so we all remember the
+type function the type right we use we
+learned this type when we learnt basics
+of Python so we've seen people do print
+a1 dot pipe then what does it say look
+at this again it gives an error it's a
+common error that we have seen people
+commit again I'm covering some very
+basic errors because this is the first
+session right so a1 dot type so what
+does it say there is an attribute error
+the numpy dot ND array object has no
+attribute called type it has no
+attribute called type right so this is
+the error this error message and again
+explain you how to read this error
+message and this error message by just
+explaining it the basics of a class
+object some basic stuff I just explained
+you so that this is much more
+interpretable I will revisit this error
+and this error in a couple of minutes
+but the right way
+to do it is actually to say print type
+of a one what does it say now it says a
+one is an umpire dot NB array now very
+importantly when you get errors like
+this that this form this shape is not
+callable the type is not is not a there
+is no attribute called type first thing
+you should do is read through the
+attributes and methods of the numpy dot
+ND array class now some of you may not
+be comfortable with what is a class what
+is an object and all of them let me give
+you a simple analogy right suppose if
+you're creating a integer variable right
+suppose you're creating a variable let's
+say you say x equals to 10 so what are
+you doing enough what I doing enough in
+Python right if you do this what again
+what I doing enough you're creating a
+variable you're creating a variable X
+this is a variable name right this is
+the value of the variable right and this
+variable of course you can also say int
+and all that then this will be integer
+of course you can also create float
+string all of those things so class is
+basically a concept which came from
+software engineering right so if you
+look at programming languages like C
+which is a very popular programming
+language C is what is used as the core
+programming language which which is used
+for some of the most important systems
+and computer science like the UNIX
+kernel the UNIX the the Macintosh kernel
+the Linux kernel all of them are built
+in C C does not have classes there is no
+concept of classes in C ok C is one of
+the one of the great programming
+languages then after a few years again
+remember C has no classes but you can do
+everything in C that you can do in other
+programming languages mostly most of
+them you can do it so then people said
+there is this then they came up with
+this concept of a class ok again this
+came from software engineering because
+people as they were writing more and
+more complex software you just imagine
+writing something like a operating
+system or something like a database
+engine
+is not a trivial task so as people
+started writing more and more complex
+software software engineers came up with
+the concept of a new concept called
+s-class and concepts called as
+object-oriented programming and
+object-oriented design these are
+concepts from software engineering right
+now for us of course if you know a
+general programming object or design
+that's great but even if you don't know
+this it's ok
+because I'll give you a very basic 10
+minute overview of this with which we
+can start understanding the basics and
+as we progress if you need more concepts
+we'll cover more concepts as I told you
+in the at the beginning we will cover
+more topics as we need ok so what so in
+the in our case numpy dot nd array ok
+numpy dot NB array is actually a class
+right so you can think of a class you
+can think of a class as it again as a
+role as an analogy because this is a non
+object this is a non oops concepts these
+are non oops concepts these are non oops
+concepts right so I'll try to give you a
+comparison from non oops concepts - oops
+concepts so that it becomes much more
+easy for you to connect the dots again
+this is just a analogy this is not an
+equivalence what I mean by that is what
+I'm giving you is is a rule book to
+which you can easily understand what's
+happening just like the way this
+variable is of data type integer right
+suppose if I create if I look at look at
+our data look at our program right so
+what does that program though so let's
+look at the let's look at the function
+documentation right so as soon as I ran
+this as soon as I ran this my NP dot
+random dot R and okay if you go to the
+function reference what does it return
+it returns an ND array look at the
+function reference it says it takes
+these integers non-negative integers as
+parameters or sorry it takes only
+positive integers not non-negative it
+takes positive integers as inputs
+because it says all of them should be
+positive right and it outputs an ende
+array which means what is happening in
+this line
+this function is returning a variable of
+type this class so it is returning a
+variable of type numpy dot NB array just
+like the way we have the data type
+integer here look at this we have the
+data type integer here and X is a
+variable of data type integer num PI dot
+nd class ND and the array is a class
+right now a 1 here a 1 in our example a
+sorry a 1 in our example a 1 is a
+variable is a variable of type of this
+class variable of this class a variable
+of this class is also called as an
+object of this class in object Android
+programming again the whole name of
+object-oriented programming came into
+existence because this is this is all
+about objects these are all about
+classes and objects you can think of a
+class like a data type right you can
+think of an object like a variable of
+the data type now when you have it class
+a class has two important things defined
+on it right a class has unlike look at
+this a very one a variable you can apply
+a bunch of operators you can apply a
+bunch of operators on integers you can
+also apply a bunch of functions on
+integers right so here is where things
+start differing given a class again
+there is so much to cover optimal
+programming is like a whole semester of
+course at undergraduate level computer
+science I'm trying to simplify it for
+you here right so okay so just like the
+way you have within a class there are
+basically two parts there is something
+called as attribute right so there is
+something called as attributes and
+methods alright so there are two parts
+within a class attributes are basically
+suppose you have a class within a class
+think of a class as a as a holder which
+holds multiple values for example
+suppose one simple example is I can
+create a class called a student again
+this is a very simple I can create a
+class called a student this
+student all the information I want to
+store about a student it could be his
+roll number his could be his name right
+it could be his let's say marks all of
+these so what I'll create is all these
+are attributes of this class student
+right on this student I also want so all
+these are called as attributes of this
+student right again this roll number
+could be integer name could be string
+marks could be float all of that right
+so he can think of a class as a holding
+as as a collection you can again I'm
+simplifying that a lot here you can
+think of a class as a group of our set
+of related attributes corresponding to
+this class and a bunch of functions or
+methods methods is just a different name
+for functions right for example on this
+student so suppose I want to have a
+bunch of methods right it's a zoom on
+this student I want to let's say I want
+to change name suppose there is I could
+have a function called changed name so
+on this student I can call this function
+change name change name is a function
+which could have some parameter now I
+can say for the class student I want to
+create a variable called s1 this is an
+object remember this is a class this is
+a class you can think of class as a data
+type right you can think of class as a
+data type right and it contains all of
+these attributes and all of these
+methods that you can execute on this
+data type and given an object right so
+suppose you have s1 as an object right
+s1 dot roll number so s1 is one students
+information right I can store
+information about the roll number of a
+student in s1 of one student similarly
+s2 dot name so s1 sorry similarly s1 dot
+name similarly s1 dirt marks all this is
+information related to one student
+similarly I can create another object s2
+for a different student again these
+concepts came into existence to simplify
+software engineering again if you see
+non object-oriented languages like C the
+amount of core
+and the complexity of code that you have
+to write is significantly more than
+programming languages like C++ Java
+Buyten all these languages these
+languages are much more again today we
+build much more software using this
+because it's easier to build especially
+given that sometimes hundreds of
+developers jointly develop the code
+right so that is the crux of it right
+again I have simplified it because I
+wanted to explain you these two error
+messages or so we know see now you know
+what is an object right so I wanted to
+explain this right so what does it say
+it says okay so let's look at these two
+I want to explain these two error
+messages in little more detail so what
+does it say it says a 1 dot type right
+so what the what error message does it
+say numpy dot nd array object because a
+1 is an object of type numpy dot nd
+array it has no attribute called type I
+am trying to access this attribute here
+it has no attribute that's what it means
+right now let's see what attributes are
+there if you want to figure out what
+attributes are there what methods are
+there let's try to figure it out next
+when I call this when I write this it
+says this is not callable what does that
+mean this means there is no function
+called shape but then how do I get the
+shape of it right look at this what was
+the correct syntax here what was the
+correct syntax here just a 1 dot shape
+is the correct syntax right so what does
+this imply now this implies that when I
+do so a 1 which is an ende array has an
+attribute called shape it has an
+attribute called shape with which I can
+get this data it does not have a method
+called shape remember whenever I say a
+method what I mean is a function
+whenever I say an attribute it means a
+variable of its specific data type
+within a within a class ok so let's go
+and read the function documentation
+right so let's go here ok so you can
+just Google such numpy dot nd array the
+first link that you get is obviously the
+function reference let's go and read the
+function difference please remember
+there is nothing that beats the skill
+reading function differences okay so it
+says it's a class numpy dot nd array
+okay so there are a bunch of things okay
+so let's go down let's go okay so look
+at this it says attributes these are all
+the attributes that are there look at
+this look at all the attributes that are
+there which we can access right shape is
+an attribute and what the shape give
+shape gives you a couple of integers
+look at this so I am in the MP dot or
+numpy dot nd array numpy dot nd array
+has a bunch of attributes within the
+attributes you will see the shape when I
+use the shape what should I get
+I should get a tuple of integers I don't
+see that look at this if you go through
+all these attributes you do not see you
+know you do not see the attribute what
+was it you do not see that attribute
+type okay there is no type here right
+there's T data flags in real size and by
+Jen dem shape blah blah blah right so
+there is no there is no type so this
+error message is simply saying that a 1
+which is of type numpy dot nd array it
+has no attribute called type that's what
+it means right number one number two
+let's look at this now let's go back and
+understand this in more depth so what is
+this error message say it says this is
+not callable which means there is no
+function like this and it says the
+tupple object is not callable why does
+it say this because the moment it runs
+this what does it get it gets a 1 the
+moment it runs this a 1 dot shape it is
+running this from here it's running a 1
+dot shape what does a 1 dot shape return
+a 1 dot shape returns a tuple a solid it
+returns a couple of integers right we
+printed a 1 dot shape right we got a
+tuple Phi cross 4 here so if I comma 4
+now on the tupple look at this the top
+now what do you have what does it return
+a 1 dot shape returns a tuple object
+right remember a 1 dot shape returns a
+tuple object now the tupple object is
+not callable you can't call a tuple
+object you can't you can't a tuple
+object is a tuple it's not a function
+you can't call it that's where the error
+message here is couple of
+is not callable I hope this is clear
+again understanding errormsgs
+understanding documentation is extremely
+important I know I'm spending too much
+time on just two error messages but
+these are skills that will stay with you
+for life trust me okay I have learned
+programming like this we have seen a lot
+of students learn programming like this
+okay
+so now this is clear okay I know I have
+spent too much time on a simple concept
+but it's important to understand this
+concept in depth that's why I'm doing
+this dive deep cold walkthroughs I'm
+giving these common errors and all of
+that okay so now what do we have
+okay so what did we do finally we learnt
+we learn to read some documentation we
+also got a one which is an umpire array
+of size five rows and four columns so
+again let's not forget our big problem
+we want to create two randomly generated
+numpy matrices and add them so one we
+created a 1 now similarly I can create a
+2 also nothing stops me so create random
+matrix a 2 simple NP dot random dot R
+and Phi comma 4 remember very
+importantly I should create the matrix
+of the same size here because can you
+add two matrices of different sizes
+imagine if a 1 is 5 cross four and a 2
+is 3 cross 2 can you add these two
+matrices it's not a valid addition in in
+mathematics it matrix algebra this is
+not valid the length so the the the size
+of the matrix should be the same if it
+is not it will throw an error I think I
+have that error somewhere I'll show you
+that okay again I always print my matrix
+just to be sure now another very common
+thing so so what we have enough we have
+both the matrices we have both the
+matrices now if we want to add them
+using loops okay we want to add them
+using loops how do I do that look at
+this I have a 5 cross 4 matrix here 1 2
+3 4 always draw diagrams plus Phi cross
+4 1 sorry 1 2 3 ok I think I should
+address this this is Phi cross 4 right
+sorry 1 2 3 4 5 ok similarly 1 2 3 4
+three four okay five okay now how does
+the addition work you take this element
+you add with this element that becomes
+the result in so let's assume B equals
+to a1 plus a2 what is the logic of
+addition first let us understand the
+logic of simple addition in matrices
+right so the first tail first row first
+column first row first column you add
+both of these and that becomes the first
+row first column in B right now what is
+what is the typical logic here the ith
+row jth column in B should be a one
+eighth row jth column plus a2 I trijet
+column this is the concept right this is
+a mathematical way of writing the same
+thing where is the Y I is a bunch of
+numbers corresponding to the rows J is a
+bunch of numbers corresponding to the
+rows so what does this say this says
+that the value in the IJ cell of B is
+the sum of values in the IJ cell of a1
+plus the IDH cell of a - very simple
+right this is the logic this is what we
+all have been taught probably in an 11th
+10th class this is how you add two
+matrices right now we just have to put
+in code now one important thing that you
+are to remember here is to do this to do
+this again the logic is simple
+we got the logic now how do you convert
+logic to code that's an extremely
+important skill now first and foremost
+the moment you see this you should
+realize that that you should be able to
+access a row jth column in a given nd
+array so you have an ND array and you
+want to access the cell which is an AI
+trajet column how do you access it it's
+simple question if you know how to
+access great because if you don't know
+how to do that you can't solve this
+problem right so the second sub problem
+is figuring that how to access the IJ
+cell in each element just Google search
+for an accessing a jet element in an ND
+array just Google search for it this is
+the link that you will get it again this
+is from the official documentation sorry
+sorry sorry sorry
+I think I did a mistake sorry so I think
+this is from the official documentation
+so okay the N dimensional array
+okay if you just look at this indexing
+eros right so it says okay array
+indexing blah blah blah so just okay so
+all there is ton of stuff in this right
+just go just keep just keep looking at
+it right just keep going through it
+because thankfully Python documentation
+is so damn good where it's extremely
+readable okay there is a ton of this
+okay we didn't find any code here that's
+okay let's see okay the array can be
+indexed so if you look at again whenever
+I read documentation I also look for
+code snippets okay what does this say it
+says I can access the first row and the
+second column look at the element of X
+in the second row third column namely
+six is this also sorry sorry sorry shape
+is this blah blah blah okay I think see
+this is how this is how very said
+constructing Eris indexing Eris okay and
+the array indexing Eris okay array
+indexing let's see array indexing okay
+Andy arrays can be indexed using
+standard Python this syntax right so all
+you have to do here is X blah blah blah
+now let's try it see there is something
+given here unfortunately not much of
+code but let's go back to our thing and
+try a few things let's see what what
+goes wrong okay so I saw this so look at
+this by reading this what does it say X
+and this it says okay I want to say
+which row which column I want to access
+that that's what this syntax tells me
+again I could be lost but let me let me
+start trying it okay if I want to access
+let's take a one we have printed a one
+earlier right we have printed a one
+earlier so we know which row which
+column what element is there so what
+I'll do now is I'll just say print a 1 2
+comma 3 this should give me second row
+third column in a 1 if see when I
+execute this I get some value but I want
+to be really sure so let's go to a 1
+second row third column 1 okay what is
+the value printed here six five six
+eight five two six one second six five I
+hope this is printed correctly one
+second when I print this a one two comma
+three it print six
+five six eight five two eight is that
+value is it a one or a two one second
+let me just print a two because we have
+a two right here right so let's just
+let's just run it okay so what is it
+giving me it is giving me 1 0 1 2 blah
+blah blah ok so what is what is it
+giving me it is giving me is a give me
+second row third column or third row
+second column let's see that carefully
+right so where is this 1 0 1 2 8 6 blah
+blah blah it is it is it in second row
+second row third column no it's not in
+second row third column it's not in
+second row third column but where is it
+is it in third row A one A one one
+second one second let me just see one
+point two okay so this is all right this
+is giving me a - this is my first row
+second row third row fourth row fifth
+row okay then the rows and columns are
+all clear
+okay let's do this also the indexing
+sorry the indexing is zero zero indexing
+right so anyway so let's start this I
+got to confirm counting incorrectly so
+zero zero so zero it throw because all
+the array indexing is zero zero indexing
+right I got I start counting from one
+sorry my bad right so let's let's take
+one zero always try it try a few things
+this is first row this is what is this
+one but one basically means second row
+zero at row first row and first column
+yes okay so let's go two comma three no
+okay so what is 2 comma 3 let's write it
+down here it's better to write it down
+this is a zero eighth row first row
+second row third row fourth row zero is
+column first column second column third
+column right because in Python just like
+in C programming the indices start from
+0 so 2 comma 3 this is 2 this is 3
+perfect this is the value that is shown
+here so it's working so I can access I
+throw Jet column using this syntax it's
+always important to be careful it's good
+to experiment right a very common error
+that we see people do is this ok look at
+this instead of actually placing this in
+in square parenthesis we have seen
+people just pass it like this like a
+function so what is it what is happening
+here this is as if you are calling a
+function with 2 comma 3
+right this is not again this is the
+index this is our view index how do we
+know this is our index because we went
+to the documentation we went to the
+documentation right look at this it says
+this is how I have to index again there
+is one more very important aspect which
+is errors between Python 2 and python 3
+as you can see I'm using Python 3 here
+there are some changes between Python 2
+Python 3 sometimes you have to search
+for Python 3 in your search also now if
+you if you if you execute it like this
+look at this this if you execute it like
+this what happens you get an error now
+what is the error read the error very
+carefully thankfully Python gives
+beautifully readable errors unlike C or
+C++
+it says numpy dot nd object because this
+is a numpy and the object is not
+callable you can't call this function
+that's what it says so such an easy
+thing by reading this error you can
+quickly figure out that this is not a
+function there should be some other way
+of accessing it it's it's that simple a
+concept now if you look at this
+documentation look at this if you look
+at this documentation it says in Python
+X within square brackets I can give it
+to Polly
+remember everything in Python which are
+right like this is a tuple if I write 2
+comma 3 this is a tuple in Python right
+so it clearly says that I can write it
+like this
+or I can write it like this both are
+equivalent so let's also try that so
+whenever you are learning a programming
+language early on this is a good thing
+to try ok so ok this here I've just not
+put the tupple I've just put square
+braces now I'll also put a I'll also put
+this and if I execute it what happens it
+works it works
+so the error here the error here is
+you're calling your your this this a 1
+which is an ND array object is not
+callable if you just put like this it
+would have worked as we have just seen
+right now that's the again always see
+what is how what should you give here
+you can give a tuple we have given a
+couple here or you can give a comma
+separated integers both of them are
+equivalent
+it clearly says that you can either give
+a tuple here or you can give a
+comma-separated list of integers this is
+a very common mistake that we have seen
+people commit we have seen students send
+us an email for this okay of course we
+resolve it but then it's such an easy
+thing for them to resolve and learn
+right once you learn how to fix it you
+will not forget it for your life okay so
+now we have learned how to access this
+right so let's go back to our original
+task where is the task okay this is what
+we wanted to solve now we know how to
+get I throw a jet column in a1 we know
+we know how to get the item in I throw
+jet column now okay let's just use the
+default operator right I can also add 2
+ND arrays using the plus operator right
+I can say B equals 2 a1 plus a2 and
+print this this is a very simple way of
+doing it right
+very very simple way of doing it but I
+don't want to do it using the plus
+operator I want to do it using for loops
+because I want you to learn for loops
+it's a very important skill to be able
+to write loops because that's a very
+very common construct in most
+programming so for that look at this I
+have a 1 I have a 1 I have a to write a
+1 I comma J plus a 2 I comma J equals to
+B I comma J but what should i and j be
+this is what all of the valid rows look
+at this a 1 has a size of 5 comma 4 or
+shape shape let's not call it size let's
+call it shape write a 2 also has the
+shape 5 comma 4 which means this is what
+0 1 2 3 4 this J is 0 1 2 3 because
+these are all the columns that you have
+these are all the rows that you have by
+just looking at this fact this should
+immediately strike you that you have to
+use loops right so what is this bij
+equals 2 a 1 IJ plus a 2 IJ for all I
+where I is 0 1 2 3 4 for all J 0 1 2 3
+that's the idea so the next sub problem
+that we have to figure out is how do I
+get the shape
+of a1 we already learned that look at
+this
+what does a1 dot shape give me earlier
+we saw this documentation right what
+does a1 dot shape give me if you are not
+sure of it just go back to documentation
+what does the shape function return it
+returns a couple of integers remember
+always remember what it returns so what
+do I do enough it returns a couple of
+integers so what can I do here I can do
+a very simple thing I can just say a1
+dot shape and assign this to a couple
+this is a couple right because it's in
+it's in simple braces R and C so what is
+hard enough are will take the value of
+5c will take the value of 4 right
+because this is a couple right again I
+always write print messages to make sure
+that everything is working so when I
+print it I know that r is five seas for
+naught we have to write at four loops
+right very simple code this is not
+rocket science this is trick this is
+like very basic stuff now how should we
+do it first look at this we have our
+matrices like this right so five rows
+and four columns okay first let's go to
+the zero I throw first let's go through
+the zero eight throw within the zero
+eight throw let's go to zero eight
+column first column second column third
+column then let's so first let's finish
+these four right then we'll go to the
+second row in the sec or the first row
+if you want to call it the first first
+row zero eight column second call first
+column second column third column and so
+on so forth that you can write using a
+very simple nested for loop for I equals
+two range R now R is five
+what does range R give me range R gives
+you zero one two three four we discussed
+about range I am assuming you know the
+range function if you are not sure just
+Google for it you didn't go and read the
+documentation then you have range C
+Rainsy gives you zero one two three so
+now what is happening look at this the I
+values initially I will be 0 right
+initially I will be 0 within this I have
+this within the loop so J will be 0 1 2
+3 so what am i doing
+bij is a 1i j + ay-two IJ this is how i
+access the elements this is how i access
+the first element this our axis IJ
+element so by the time this loop runs my
+B is 0 0 B 0 1 B 0 2 and B 0 3 are done
+next I continue on the loop right now
+what will be the second value here this
+will be 1 again this will be 0 1 2 3 by
+the time I finish this this simple for
+simple nested for loop by the time I
+finish this what did I get I get my B I
+can print B and what do i do just to
+verify I verify that this B is same as
+this B
+I just visually compare both of them
+they are the same now there is one
+optimization that you can do on top of
+this I hope this is clear again I
+focused a lot on how to read bugs how to
+fix them this code is straightforward
+right this is extremely straightforward
+right so the next thing is again I think
+one of our assignment problems is to
+multiply two matrices using for loops
+which is slightly more complicated than
+this but it's also fairly easy if you
+know the logic if you know how to
+convert the logic to for loops as I just
+showed you right I've shown you this
+diagram this is how you convert the
+logic to for loops that's it you're done
+it's actually fairly straightforward
+next there is one optimization that you
+can do here look at this the B matrix
+the B matrix right you have not
+allocated any memory space for the B
+matrix before this loop
+look at this before this loop started so
+what's happening here is there is more
+again this is a this is an optic code
+optimization again again this is a topic
+in cumple in a design etc but I just
+wanted to teach you a good programming
+habit in general right so one thing that
+you can do here is see what are you
+doing here you have not assigned any
+memory space for B so what's happening
+is as this loop runs the size of B is
+changing because more elements are being
+created
+look at this initially you have only B 0
+1 right so at b0 0 b0 1
+b02 right so on so forth then you went
+and said okay B also has first row right
+then you as the loop progresses this is
+creating more space in the memory again
+remember that everything has to be
+stored in the memory in your RAM or main
+memory as it is often referred to as in
+computer science right so what is
+happening here is the size of B is
+changing within the loop and if the size
+has to change in every loop right this
+can create special problems if B is a
+large matrix it can create problems this
+can be again for this small sized
+problem it may not be very very complex
+but a good programming habit is to
+pre-allocate matrix B so one thing that
+you should do is just create matrix B
+with all zeros first and we will see the
+syntax first create B with zeros of size
+four five I cross four and then fill it
+up here that way then as soon as this
+line runs there is memory allocated for
+be within your RAM or main memory and
+then each of these lines is changing
+each of these cells within B right in
+the previous model if you did not Priya
+locate be the size of B is changing the
+shape and size of B is changing in each
+iteration which can be more cumbersome
+because again that goes into compiler
+design memory reallocation all those
+challenges right so a good practice is
+to pre-allocate B it's a good habit good
+programming habit okay so in our case
+suppose if I want to allocate zeros one
+thing that you may have seen in our code
+snippets is B equals to n p0 is 5 comma
+4 you get an error what is the error no
+okay look at the error this is very very
+interesting error so the moment you
+write this function you get an error
+what is the error say data type not
+understood what data type is not
+understood I am saying create zeros
+right the B I know has to be an ND array
+that is very clear because I am using
+non PI here
+what data type is not understood here
+this is a very common mistake by the way
+data type is not understood so first
+thing you should do here is let's go to
+NP dot zeros and read the documentation
+okay so just google search for MP dot
+zeros you will get this link let's go
+and read the documentation again reading
+the documentation is the way you learn
+now this is very important
+so how does n P dot zeros work look at
+this that many ways of doing it so look
+at the documentation what are the
+parameters here what are the parameters
+the parameters the first parameter is
+called the shape the shape can be an
+integer or a tuple of integers it can't
+be just a sequence of integers from a
+couple of integers right if we want
+again I can say what datatype I want to
+generate but it is optional the default
+value is float this is the default
+parameter order this is also optional so
+let's not bother about it so what is the
+mistake that we have done we should be
+able to understand this look at this the
+fact the shape parameter can be a single
+integer or if it is multiple integers it
+has to be a couple that's the data type
+error we are getting here look at this
+that's the data type error we are
+getting here the data type not
+understood because the if it was only
+just one number you can call it like
+this if it is two numbers you should
+always call it like this
+look at this instead of say I have to
+pass a parameter because it can either
+be a single integer or a tuple of
+integers right so what I have to pass
+here is a couple I created a tuple and
+I'm passing it as a parameter shape
+parameter rest everything is optional
+parameters right so whatever done here I
+have pre allocated the space for B in my
+main memory with all zeros this loop is
+same as what we have seen earlier very
+simple loop very very simple loop right
+I hope this is clear again I know I have
+spent almost one hour on this but I
+wanted to go through the documentation
+read the reference help you understand
+how to fix these bugs okay number one
+okay so next question for all of you
+okay what is the time and space
+complexity of this okay I'll go to the
+light
+chat window okay so what is the time and
+space complexity of this can anybody
+suggest me in the in the can anybody
+suggest me in the in the in the chat
+window what is the time and space
+complexity for this algorithm that we
+have written okay I hope everybody saw
+the algorithm is just a simple nested
+for loop what is the time complexity and
+what is the space complexity sorry we
+are here so is order of n square the
+space complexity or the time complexity
+what is n here you have to be very
+precise when you say order whether it is
+time or space complexity please mention
+that also quadratic okay okay okay n
+square and square all of you are talking
+about space complexity or time
+complexity please mention that order of
+n time complexity Big O of n square Big
+O time complexity is n time complexity
+what about space complex do nobody is
+talking about space complexity can
+somebody tell me space complexity space
+complexity is n square okay two loops so
+n square not always I can show you two
+loop codes which are not n square 2
+loops does not always make it n square
+be careful what about space nobody is
+talking about space guys please tell me
+what is the space complexity I'm looking
+for that time most of you got it right
+what about space okay space space space
+order of M n okay
+order of MN okay ok space is order of I
+mean there is a small caveat there okay
+so let me explain this so the time
+complexity is obviously order of rows
+comma columns because look at this this
+is you have our rows and C columns okay
+it's as simple as that right it's just a
+two for loops you are going through all
+da all the rows all the columns again
+just don't fall for
+I can write code with two for loops
+which are which is not which is not
+order of which is not order of are in to
+see again if you assume that R equals to
+C equals to n this is same as order of n
+square fair enough
+what about space complexity that's a
+tricky part so this is true this is this
+is trivial Rose comma columns what about
+space so when you compute space
+complexity you should not compute the
+input space and the output space because
+you can't escape input and output so for
+this for this system a 1 and a 2 are
+input right this is the input to this
+matrix addition algorithm B is the
+output so you should not include input
+output space complexities apart from a 1
+a 2 and B what are the variables that we
+create we created I we created J we
+created our and C just a constant number
+of variables so the space complexity for
+this is actually order of 1 which means
+constant it is not dependent on the
+number of rows and columns right this is
+a small tricky that's why I ask you
+space complexity specifically it's a
+very simple concept the space complexity
+is constant because you are not using
+any see that's what I told you right
+you should not count input space and
+output space because whatever algorithm
+you have the input space is always
+needed now output space is always needed
+apart from input and output what
+additional space are you using only for
+a bunch of constant number of variables
+that's it
+right hence because this is constant
+number of variables it is order of 1
+right so that's a slight tricky part
+there now I want to give you a simple
+algorithm simple extension intentionally
+I kept it simple
+ok the exercise that I want you to try
+again this should not take you more than
+10 minutes I mean you can write it in 10
+minutes actually ok
+add two randomly generated numpy 3d
+matrices again anything above 2d
+matrix is called as a tensor 3d matrices
+for D matrices all of them are called
+tensors again add two randomly generated
+number three D matrices using loops
+again it's it's fairly simple concept be
+a throw jet column kate ijk sell is a 1i
+JK plus a2 ijk simple concept very
+simple now let's go to the next problem
+okay again I'll keep telling you errors
+and mistakes but I hope we can solve the
+second problem faster okay
+so the second problem here is find if a
+given 2d point is inside or outside a
+circle there's a second problem think
+about it it's a simple problem again
+again this problem is very relevant to
+the context of machine learning data
+science etcetera because in machine
+learning and data science you always
+work with lines planes hyper planes
+whether something is on this side of the
+hyperplane this side of the hyperplane
+you work with you work with rectangles
+hyper rectangles hypercube IDEs etc you
+work with circles spheres again linear
+algebra is all about the study of these
+shapes and these shapes are extremely
+critical to whole of machine learning
+and deep learning right so okay so given
+a 2d point I'm giving a very simple
+example given a 2d point find if it is
+inside or outside a circle this is the
+question open-ended question so my first
+question here is how do you represent a
+circle to represent a circle again this
+is a 2d space you can represent a circle
+by the center the center has
+x-coordinate and y-coordinate right you
+can represent a circle using the center
+and a radius so you can represent a
+circle using the simplest representation
+of a circle is just using three numbers
+in a 2d space I am only talking about
+the 2d space in a 3d space the
+equivalent is a sphere in 4d 5d 10 to
+100 it's a hyper sphere we discussed
+that in our linear algebra videos in our
+course I think some of them are also
+free for everyone to watch okay so you
+can represent a circle using the center
+and the radius now given this if I have
+a point so let's assume there is a point
+let's
+called the point SP how do you represent
+a point in 2d space the x-coordinate and
+the y-coordinate right suppose if there
+is a point here okay which is px comma P
+might suppose that there is a point here
+you just need two coordinates x
+coordinate and y coordinate now when do
+you say that this point is inside the
+circle when do you say this point is
+outside the circle very simple this is
+this is almost like high school
+mathematics I intentionally gave simple
+problem here again I'm starting with
+simple problems but I'll go to more
+complex ones will do permutations
+combinations all of that by the end of
+this I don't think I think we'll run out
+of time but anyway we are not short on
+time thanks to thanks to the log down or
+whatever we will continue wherever we I
+will not rush I want to go slow and
+steady so that everybody is with me okay
+suppose if the point is here how do you
+determine this very simple question so
+let me see what you guys think of in the
+in a chat window okay
+somebody says find the distance of a
+point from Center okay then then what
+should I do
+then what should I do this is a very
+simple question okay I find the distance
+of the point from X square plus y square
+is less than R square no no no no no no
+no this won't work now
+why would that work come on I let me
+construct a counter example for you no
+no that won't work
+come on guys that won't work let me show
+you suppose if I have a circle like this
+let us assume this is zero comma zero
+let me just construct an example so you
+said X px square plus py square is less
+than equal to R square this is what you
+said no but not necessary not
+necessarily always so let us assume this
+is let's say minus 100 common undred
+minus hundred minus 100 H am the radius
+is 10 and I have a point here right this
+point is let's say this point is let us
+say some minus values right this is not
+true this again we can construct an
+example and show that that's not true
+some more detail
+ha distance between the two points what
+two points somebody's saying distance
+between the point is more than the
+radius distance from which point to what
+point just be be very precise in your
+answer folks please huh somebody wrote
+it very well good so let me show this
+square root of P X minus X C square P Y
+minus C Y square is less than R cool
+this is good this is the right way
+very good so the idea is simple okay the
+idea is very very simple suppose if this
+is my circle right so this is my Center
+C X comma C Y this is my radius all so
+if this is my point P X comma py I just
+have to compute this distance if this
+distance let's call it B if this
+distance B is less than R then it is
+inside if this distance is equal to R
+then this is on this is inside right if
+this distance is greater than R it is
+outside simple so all I have to compute
+here is this distance what is this
+distance like this is like simple stuff
+that we learn distance between two
+points see X minus px squared plus CY
+minus py squared the square root that's
+all this is your D so all you have to do
+now is compute the D and do a simple
+offense that's all there is right ok
+I'll tell you typical code errors that
+happen very simple problem this is
+extremely simple right I mean extremely
+simple but I'll show you code errors the
+people that let very common to commit
+very common errors to commit right aha
+good good good good good so first and
+foremost okay so input circle parameters
+what is their sub first task first task
+so we got the logic we got the logic
+let's translate the logic to code first
+task is to input CX CY our second is to
+compute P XP is to input P X py from the
+user then compute the distance then if
+else of the
+that's all there are four parts to it
+four sub parts very simple problem now
+let's go here this is where the fun
+starts
+okay the coding the coding nightmare
+sometimes done so in imagine if you
+forgot how to input multiple multiple
+inputs in a single line you can just
+google search for it input multiple
+values Python you get a nice link from
+geeks for geeks you saw that code you
+pasted it here so what did you say you
+said print enter CXC why are you are
+using a raw input you can use input or
+raw input there are two functions right
+again if you go again I just Google
+search for it I got this link whatever
+was there I just pasted it here not
+split but as usual whatever what
+what does after I split this is the code
+that I got from here I didn't understand
+what it's doing but I know that split
+does a split of a string given a string
+it splits by the delimiter this function
+I know a little about right first again
+whenever you see code from anywhere
+please understand what's happening the
+split basically takes a string and
+splits it by a delimiter like a space we
+know that you can Google's again we've
+discussed this in the course videos what
+does raw input to do again if you're not
+sure always google search and read the
+documentation so just write Python 3 raw
+input ok so Python 3 raw input ok there
+is something ok can we get the
+documentation I think that's better
+reference Python raw input ok ok this
+function is removed from Python 3 I
+thought I was using Python 3 I clearly
+mentioned that I want to use Python 3 is
+it using Python 3 or python 2 still or
+maybe this is still using Python 2 I
+hope again I'll have to cross check that
+I kept I might my default is python 2
+but i wanted to write in python 3 again
+there could be some errors because of
+the versioning in python just be careful
+but anyway let's redraw input let's see
+what does it do ok block this python
+input okay so this is python input
+python raw input right
+so actually python raw input function is
+report removed from python 3 version ok
+but it exists in python 2
+actually it's the same functionality as
+Python input okay cool we know what it
+does it seems it's removed from Python 3
+which means most likely I'm running this
+in Python 2 ok even though I have Python
+3 set here I'll have to cross-check my
+system settings I'll do that in the next
+by the next live session right anyway
+raw input works very similar to input we
+have seen the input function in our
+course videos we know what it is right
+ok
+now the moment I do this I get an error
+let's read what the error is ok when I
+try to run it ok this is where things go
+crazy I try to run it
+ok Ryeon put dot split let me run it
+actually for you ok so let's say you my
+type 1.0 1.0 5.0 ok I run it and then
+also it's taking it so no problem no
+error here cool
+it's taking the values so no issue for
+me cool this is good so I think I think
+it is just the Python version I think I
+was earlier running in Python 3 it was
+not working Python 2 no probably just I
+I restarted my hi Python notebook just
+before the live session I think this is
+some issue fine it's working cool so
+what is happening here oh but there is a
+problem when I print CX c yr look at
+this this very interesting ok so most
+likely I'm running Python do if I'm not
+wrong again we can check that ok
+actually let's just check that ok so I
+don't remember the function python
+version print okay get the python
+version how do I just say blah blah blah
+Princesses version blah blah blah ok
+that's good that's it
+ok import sis prints this version okay
+let me just okay this is basically all
+the system commands let me just try
+what's happening insert cell above I
+want to see what is what is actually
+happening oh it's running 2.7 yes that's
+a problem okay I think okay sorry sorry
+for the mistake
+I'm still running Python 2.7 not Python
+3 so in from the next live session I'll
+ensure it's all Python 3 code ok sorry
+for that yeah but that's ok so because I
+got an error last time I ran I think
+some mistake in my ipython notebook
+setup but that's ok so I ran this what
+the error that I am getting also I
+actually got some error in Python 3 then
+I went to something else I tried a
+couple of things ok ok but let's keep
+one thing in mind so what it is doing
+it's actually reading the whole input as
+a string and it is splitting the string
+look at this what did I input here let's
+let's run this again ok so 1.0 1.0 5.0
+ok I this is this is the input that I've
+given so whatever I have given it is
+taking it as a string and it is then
+splitting it how does the split function
+work split function basically splits by
+delimiter so I gave 1.0 space 2.0 space
+5.0 so it it used this as a delimiter it
+made CX equals to 1 point 0 see y equals
+to 2 point 0 radius equals to 5 point 0
+but it is not treating them as as floats
+it is treating them as strings and look
+at this it is treating them as strings
+because the split function returns
+strings again you can verify that the
+split function the split function Python
+reference ok so ok w3schools bla bla bla
+okay I offer the official documentation
+split ok string dot split ok the string
+dot split it uses a default separator
+bla bla bla bla bla return a list of
+words in a string it returns the list of
+words so it's going to return a list of
+strings because a word is a string right
+so what I have no West are basically
+strings not float that's something I do
+be careful about again while I was
+trying little earlier with Python 3 not
+with Python 2 I faced a slightly
+different issue this was not working it
+gave me an error because raw input was
+not available in Python 3 right so it
+was not available so I had to go back to
+using simple input so again please note
+that this will work in Python 2 but not
+in Python 3 in Python 3 raw input is not
+available unfortunately I am running in
+Python 2.7
+as we just saw right now always be
+careful with the version because there
+are some major changes micro input
+doesn't work right so there are there
+are a bunch of important differences
+between Python 2 & 3 just be careful
+just google search carefully so then I
+googled such 2 for the same line I got a
+bunch of tutorials I went through them
+always try multiple approaches but this
+is clear raw input what I what I saw in
+these geeks would geeks article was not
+working earlier because it's not Python
+3 in Python 3 we know that raw input
+doesn't exist so I just used input now
+when I use input in Python 3 I got this
+error now I saw ok I said what is wrong
+with this something is wrong with this
+ok
+so initially initially I got I got some
+error then I said ok is there some error
+somewhere here III think I think I
+jumped between Python to Python 3 all of
+that stuff right so finally I got it to
+work using raw input itself which is
+available in Python 2 but not in Python
+3 ok the catch here is after I print
+this remember after I print CXC why are
+the first thing that I realized is that
+these are actually floats
+so these are actually strings but it did
+not care about it I just said I didn't
+notice it I didn't notice these it's
+very common mistake that people do the
+datatype mistakes it's a TK let's go
+with it I thought they were never I
+forgot to notice this carefully right I
+thought they were floats but cool second
+thing
+let's input a point takes point 5 we
+input it again raw input Python 2 works
+well if you notice carefully these are
+also strings not floats then I simply
+wrote this logic I simply said what is
+my D my distance is CX minus px squared
+this double star basically means power
+off CY minus py squared this is my
+distance of course I should also put a
+square root which I did not put there is
+a mistake there I know it just bear with
+me then I said print d if d is less than
+this P in C point in circle otherwise
+point not in circle but before it even
+went anywhere it gave me an error
+it said unsupported Opera
+types for Strings so it said I can't say
+operate operand types for subtraction
+sub you can't do subtraction on strings
+that's what it means it is an
+unsupported operands so the operator
+here is - the operands are C X and px I
+can't use string operands on a -
+operator I can't do that that's what
+it's such as it's so clearly said then I
+realized okay there is a problem here
+then again very common mistake people
+forget to put the under loop here okay I
+wanted to point that out so I corrected
+that so I said okay CX c yr PX py let's
+convert all of them to float
+I'm typecasting them to float then I
+import math because square root is there
+in math I compute my distance I print it
+I say if B is less than R P is in circle
+else P is not in circle I computed the
+distance okay this is one of the values
+that I entered zero zero one I think
+that's sorry am I the values that I
+entered are my circle is zero comma zero
+as the center and the radius is 5 and my
+point is 1 comma 1 right my point is 1
+comma 1 if the point is 1 comma 1 the
+distance from 0 comma 0 is square root 2
+and this is square root 2 so everything
+is working well my P is in C cool very
+simple again it is the reason I picked
+this problem is because of the common
+errors in how do you input into version
+2 and version 3 and again this is a very
+simple problem this is actually like
+five minutes problem right but it's
+impossible it's important to the the
+major takeaway from this example is that
+the logic is simple but you can get
+caught up in these raw input input type
+of bugs number one right and typecasting
+is an important thing if you are
+performing mathematical operations just
+please be careful you don't miss that I
+have an exercise problem corresponding
+to this the exercise problem here is
+find if a point is inside or outside a
+rectangle that's the problem
+I hope it is clear so you have you're
+given a rectangle and you have to
+determine you are given a rectangle R
+and given a point P you have to
+determine whether P is an R or not again
+this is very very important for machine
+learning and data science because
+rectangle in 2d becomes a cuboid in 3d
+and it becomes a hypercube oide in
+higher dimensional spaces and that is
+extremely important in the context of
+decision trees etc right can you
+determine whether a point is within a
+rectangle now the big question here is
+you know how to represent a point using
+its x-coordinate and y-coordinate this
+is 2d space we're only talking to these
+space guys I'm not complicating it for
+you we'll do that when we learn when you
+do linear algebra I'll go to 3d 4d I'll
+go to hypercube voyage and all of that
+now I'd wanted to keep it simple my
+question to all of you is how do you
+represent a rectangle I want to hear
+your thoughts the question is clear
+right how do you represent a rectangle
+somebody said to use ml for input yes so
+what happens is the difference between
+raw input and input if you read it
+actually I place that link here I forgot
+to go through that there is a very nice
+stackoverflow link because I got this
+error when I was using Python 3 ok so I
+got this error ok let me also show you
+so I got this error right a very good
+point thank you for reminding me so I
+got this error so what did I do and I
+got this error I couldn't understand it
+in Python 3 when I run this I got this
+error so I entered 0.0 0.0 5 point 0
+input function everything should work
+it says syntax error invalid syntax I'm
+like told this is simple I mean I don't
+find any bug in the syntax right these
+are the 3 out these are the values that
+my input will split and give me cool my
+input function has a string that I can
+call this string will be shown here this
+is simple I am calling split on it this
+is a string split everything should work
+it gave me invalid syntax error actually
+when I tried it with Python
+three I didn't understand it to be
+honest with you I was trying multiple
+things to show you multiple cases and
+the moment I saw this I was like what is
+wrong here I don't understand anything
+that is wrong here then I said okay
+let's Google search okay I just googled
+syntax error invalid syntax on input
+function Python 3 string because this
+this give me invalid syntax string right
+it's on string so I used all the
+keywords I said I am using Python 3 this
+is on a string the error is syntax error
+invalid syntax i google-searched for it
+stackoverflow anyway that's the best
+place to find them to find resolutions
+to bugs so I saw this on Stack Overflow
+let me walk you through this ok so
+someone else had a similar problem blah
+blah blah so this guy actually writes a
+very nice answer various answer here ok
+so he says input is equal to a value of
+raw input the error you saw was Python
+tried to evaluate this expression Python
+was trying to evaluate this expression
+and it failed because this is not a
+valid expression in Python right three
+space five space two is not a valid
+expression right so input is equivalent
+this of this is a very nice answer I
+love this answer right I forgot to
+mention this so I got stuck Python 2.7
+Python 3 in all of that junk jet and
+confusion because I couldn't understand
+what the heck was happening here then I
+said PK let's go here i google-searched
+for it I got this so the moment I read
+this I understood ok whatever raw input
+is getting it is then evaluated and then
+input is equal to this whole thing so
+when I say input what's happening here
+is a value of raw input that's what is
+happening which means whatever the input
+function is reading whatever string I am
+reading it is trying to the Python is
+trying to evaluate this strainer a
+problem here is this string can't be
+evaluated the string is not a valid
+expression right then I said ok then I
+said I don't want the eval so how do I
+get rid of the eval the simplest way I
+get rid of the eval is by using raw
+input instead of using because when I
+use a raw input there is no
+it's not evaluating whatever input it is
+getting so instead of using input I used
+raw input and it worked for me but I
+understood why it is working remember
+your objective is not just to Google
+search find some code paste it fix it
+your job is also to understand why
+something is working and not working
+that's the only way you become a better
+programmer in the long run right thank
+thankfully somebody mentioned this in
+the comment section actually I meant I
+have got this but because of the whole
+Python 3 Python to mix up I think we
+missed some of that the the notebook
+that I share I share with the with
+Python 3 okay sounds good so this is
+cool this is a result okay let's go back
+to the question that we have how do we
+represent how do we represent a
+rectangle I want to see some of this
+okay how do we first first before we go
+how do we represent a rectangle that's
+my question how do we represent a
+rectangle let me see range the somebody
+says you will check x1 x2 y1 y2 what are
+x1 x2 y1 y2 that's that's how do you
+represent this oh there are also other
+ways Chinn my very good I'm happy you
+said this you can use the map with float
+so what this does this is very nice this
+is a very nice thing that he pointed out
+so you can also you can also use
+the map function so what this does
+that's a very nice thing that Jim I put
+here it's a very nice thing so what he
+wrote here let me write it for you he
+wrote for the previous problem ok for
+the previous problem he wrote map so
+you're going to map with float let me
+see the exact syntax input split okay
+cool so input split so what this does
+again I'm assuming that you guys know
+what map is this is also very nice way
+of doing it so you get the input or raw
+input whatever you want you split it
+then what do you get you basically get a
+you basically get a list of words on
+these list of words on this list of
+words you want to apply the float
+function or the float data type can
+version right it is all about the float
+function on each of these entries when
+you want to execute this on each of the
+entries here instead of writing a big
+for loop you can just use the map
+function this will give you basically
+enough the float values instead of
+giving you string values it is also a
+nice way this is a good way of doing it
+good thanks thanks Chennai for pointing
+that out it was a good one
+so okay how do we represent how do we
+represent let's go back to the problem
+at hand how do we represent the
+rectangle what is the simplest way to
+represent the many ways my parallel
+lines okay for coordinates using what
+somebody says I just need four
+coordinates okay can we so one way is
+okay let's go let's go through each of
+this right so one way is line 1 line 2
+line 3 line four
+the problem with that representation
+here is look at this line 1 line 2 line
+3 line 4 so to determine whether this
+point is within the line within this
+rectangle or not I have to determine
+that for this line 1 it is on the right
+side for this line 2 it is on the left
+side for this line 3 it is bottom for
+this line 4 it is stopp'd which is much
+more cumbersome can you do something
+much more simpler can you do something
+simpler than this so somebody said
+somebody the someone else said we'll
+just use the for coordinates right so
+the coordinates here the coordinates
+here the two coordinates the XY
+coordinates the XY coordinates here the
+XY coordinates here the XY coordinates
+here this certainly possible you here
+you have eight numbers but we know that
+it's a rectangle right which means we
+know that this is perpendicular this is
+perpendicular we know that do you
+actually need all the eight or
+coordinates of all the four points can
+you be done with only two points do you
+really need all the all these eight
+numbers here two coordinates for each of
+the points can we do it with something
+lesser than that two diagonals cool
+that's good that's it so imagine if I if
+I just have top left corner and bottom
+right corner it's a very simple problem
+let's suppose imagine if I have this is
+a top x-coordinate top y-coordinate top
+left right this
+is bottom X bottom while just four
+coordinates because when I have the four
+coordinates these coordinates have to be
+very well behaved the way I want because
+it's a rectangle it's not a trapezoid
+it's a rectangle right so if I have a
+point here px comma py now what is my
+rule system say it's all that I have to
+say no here is I have to ensure that the
+P X is greater than px and px is less
+than B X then this point because that's
+1 the second thing that I have to insure
+here is that this py is less than T Y
+and it is greater than B money so it is
+greater than B Y it is less than T Y
+because it has to be below this line
+right this has to be greater than this
+it has to be less than this that's it
+for checks you are done right so the
+simplest way to represent a rectangle is
+by just using two extreme diagonal
+coordinates and by just using greater
+than less than concepts you can simply
+check whether a point is within the
+rectangle or outside the rectangle right
+so very simple
+yeah somebody wrote the code thankfully
+it's a simple thing I'm sure you can
+figure it out that's the assignment
+problem right so please please take it
+up and do it next thing
+one of the biggest errors we see I don't
+think we have half an hour right I have
+like tons of stuff to cover anyway let's
+not jump let's not be in a hurry
+let's just go smooth because we have a
+session tomorrow right we can do as many
+sessions as we want ok so ok the next
+thing that I want to run through is one
+of the most common mistakes that we see
+let me just give me a minute break I
+just want to drink some water
+ok so very common mistake we see because
+numpy ND arrays are used extensively
+throughout machine learning deep
+learning all of that stuff even
+tensorflow all of these guys use it we
+see simple manipulation of operations
+being messed up this is one of the most
+common error messages that students
+encounter
+and student send us an email saying I
+got stuck here but this is very simple
+if you are careful right numpy
+manipulations are extremely simple let's
+start with something the first type of
+operations where we see lot of errors
+are reshaped reshaping matrices right
+there are there are ok there there are
+these three operations where we see lot
+of errors reshape extact V stack okay
+these are the three errors that we see
+like I mean we see every day at least 5
+or 10 emails with just these errors
+literally just with these just with
+these three errors I think even more
+than 10 emails forget 5 then I think
+more just these 3 errors is like 10
+easily 10 plus emails every day for us
+right that's why I wanted to go through
+it so that I mean I can see that many
+people are making these mistakes right
+so again we have talked to some of our
+students this is where they get errors
+they get stuck all of that so I wanted
+to go through these first let's focus on
+green shape okay let's take a matrix a
+ok I'll show you some examples again
+very importantly we will go through
+documentation there is no escaping going
+through documentation please understand
+that okay so I'm creating a matrix right
+this is five rows four columns we know
+how to do it I'm printing this this is
+my this thing now if I want to convert
+this so first task that I want to do is
+this is a Phi cross for my a is a five
+rows is a five rows 1 2 3 4 1 2 3 5 rows
+four columns this is my matrix it's a
+five cross four matrix first I want to
+convert this into an Eric I want to
+convert this into again remember that
+this is a 2d array all this all these
+are n DRS all these are numpy RS right I
+want to convert this into so I want to
+convert a matrix to a vector we do this
+so much in deep learning we do this like
+in so many places converting a matrix
+into a vector very common operation
+right now when you want so how many
+values are there there are 20 values
+here let's just say 1 2 3
+four five six seven eight nine 10 11 12
+blah-blah-blah-blah-blah okay suppose if
+I want to do it how can i how can I
+convert this I've discussed this in the
+course videos a row major column major
+order all of that stuff very simple
+concepts right so one one thing that I
+want to do is first I want to reshape
+this into a vector remember the first
+task is given a matrix I want to reshape
+it to a vector when I say vector it
+means just one row and 20 columns this
+is a vector for me again this is a row
+vector I can also create a column vector
+right let's talk about row vectors in
+this context again we'll discuss row
+vectors column vectors when you do some
+problems and some code examples with
+linear algebra right
+first and foremost okay reshape okay the
+moment before you use reshape first you
+should read the documentation it's a
+beautifully written documentation I've
+pasted it here so whenever you have a
+problem with reshape please read what it
+is okay so numpy dot reshape it's
+lengthy but please be patient reading
+this will save you lots of time first
+first input is an array and and the
+array that you have to reshape okay the
+second is the shape that you want the
+new shape that you want it could be an
+integer or if you want it it could be a
+couple of integers suppose if I want my
+cross 4 array into just a array of
+matrix if I cross 4 matrix into an array
+of size 20 right 1d array I can just
+give an integer here but if I want to
+convert 5 cross 4 into 2 cross 10 matrix
+look at the 20 elements here they're
+also 20 elements here so I should be
+able to convert it if I want to do this
+this 2 comma 10 should be passed as a
+couple of integers that's important
+that's what it says again you can read
+this whole thing there is a special case
+also here very interesting special case
+read it you have to read it there is no
+escaping that fact okay the new shape
+should be compatible with the original
+shape what does that mean five cross
+four can become two cross
+but can fight cross four become six
+cross three no there are twenty elements
+here there are eighteen elements here
+that's what this means if an integer
+then the result if you just give one
+integer like twenty here the result will
+be a 1d array of that length very simple
+to understand right one shape dimension
+can be minus one this is a very
+important thing suppose if I have five
+cross four and imagine because if I want
+to convert this into to cross ten let's
+say you might want to do that
+what can I do I can give the shape as I
+can give the shape parameter as 2 comma
+10 I can give this tuple it's a couple
+of integers this is one way or I can say
+2 comma minus 1 when I say 2 comma minus
+1 the 2 is fixed whenever I give an egg
+it
+what does minus 1 mean it means that it
+means it's illogical how can dimension
+to be negative so what minus 1 here
+means is okay in this case the value is
+inferred from the length of the array
+and remaining dimensions if this is
+minus 1 this value will be inferred
+based on what this shouldn't be we are
+not explicitly giving it there are 20
+elements here if I have 2 rows how many
+columns should I have here I should have
+10 columns now if you give minus 1
+Python or numpy internally resolve that
+this should be done it resolves it
+without you having to explicitly write
+that so whether you write 2 comma 10 or
+2 comma minus 1 it is the same thing
+again I'll show you examples of all of
+them let's go through the examples again
+you can use CF a/c basically means row
+major order F basically means column
+major order again Fortran like order
+photon like order is nothing but column
+major order C like order basically means
+row major order I'll revise this
+concepts right now right what does it
+return it returns a reshaped nd array
+this is clear reading documentation is
+super duper important so let's go and do
+lot of examples now ok so this is my
+array so what am I doing here I'm saying
+print and P dot reshape I want to
+reshape a because I want to convert the
+5 cross 4 look at this I want to
+convert the fight cross for to r1 cross
+21 cross 20 is basically an array of 20
+elements I don't have to give one cross
+20 I can just give one integer because
+it will create a 1d array as a
+documentation says the documentation
+says that clearly right if you just give
+one integer where where does it say okay
+one shape dimension or sorry it's here
+if an integer is given the result will
+be an 1d array of that length it clearly
+says that right so what do I do I just
+give it a 20 see see here you can read
+the documentation gives you row major
+order because C programming language
+uses row major order if you give F you
+get 4 tron-like or column major order
+let me explain what - Oh major column
+major as a quick recap so when I do this
+look at this I print it I always print
+right so what do I get
+what is my first again this is just one
+array remember this is just one array
+there is no there is no this notation is
+not there square braces within square
+braces is not there just one square
+braces okay be careful now first I get
+this value then I get this value keep
+noticing this value is same as this
+value this value same as this value then
+I get this value then I get this value
+then I get this value then I get this so
+what's happening what is row major order
+first I process the first row add the
+first row here then the second row add
+it here right then the third row then
+the fourth row then the fifth row that
+is what is called as a row major order
+it simple very simple no issues now if I
+want column major order let's look at
+this is my a if I want to call a major
+order we just read the documentation
+right it says you just say Fortran like
+representation or column major order but
+you do a column major order what happens
+it will read this followed by this
+followed by this followed by this you
+can see the numbers here first is 1 4 8
+next is 7 6 3 7 6 3 is the next in the
+same column first it is doing the first
+column second column third column so on
+so forth this is one way good very easy
+now okay so I have transformed my Phi
+cross four matrix into a 1d array now if
+I want to do it as to me Eric let's see
+so if I want to do 5 cross 4 into 4
+cross 5 how can I represent four cross
+five there are two ways of doing it I
+just showed you right one way is to
+represent it as a couple we have seen
+people who do not represent it as a
+couple so we have seen people who also
+put it in square braces we have seen
+people who put it in curly braces no how
+do you represent a couple you represent
+a couple using simple parentheses the
+documentation documentation is God as
+far as code is concerned documentation
+is the truth okay it's your Bible Gita
+Quran whatever you call it right it's
+your absolute truth okay
+so that's one thing so I can write it
+for five I can also write it for comma
+minus one as I just showed you when I do
+four come so Phi cross four I am writing
+it as four comma one so the four comma
+minus one then what does it do
+for there are twenty cells here there
+are twenty values for is fixed which
+means this will be five it will
+automatically interpret that so look at
+this I wrote four comma five explicitly
+four comma minus one both the results
+are the same just want to show you that
+right the next one if I want to reshape
+look at me look at the other way the
+other way is also very interesting so I
+can use the minus one you just like the
+way see I have five cross four I have
+written four comma minus one this worked
+this is equivalent to 4 comma 5 the
+other way of writing it is what if I
+wrote minus 1 comma 5 what happens
+whatever dimension is there it will keep
+it the same right whatever this
+dimension it will keep the same the
+other dimension it will try to interpret
+this is 20 cells here 5 here so this
+should be 4 so 4 comma minus 1 is same
+as minus 1 comma 5 here okay this is a
+both are equivalent you can look at the
+results also they're exactly the same
+now let's do one more thing okay so I
+have 4 cross 5 let me try to reshape
+this my air remember my a is all is 4
+cross 5 sorry Phi cross 4 I'm sorry my a
+is Phi cross 4 I am trying to convert
+this into four cross six this should
+give an error obvious it will give an
+error it gives me a value error and it
+says cannot reshape an array size 20
+into shape for
+six very clear message don't worry about
+all of this this is so clearly written
+this is all the internal functions that
+python has a problem with right this is
+actually C syntax pyc basically means
+the C file in which these things are
+running and things like that right very
+simple nothing fancy
+now I want you to do a thing okay so as
+a simple exercise again reshaping is a
+very simple function we see lot of
+people doing mistakes either because of
+the minus one confusion I mean that's a
+very common confusion or the
+incompatibility very common mistakes and
+instead of using C using F instead of
+using F using see all of those mistakes
+okay just be careful now the exercise
+problem that I have for all of you is
+very simple very simple problem okay the
+problem here is take a tensor of size
+four cross five cross six again I'm not
+saying an array this is a three
+dimensional array
+it's a tensor and convert it into a
+convert it as a look at this and convert
+it okay so due to two things okay so I
+have a tensor of size five cross four
+cross six first convert it into a 1d
+vector convert into a vector that is
+first asked convert into a take convert
+the tensor I think I think there's a
+small typo here I should correct it take
+the tensor convert it into a vector
+first okay just one D 1d array then also
+convert into a matrix a 2d array how
+many values are there four into five 20
+into 6 is 120 cells are there so I can
+always convert a 3d again this is a 3d
+array or a tensor I want you to convert
+into a 10 cross 12 again generate a
+random tensor of 4 cross Phi cross 6
+should be simple convert into a 1d
+vector should be one line code convert
+into a 2d a 2d matrix of size 10 cross
+12 very simple this is one very common
+error the second thing is packing now
+let me show you stacking and how I get
+I think we'll finish stacking and then
+yeah I think we can finish stacking 3d
+tensors yeah so problem four and five
+are very interesting problems we'll
+discuss them tomorrow okay so three
+let's finish it because anyway we are at
+it okay so the next thing this is a very
+common error again
+okay so next is packing so let let's
+look at stacking again we explained this
+in the course videos but let's take a
+very common mistake I know a lot of
+people come in this mistake right so
+let's assume I have a matrix a which is
+of size five cross four I have a matrix
+B of size five cross two right remember
+a is five cross four okay so five rows
+let's let's five rows and four columns
+okay this is your a your be here is five
+rows ding-ding and two columns simple
+okay this is 5 cos 4 this is 5 cross 2
+simple good I just predicted them five
+cross four five cross too
+now if you want okay so very common
+problem that people commit very common
+mistake that people commit is if I want
+to create a matrix see look at this I
+want to create a matrix see wherein I am
+joining this matrix with this matrix
+look at this this and this I can I can
+actually pull these two I can pull this
+I can pull this and combine them because
+there are five columns here there are
+also five columns here so these five
+columns will match with these five
+columns so if I pull this towards this
+and if I pull this towards this they
+both will form a coherent structure
+right now if I try to do the other way
+okay so this is what is called as
+horizontal stacking because what are we
+doing here this is what is called as
+horizontal stacking because I'm moving
+this horizontally I am moving this
+horizontal and concatenating them
+actually I'm actually concatenating them
+literally but concatenating them by
+stacking them horizontally right so how
+do I do that so there is a function
+called H stack okay again have done
+mistakes intentionally okay so okay so
+this concept is clear right you
+understood that I can horizontally
+concatenate them can i concatenate them
+vertically think about it suppose if I
+have this can it take this and place it
+under this if I try to place this under
+this what will happen it will create
+this one it will create one two three
+four I can't combine both of them what
+happens to these cells what is the
+resultant matrix size so I can't
+vertically stack this is called vertical
+stacking because I'm stacking be under a
+vertically I was trying to stack them so
+a and B I can't vertically stack them I
+can't have me stack there is a function
+called V stack also there is H stack so
+if you look at these dimensions it is
+very clear that you can horizontally
+combine them or stack them but you can't
+vertically stack them okay let's look at
+the problem mistakes that most people
+come into okay okay this is a very
+common thing that we see n P dot H stack
+a comma B C equals to that printed okay
+now look at this first thing the error
+is so beautiful the error says extract
+takes exactly one argument to are given
+that's why I can't work first thing you
+should do in such a case is read the
+documentation for H stack its stack
+numpy that's it just step it stack numpy
+so what does it say let's look at the
+documentation right it says what is the
+first it says okay numpy toward edge
+stack the parameter is called tup what
+is tup tup is a sequence of nd arrays
+it's a tuple right it's basically a
+tuple tup the name itself says that it's
+a tuple so what should work here look at
+this instead of this what I should pass
+is the parameter I am passing two
+parameters here it takes exactly one
+argument or one parameter I am giving
+two that's the error so just go to the
+documentation it says you have to pass a
+couple just concatenate these two and
+pass it up you're done look a look at
+what it has done these first four
+columns are from a these second two
+columns are from B this is your a this
+is your B your a and B have been
+combined horizontally or stacked
+horizontally works beautifully then very
+common mistakes right okay
+you should always look at what is the
+function argument type read the
+documentation see what it is it takes
+less than 10 seconds to fix some of
+these bugs if you are careful of course
+you become good at it over time
+okay I could do it probably in 10
+seconds you might take two minutes but
+two minutes that's all okay so now let's
+go here Nega again I created two
+matrices no 5 comma 4 and 4 comma 4 look
+at this so I have 5 comma 4 a B is 4
+comma 4 can I can I stack these think
+about it where 5 rows here okay so there
+are 5 rows 1 2 3 4 ok the 5 rows and 4
+columns what is Big B is 4 rows and 4
+columns can i horizontally stack them if
+I try to horizontally stack these two
+will align okay let me change the color
+here these two will align these two will
+align these two will align these two
+will align what will this align with
+nothing there is nothing to align with
+right so if I try to extract this if I
+try to H stack it gives you an error I
+print a I print B see it will give me an
+error
+what error does it give let's read it
+all the input dimensions except the
+concatenation dimension must exactly
+match in our case they are not matching
+look at this these two should match so
+except the copies what are we
+concatenating on so if this was 5 cross
+4 or 5 cross 10 whatever it is if
+they're not matching that's a problem
+and you can see it by just drawing it so
+H stack doesn't work here and gives this
+errors this is a very common error now
+instead of H stack what if we do we
+stack on this okay look at this
+so these are the two ones I am NOT able
+to H stack but can I V stack this okay
+let me draw this okay so 4 cross 4 if I
+place 4 cross 4 here how does it look
+okay 4 rows and 4 columns this is your a
+this is your B I can comfortably
+vertically stacked them so V stack is
+okay H stack is not okay
+why is V stack
+the columns are matching perfectly for
+every column there is a corresponding
+column here so when I do we stack
+everything works simple always again for
+V stack also you have to ensure that the
+arguments are given as a as a as a tuple
+not a comma B outside if you don't have
+these parentheses it will give the error
+again let me just remove that and show
+you you run this it will give an error
+exactly one argument two are given same
+error that we saw a while ago right so
+just be careful with those errors okay
+so this should work now the fun part is
+what happens with 3d with Tori it's very
+simple with 3d things go crazy this is
+where we see some errors also especially
+in deep learning okay how do you
+interpret a again 2d is very simple to
+visualize what happens with 3d actually
+when do you use 3d in machine learning
+so if you have an image right an image
+is basically a bunch of pixels right our
+image is basically a bunch of pixels
+that's what an images right an image is
+basically a bunch of pixels for each
+pixel to represent color you require
+three colors red green blue right so
+what your image is basically a bunch of
+pixels this is your height of the image
+this is your width of the image in
+pixels but for every pixel there are
+three values there is RGB and we
+represent that with a tensor like this
+we represent with the tensor and how do
+we represent that it's very ingenious
+actually the way we represent it is for
+each cell this is a cell right I have
+actually three values here if you think
+I have three values corresponding to
+this cell the first value is the red
+value the second is the green value the
+third is a blue value so this is how
+images are represented as tensors you
+have the height so this tensor is the
+height of the image in pixels the width
+of the image in pixels and the depth is
+three because it's a color image height
+width and depth okay this height this is
+with the
+depth of the image so to understand H
+stack and we stack for 3d tensors it's
+very easy to imagine that with images
+and that's what it was it was actually
+designed for it
+okay let's understand that imagine I
+create an image with five rows four
+columns look at this five rows four
+columns and three depth 3 depth 3
+basically means three colors right this
+is the height this is the width okay
+simple a this is my again what am I
+doing here I'm just getting a random
+matrix here that's all I'm doing here to
+be honest right so okay let me find a
+brighter color oh I got the red good
+then I have my B what is B B is five
+cross three comma K this is the height
+this is the width is the colors simple
+right this is my okay so let me just try
+to use a different so my a is five four
+three this is the height of the image
+width of the image the depth of the
+image or the number of colors this is my
+a okay what about my B my B is five
+three three now if I do an edge stack
+will it work that's I have three
+dimensions now again even drawing this
+is little cumbersome so the way you are
+to think about it is this when you're
+doing H stacking imagine if I have an
+image like this okay with some depth
+with tough with some depth right again
+the depth here basically means colors
+okay suppose if this is my first image
+okay this is my a image a five height
+five this is for the depth is three I
+have B B is again five height of five
+the height is the same look at this the
+height is the same the width is 3 the
+depth is also three so what is H
+stacking extract basically means
+horizontally combine them so if I have
+two images represented as two tensors
+like this can I combine them
+horizontally yes why I am able to
+combine them horizontally because the
+depth is the same look at this I'll
+combine these two suppose if this is an
+image of a face this is an image of
+let's say
+let's say some tell me something some
+cricket back okay okay some okay
+whatever I'm very bad at drawing okay if
+I combine both of them what do I get I
+draw like a wine bottle sorry so yeah
+some car whatever okay
+suppose if I combine both of them what
+do I get I get a face next to it I get a
+kill get back I can combine these two
+right because the height is the same
+okay this the height is the same the
+depth is the same so I can combine them
+horizontally so when you're applying
+x-pac on 3d tensors we don't do much of
+4d tensors much but 3d tensors are
+important now at the both compatible yes
+they both are compatible what should be
+the result here think illogically what
+should be the result here this should
+stay 5 again if both of them are
+horizontally combined I will get 5 comma
+what happens to my width this is 4 this
+is 3 so my width becomes 7 my depth
+stays 3 that's what happened here my a
+is 5 cross 4 cross 3 my B is 5 cross 3
+cross 3 my C is 5 cross 7 cross 3 so
+it's tack works but if I try to do a V
+stack ok let's we'll go to V snack ok
+let's do a different example right
+suppose if I have my a which is 5 4 3
+okay this is 5 this is 4 the depth is 3
+anyway depth is 3 okay just keep 3 Isis
+plus okay I mean or not what what is
+this H stack on you know so not plus its
+stack 4 cross 4 cross 3 cross 3 no can I
+can I can I combine these two
+horizontally look at this my depth is
+matching cool there's no problem with
+depth but this image height is for this
+image height is only 5 if I combine them
+there will be some gap that is created
+here so I can't combine them
+horizontally
+that's way when you try to do this it
+will give you a value error and it will
+simply say sorry all the input
+dimensions should be same and
+concatenation cannot be done very simple
+concept similarly okay let's look at
+another example
+ok so here what do we have
+five four three and five four - can you
+combine both of them you can't because
+the depth is not matching everything
+again there's also image concatenation
+imagine if I have an image with three
+colors five cross four and three this is
+five cross four cross two for some
+reason I can't combine them because if I
+try to horizontally combine them if I
+try to horizontally combine them these
+cells will have three values here these
+cells will only have two values so I
+can't horizontally stack them this is
+very important okay again I'm just
+giving you multiple examples
+now can you restart it how does we stack
+work let's see okay so one of my
+matrices is 543 okay so this is this is
+my image always it's easy to think in
+terms of images height width and this is
+three depth is 3 what is height sorry
+let me instead of writing height and
+width let me just call it five four all
+right five and four can IV stack this
+width can IV stack this with two four
+three let's let's draw V stack right so
+vertically stacking so depth is three so
+this 3 and this 3 are matching so I can
+combine them cool this is 2 this is 4
+because this is 4
+I can combine so look at this think of
+this as two cubes that you are trying to
+join vertically the easiest way to think
+about the missing two cubes that you are
+trying to join do the fit well yes the
+depth here is three the depth here is
+three which means it will fit here the
+width is four the width is four it will
+fit so when the whole concept of H stack
+and we stack the whole compatibility of
+its track and we stack is by combining
+two rectangles either vertically or
+horizontally are you able to create
+another rectangle this is with 2d with
+2d are you able to create it if you can
+there is no issue if you can't suppose
+if you have an issue like this one
+rectangle is like this one rectangle is
+like this this is the final result is
+not a rectangle then it will give an
+error
+similarly with 3d tensors instead of
+rectangles now we are working in the
+space of cuboids can you combine these
+cuboids vertical stacking means this is
+vertical the previous one this combining
+them like this is
+until stacking so by combining
+horizontally or vertically can you
+create a cuboid again that's the whole
+point here right I hope this is clear
+again now the exercise problem I have
+for you is this the same thing that we
+have done with H stack and we stack
+actually if I go to the documentation of
+H stack okay go to the documentation of
+H stack it says if you read this the
+functions concatenate stack and block
+provide more general stacking and
+concatenation operations okay H stack is
+horizontal stacking vertical stacking
+there are more general functions like
+concatenate okay I want you to implement
+whatever we have done above both 2d
+stacking and 3d stacking using the
+concatenate function again the
+concatenation concatenate function
+references here it tells you what is
+again read the reference I've given the
+reference here also I have given the
+reference here also please go through
+this I want you to implement and try out
+the concatenation the H stack and we
+stack operations using concatenate and
+the objective here is that you know in
+another way of doing the same stacking
+thing and concatenate is much more
+generic and much more powerful but of
+course you have to be more careful also
+right so what I will do again today
+again there are two more problems and
+sub problems that I wanted to discuss
+I'll discuss them tomorrow most
+importantly the only way you become good
+at programming is I'll share this whole
+document even problem four and five that
+I'll discuss tomorrow hopefully we'll
+discuss problem four five because we
+have discussed so many errors and how to
+debug errors we can speed up enough
+tomorrow let's try to discuss five to
+six problems okay I'll do four or five
+I'll use six seven eight also right so
+let's try to do that very importantly
+some of the students in the comment
+section as does about practice right so
+here are a bunch of problems optional
+assignments and applied here course
+please go to this document download it
+there will be a bunch of problems again
+this document is all lighting 1516
+programs related to functions again we
+have one for pandas but there are lots
+of online resources
+okay I really love this resource this is
+Python exercises for numpy beautiful
+resource with tons of practice literally
+like look at this there are 41 exercises
+with numpy basics 192 exercise problems
+with num by RS one day as the diagrams
+are also beautifully drawn I love this
+website I just bumped into it while
+searching right I was looking for some
+sample problems tons of problems there
+is also sample solution given the only
+way you become good at programming is by
+practicing if you just listen to what
+I'm telling you now if you don't become
+a good programmer I am only giving you a
+direction with the few examples if you
+want to practice a lot of numpy problems
+there are hundreds of problems here try
+to at least solve a few if you want to
+do a bunch of basic Python programs
+geeks for geeks has a good collection I
+really like this collection because it
+starts very simple it starts with Python
+program to add two numbers Python
+program for factorial of a number Python
+program for simple interest it starts
+with these problems and goes on to
+slightly more complex and let the tons
+of problems here there are a bunch of
+problems on dictionaries so if you want
+problems for practice there is no dearth
+of them all you have to do again please
+understand that if you want to become a
+good programmer you have to practice I
+don't want to tell numbers because
+different people have different
+aptitudes different people come from
+different backgrounds so I would say you
+should reach a position where given a
+problem you can break down the problem
+again I have some problem on
+permutations combinations some problem
+on finding Peaks in a list bunch of
+interesting problems I'll share this
+whole document with you right after this
+I'll put it in the comment section of
+this video itself and also in the
+description section but if you want to
+practice more problems here they are
+right so please again see you tomorrow
+at 6 p.m. I know I couldn't cover
+everything but I hope again please let
+me know how you think about this
+methodology again please understand that
+today we are going slow because we are
+in the starting today we could only do
+three problems because for every error I
+went through the documentation read the
+documentation for you explained it
+slowly I'll
+every line of code but I may not be able
+to cover every error I'll try to cover
+most errors but in the interest of time
+we have done three problems today let's
+try to do five problems tomorrow
+of course the complexity of problems
+also will increase the next problem
+itself is a is given a list like this
+find the peak numbers I can I describe
+this
+we also external references that I give
+for some of these right the next problem
+is given a list like this print all the
+permutations like I slowly increase the
+complexity of problems right so again
+see you tomorrow at 6 p.m. we're doing
+it today tomorrow and the day after the
+rest of the plan I'll let you know as we
+progress based on our speed of progress
+right so see you folks bye bye

@@ -1,0 +1,809 @@
+hey folks uh thank you for joining in
+let me just check if everything is
+working alright just give me a second I
+just want to see if everything is
+working all right if folks thank you for
+joining in let me just check if
+everything is working on yeah so so this
+yeah I can hear myself in the live feed
+so I'm assuming everything is working
+for everyone I'm also keeping a I'm also
+like looking out at the chat window so
+that I can trick as many questions as we
+can
+today's session so yeah so let's get
+going or since since it's exactly 10:00
+let's wait for a couple of minutes I'll
+answer a few questions hey thank you
+folks hi hi everyone thank you for
+joining in and let's just wait on the on
+the live chat here and let's wait for
+everyone to join in there are a couple
+of points that I noted um that I thought
+I will cover and these are mostly about
+general strategies for interviews for
+freshers for experienced folks folks
+with different types of experience folks
+from different engineering backgrounds
+different disciplines again different
+experience levels different companies
+different roles etc I've made some notes
+I'll try to cover as much of this as
+possible in this live session but I'll
+also I'll also try and shed some light
+on what depth because I see this
+question asked where many people should
+remember formulae certainly why not
+so again depends on the company you're
+interviewing for depending on the team
+that you're interviewing for what more
+people are what what most people are
+looking for is not whether you remember
+a formula by heart I don't care if you
+remember Bayes theorem by heart or not
+but do you know what Bayes theorem
+actually is if it they're a lot of
+formulae that I do not remember for
+example if you suddenly ask me okay what
+is the primal and even of his film I
+don't remember it by heart but if you
+give me two to five minutes I can
+actually derive it okay similarly if ask
+me any any formula like that right of
+course I know some basic formula like
+what is entropy these are some basic
+stuff that I do know but if you ask me
+to derive if you ask me some slightly
+complex formula I may not remember it by
+heart but I know the concept behind it
+that I can derive it in like two to five
+minutes
+and that's what is important actually I
+have it I'm terrible at remembering
+formulae but formulas are important
+because they tell you how things behave
+if you don't know the Bayes theorem
+right I can't expect you to know how big
+have naive Bayes works right without
+knowing Bayes theorem how can I assume
+that you understand nine base if you
+can't explain me what is the loss
+function of logistic regression you
+can't you can't understand how logistic
+regression behaves when you have
+outliers or when how logistic regression
+behaves when there are some some
+anomalies in the data how it behaves
+when you have imbalanced datasets
+all of that can be derived very easily
+and very ingeniously from the formulae
+so actually just like many of you I'm
+terrible at remembering formulae but I
+can derive formula from first principles
+and that's what we have done in the
+course also right if you realize in the
+course videos except for a very few
+formulae most of them we have tried to
+derive from very first very basic
+principles in geometry and algebra okay
+your your 12th class mathematics is all
+you need to derive most of machine
+learning most of machine learning
+formulae actually of course there are
+some additional stuff that you learn but
+we've discussed most of them in the
+course so instead of trying to remember
+formulae remember how they are arrived
+at and the intuition behind it in the
+geometric or mathematical right that's
+super duper important so so let let me
+so I'll again to be honest with you I'll
+try to focus this discussion only on how
+to prepare for interviews I try to avoid
+taking questions from the whole spectrum
+of topics because that way I will not be
+able to cover the topics that I want to
+cover and address questions from
+students who are here especially from
+that topic so instead of trying to
+answer questions across the whole
+breadth ins a whole breadth and length
+of machine learning deep learning I'll
+try to narrowly focus on how to prepare
+for interviews based on your background
+okay so I see a lot of questions here
+and since we waited for a few minutes I
+think none of you have joined thanks for
+joining and a very good morning to
+everyone who has joined in so let me get
+started anyway keep a lookout for all
+the for all the for all the comments in
+the chat session and before we get so
+the focus of today's discussion again
+I've just written some notes here
+and I'll try to discuss as many points
+as possible so first and foremost okay
+first let me give you an overview I'll
+also answer questions as we go forward
+right first let me give you an overview
+because in this overview almost 80 to
+90% of equations will be covered that
+some of you are asking me that you have
+computer science experience of non
+computer science experience how do you
+how can you transition to machine
+learning roles I'll answer all of that
+so let me give you a broad overview I'll
+keep taking questions in between I'll
+try to make it interesting they're also
+very good question on if I'm an MBA how
+do I transition to machine learning
+roles I have that covered in my notes
+right so let's go step by step first and
+foremost here I'm assuming that you know
+some machine learning you know some
+basic programming before you go to much
+learning interview right so we'll focus
+on how I'm assuming that you know some
+machine learning deep learning some
+mathematics some programming and things
+like that without that going for a
+machine learning interview is useless
+it's like going to a software
+engineering interview without knowing
+what programming is it's useless so
+don't even don't even apply to machine
+learning roles without knowing decent
+amount of machine learning and what is
+decent we'll discuss that through the
+rest of this session so first and
+foremost interviews come in all shapes
+and sizes I have seen interviews in the
+hundreds of interviews that I've done
+just at times in itself I have
+interviews come in tons of shape and the
+hundreds of students that we have placed
+as part of applied a a course based on
+the feedback that the students have
+given in in almost 300 plus companies
+snuff we have seen a huge spectrum of
+interviews and I mean there is a huge
+variety right but we can break that
+variety into some small sections I'm not
+saying that I can cover every type of
+interview right because there are as
+many interviews as there are
+interviewers and very importantly since
+data science and machine learning is a
+more recent type of job unlike software
+engineers because software engineer as a
+job has been there for the last 30 years
+right since the early 90s this job of a
+software engineer has been there so
+software engineer interviews are much
+more structured because there is a
+structure that is associated with for
+example for software engineer interviews
+if you're interviewing for a at a
+services company especially as a fresher
+you are typically ask basic questions in
+programming your
+to write some simple programming
+questions like implement a queue
+implement a stack write or you are asked
+basically if it's a services company
+typically are you given a simple set of
+problems which requires some basic data
+structures basic algorithms and you can
+implement it that's one type of
+questions that you are asked that
+enforces TCS all these companies also
+you might be asked some basics of
+databases like SQL queries again this is
+all very basic stuff that will be asked
+again but if you go to a product based
+company like Amazon or Google the level
+of questions will increase but typically
+most of the questions are again from
+data structures algorithms some
+companies like some some companies also
+may have aptitude rounds depending on
+the company so there is a much more neat
+structure around software engineer
+interviews but for machine learning and
+data science it's not still very
+structured ok it's still there still
+there is still a lot of gaps in the
+there is no structure because this role
+is also still evolving but over the last
+decade that I've been interviewing
+candidates I have seen some structure
+evolve ok it's not perfect again I'm not
+saying that every interview you may
+attend in your life will fall into the
+structure but there is a there is some
+structure here so we'll try and cover
+the most type of interviews here so
+let's let's go here ok typically
+typically whether you're fresher or an
+experienced candidate with very again
+first we will see what are typical
+rounds you'll encounter right typically
+99% you will have a programming round
+again the complexity of the programming
+round will depend on the company will
+depend on the team will depend on the
+will depend on your background ok but
+broadly speaking you will have a
+programming round of some sort obviously
+this programming round may test anything
+from basic programming skills or your
+SQL especially because data scientists
+and machine learning engineers end up
+using lot of data sources like data
+bases data warehouses etc SQL is
+something that is often asked if you say
+I don't know SQL I've never studied SQL
+I'll say that's ok again it depends on
+your background suppose if you are a
+mathematics PhD or a physics PhD right
+or if you are a civil engineer who is
+never studied or if you are mechanically
+who is never studied SQL SQL is not
+expected as much out of you but if
+you're a computer science engineer or
+you a working professional who work in
+software engineering for a few years
+then you are expected to know SQL right
+so programming and SQL also again we'll
+see what types of questions are asked
+based on the teams and based on the
+company's in a little while but
+typically there is one or two rounds of
+programming and of course if you go to a
+services company the level of questions
+is certainly easier they might ask you
+simple questions like ok let's take a
+few questions right and very simple
+questions you are given two sorted lists
+right or two sorted arrays and you
+define the median of these two errors
+medium not the mean the medium of these
+two errors which is again very simple
+problem because these errors are already
+sorted this required this is literally
+if you write code in Python this is
+literally ten lines of code right so
+these are very simple problems where
+they're just testing if you can program
+in a programming language using loops
+that's all they're trying to test they
+are not trying to test whether you know
+some advanced data structures or some
+advanced algorithms time complexity
+space complexity all of that okay they
+are not testing if you know KD trees all
+these advanced data structures they're
+asking some very very basic stuff okay
+again the first maybe you could have one
+or two rounds of programming again the
+number of programming rounds also
+depends on the team ok first let me give
+you an overview of all the types of
+interviews that you could encounter one
+is programming programming could have
+programming some data structures and
+algorithms again depending on the
+company you can also have SQL in your
+interviews ok we have covered all the
+important topics as part of our course
+anyway I'll come to what we have covered
+in the course little later the second
+type of thing which is very very
+important is called real-world problem
+solving rounds these are these are some
+of the best interviews actually and
+that's because there is a reason behind
+it and that's because you might learn
+all the theory Under the Sun but if you
+cannot solve a real-world problem what's
+the use of all of that and these and
+these problems are more focused on
+experienced folks suppose if you are a
+software engineering with software
+engineer with four years experience you
+would have learned the ability to solve
+real world problems in these four years
+right
+so tea
+then you're asked the problem like this
+okay here is here is a real-world
+problem for example they may say okay we
+are a music company okay let's say Yuma
+you're working with Saban okay which is
+a which is a music streaming company in
+India so or or let's take Spotify or any
+of these companies like music streaming
+companies like Spotify or so on they
+might say how do you recommend new songs
+to people very simple question very
+real-world question then they expect you
+to work out the solution from what type
+of data you collect - how will you
+productionize the model so these
+interviews typically are very open-ended
+they'll give you a problem a real-world
+problem most likely interviewers give
+you problems that they are working on
+themselves because they understand the
+problem very well right so I have a half
+and asked in my interviews people have
+explained them a small module of the
+problem that I am solving currently and
+asked them how do you tackle this
+because as an interviewer this gives me
+a lot of insight into how you think how
+you will be as a colleague if I hire you
+these are these are extremely extremely
+valuable interviews especially for
+experienced folks if you're a fresher
+you could give some textbook solution
+and people may say ok this person does
+not have a lot of experience so that's
+ok but even if you are an experienced
+software engineer people expect you to
+have that acumen to have that insight
+and how real-world problems are solved
+in the industry and be able to translate
+that right so real-world problem solving
+interviews at superb and that's actually
+we often ask our students to build a
+strong portfolio of at least two
+projects preferably up to five projects
+that's because when you have a portfolio
+of projects and when you take it to the
+interviewer the interviewer tends to
+focus a lot of their time on the
+problems you have solved because if you
+cannot explain me the problem that you
+claim that you have solved thoroughly
+then what will you solve a new problem
+so that's why portfolio of projects is
+super duper important we emphasize so
+much on it as part of our course and in
+general also you should always solve two
+to five problems thoroughly end-to-end
+you should try to solve these problems
+in doing everything from obtaining data
+cleaning data pre-processing data
+building the whole models coming up with
+the right matrix to production icing
+these models that whole spectrum you
+should be able to solve at least two to
+five problems based on your domain for
+example somebody is asking here that he
+comes from bioinformatics background if
+you're if you're coming from
+bioinformatics background then obviously
+you should solve by dramatics problems
+the tons of bioinformatics problems
+which use machine learning and data
+science if you come from banking IT
+domain and suppose imagine you worked at
+a bank as a full-time employee or as a
+consultant then you need to understand I
+you
+hi folks our I'm back let me just check
+if everything is working sorry I had a
+power cut extremely sorry for that and
+yeah sorry somebody says I I'm on
+breakfast it's been a long time that I
+had a breakfast I typically wake up at
+4:35 so I finished my video I finished
+my breakfast by 6:00 a.m. anyway so back
+to our discussion sorry I had a power
+cut the summer is still not over in
+Hyderabad and it takes a few minutes for
+my inverter and my Wi-Fi to get started
+again sorry folks sorry for that anyway
+back to the discussion I hope everybody
+is back here right it's working right
+for everyone just refresh this ski just
+refresh the screen and everything should
+work because I just joined back in
+immediately reconnected me back power
+cut prediction where do you want to do
+that you can just ask the eliciting
+Department and they'll tell you when the
+power cut is anyway sorry sorry sorry
+for this goof up yeah I hope it's
+working fine yeah so where were we
+um we were discussing about the
+real-world problem-solving part right so
+unfortunately the power gets cut again
+I'll just join on my 4G in a few minutes
+but typically what happens at my
+residence is met the power the the
+inverter kicks in within a few minutes
+right so just stay online for about a
+couple of minutes and we'll be back
+there ok so back to the discussion so we
+were talking about real-world
+problem-solving questions and these are
+some of my favorite questions because
+they helped me understand as an
+interviewer how you will be as a
+candidate that's very important for me
+right because it will help me it helped
+me understand how you will be as not
+just a candidate but as a colleague if
+you join my team and if we are working
+on the problem together how does your
+thought process how do how can you think
+that your real-world problem-solving is
+SuperDuper important wrong that I think
+almost every company across the spectrum
+from the smallest of companies to the
+world's best companies they typically
+end up having one of these real world
+problems and these real world problems
+can be picked in two ways number one the
+interviewer could choose the problem
+that they are solving currently and give
+it to you as an open-ended problem to
+see how you think number one now
+- is they could also ask you a problem
+that you have solved in the most recent
+past again I've seen this in hundreds of
+interviews right if you try to fool the
+interviewer if the interviewer is even
+half smart we can detect it I've seen
+candidates who claim that they have done
+this they have done that I said okay
+great let's dive into it so I start
+asking some of the questions that only a
+person who has actually solved it can
+answer and they get caught we
+immediately come to the call and say
+thank you we're not interested in you
+right so please don't try to cheat an
+interviewer because if he's even half
+smart you can get caught only if you
+have solved a problem really only then
+explain that problem to the interviewer
+that's very very important because
+interviewers especially people have tons
+of experience interviewing will catch
+you in like no time I've done this I've
+seen I've seen lot of candidates who
+claim they built that they've built that
+but when you go slightly deep where real
+world stuff matters they'll get caught
+so please don't Bluff an interviewer but
+most importantly solve a portfolio of
+projects at least two projects end to
+end so because that gives the
+interviewer a chance to dive into
+problems that you solved again in in an
+interview as much control as the
+interviewer has there is equal amount
+actually I would say there is more
+amount of control of the interview by
+the kinetic that a candidate can control
+the interview much more than an
+interviewer for example I've done this
+many times I've seen lot of smart
+candidates control the interview they
+take the interview in the direction that
+they are comfortable in instead of the
+direction that the interviewer is
+comfortable that way they can actually
+showcase their strengths right you don't
+want to be stuck in an area of machine
+learning or or on a problem that you're
+not comfortable in because that way
+you're not able to showcase your skills
+so a good candidate knows how to take
+the interview how to guide the interview
+in the direction that he can perform
+well in that's very very important right
+so if you have a portfolio of projects
+the portfolio of projects are like are
+like good catch points for the
+interviewer to pick on for example if
+you if you come to me for an interview
+and if you say I've solved this problem
+in recommender systems I'm very good
+okay you've solved this
+so let's dive into recommender system
+stuff because that gives me a hook into
+one topic which I can dive into deeply
+so it's very very important you have a
+portfolio of projects for the real world
+problem solving around then so this is a
+second one first is programing second is
+real world problem solving rounds the
+third one the third one is machine
+learning breath machine learning Bret
+Thrones again many people may not use
+this term called machine learning breath
+but typically there are rounds wherein
+they try to test a wide spectrum of
+algorithms that you know okay they try
+to test if you know let's say if you
+know this 10 or 20 most widely-used
+algorithms or not so those are called as
+breadcrumbs why are they called bread
+because they are trying to test or
+understand the breadth of knowledge you
+have and here again every person has a
+different breadth of knowledge it is
+impossible for any single person to have
+the whole breadth of topics
+unless you've been doing machine
+learning for 2 to 3 decades to be honest
+with you there are some areas of machine
+learning where I am NOT super back ok
+where I am not a fact frankly speaking
+that I'm not an expert at it because
+I've not worked in those areas or after
+graduate school I've not worked I've not
+studied them immensely right so the
+breadth of knowledge gives the
+interviewer or knowledge so in a breath
+around rate they might ask you one
+question about one of the major
+techniques and in an interview if you
+don't know a technique for example
+somebody asks you about let's pick
+somebody asks you about conditional
+random fields let's say let's say okay
+so if somebody which which is a topic in
+which is a topic in graphical models in
+machine learning if somebody asks about
+conditional random fields okay you can
+quietly say I have heard of conditional
+random fields that this is what they do
+but I don't know exactly in depth what
+the how their use or I know or you can
+say I know where they are used but I
+don't know the exact mathematics behind
+it it is perfectly alright to say I
+don't know CRFs it's perfectly all right
+because interviewers generally don't
+expect you to know everything
+and because the interviewer himself most
+likely doesn't know everything right
+this is true with me as an interview
+I've done hundreds of interviews there
+are some topics in machine learning and
+deep learning that I am not good at and
+if an interviewer say gives me a
+solution based on the
+I'll clearly tell him sorry dude I am
+NOT an expert in this area can we try
+something else and that honesty really
+pays off trust me right so in breath
+around try and answer they'll try to
+test your breadth of knowledge they'll
+go from simple algorithms like naive
+Bayes k nearest neighbor logistic
+integration SVM's random forest GBD
+tease the whole spectrum of techniques
+they might pick one one small small
+small small question from each of them
+to see if you know all of the most
+important techniques or not and if you
+don't know something it's perfectly okay
+to say so because they are only trying
+to test or trying to understand what you
+know okay so those are called machine
+learning net rounds then very
+importantly there is something what is a
+machine learning depth drop these are
+very important because you may not know
+every technique okay that's perfectly
+valid but in machine learning depth
+round you are asked to pick a few
+techniques that you're very comfortable
+with or that you have used in the recent
+past okay for example let's say you
+might have used SVM's in the last one
+year in some real-world project there
+I'm expected to know SVM's very well
+because I've actually used it to solve a
+problem right in my as part of my
+portfolio of projects or as part of the
+experiments that I've been doing so when
+they ask you tell me a technique this is
+something that I've done a lot right in
+my own interviews and see lot of people
+also do this as interviewers they'll ask
+you to pick a technique that you're most
+comfortable with
+or they'll ask questions from the
+technique that you claimed that you have
+used in your portfolio of projects or in
+your most recent work suppose if I've
+used SVM's and say okay let's dive into
+SVM's I'll ask you every nook and corner
+of SVM every nook and corner I'll ask
+you right because if you have actually
+used SVM I assume that you have
+understood it thoroughly right again you
+need not be an expert in all the
+techniques but those techniques that you
+claim that you have used recently or the
+techniques that you claim you're good at
+you better be good at them because that
+tells me whether you are thorough with
+learning a concept and using the concept
+of not if you tell me that you're good
+at SVM but if you can't write me the
+hinge loss interpretation of SEO and I
+am like come on dude
+I mean this is not this is not accepted
+or if you can't tell me how support
+vectors are used right or if you can't
+tell me if you can't write down the
+to ization problem of SVM right again
+you just telling me the theory is not
+sufficient you have to explain me how
+kernelization is useful how do you
+design the right Colonel how do you tune
+the parameters of the right Colonel
+these are all important questions if you
+say that I have actually used these
+films or I am good at s films I expect
+you to answer these questions right
+again as part of our course videos we
+try to cover as much as possible again
+nor in its no single course in the
+universe can cover everything just like
+no single textbook can cover everything
+right so we try to cover as much as
+possible as part of our coursework again
+we give additional links also so depth
+round you have to be very careful and my
+suggestion is if you're building a
+portfolio of projects those techniques
+that you've used in your in your case
+study or in your projects of portfolio
+of projects try to dive deep into them
+and understand every nook and corner
+okay because that because the the depth
+rounds tell me how deep is your
+understanding of a subset of concepts
+okay then very importantly so these are
+these are the four types of interviews
+and there is a fifth type of interview
+this is your mathematics foundations lot
+of people mess up this interview people
+say okay I know again I've seen again we
+have done interviews and some of the
+world's best universities I mean some of
+my friends were also our mentors and
+advisors at applied any course have done
+I mean between all the advisers and
+everybody would have done thousands of
+interviews right we have seen candidates
+who can tell everything about every
+algorithm but if you ask them something
+in basic linear algebra or something in
+basic probability like we give them a
+simple problem in Bayes theorem we
+expect them to solve it you just have to
+apply Bayes theorem and solve that
+problem some people can do that right
+that shows that your understanding is
+superficial because your mathematical
+foundations are weaker and why is this
+from the important for an interviewer
+because new techniques will keep
+evolving there is no static Ness in
+machine learning and deep learning every
+week every month there are a new set of
+techniques that come right so that that
+is a problem right so if you if you want
+to if you do not want a sorry if you do
+not want to fall back if you don't want
+to fail in that right so the most in
+important aspect here is format found
+for again the interviewer is trying to
+test whether you can cope up with new
+techniques that evolve for that your
+foundational mathematics is important
+can you write the equation of a line can
+you compute the distance of a point from
+a line without that how do you
+understand well just take a digression
+how do you understand support vector
+machines right can you understand what
+is entropy right when the when does
+something have maximum entropy or
+minimum entropy these are basic
+foundations right without that you can't
+build a random forest or even a decision
+tree similarly a basic minimum Maxima of
+stuff basic calculus how does derivative
+change when you reach a minimum right
+there are very basic stuff
+if you can't ask answer these very very
+basic things mathematical foundations
+right these are typically your matrix
+algebra or linear algebra your
+probability Basics in calculus these are
+the three most important topics for
+machine learning probability and
+statistics linear algebra and calculus
+again calculus you don't have to be an
+expert in integrating using tons of
+methods the most important calculus for
+machine learning is differentiation
+makes again you don't have to be an
+expert in second order differential
+equations all of that the calculus that
+is required which is the maximum minima
+computation which is used in stochastic
+gradient descent gradient descent
+algorithms that part you have to be
+pretty good at you don't have to be an
+expert in second order differential
+those are not required because we don't
+use them day to day in machine learning
+of course if you know second-order
+differential equations that's great
+right but it's not important on a day to
+day basis right so that's very important
+again somebody is asking here that again
+most interviewers some there I've seen
+some interviewers also this is based on
+the feedback that we got from our
+students who attended interviews and who
+got placed some interviews just ask you
+a formula right they expect you to
+remember a formula just be be truthful
+to them and say I don't remember the
+formula but if you give me two to three
+minutes I can derive it for you I
+actually actually that that's that's
+what is important right or I can explain
+you how this formula works right and
+that that is very very important
+remembering by heart is useless trust me
+because what you remember today one year
+down the line you will forget but if you
+know how things are
+I'm net that skill stays with you for a
+lifetime right that's why that's why as
+part of our course we try to derive
+everything from from Haas principles
+from from what is the equation of a line
+what is the distance of a point to a
+line right and then slowly work out
+slowly work over then we give
+justifications and why we are doing this
+why we are not doing it right so that is
+very very important again somebody
+saying is learning unsupervised learning
+important why not see if you go for a
+machine learning interview the basic set
+of techniques you have to know if you
+say I don't know what K means is come on
+that's a joke okay if you don't know
+what is agglomerative clustering or or
+basically hierarchical clustering that's
+a joke
+it's it's considered one of the basic
+concepts right if you say I don't know
+some advanced some advanced stick
+suppose if you say I don't know DB scam
+okay that's okay
+because there are some some good machine
+learning engineers or some good folks
+who may not know DB scam but they can
+pick it up but if you don't know basic
+techniques that's a red flag for me if
+you don't know some advanced concept if
+you don't know something
+you

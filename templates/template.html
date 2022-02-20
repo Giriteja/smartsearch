@@ -1,0 +1,31 @@
+{% extends "index.html" %}
+{% block content %}
+<center>
+<a href="https://www.youtube.com/watch?v={{label[0]}}#t={{time[0]}}s" target="_blank" onclick="return confirm('Are you sure to move to this page');">Link1</a><br>
+<a href="https://www.youtube.com/watch?v={{label[1]}}#t={{time[1]}}s" target="_blank">Link2</a><br>
+<a href="https://www.youtube.com/watch?v={{label[2]}}#t={{time[2]}}s" target="_blank">Link3</a><br>
+<a href="https://www.youtube.com/watch?v={{label[3]}}#t={{time[3]}}s" target="_blank">Link4</a><br>
+<a href="https://www.youtube.com/watch?v={{label[4]}}#t={{time[4]}}s" target="_blank">Link5</a><br>
+</center>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+<h3>Are the Recommendations relavant?</h3>
+<button class="button button1">Yes</button>
+<button class="button button2">No</button>
+
+{% endblock %}
+

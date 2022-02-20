@@ -1,0 +1,2987 @@
+I'm just trying to go live give it give
+me a couple of minutes right let's just
+see if everything is working all right
+as we expect okay I'm just trying to see
+if everything is as expected just give
+me a couple of minutes okay
+I guess I'm life yeah I can also hear
+myself fairly clearly so no issues
+whatsoever
+hey good morning everyone so yeah let's
+wait for others to join in as usual I've
+come a little early a very good morning
+folks thanks for joining in as usual
+I've come little early just to ensure
+that there are no technical hiccups
+before we get started since I'm little
+early we'll start the session just after
+10:00 a.m. so if you have any question a
+I in general right so that other
+students who have joined the live
+session also would benefit
+hey good morning folks thanks for
+joining in so somebody says he's a BSC
+stat student what could be the average
+compensation that he can expect again as
+a BSC stat student I'm assuming that
+your your statistics knowledge is pretty
+good but you also need to be pretty good
+with programming because I am assuming
+that in BSC stats you may not have
+encountered as much programming as as as
+a typical BTech student would be and
+typically in the industry if you are
+coming from a BSC type of course right
+you are typically expected to a master's
+degree because a BTech is like a
+four-year course while BSC in India is a
+three-year course
+so my recommendation of course you can
+get jobs with BSC also I'm not saying
+you can't but you will most likely get
+data you most likely start your career
+with a data analyst type of job unless
+you are brilliant right again the
+compensation itself will depend on both
+your ability to solve real-world
+problems your depth and
+of knowledge and those are two things
+that matter a lot but in general what we
+recommend BSC students is to also pursue
+masters like an MSC in statistics or MCA
+in computer science etcetera so that
+because recruiters typically ask for a
+4-year degree or more a BSC is typically
+a three year degree but again it is
+possible for you to get a data analyst
+type of roles but your compensation will
+be slightly on the lower side as
+compared to an MSC stats or MSE math or
+MSE physics or MCA etc right so so I
+would recommend you pursue a master's
+program and that only learn machine
+learning AI and also preferably become
+good at programming because I've seen
+lot of stats folks who are brilliant
+with statistics mathematics etcetera who
+lack programming ability but for a data
+scientist you need to be good at both
+right folks please don't please don't
+spam by repeatedly posting the same
+question it's very distracting both for
+me and most importantly for the other
+students please don't do that so
+somebody says hobbies a Friday or
+different from is it's a very different
+league all together again we have many
+students from Iasi who join the a a
+course in a typical master's program at
+IAC you learn lot of again at an
+institute like IASE when you pursue a
+master's degree the focus is lot on
+Theory there is lot of focus on theory
+to be honest with you at IAC one of the
+most important lessons I learned was
+advanced mathematics and how to read a
+research paper the practical aspects of
+machine learning itself I learnt in the
+industry to be honest I mean I still
+remember my early days in the industry
+where I didn't know how to solve real
+world problems even though I knew all
+the mathematics behind many techniques
+right so what is C teaches you is gives
+it gives you very strong foundational
+mathematical and theoretical knowledge
+and of course you also learn not just a
+subject you learned it subjects like
+data structures algorithms operating
+systems you know and maybe a distributed
+system
+scores you learn a wide spectrum of
+courses because in two years you have so
+much bandwidth to do and most masters
+programs in India are very focused on
+theory not as much as practical aspects
+that's why we have lot of students from
+ISC other major IITs both students
+pursuing BTech and M Tech and especially
+M Tech in in areas like AAA etc because
+the university the professors at
+University are phenomenal with Theory
+right so they learn theory from the
+University they learn some of the theory
+and most importantly the applied aspects
+the real-world problem-solving skills
+from the AAA course so I would look at
+both of these as complementary and not
+in conflict with each other so okay so
+what are the next questions here okay
+so I I didn't understand this question
+how to learn NLP from beginning to
+advanced again NLP is just again there
+is there is a classical NLP right which
+which typically is covered in university
+courses where you start with stemming
+stopping all of that stuff but today in
+industry a lot of NLP is done using both
+classical techniques and very
+importantly state-of-the-art deep
+learning techniques right so the best
+way to learn NLP is to start with
+learning machine learning and deep
+learning because that is almost the
+foundational stuff on which most NLP
+techniques can be easily built on top of
+for example I have never taken an NLP
+course myself even in the university but
+I've learned most of it on the job
+because I had a very strong foundational
+machine learning and deep learning
+knowledge right and again the cutting
+edge of NLP is all deep learning it's
+all techniques like attention models
+transport modes bird etc again many of
+them recover as part of our course
+itself as a non computer science student
+how to improve programming skill it's
+it's fairly simple programming is just
+like let's say going to a gym ok or
+reading how do you become good at
+reading you become good by doing it over
+and over and over and over and over
+again even when I remember learning
+programming in my eleventh class if I'm
+not wrong because I was in a CBSA
+curriculum where we had computer science
+or programming as one of the subjects so
+the the only way I became good at
+programming even I really enjoyed
+programming even in my eleventh and
+twelfth even my BTech days or even after
+that the only way people become good at
+programming is by solving lots and lots
+of problems by writing code so first
+step is always writing lots of programs
+again we have as part of either a a
+course itself in a Python module that we
+have we have lot of optional assignments
+especially targeted towards non CSC
+students who are not comfortable with
+programming right I strongly recommend
+if you are coming from a non programming
+background please solve all of them so
+that you become comfortable with
+you have to become comfortable with
+programming because it is like it is
+like reading alright see you in your
+career you have to be good at being able
+to read anything that is given to you
+I think programming is such a
+foundational skill for the for your
+career now whichever career you're
+whichever career path we are taking then
+it is almost like a core skill that's
+why even schools are encouraging I see a
+lot of schools who are starting basics
+of Python programming from sixth grade
+onwards right so I strongly it's only
+through practice number one but after
+having done lots of practice the second
+step is to read others code that's
+another strategy that works phenomenally
+well and I have learned how to write
+beautiful code how to write code
+elegantly by reading other solutions
+these are the two steps that you have to
+do day in and day out you only become
+unless you're super smart which most of
+us have not let's be realistic there you
+become good at programming through
+practice
+there's nothing beats that okay so okay
+I think this thread has gone too far
+away I cannot keep track of everything
+again whatever questions I could not
+answer here please feel free to shoot an
+email to team and apply day occurs we
+will try to answer as many questions as
+possible because there is a specific
+theme behind this live session itself
+right so I would like to focus on that
+specific theme itself again we'll start
+in a minute or so and it's impossible
+for me to answer this huge thread of
+questions but anything that I could not
+answer but you want an answer please
+shoot an email to premultiplied any
+course and we'll try to answer as soon
+as possible I will take one more
+question then we'll start the session
+yeah so somebody says what about pi
+torch especially people who are in deep
+learning pi torch is certainly a very
+popular and fairly widely used deep
+learning library itself as part of the
+course we focused more on tensor flow
+and caris primarily because we wanted to
+pick one okay of course we will probably
+do a live session on introduction to PI
+torch also so that people who want to
+used by torch also can get started with
+it but we had to pick one to write all
+of her codon and both both these both
+tensorflow again Karras is now deeply
+integrated into tensorflow
+so let's call everything tensorflow plus
+Kara's as one bucket and PI torches are
+the bucket again
+patrasche is used for production in
+companies like Tesla Facebook etc
+tensorflow Kerris is used in production
+like companies like Google so both of
+them are very very production ready
+there are thousands of researchers
+working and using these toolboxes every
+now in their just that one is built at
+Google the other is built or maintained
+and contributed by folks at Tesla and
+Facebook so you can pick and choose
+again I have not used PI touch I've used
+by touch and it's early days I haven't
+used it much more recently but I have
+used tensorflow Kara's again you can
+pick any one of them better still if you
+know the basics of both of them you
+should be able to read code of either
+tensorflow Kara's school or the or the
+Python school right
+it's good to know both I know the basics
+of both but I'm not used by touch myself
+in in practice a lot as much have used
+Kara's intensive flow so just my bias
+but you can pick any one of them both of
+them are being used by thousands of
+researchers and on like crazy production
+systems okay guys so since we have just
+over shorter we just passed them let's
+get started with the live session itself
+I have some notes that I've prepared
+i'll also focus I'll just go through the
+notes quickly but I'll focus more on the
+code itself
+let's do line by line code walkthrough
+today okay so let me share the screen I
+hope everybody can see the screen let me
+just refresh it to make sure that
+everybody can see the screen okay so
+okay so this is what I had in mind I've
+just written some notes but before that
+let me just see if everybody can see if
+you can you guys can you guys just come
+from can you just can you guys just come
+from if you're seeing the live session
+or not okay you're seeing the screen
+right so
+that's good I just wanted to make sure
+so I let's try to spend as much time
+I'll just go through this note and once
+I go through this notes I'll also go
+through line by line of code right I
+wanted to do a code walkthrough but
+before we go through a Code walkthrough
+let me just give you a couple of
+interesting and important pointers so
+the the the topic today is using web APs
+in Python for machine learning and we'll
+do it for two primary tasks right so the
+first primary task is using pre-existing
+models using models built at companies
+like Google right so this is the first
+task that we will solve okay how can
+they use the speech-to-text again I'll
+take the specific example of
+speech-to-text model that Google
+provides as part of Google Cloud API
+right and how do we use it that's the
+first thing the second thing that we'll
+see is how to obtain data again data is
+is the new oil right without data you
+don't have machine learning and deep
+learning models so we will use Bing
+through is your API again Bing is the
+second most popular search engine
+through a your API right Azure which is
+also owned by Microsoft so is Bing so we
+use the is your API to get search
+results for a given keyword so again we
+will do both image search and text
+search so these are the two things again
+here you'll know how to use Google Cloud
+or especially the the API part of Google
+cloud and you'll also learn how to use
+the API part of a jar that's that's the
+whole agenda there also some assumptions
+that I am making so again my biggest
+assumption here is you know how to write
+code in Python you know how to write
+code in Python you know what is an
+ipython notebook right again I will be
+using Google colab extensively today
+because it's easy for you to copy it and
+run it in your own Google account
+right instead of you having to install
+there are no installation headaches that
+way right of course you get you can run
+this notebooks download them run it on
+your own desktop or laptop that's fully
+possible but giving you a Google collab
+type of an
+helps you run it out of your Google
+Drive without any installation headaches
+right so this is these are the
+fundamental assumptions that I am making
+that you know Python you know what is an
+ipython notebook and you know a little
+bit about color even if you don't know
+too much about collab I will give you
+some quick intro to collab itself collab
+is again a tool by Google very very
+powerful very popular being used
+extensively by many students enough
+okay now the agenda is threefold right
+first is what is a Web API again many of
+you know about Python functions I'm
+assuming that you know Python right so
+I'll try to compare and give you a very
+high-level overview of what a Web API is
+there are a lot of internals of how Web
+API is who are using using rest using
+using XML right you're using
+service-oriented architecture all of
+these things I'm not going to go into
+all of the more technical or software
+engineering aspects of it I'm going to
+give you an intuitive idea of what a web
+api is and that intuitive idea is
+sufficient for the code walkthroughs
+okay I'm not going to go into the
+software architecture stuff because this
+is not a software architecture or a
+software design course okay as long as
+you know how to use web APs you're cool
+right so the so I will give you a brief
+introduction to what Web API sir then
+I'll go through a code walkthrough where
+we will take speech and will convert
+speech to text using google chrome API
+okay this will be a code walkthrough
+then there is another code walkthrough
+which is how do you collect data using
+Bing the Search API which is available
+on Asia these are the three things that
+I wanted to do first let's understand
+what is the Web API so that we can take
+the learnings from this and learn and
+actually go through the code right so
+let's go let's go step by step quickly
+so we all know what function calls in
+Python right how does a function call
+work imagine this is my Python code some
+lines of code here I'm calling a
+function f with a parameter which is or
+arguments or parameter called Sreekanth
+which is a string here so as soon as I
+call this function what happens see this
+line is executed this
+is executed this line is executed this
+line is executed as long as a call this
+function what happens it goes to
+wherever the function definition is
+right it goes to this this recount is
+now copied into this variable name
+called name into this variable name
+called name and whatever is there in
+this function is executed at the end of
+it my control comes back to this line
+itself this is a function calls work
+again when you're running function calls
+what's happening this code is in your
+computer this this this calling function
+this whole calling code is in your
+computer this called function is also in
+your computer very often okay so all of
+them are in the same computer right of
+course this function could be in a
+different folder or in a different
+library that's all okay but both this
+and this are on the same computer okay
+that's the important part typical
+function calls in Python okay you can
+think of API as also a fancier version
+of a function call that's it what is a
+Web API so again there are many types of
+ApS web a pairs are the most popular and
+most widely used so how does a Web API
+work let's understand that step by step
+let me change the colors a little okay
+let me use this color okay suppose
+imagine if this is a code that I have
+okay so this line is executed executed
+executed executes I'm calling this
+function f now when I call this function
+f what happens the control goes here
+this Shrikant is copied to the name
+variable and then again there is some
+body of the function right where I
+execute this I execute this I execute
+this so in a Web API what happens is
+this this is very interesting in a web a
+period you want to run again to send to
+complete this so there is a chunk of
+code here there is a chunk of code here
+okay through which you want to call
+again remember that this function this
+code snippet and this are on the same
+box so let me draw a bounding box here
+okay so these two are on the these two
+are on the same computer this is your
+local computer let's say okay this whole
+thing is on your local local computer
+now this function will make a request
+okay it will make a request
+to a web server okay this web server
+could be located anywhere on the
+internet remember this is your desktop
+this is any web server it could be
+Google surfer it could be Amazon server
+it could be insured server doesn't
+matter okay the way it works is this
+function let's call this function as f
+APM okay this is a web AP this our Web
+API works so this function f now makes a
+request so this works using a request
+response type of system and this request
+is sent using HTTP protocol typically
+what is HTTP HTTP is a protocol that is
+used to access web pages okay if you go
+to any web page you see HTTP colon slash
+slash facebook.com so hedge TTP is the
+web based protocol for looking up at web
+pages now the same HTTP protocol is used
+to call a function on a web server this
+function is sitting on a web server so I
+request when I make a request I can also
+send some parameters I can also send
+some some parameters to this function
+these parameters will go into this
+function this whole function will
+execute whatever is the output of this
+function comes back to the calling code
+now remember this request is sent via
+the internet using HTTP again HTTP is
+the most popular you can do it with
+other protocols also this these are
+typically called as web a place because
+you are using a web based protocol you
+are requesting see you know the best
+protocol what do you do
+typically in HTTP you request for a page
+and the server sends you a page here
+what I doing Eirik you are sending a
+request to execute this function with
+some parameters of your choice or some
+some arguments of your choice and this
+sends back a response this response is
+typically sent back using formats like
+JSON XML etc again Jason being one of
+the most popular ones okay there is also
+XML again in our in our Python videos in
+our in our course we have discussed
+about JSON XML etcetera right so this is
+how this is the basics of how web apis
+themselves work again we have done an
+earlier live session where we discussed
+about how to build a web api your self
+using flask using flask and
+how to deploy it on a SS this is the
+live session that we have done earlier
+right so in this live session we are not
+going to discuss how to build a behavior
+we are going to learn how to use a web
+api now in this whole system there is
+also one more layer called security
+now what is security security basically
+when I'm making a request to the web
+server
+think about it when I go and request for
+a web page I could send my username
+password credentials to log into a web
+page right similarly for for web api s'
+okay there is something called as an api
+key okay so there is something called as
+api keys that you send along with your
+request along with your request
+you send api key to tell exactly who you
+are because some of these API s-- will
+charge you there's there is a chargeable
+amount for every for every function call
+that you make because this is being
+again where is this function f api
+running it's running on the web server
+imagine if it's running on the Google
+server Google is spending money to
+execute that function for you right so
+Google could charge a small amount just
+to ensure that you're the person whom it
+should be charged there are some API
+keys so API keys are used mostly for
+security and billing purposes right I
+hope this this picture is clear again we
+will see this example we will see this
+actually working in practice okay so
+let's go step by step this is a big are
+big big idea behind web APs it
+themselves now let's dive into Google
+speech-to-text okay so the most
+important thing that you have to
+remember or learn is this whole system
+in that ok so let me show you this the
+most important thing here is this this
+is your calling function this is the
+this calling this function this function
+will call a function sitting on a web
+server again some of you who might have
+studied Java etc might have learned
+about remote procedure calls or pcs
+right again this is something that I
+remember learning in my BTech remote
+procedure calls were a popular
+technology especially in Java you can do
+it even today but web a place you can
+think of as the next generation of our
+pcs or remote procedure calls because
+you are calling a function that is there
+remotely on a web server
+using web-based protocols and request
+responses using JSON XML and all these
+are all these are data formats that are
+very extensively used on the internet
+right as so there are only three pieces
+there is a request there is a response
+and there are API keys these are the
+three things that you should know right
+it's as simple as that okay so let's
+let's go down okay again I'll go step by
+step and in between I'll go to the go to
+the chat window and try to answer a few
+questions if there are any but let me go
+through each of these step by step first
+okay so let's go Google speech-to-text
+right so before we go in again you can
+we can read a lot about Google
+speech-to-text in this link and share
+this share this document with you at the
+end of the live session but just just
+bear with me this is where again you can
+read a lot about how Google
+speech-to-text itself helps you this
+this is a web api that is provided by
+google cloud right now a big question
+that many many of you might have is why
+not build my own speech-to-text you're
+using using advanced to speech-to-text
+algorithms like transform or modules or
+attention modules etc a very common
+question that that we encounter why
+don't we simply use our own
+speech-to-text
+alright so just let me go into the
+comment section and see if everything is
+all right okay sounds good yeah I think
+everything is okay so let me let me go
+into let me go back to the document
+itself okay so the question here is why
+not build our own speech-to-text using a
+transformer module or attention model
+one of the biggest problems in building
+your own speech-to-text
+is data there are there are multiple
+parts imagine a company like Google
+which owns an Android okay which owns
+Google now Google assistant they are
+sitting on a literally a gold mine of
+data okay they listen to people I mean
+they they have data of audio from people
+almost from everywhere in the world
+different accents different speaking
+rates right so they are sitting
+literally on a goldmine of data and they
+have the resources to so they have laid
+they have raw data and they have high
+quality labeled data imagine a company
+like Google because speech-to-text is
+such an important part of the technology
+stack whether it's on Android whether
+it's on Google assistant whatever it is
+they can spend a few million dollars
+going through thousands and thousands of
+sentences that people have spoken and
+get them labeled manually for
+correctness so this sort of high quality
+label data you and I
+normal beings may not have access to
+number two number three that they have
+is compute resources Google can train
+and experiment with fabulously complex
+models ok so because they they have like
+literally tens of thousands of computers
+GPU computers at the disposal for their
+research work even for their production
+work right so what Google can give us in
+terms of what Google has in terms of
+compute is enormous fourth thing they
+have is people Google has some of the
+best concentration of deep learning
+researchers in the world whether it's at
+google deepmind or google brain or
+google product beans etc right so google
+has great data it has enormous amounts
+of label data it has computer resources
+and people that if we try to build our
+own speech-to-text it will be very hard
+to compete with what Google can build
+because of these fundamental advantages
+that a company like Google has again
+just like Google there is also an is
+your speech-to-text
+there is also an IBM speech-to-text
+there is also AWS enabling it again
+owned by Amazon
+it stands for Amazon Web Services each
+of these services has a speech-to-text
+api that you can call but amongst all of
+them Google seems to be one of the best
+especially when I try with my Indian
+accent ok I'm sure others also work very
+well for other accents but I've seen
+Google to work the best for Indian
+accent or even for accents across the
+world right so the reason to use a
+speech-to-text like Google is again the
+forth again because they have this huge
+advantages and most importantly if they
+already have it and if they're making
+available to an APN why not just reuse
+it why not just reuse it for example
+look at this in your Python right so
+very common example that I give people
+is in Python we have dictionaries right
+which is nothing but a hash table which
+is nothing but a hash table right a
+dictionary is nothing but a hash table
+hash table is a very very popular data
+structure in computer science
+how many of us implement hash tables
+whenever we need to we don't we use a
+dictionary in Python because it it
+implements the hash table I under I know
+again remember that as a good software
+engineer I should know how a hash table
+works I should know how the internals of
+a hash table but I don't have to
+implement hash table every time because
+the designers of Python have done it
+using a data structure called dick which
+is nothing but a hash table right but as
+a good software in ER I should know the
+internal similarly when I'm using a
+speech-to-text system I should know how
+well it works and I should it's always a
+good practice if you want to do it
+quickly it's always good to use Google
+speech-to-text as your first correct
+solution right of course you can build
+your own system using transformers but
+very likely unless you are working in a
+very specific domain and unless you have
+a lot large training data you may not be
+your results may not be as comparable to
+Google speech-to-text
+right it's fairly hard to beat that I
+mean it's not impossible I've seen in
+specific applications for example if you
+want medical I've seen a few medical
+companies what they do is this medical
+terminology is very different from the
+terminology that Google sees as part of
+the data set so there are companies that
+collect a lot of medical data what the
+doctor says the medicines that the
+doctor is prescribing and they just
+listen to it they get lot of high
+quality label data and they train their
+model only on medical data which means
+their models their transformers or
+retention models are going to perform
+phenomenally well on medical data while
+Google may not be able to so unless you
+have very specific applications where
+Google is not performing well it makes
+complete sense to use Google
+speech-to-text of course there's a small
+cost associated with it but let's let's
+go through Google's cloud speech-to-text
+right so let's just go there
+I'll show you sorry I'll just show you
+how it looks okay so I just Google just
+go to that link what you see is this you
+see a speech-to-text here it says speaks
+to text conversion powered by machine
+learning there is a ton of doctor I'm
+sorry there is a ton of documentation
+that you can read the best part is this
+you can upload a small audio file and it
+will give you again you can try how well
+this works actually you can just choose
+a file upload this file and it will give
+you the output of whatever audio is
+there in the it will give you speech to
+text output right very very interesting
+right so again Google can recognize 120
+languages very and all of that stuff
+right I mean phenomenally I mean they've
+designed it phenomenally well and keep
+Google can we can can detect if you're
+giving a command for example a command
+like set an alarm I give this command to
+my Google assistant every now and then
+or if you have phone calls right Google
+is trained a special model for phone
+calls even if you give it a video it can
+transcribe or convert the speech to text
+of the audio in the video then there is
+a default system which works for
+long-form audio if you have let's say
+five minutes of audio and you want to
+convert that to text this is very cool
+right again there are multiple there are
+multiple features advantages all of that
+stuff there are things like speaker Dyer
+ization which basically says which
+detects the speaker who is speaking a
+specific sentence imagine if there is an
+audio snippet with multiple speakers it
+can recognize which speakers said the
+what of course there is a price
+associated with it again because Google
+is spending I mean tons of resources on
+it for some like up to 60 minutes of
+audio this service is free beyond that
+they charge a small amount okay
+so again this is important to note ok
+there is a bunch of documentation but
+instead of going to the documentation
+let me show you first and foremost you
+should go to Google Cloud okay let me
+just go there just go to
+cloud.google.com sign up again we have
+an account because we use Google
+services for some of our work
+just sign up okay this is this again our
+account right this is our account which
+we use but please sign up on Google on
+Google called cloud.google.com when you
+are signing up it will mostly ask for
+your credit card right so just say sign
+up for a Google account
+just like the way you sign up for a
+gmail account or anything just sign up
+for a cloud.google.com account but it
+asks for a valid credit card to create
+an account this is mandatory
+without this it will not let you create
+an account okay so please make sure that
+you have a valid credit card
+unfortunately they force you to do it
+because in case you use the service a
+lot they have to charge you to your
+credit card number one then go to this
+webpage ok console dot so once you've
+created the account just go to console
+dot cloud.google.com again it says go to
+console right you can just go to console
+then again just like Google
+speech-to-text there are many other
+services so Google has something called
+as vision vision Google Cloud or
+google.com fronts Leslie vision ok in
+this Google can do or detect objects
+automatically understand text in images
+right all of this it can do just like
+the way we are doing speech to text this
+I am show you one API there are hundreds
+of a pays on Google Klump right you can
+also do it for images also just wanted
+to tell you that I'll show you speaks to
+text but similar things you can do it
+for understanding text in an image
+detecting objects all sorts of stuff the
+concepts stay the same the concept of
+calling the a pH stays the same it just
+that you have to call a different API
+that's it it's like calling a different
+function altogether ok so then then just
+go to console if you go to console this
+is how it looks like this is our console
+page ok
+so once you go to console page I have
+created screenshots so that you can use
+this first and foremost create an
+account and go to console dot
+cloud.google.com I'm trying to take you
+step by step next go to first we have to
+creating API key because API key tells
+without an API key you can't call Google
+Web API so what you have to do you got
+to go to this webpage go to this again
+I've
+I can screenshot so that you can reuse
+this you can take this slides and follow
+the same steps okay consult or
+cloud.google.com just go here to get the
+API key on the left side you have a PSN
+services let me also show you this API
+send services in APs and services go to
+credentials
+that's what again I have highlighted
+that here clearly go to APIs and
+services click on credentials right
+again what am I doing here we are trying
+to get an API key for ourselves to call
+the function we need the API key without
+this we can't get it to work
+okay so first create your google cloud
+account then let's get the API key click
+on credentials once you go to
+credentials it create conditions click
+click on create credentials it will show
+you service account click on this I'm
+giving you step-by-step instructions
+here once you go to service account ok
+you can fill this form ok you can just
+call whatever name you want we are
+calling it a AC life because we are
+using these keys for life session only
+ok it will give you some account name
+all of that stuff and I can describe
+what I want to do to explain the concept
+of API speech-to-text
+just fill this form and click create ok
+now once you click create it also says
+do you want some account permissions
+owner permissions etc just if you don't
+need this don't worry about it this is
+optional just click on continue ok when
+you click on continue it will give you
+this page and just click on create key
+again I am giving you step by step here
+ok click on create key here once you
+click on that it says how do you want to
+create your key we want in JSON format
+or p12 format JSON is the recommended
+one so just click on jason choose this
+option jason and click on create ok so
+the moment you do this this is what you
+get it says I have created this JSON
+file
+it's called nifty buffer blah blah blah
+blah dot JSON and it is downloaded to my
+computer ok so now what do you have you
+have the Jason key oh yeah or you have
+the API key to call the remote function
+or the web APN ok so just download this
+now what I do now is I rename this ok
+because this name is so cumbersome
+I just rename this JSON file ok you know
+how to rename it right downloaded it to
+your
+on your computer just rename this to a
+play - key door Jason and if you go into
+that this is how it looks again I have
+I've cleared out all the all my URLs
+because this is specific to our company
+right but if you see if you just open
+the JSON file this is how it looks
+so whatever JSON file I downloaded from
+for my API keys which is me free buffer
+blah blah blah I changed it to API key
+to Jason and when you open it it looks
+like this cool ok now let's go to Google
+collab and run the whole thing not cool
+this is simple right so what have we
+done enough we have done two things we
+first created an account on Google Cloud
+and we have gotten a we have downloaded
+the API key as JSON file and we call
+that API key Jason finest API - key dot
+JSON now let's go to Google : file ok so
+let me walk you through Google collab
+now okay so this is my Google collab
+file let me just zoom this in a little
+so that you can see what's happening ok
+I am zooming it in so that you can see
+the code now what is Google collab again
+those of you who already know ipython
+notebooks Google collab is like running
+an ipython notebook on the Google cloud
+from your Google Drive itself right very
+simple again this is one of the simplest
+ways if you don't want to go through the
+headaches of installing Python ipython
+notebook Jupiter notebooks all of that
+headache this is one of the easiest ways
+to do it
+first and foremost so let me go code
+line by line so first what I do from
+Google Kolob imported rifle ok so what
+why is this needed because this is again
+how does it work on your typical
+computer ok you have your ipython
+notebook here and you have your whole
+disk here you have you have your whole
+hard disk here right this is your
+ipython notebook on your ipython
+notebook you can access all the folders
+on your disk this is how it typically
+works right and all of this is on your
+same computer right now what happens is
+this ipython notebook wants to access
+your Google Drive
+so when you say import to drive what do
+you want to do you want
+mount this drive or access this driver
+right so the first step this light
+basically says from Google collab
+imported right why do we need this
+because we want to use Google Drive as a
+disk as a hard disk now first step
+second step is you mount your Google
+Drive mounting basically means again
+mounting is a term that comes from UNIX
+and Linux terminology it basically means
+make your Google Drive accessible from
+this from this ipython notebook out from
+this colab notebook right very simple
+command dr dot mount just say content g
+drag this is fixed so what this does is
+it makes your whole Google Drive
+accessible to this ipython notebook
+right so just like your disk is
+accessible by default or ipython
+notebook now if your colab notebook can
+access your whole Google Drive it can
+access your whole Google Drive so that
+I'll use Google Drive as my hard disk
+lock right that's very very important
+right so I have this so when you mount
+it it says it requires authorization
+code because it wants to ensure that you
+are using your Google Drive itself so
+the moment you execute this it says
+click on this link when you click on
+this link it will give you a code it
+will give you a big hex a listen it will
+give you a big alphanumeric code just
+press it here and press ENTER it will
+say mounted Google Drive right so now
+what have you done in these two steps in
+these two steps we have made sure that
+we have we are you going to use Google
+Drive as the disk in which we will store
+and retrieve stuff first and for so what
+I have done here for this session for
+this session what I have done is this
+I've created in my Google Drive look at
+this so content G Drive my Drive this is
+my whole Google Drive within my Google
+Drive let me show you this so that you
+are ok so let me show you this so in my
+drive this is this is my company's
+Google Drive right in Google Drive I
+have a folder called live sessions this
+is the date on which we created some of
+this data 24th Feb and we call it
+speech-to-text ok in this I have in this
+speech to text folder I have all the
+files that I need for the next steps so
+what am I doing here
+look at this when you run a line like
+this look at this in hi Python notebooks
+or even in collab you can run Linux
+commands like this percentage CD CD
+basically means change directory in UNIX
+what am I saying I'm saying change to
+this directory right now what
+Directorate isn't it is in content eg
+Drive it is in this directory enough so
+what am I saying please change it to
+content G Drive my Drive so first of all
+what you should do is you should create
+a folder called speech-to-text on your
+own Drive whichever folder you want you
+can create it within your whole Drive
+itself
+mount that ok so you change your that
+see you already mounted your whole Drive
+you change the directory then this
+exclamation LS basically means list all
+the contents of this folder again these
+are commands that you encounter on Linux
+or UNIX or Mac right because at the end
+of the day Google runs all of this on
+Linux clusters right so when you say LS
+what happens it will print all the
+contents of this folder in my speech to
+text folder I have some PNG s just
+ignore these PNG these pages are nothing
+but the screenshots that I have shown
+you earlier the most important ones are
+these API key dot Jason remember the API
+key that are downloaded from Google I
+upload it to my Google Drive in this
+folder so whatever is your JSON key
+remember just just a while ago I showed
+you that I downloaded API key door JSON
+from my Google account I uploaded to
+speech-to-text in my Google Drive okay I
+also could I also uploaded another audio
+file this audio file is gene VV dot
+laughs okay this is an audio file that I
+want to convert to text I also created a
+folder called parts I can tell you why
+we created the parts then again you
+don't have to worry about ipython
+checkpoints because it's automatically
+created for you then there is a
+requirements dot txt these are the four
+important files that you need again you
+will have your own API key dot JSON will
+share you share the gene view dot the
+have file will also share the
+requirements 5
+each of these are required in a little
+wine so whatever done now I have gone to
+I've changed my directory to this
+directory enough in this directory these
+are the for files and folders that I
+will use okay
+first and foremost before I go ahead I
+want to tell you I first have to set up
+the environment right although all the
+other libraries that we need we need to
+first install them right because this
+Google collab may not have all the
+libraries that we need so the
+requirements dot txt file if you just
+cat exclamation cat
+what does cat to do in Linux that
+basically prints the contents of a file
+so the requirements dot txt file has all
+the libraries that we need to install to
+make this whole code work very simple
+okay so this is the list of all the
+files or sort of all the packages that
+you need or like beauties that you need
+to execute this okay so that's what is
+there your requirements dot txt next
+look at this line next line is very
+important it says exclamation tip
+what is people to be pissed Python
+Installer right basically you can
+install Python packages using pip pip
+install - our requirements dot txt now
+what does this do whatever is there
+whatever libraries are there in
+requirements into txt it will try to
+install all of them right pip install
+basically installs all these libraries
+that we need for the rest of the whole
+system the most interesting library here
+is speech recognition and can you mind
+again this is the name of the library or
+the package and this is the version I am
+also giving the version if this version
+number does not exist it will it will
+simply force it and install this so see
+look at this it's downloading all of
+them installing it to your column now
+very good so what have we done enough we
+have moved our again this is very
+important you need to create a folder in
+your in your Google Drive copy the API
+key that you got whatever is the audio
+file that you want to transcribe or
+convert to text the requirements file
+and the parts folder okay what have we
+done till now they've installed all the
+requirements that we need to execute
+rest of the code
+libraries than we need okay next let's
+look at the audio file itself this audio
+file is called gene look at this this
+audio file this is the name of the audio
+file if you look at the audio file I can
+we can we can listen to the audio file
+also what I'm trying to do with this
+ffmpeg line okay this this ffmpeg line
+basically says again ffmpeg is a very
+very popular Linux tool to cut audio and
+video the way we want to process audio
+and video so explanation ffmpeg - I
+which means this is my input remember
+this is my input file now what I want to
+do here is I want to segment this input
+file into thirty-second chunks see this
+is my whole file okay this is my whole
+audio file I think this is not this is
+close to 90 seconds if I'm not wrong
+okay this is a 90 second audio file I'm
+breaking it into 30 second files I'll
+tell you why I am doing it little later
+just bear with me okay so this command
+basically again you can just Google
+search for this command and you'll get I
+don't remember it by heart to be honest
+with you
+i google-searched again I think my
+teammates actually Google search to
+create this document right so ffmpeg - I
+this is my input file I'm going to break
+it into thirty-second chunks and I'm
+going to copy all of those 30-second
+chunks into this folder so now my parts
+file
+my parts folder has out dot valve now
+look at this what am I doing with this I
+am taking this bigger or your file this
+is my input
+I am chunking it or I am segmenting it
+into 30-second audio snippets and this
+30-second audio snippets I am storing it
+into or I am copying them into the parts
+folder without some numbering now if I
+if I now let's go to this parts folder
+and list what our files are there look
+at this okay so I'll come there in a
+while okay so that's what I have done
+actually there is a line here let me
+show you we have it here yeah so okay so
+it created three files actually parts
+out all zeros out one two so this
+percentage zero some of you may be
+concerned about this syntax here this
+percentage zero nine out percentage zero
+nine D back what this means is the first
+file make it as out followed by nine
+zeros four five six four four dot laugh
+this will be my first fight my second
+file will be out the nine basically
+means nine zeros okay the second one
+will be 0 0 0 0 1.5 the third one will
+be out zero zero zero zero two dot 5 etc
+you can use any number here that's okay
+so what have we done here we have taken
+the big 92nd roughly about ninety second
+audio file and we have broken the broken
+it up into thirty second audio chunks
+now why we are doing it I'll come to it
+a little bit you don't have to do it all
+this okay but there is a reason why I
+have done it I will show you in a little
+while just bear with me okay now let's
+go to the core effect now we have our
+input data we have our keys we have
+installed all the requirements so let's
+go down and actually run the code so
+there is this package called a speech
+recognition like a very interesting
+package so if this is this is a
+reference link we can just go here the
+speech the National Library again again
+here we are using an another library
+called speech recognition very popular
+library through which you can call
+Google's cloud Google Cloud speech API
+you can call as your speech API you can
+call bingo voice recognition right you
+can also call IBM speech to text so this
+is one library again this is one library
+or package that you have speech
+recognition package with which you can
+call most of the major most of the major
+speech to text recognizer systems again
+CMU sphinx is an old slightly old model
+which you can run on your own computer
+this is not a Web API based system ok
+this was built at Carnegie Mellon
+University it's it's a very popular
+technology before before cutting-edge
+stuff that Google and is your nawa
+building enough but this this has
+existed for a very long time so the
+speech recognition
+a package here that our library that we
+have here can help us call Google Cloud
+speech APA is your speech API or Bing
+recognition whatever we want that's the
+best part about this now of course there
+is a lot of documentation about this but
+let's dive into the code itself so what
+am I doing here
+I'm just importing speech recognition as
+si very simple and if I just see SR SR
+is a module blah blah blah all that
+stuff is there cool no problem
+all right now now look at this okay so I
+am writing some code here for something
+called as multi processing so input OS
+we all know what oasis right then this
+this these lines basically are for
+something called as multi processing I
+will explain you multi processing in a
+little while okay suppose in
+multi-processing what happens is this
+typically what do we do I think some of
+you may know about multi-threading and
+things like that so what it does here is
+imagine if I have a lot of audio files
+right I have audio out 0 0 0 0.5 file I
+have out 0 0 0 0 1.5 file right I have
+out 0 0 2 dots I have final imagine if I
+have lots of bad files like this if I
+want to call the Google such a sorry
+Google speech-to-text API parallel leave
+with this audio with this audio with
+this audio see one thing that I can do
+is I can first get the speech-to-text
+for this then speaks to text for this
+then speech to text for this then speech
+to text so on so forth but that could be
+time taking right so what is an
+alternative an alternative is can I call
+all of them terribly using different
+threads
+that's what multi processing is all
+about I want to show you that also ok
+remember the reason we created from a
+big file from a 90-second audio file we
+created three 30-second audio files
+because I wanted to show you how to call
+all these three how to transfer how to
+get transcription for speech to text for
+the all three parallel also for that we
+will use this we'll use this whole
+concept called as pooling ok so this is
+again those of you who have studied
+Python in more depth you would know
+about the multi-threading and
+multi-processing etcetera it's a fairly
+simple concept basically multiple
+because most likely you have multi-core
+computer with multiple threads all of
+them can run directly okay so let's keep
+this here this is primarily to me to be
+able to do multi threading or multi
+processing okay so let's go back again
+now now look at this okay so first and
+foremost first I want to read my API key
+I want to read my API key so what does
+this this line say this line says okay
+with open I want to open this file as f
+and I want to read this file whatever
+are the contents of this file I want to
+store it in a variable called Google
+Cloud speech credentials all in caps
+okay so this is my hole so this so this
+variable now contains all the contents
+of my API key right so what I've done
+here again I can't show you all of my I
+can't show you my API key because if
+everybody uses it I'm going to get
+charged like crazy so I'm just showing
+you a part of it okay I mean I'm just
+showing you a small part of my API key
+but you'll get this you'll get something
+like this basically what you are doing
+here is you are loading your API key
+JSON contents into this variable called
+Google Cloud speech credentials and I'm
+just printing that to see everything is
+alright now
+now comes the core part of it now what
+am i doing I have my speech see look at
+this my whole library where is this okay
+my whole speech resolution library I
+have loaded less si now I want to create
+a speech recognizer right so I create a
+variable called R or an object called
+are s are not recognizer so this is my
+speech recognizer object okay cool very
+simple now look at this I want to see
+what all files are there in the parts
+folder okay this is very simple I'm
+using OS dot lists directory function
+and I'm saying
+within the parts what all file isn't
+there what are.what or whatever files
+are there list them and I'm using OS do
+not list directory and sort them so
+these are the three files that I have in
+my parts folder right now now let's look
+at this now what do I want to do I want
+to convert let's take this one let's
+take this I want to take this 30-second
+audio and I want
+converted into text that's what I want
+to do right so before we go that let's
+listen to it in ipython notebook you can
+listen to audio also okay so all you
+have to do here is again I'm creating a
+file named parts +50 which basically
+means parts front slash out 9 0 s dot
+slash this is my file name ok so you can
+actually listen to an audio file also
+you can you just have to say ipython not
+display input audio and you say audio
+file name if you click on this this will
+play actually this will actually play
+let me see if I can I don't know if you
+can hear this yeah you can actually play
+this you can listen to this 30-second
+audio again I want to again I'll share
+this whole document with you so that you
+can try it on your own on your own
+Google Drive account ok now this is cool
+so I have my audio file I have my audio
+file name now I have my recognizer
+object I just have to call the remote
+function of ok so let's go into this so
+first and foremost I have the file name
+this name corresponds to my file name my
+odd out 0 0 0.5 first I want to load the
+audio which is there so what do I do
+I just say with sr dot audio file name
+as source just a recorder so this audio
+object now look at this this audio this
+audio variable now contains the actual
+audio that is there in this file name
+right first and foremost right so from a
+file name I've loaded the audio into
+this variable called audio right by by
+just using this function or this snippet
+of code now we want to transcribe it
+which basically means I want to get a
+text for it getting the text is
+literally this line of code so text
+equals to R again this is my recognizer
+object r dot recognize using google
+cloud because what what does this
+function do now this function says ok
+where do I have to go to I have to go to
+Google Cloud what is the audio that I
+want this is the audio that I want to
+transcribe or to get get the text for it
+what are my credentials all my
+credentials are there in the Google
+Cloud speech credentials variable that's
+it
+this thing
+function what this function does love it
+goes to Google's cloud it goes to
+Google's cloud when it goes to Google's
+cloud it sends the audio in in the
+request remember in the request it sends
+the audio it also sends my API key
+credentials it also sends my API and
+audio in the request it sends my API and
+audio to the Google Cloud Servers Google
+Cloud server sends back what does it
+send back it sends back this text to me
+and if I just print the text the text is
+actually like this
+this dynamic workshop aims to provide
+up-to-date information again I'll share
+this so it is giving you the text output
+for it for the audio it is giving you
+the text output or you let me do one
+thing let me let me just help you here
+this just give me a second let me let me
+help you here this I'm increasing the
+volume on my computer coming close this
+dynamic workshop aims to provide
+up-to-date information on pharmacal okay
+I hope you could hear the audio slightly
+again I shared these documents with you
+you can try this it clearly says this
+dynamic workshop aims to provide
+up-to-date information of formal logic
+pharmacological approaches bla bla bla
+bla so this single line here if you
+notice sorry so this single line was
+where all the magic was happening what
+we have done till now is the
+miscellaneous stuff around it right very
+simple now I can put all of this into
+one single function look at what I am
+writing here this function is called
+transcribe look at what I am doing here
+this function is called transcribe even
+the data part again I am trying to put
+everything that we have discussed now
+into one function I will call this
+function as transcribe this data is
+nothing but the file name this data here
+is nothing but the file name so using
+this file name that I have I am
+constructing the actual file name by
+concatenating with the parts folder as
+we have just seen okay next what are we
+doing here next look at this loading the
+audio file this we've seen this line set
+whatever lines we have seen I'm just
+trying to put them into one function now
+then I can call the function
+I can print the whole thing look at this
+this is loading the audio whatever
+whatever data was there in this file
+name in the parts folder I'm loading it
+into an audio object right or audio
+variable and I'm just calling the
+recognized Google Cloud with this audio
+as input with my credentials which are
+stored here that's it and the whole
+output from Google Cloud I'm going to
+store it in text and I'm going to print
+it so as a programmer you don't see much
+of a difference between calling a
+function calling a web api function and
+calling a local function only that you
+need to be connected to the Internet if
+you are not connected to the Internet
+this whole thing will not work that
+that's the key because this function you
+have to go why are the internet using
+Internet protocols send both the audio
+and the credentials and get the data
+back except that from a code perspective
+this all feels like just calling a
+function it's that simple
+now given that I have transcribed
+function let me show you how we can
+actually do multi processing or tunnel
+processing if you want to think about it
+imagine if I have multiple files that I
+have imagine if I have out 0 0 0 0.5 1.5
+suppose if I have 100 files like this I
+want to show you this because in the
+real world you may have many files like
+this and you want to do this fast so you
+want to call this function look at this
+you want to call this function
+transcribe right with this file name as
+an input and while that is while that is
+still getting the text you want to call
+this Baddeley you want to call this
+farily you want to call this parallely
+you want to do all of that all of that
+can be done using pool again
+I told about multi-threading right so
+pull dot map so this function does that
+pull dot map you are saying which
+function to call and what are the inputs
+to each of these function calls right
+that's it it's a very simple thing
+you're saying pool dot map right you're
+saying call the transcribe function
+right using whatever you have in the
+files variable again files contains a
+bunch of file names ok just give that as
+input to each of the transcribed
+function calls
+and then close your pool and then join
+it is basically what it basically does
+internally is very simple
+what it basically does is it calls all
+these functions and all the output goes
+into this variable called alt text now
+if you just print alt text what do you
+get you get okay because how did we
+write the return here we get the ID and
+the text right so you get ID as 0 X this
+is the whole text of the first file ID 1
+text
+I read two text so this way by using the
+pool and the map by using this
+multi-threading or a multi processing
+concept called pool that I just showed
+you a while ago that is this where was
+that I showed you a while ago right let
+me go up yeah so using using this sort
+of construct called pool and using this
+line you can call and using these three
+lines you can call the transcribe
+function with multiple inputs parallely
+right so this is how you call the Google
+API with one audio file at a time and
+using multiple audio files parallely
+both right so this is this is one part I
+hope this is clear again you will have
+to play with this try it and my
+recommendation again right after this
+live session I will edit this and I will
+upload all of these documents all of
+this google google google collab files
+etc give me a couple of hours after the
+live session because I'll have to remove
+some of our or API keys etc and share it
+with you right simple okay so this is
+one let me go to the chat window and see
+where we are okay yeah somebody's asking
+you about ffmpeg yeah ffmpeg is F MPEG
+has lots of documentation I've been
+using it for the last like four fifteen
+years enough and I don't remember it by
+heart every time I need I just go Google
+search ffmpeg how to cut EV audio file I
+don't remember the documentation by
+heart but there are tons of resources
+online to be honest with you I don't
+remember the document again I don't
+remember documentation of
+most languages whenever I need it I go
+read the documentation and use it
+because it's almost impossible for
+anyone to remember like hundreds of
+major libraries even matplotlib type
+stuff we can't do it so where will you
+share files okay so what I'll do here is
+in the comment section the first comment
+I'll pin it I'll provide you the links
+to the audio file the requirements file
+and the collab notebooks just give me a
+couple of hours after this life because
+I need to sanitize it with more API keys
+etc and share it with you I will put it
+just right under this live session
+itself okay
+just under the live session itself is
+the first comment I'll post all the
+links okay
+oh yes somebody says can we do it for
+other languages apart from English I
+have tried it for other languages like
+Telugu which is my mother tongue which I
+can speak fairly fluently but it works
+okay google claims that they can do it
+in 120 languages I'm sure they can do it
+for some of the European languages very
+well because they're so extensively used
+in countries like India where English is
+still very popular when you communicate
+with Google I think some of the Indian
+languages are not very good I heard
+Hindi is pretty decent I haven't tried
+it myself while you're chunking it could
+corrupt some words that's okay there
+might be some error at the very end or
+at the very beginning some small
+chunking might happen at the very end
+but that's okay I mean again the only
+reason I chunk this I trunk this bigger
+90-second file into smaller files is to
+show you how multi processing or
+multi-threading happens okay because in
+your real world you might have like some
+30 files that you want to call this
+functions on and instead of calling one
+after the other you could just pull
+everything together and send it so that
+you get results faster right sounds good
+so let's take a couple of minutes break
+I just need to sip some water and then
+we'll go to the bingo one okay that's
+easier being makes it so again somebody
+says does it work good for Hindi I have
+heard it works good for at least the
+proper Hindi accent the typical again
+there's so many accents of him
+so there is a South Indian in the accent
+there is a Hyderabadi Hindi accent right
+there is a lot Navi accent which is
+slightly different but I think if you
+speak regular TV news type in Li I think
+it will work fairly well alright I'm a
+TV news type in E is the most generic
+one
+so sounds good let's jump into okay so
+in the interest of time because we have
+only one more R so this is how Google
+works again let's go to I have another
+one okay so let me go to my notes okay
+so this is done okay
+let's go to Bing Search API now this has
+been one of my favorite aps I've used
+this extensively at multiple times again
+you might ask me why are you using Bing
+Search API why not Google Search API two
+reasons because Google does not give you
+such a pain Google doesn't want to give
+anything related to their such right so
+but being an AW of being and a juror or
+Microsoft in general gives you a search
+api that's why I'm using it number one
+number two is of all the machine
+learning tools or machine learning aps
+that you have some of the best ones I
+found on Google to be honest again I
+tried to be as unbiased as possible so
+Google is one of the best web ApS for
+machine learning that I've seen second
+is Asia
+third is AWS IBM I think comes last
+again from my own experience and I have
+used this API is to especially for
+speech-to-text for national language
+understanding I've tried I've tried all
+of them
+Google typically tends to outperform
+most of them and Google and as you're
+almost perform very close like for
+example AWS speech-to-text is not as
+good again I think what the reason
+Google and I should perform very well is
+because both of them have search engines
+right so both of them have search
+engines which makes their life they're
+literally sitting on a goldmine of data
+right AWS with its Alexa has done some
+good work but again I've come across so
+many instances where an Alexa cannot
+recognize my Indian accent but Google
+can recognize with the Google assistant
+right I've seen this in practice I've
+seen this extensively IBM I think IBM
+does lot of marketing and stuff but in
+terms of pure quality of outputs I
+pick Google or is your any day over an
+IBM I mean I guess I could be biased
+there might be few things in which IBM
+might be doing better but in my own
+experience that I've used Google and
+they sure are almost the best they're
+very close to each other Google has a
+small little edge primarily probably
+because of Android Android data and
+because of chrome data right so first
+and foremost so Google are so big calls
+or Azure calls their whole thing called
+as cognitive services right I've seen
+lot of startups use this and I mean Asia
+is also very very fast-growing cloud
+provider doing a very good job here
+right again just to be fair here
+I prefer AWS over Asia and other things
+when it comes to distributed system
+platforms the whole cloud computing
+itself I prefer a Tablas over Asia but
+when it comes to Asia or Google Google
+compute platform but then when it comes
+to machine learning itself
+I prefer Asia and Google compute
+platform already a place and I think
+these things are constantly changing
+today whatever I am picking up whichever
+sides and making tomorrow things might
+change if AWS invests more money there
+and more resources anyway back to our
+topic
+so a de bellas calls this as cognitive
+services if you just go to this link
+again the signup process is very simple
+the good thing with with Asia is they'll
+give you a couple of keys there is no
+JSON file they'll give you a simple keys
+that are valid for seven days you don't
+require a credit card to use it for
+seven days you don't require a credit
+card to use it after seven days you have
+to get your to be enter your credit card
+credentials right so for seven days
+they'll give you a couple of keys you
+can use them to access their API is free
+of cost of course there are some limits
+and constraints but you don't require
+credit card so those of you who may not
+have a credit card like students and who
+could not get it for whatever reason
+feel free to use is your is your API so
+because google forces you to give a
+credit card again their signup process
+is very very simple let me show you this
+is Google cognitive or oh sorry is your
+cognitive services again if you just go
+through this link that I've shown you if
+you just click on this link it will take
+you to this page here you have Binx
+API version 7 again look at what all
+searches you can know you can do web
+search you can do image search you can
+do video search you can do new search
+you can do visual search similarly being
+spell check look at how well the search
+engines do spell check you can do a
+spell check right you can do Bing
+autosuggest right or you can you you can
+you can even do entities such as
+Google's knowledge graph so whatever you
+want so in our case we're going to use
+Google thinks being such just click on
+get API key you'll get an API key it's
+that simple just log in log in very
+simple login form they'll give you a
+couple of keys now in this in this in
+this example I'll do slightly different
+from what I have done for the Google API
+in Google API we use the speech
+recognition package right in in that we
+use the speech recognition package which
+did all of the calling all of that stuff
+for us in this example for bing search
+we will implement the API calling from
+scratch using or Python only we will not
+use any libraries again there are
+libraries to use being self JPS also but
+again if you recall when we use Google
+compute platform speech to text what did
+we use we loaded this library called
+speech recognition which would call all
+of them without us having to worry about
+it it was like loading a package making
+a function call in the case in this in
+this example we'll do something slightly
+different what we'll do now is we will
+write the code for API calling from
+scratch using core Python libraries okay
+I want to show you how you can implement
+it yourself you don't have to always
+depend on a library like speech
+revolution right so I just wanted to
+show you that okay so let's let's go
+into this okay so this is my the code
+might be slightly longer than previous
+one but I will go step by step that's
+okay it's disconnected but that's okay
+not a problem
+again I'm sharing my quotes please don't
+use my codes
+sorry sorry sorry sorry okay so please
+don't use my keys here okay let's go
+step by step just like in the previous
+case from google collab import to drive
+I'm just going to load Google Drive if I
+need to again I have just written the
+steps here right very simple
+again to be very clear all this work is
+not just my work it so what done by my
+whole team tons of people I think this
+was done by by by a couple of our very
+good machine learning engineers who
+collected the data who wrote all this
+code comments all that stuff I am just
+the presenter please understand that I'm
+just I'm just a conduit to share the
+knowledge that's it
+I think I've done just maybe a couple of
+edits to this code but most of it was
+done by my team anyway so these are the
+steps so once you want to go once you go
+to this one you get your keys you get a
+couple of keys right so these are the
+keys that we got again this is free for
+seven days but after that again please
+don't use our keys because they'll total
+and stop us you please generate your own
+keys okay so that you can again remember
+if you use a case if everybody uses our
+keys what happens is our account will
+get blocked nobody can use it so please
+get your own API Keys API key looks like
+an alphanumeric thing here not a JSON
+file like in Google right we got a
+couple of keys okay now what are we
+doing here simple first we will load
+this Bing search v7 subscription key we
+are creating this variable and we are
+saying input subscription sticky what
+does this do it will ask me to input it
+so I am just I am just giving this as
+the input so this variable beings have
+to be seven subscription key will
+contain this key value enough again I am
+repeating it please don't user case
+create your own keys and use it so that
+you can try more stuff and for every
+different service you have to get a
+different key these keys are only for
+big a big being a web search API version
+7 ok
+so simple ok now let's go let's go let's
+let's go and use this so let's go step
+by step I am importing operating system
+package in this and what am I doing here
+in my operating system I am creating an
+environment called Bing such be 7
+subscription key this is basically
+creating an environment variable in my
+operating system that's it and for this
+environment variable I am just copying
+whatever is the key that I have stored
+in this variable earlier that's it
+nothing fancy here now let's go a little
+down okay so let's go step by step now
+here there is some code
+so I'll explain you step by step and
+carefully I think there was a comment
+which said can you explain how headers
+everything works internally I'll show
+you with this example
+okay so first and foremost because Jason
+as I told you is a very popular format
+for all of this I am importing Jason we
+all know about OS this is pretty print
+to print beautifully requests right so
+requests and responses are important
+packages that we can use okay so imagine
+if my search query the search query
+itself is Microsoft cognitive services
+this is what I want to search so if I go
+to Bing look at this if I go to Bing if
+I just go to Bing okay funny I'm going
+to bring by a Google right
+Microsoft search or cognitive services
+what is it what does the search okay
+suppose if I just search Microsoft
+cognitive services here okay so these
+are all the search results that I am
+getting here I can get all of them
+through the API con that's the best part
+okay so let's go so again if you because
+we're implementing the API calling from
+from scratch there are a few important
+parts the first one is called as headers
+remember what how does that work whole
+thing work we make a request and we get
+a response right this is the model right
+so that's why I've inputted requests so
+when I send a request I have something
+called as a header within the header all
+the key important stuff especially
+things like your API keys are stored
+right so the request that I sent from my
+computer to the asier computer so this
+is the easier computer this is my
+personal this is my local computer so in
+the request that I send I am creating a
+header and within the header I am saying
+my API subscription key this part is
+important this part is fixed for the key
+all that I say this is I'm storing is a
+key value pair if you think about it I
+am storing my API subscription key as
+this money first and foremost back again
+when I send my request I also send
+headers
+that headers is a standard terminology
+in APA calling right headers typically
+contain the most important information
+like your piece okay now comes the fun
+part now look at this what am i what am
+i loading here I told you that all the
+requests and response right all the
+requests and response is happening
+through HTTP protocol request response I
+mean we are going to use HTTP protocol
+URLs all of that stuff right so I'm
+importing HTTP client you are a Lib what
+is the purpose of URL Lib it is because
+because I am using the Internet to
+Internet protocols right URL is part of
+the Internet Protocol this is to make a
+request this is to parse if there are
+any errors and things like that again I
+am using JSON because my output is in
+JSON format okay now we can this this is
+my important function my function is
+called search okay so this function is
+where I'll actually make the call
+so let's go step by step here I'm just
+still on whatever done I have just
+imported everything I've created a
+header my header contained my key rest
+of it I have just imported everything
+now let's go
+this function is very important so what
+are the three inputs to the function
+whatever is my search query then there
+are two other butts offset and count
+now imagine search results if you notice
+typically you get thousands of search
+results offset basically says do you
+want us to return or are you requesting
+for search results starting from zero if
+count and how see offset basically says
+which search result do you want do you
+want your search results to start with
+zero which basically means the first or
+do you want to start the search results
+from 100 so do you want results from 100
+to let's say 110 if you want results
+from 100 to 110 what do you do you say
+offset equals 200 count equals to 10 you
+want 10 come 10 results starting from
+the hundredth result right so this is
+how I'm defining my function ok this is
+this is this a local function rimmel but
+I have not yet called anything so offset
+basically says at what count of the
+search result I am starting count
+basically says how many search results I
+want back simple now comes this now look
+at all the parameters that we want to
+pass again remember we have created our
+header we have created our header in
+which we created we added her API key
+right now we are creating the parameters
+in the parameters what do I again
+parameters are stored as key value pairs
+and I'm going to in Sirica this is the
+URL Lib dot parse what am I doing here I
+am going to write them as key value
+pairs here and I'm going to encode them
+using the URL Lib because the whole web
+ApS work using web protocols like URL
+like HTTP etc so look at this this is my
+query my count my offset what is a
+market again these words are given to me
+by being API itself being a places
+whatever query you want to give give it
+with q.how whatever count you want count
+offset you want what what market what
+results we want results in India or d1
+results in u.s.
+so the MKT basically means which market
+output you want NUS which means English
+in the US do you want safe search
+results right if you want to be
+kid-friendly etc you should make it safe
+such the default is safe search is
+moderate so what all I am a passing here
+my header contains the key my params
+right with parameters contain everything
+else and all this is encoded in the URL
+itself when I'm making the call right so
+this part basically I am creating all of
+my parameters
+next comes the interesting very very
+interesting part this see till now I
+haven't called anything now comes this
+pry catch part or try exception so look
+at this so this is basically exception
+handling if there is any error that
+happens here I'll catch the exception in
+print it otherwise what am I doing here
+I am connecting what am i connecting to
+I am connecting to API tour cognitive
+dot microsoft.com
+what am i doing I am doing HTTP secure
+connection see what protocol is it is it
+using its using HTTP secure protocol
+which means my computer love is
+connecting to the API cognitive services
+Microsoft my computer is now cut my
+local computer is connecting to the
+server and to which URL is it connecting
+it's connecting to API cognitive dot
+microsoft.com it's connecting to this
+but once it establishes a connection it
+says my request now it establish the
+connection first then it says I want to
+make a request
+and this is a get request which means
+I'm sending something and I want to get
+some data back and what do I want to
+send this to I want to say what do I
+want to call on this website I want to
+go to Bing V 7.0 and such and what do I
+want to search with all of my parameters
+that I have now right and the body is
+there then all the headers why do I need
+headers for authentication look at this
+look look at this line itself first I
+establish a connection then I make a
+request where do I request I request to
+Bing a question seven API and I am
+saying such with all my search
+parameters that I have all the
+parameters that I have and I'm using the
+headers for authentication
+now what happens now look at this first
+I established a connection I sent a
+request now I'll get a response back so
+from this connection I will get a
+response
+now this response I am storing it in a
+variable called response from this
+response I want to get the data so this
+data here is response no trade once I
+got the response I want to close the
+connection okay this is very simple so
+what is the first thing establish a
+connection establish then request then
+you get response when you send a request
+you send you basically say I want to get
+this data and what I want to call is the
+version seven API with these such
+parameters with these API keys once I
+get a response I just say let's close it
+close this connection that's it
+this four lines is where all the API
+magic is happening right again this is
+the native way of actually calling my
+babies what I've shown you with Google
+search or sorry Google speech
+recognition he is using a library within
+the library they actually write code
+like this now I walk my search results
+my search results are in data so how do
+I print my search results now look at
+this this function returns JSON loads
+data this data is going to convert into
+JSON and send it as my output right now
+now let's let's see okay now I got all
+my data in JSON format now I want to
+print it it's very simple look at this
+so okay so look at this I'm calling the
+such function what is the such function
+of this such function I'm calling enough
+till on whatever done I've just defined
+this function and not called anything
+I'm calling this such function with my
+with my query which is magnitude of
+Microsoft cognitive services offset zero
+count five after this I get my output
+I'm just printing them so all this this
+part is all about printing my results
+because my results are in key value
+pairs I'm just printing my results here
+this is just printing my results now
+this type of printing is slightly
+trickier to read because what is it
+giving you it is giving you webpages
+outputs the web URLs all of that stuff
+it is giving your related searches it is
+giving you videos it is giving you all
+of that stuff but if you want to format
+this look at this if again this is very
+very hard to read this is very lengthy
+because this is all in JSON format you
+just have to you just have to write
+simple code in Python like this through
+which you can print the data carefully
+see all this code is okay my websites
+URL is this okay what is my website URL
+bing.com search my queries Microsoft
+cognitive services how many are the
+estimated matches there are these many
+three three there are 15 million how
+matches that are there right then what
+are all the outputs that I have look at
+this is family friendly these are all
+the URLs that I have again you can just
+print again the rest of the code here is
+all about printing the data because this
+all this is all about printing because
+what I have is JSON data right the data
+that I got from Microsoft search back
+all this all this code is all about just
+printing in each web page
+so look at this this is this is simple
+nested for loop here again try play with
+this so what are we doing here look at
+this okay let's look at this code okay
+so I got my I got my result look at this
+so how did this work okay let's go one
+step ahead so my result is I call this
+such function I got my result all right
+so within this result if I want to print
+it beautifully Sorry Sorry Sorry Sorry
+Sorry Sorry Sorry Sorry Sorry Sorry
+I closed it by mistake okay I'd had to
+execute the whole thing
+that's okay we can again it's fairly
+simple you can understand this so what
+this does is in the results for each
+webpage for each value please print the
+information that I want right so you can
+literally get okay all the webpage visit
+results and the descriptions also
+you can also get videos okay let's look
+at the video select this is easy to
+understand so in the results there are
+videos pick all the items that you have
+from each of them again we pick these we
+carefully wrote this down to get this
+printing carefully right so these are
+all the search results that you get
+literally I mean you can print the way
+you want look at this if you want videos
+right so it gives you all this
+information in the okay let's let's go
+through this this is like a for loop
+again this is similarly for video very
+simple code for video in results so let
+me explain this code public that that's
+a good idea
+so that you understand rest of the code
+easily so our result is in rests now I
+want the video results and taking all
+the values for video in this right I'm
+getting key value pairs of all items in
+the videos now I'm basically printing
+this so what do I get now I get my
+website URL look at this this is not
+this is the title so when you when you
+do being searched right where is being
+searched okay look at this
+okay okay this I search Microsoft
+cognitive services what is my first
+result here real-time recognition with
+Microsoft cognitive services this is a
+video result look at the result that we
+got here the first result is real-time
+face recognition with Microsoft
+cognitive services this is the name of
+the video so you can get the name of the
+video look at all the information that
+we are getting the description of this
+video okay so I think if you just click
+on this there is description also that
+you can get right then what do you have
+you have thumbnail URL okay the date on
+which this is published the date on
+which this video was published look at
+this Jan 17th right so it tells you 2019
+Jan 17th who is the publisher YouTube is
+a publisher is this act in this video
+accessible for free true where is the
+video found what is the video format
+what is the length of the video what is
+the height of the video what is the
+duration of the video I think it's 45
+minutes something right 44 minutes 8
+seconds that's the length of the video
+look at this it says 44 minutes 8
+seconds PT basically means playtime okay
+look at all this information the very
+first video result what am I doing here
+Microsoft cognitive search microd of
+Microsoft cognitive services videos this
+is a first result all the information
+that is here is given to me in code all
+of this is given to me in code right so
+again this is just all about getting the
+results and printing them see what what
+what is this whole code doing this whole
+code is simply printing the results
+beautifully that's it that's all it's
+doing what is in a readable format not
+in a JSON which is slightly trickier to
+read but Jason is also easy to hit now
+whatever we have done we can also do it
+for images also again or there is this
+very nice page that I forgot to talk
+about okay
+so what you can do here is look at this
+big web search you can try it in action
+I really like this so for example okay
+so there is this default one so if you
+want to try how it works again this is
+the Python way of doing it right there
+is something called as is your
+playground so in is your playground
+again I provide this link to you Bing
+web search ape so what you can do is
+whatever such query you give here and
+you can give the markets you can say
+English India you want strict safe
+search do you want freshness freshness
+also is another parameter that you can
+give do you want results only from the
+last one week okay this is the moment I
+give this such results the JSON file
+that I get is actually looks like this
+I wonder let me zoom this in a little
+the JSON file that I get actually looks
+like this what we have done in this is
+basically print the JSON file in a way
+that you can easily read so if you
+actually called Bing API with this
+burrito recipes burrito is a Mexican
+Mexican delicacy right or it's it's
+something like a roti like roti curry
+the way we have roti curry burrito is a
+is a Mexican food item if I just if my
+if
+search queries burrito recipes with
+English India save such being strict and
+freshness being one week then what do I
+get when I call this function look at
+this when I call this when I call this
+whole again most of this code is not
+lengthy most of this code is only
+outputs that you see the the core part
+of the code is just this this 20 lines
+of code is the code part this 20 lines
+of code literally this 20 lines is the
+core part of calling the API that's it
+right so the the JSON file that you get
+is like this again there are direct
+jason readers you can read this file and
+print it the way you want look at look
+at all look at all the data it gives you
+it tells you what are the estimated
+matches right then what is the first
+first output
+what is the ID how would I call this
+okay when was this page crawled by Bing
+what is the name of the web page what is
+a URL and it also gives you a small
+snippet
+look at this if I go to if I go to
+Google and search sorry if I go to if I
+go to Bing and search this burrito
+recipes okay look at this so it gave me
+this and it this is the description part
+so what is giving me is it's giving me
+the title it's giving me the URL it's
+giving me the text it's also giving me
+other information like when was this
+page crawled by Bing right because most
+likely being good crawl just a few days
+after or maybe very soon after the very
+soon after the the page was created
+being as a search engine crawls on this
+right so look at all the results that
+you get now your big question could be
+why do I need Bing Search API I'll tell
+you something very interesting give let
+me give an example okay suppose your
+training uh suppose you are training a
+deep learning model I mean let me give
+you an example suppose you're training a
+deep learning model and you want let's
+say images of images of images of knife
+right you want images of my flat set
+okay you don't have enough images how do
+you get all the images of knife
+you can go to google search but you how
+to download these images of knife and
+this is this important right how do you
+download these images of knives because
+you want to suppose you want to build a
+model for some safety or whatever
+suppose there is a web there is a camera
+that let's assume at a school if anybody
+is carrying a knife or Atta or a place
+of worship or a sensitive place anybody
+carrying a knife it should simply stop
+that person right or come knife or gun
+whatever you want right which means you
+need images of knife or gun to train the
+model how do you get this data it's very
+simple you just have to call Bing Search
+API with image search so what we have
+done till now is web search right we can
+write similar code for image search also
+let me show you okay so query two one
+second so you can also search for
+persons suppose if you search with my
+name right you will get both again you
+can just call such with my name here
+right and what you get now is basically
+you can get my images also okay it also
+gives you alternative spellings so my
+original query is let's say what what it
+is okay I think my team forgot to put H
+here so if the original query is
+reconfirm a chicory without h it says
+there are alternative queries with h so
+it is sort of like correcting right
+small V capital V so a small C capital C
+it also tells you alternative queries
+that you can get
+so what Bing Search API gives you is
+tremendous amount of information that
+you can use now that we also have done
+again I recommend that you go through
+this line by line but most of what we
+have from here it's simply about this
+for loops that we have shown and
+printing some data that you can see
+basically that that's what once you call
+the Bing API get the data you just have
+to print it in whichever way you want
+now let's see if we can do the same
+thing for images also okay images is
+very interesting so I think we
+implemented a function for images where
+is that query context being searched API
+query to webpages
+just give me a second I mean a big Image
+Search API so what have you done here
+this is for image search the code is
+very similar except that we also import
+a library called image because we want
+to play with images right look at this
+we are writing a function called show
+image where we are using matplotlib PLT
+is naturally bright
+we have inputted matplotlib spld we also
+return this function called show image
+to show an image actually right so if I
+have any image I can actually show that
+given a you URL of the image this show
+image function let's see what it does
+let Kirsten mr. Penniman the show image
+function takes the URL and the title of
+the image right so again here and what
+am i using what am i doing here request
+dot get I am getting the I am sending
+the URL using the request response model
+because that's what the internet uses
+right I'm going to get whatever is this
+whatever is there in this URL I'm going
+to get that image this is the image URL
+I'm going to get there I'm going to get
+that output stored in the response now
+now look at this whatever is there in
+the response I'm going to convert it to
+image using my pil from p.m. i am
+importing image so image that open
+response dot raw so this basically gives
+me an image IMG is not the image now i
+can plot the IMG using my Mac plot lip I
+am show right so what this function does
+is given a web URL it uses the request
+response thing that we have discussed
+right it requests from this URL to get
+the image and it loads this so whatever
+is the output that I got this is a
+binary output that I have right it
+converts that into image using image dot
+open then it plots the image that's what
+this function does now
+now there is a second function that I am
+defining it's called search images again
+the search images is exactly like the
+search function look at this I have a
+query I have offset count I have my
+parameters I have my connection
+establishment this logic is exactly the
+same look at this this logic is exactly
+the same the only difference is I am
+using images then search so I'm going to
+API cognitive microsoft.com but when I'm
+requesting for something I am saying I
+want to get
+the data that is there and where do I
+want to get it from bingo V version 7.0
+images the only difference between this
+function and the previous function is
+this function has images the previous
+function does not have images the moment
+you have images here what you are doing
+is an image search rest everything is
+the same you have the parameters you
+have the headers everything the same you
+establish a connection you request for
+the data you get a response back and you
+close the connection that's it now when
+you get the image look at this what is
+this giving you this web search this
+image search gives you image URLs so
+suppose if you if you write this code
+right suppose if I search for Bill Gates
+as my search query offset zero count for
+right from from the results that I am
+getting I'm just printing them what does
+this give me it says okay look at this
+let me just go ahead
+it gives me URLs it gives me a website
+URL this is the search URL or else if
+you if you print if you expand this and
+print it carefully what it gives you is
+okay this is the search URL what is a
+search URL Bing calm images search blah
+blah blah right where is the thumbnail
+here is the thumbnail so if I go here
+open link in new tab this is I think
+this is Bill Gates home if I'm not wrong
+okay this is one of the outputs that I
+get okay this is query expansion because
+the search here is Bill Gates house
+right it also see what what Bing also
+gives you is being says related searches
+if you go to Bing in general right look
+at this if I search for let's say Bill
+Gates let me search for it Bill Gates
+images it tells me other things about
+Bill Gates that people search for Steve
+Jobs Bill Gates Bill Gates childhood
+Bill Gates Yard
+Bill Gates Net Worth William Bill Gates
+Bill Gates inventions Bill Gates son all
+this stuff these are all relative
+related searches right so being also
+gives you that where were we sorry being
+also gives you all that it gives you
+Bill Gates sayings Bill Gates quote Bill
+Gates references so you can get all this
+as part of your search result also right
+it also gives you like for example the
+Steve Jobs I
+they're called as P what suggestions P
+but again there is huge amount of data
+that being throws at you right you just
+have to process them because because if
+you look at your response Jason the
+response Jason that you get it's
+actually huge it gives you a website URL
+it gives you query context it gives you
+tons of data look at this in query
+expansions this is the output Jason that
+we got right and query expansions it
+tells you other similar such items P
+word suggestions it tells you about Bill
+Gates people who search for Bill Gates
+also search for also search for Steve
+Jobs here look at this look at that line
+right again gives you multiple links
+people also search for Melinda Gates who
+is Bill Gates wife right it gives you so
+Bing Search API gives you a lot of data
+that you can use of course not where are
+the images so let's go a little down
+these are P word suggestions related
+searches again he made search results
+now look at this so I'm taking the
+thumbnail URL look at what is this code
+doing this code is saying whatever is
+the result that I got whatever is the
+result Jason that I got within that go
+to menu and show the image of the
+thumbnail URL see show image function we
+have seen a while ago right it says show
+image print or or show the image of the
+thumbnail URL so it shows the image then
+I want to print a bunch of data again
+below that so what does it say look at
+this what does okay one second let me go
+down here okay so this page has become
+little small so let's look at this
+printing code right again I'll show you
+one printing code rest everything looks
+the same first in my results I want to
+go to the values right in the Val look
+at this is a for loop this is a for loop
+within that there is one more for loop
+within this for loop I'm calling this
+function called show image whatever is
+the result or the value thumbnail URL
+showing to me I am showing the thumbnail
+URL then whatever whatever other
+information is there just printed so if
+you actually scroll down here what do
+you get you get you get the image URL
+you get the web search that you got what
+is the name of this image bill gates net
+worth five fact five fast facts you need
+to know the thumbnail URL when
+this published is this family-friendly
+or is this objectionable content what is
+the content URL what is the content size
+what is the format of the image what is
+the width of the image what is the
+height of the image
+what is the thumbnail width what is the
+thumbnail this thing I mean the accent
+colors so tons of information that it
+gives you just for one result this is
+one result right of course because we
+have put everything in a loop right you
+will print all this I think we searched
+for four results this is a second
+thumbnail image again what is the name
+of this bla bla bla bla bla all this
+information that you can very simple
+again all of these code snippets that we
+have here are mostly meant for printing
+the data of the results that we got so
+don't get overwhelmed by this just go
+through this line by line I have
+explained a couple of them rest
+everything is the same
+this sheet might feel long but this fee
+this because because the results are
+long okay this whole thing when I start
+printing this information this get
+because I want to printed it I wanted to
+print it carefully for you the size
+after I print looks looks large but the
+code itself is simple for loops right it
+is I mean they're literally two major
+functions one is the image search api
+function that we have done show image
+and the regular search that's it the
+most
+again this whole printing function you
+can write it the way you want we have it
+we have it on one of the ways that we
+could think of it's all about just
+printing the results all this is just
+printing the results now okay so as we
+thought you can use the Image Search API
+to collect data of a specific person for
+example you can collect images of cell
+phones or you can collect images of
+weapons like guns or knives etc right so
+again the whole purpose of this was okay
+so two things just let me quickly recap
+what we have learnt so in in the Bing
+Search API we have learned both the web
+search and the image search we have
+learned how the API calling itself works
+from scratch that's very important using
+the request response connection right
+using connection request response that's
+the most important part
+my rest my results I get it in JSON
+format then we have written some print
+commands to print the output in a
+easy-to-read format that's all we have
+done to be honest with you it's fairly
+simple you can do this you can do all of
+this in an afternoon
+actually this was one of the live
+sessions for which I took the least
+amount of time to prepare I think even
+the team has taken least amount time to
+prepare because this is so easy from a
+coding perspective right so that that's
+the key takeaway so I hope I hope you
+have gotten a sense of how to use Google
+API and Bing API let me just change the
+screen to the webcam quickly and let me
+answer a few questions that you may have
+because so somebody says can't we use a
+request module for Google as we use it
+in Bingen yes you can you can you can
+see them we wanted to show you two ways
+of doing it okay we want to show you in
+the speech recognizer part we have
+actually used another library that takes
+care of establishing the connection
+request response all of that that's one
+way of doing it the other way the way we
+have shown it with Bing is to do the
+connection part yourself establish the
+connection yourself send the request
+parameters headers yourself get the
+response process it to yourself right we
+want to show you two ways on two
+different the Google one you can write
+it using the connection request response
+header you can do it yourself you don't
+have to use the speech recognizer thing
+but you want to show you two ways of
+doing it even for Bing search I think
+there is a Python package let me just
+share the screen and search it right in
+front of you
+Bing search Bing search picked see look
+at this pie being searched okay so you
+can just install this package called
+pie bing search I just Google search
+right now you can just say pip install
+pie being searched and the function
+calling will be trivial look at this
+look at what I mean they'll give you
+some small snippet of code like this
+where is this okay look at this so
+okay look look at this limit of code
+here from PI being such import piping
+web search the search term is Python
+Software Foundation by members just call
+this that's it done you're done you get
+all your results right so there for most
+web api s-- there are also libraries so
+then you don't have to establish the
+connection and do everything yourself so
+that is also there but we want to show
+you two different ways of doing it one
+using existing pre-existing libraries
+one doing it from scratch do we need to
+import any certificate of back-end
+system when we are calling like for
+example in the google system right we
+have used the API the JSON file the the
+API key door Jason we send it as part of
+our request to the Google server
+similarly for being we had this
+alphanumeric API key that we sent that's
+good enough again different web ApS have
+different ways of doing it
+some of them also have a file that you
+need to have on your computer and things
+like that the simplest is basically
+passing the JSON the API key file or the
+API key itself as part of the headers or
+somebody says okay
+content download an image directly from
+google why do I need an API very good
+question so the problem is if you if you
+try to manually download images how many
+can you download they'll take you tons
+of time to download these images you
+want to write a program leave it
+overnight get all the data you want next
+day you can train manually doing it is
+just too cumbersome number one number
+two the other alternative is we have
+done a live session on that also which
+is web scraping I kind of web scraped
+the whole damn thing I can I can write
+Python code using a web scraper using
+good beautifulsoup script the whole damn
+thing but then most companies like
+Google Bing etc will block you the
+moment they realize that you are trying
+to scrape their search results they'll
+block you and that is the unethical way
+because Google doesn't want you to
+scrape their search results and being
+also doesn't want to scrape their search
+results it's an unethical way of getting
+it
+and they're fairly smart they'll block
+you in no time right the legit way or
+the reasonably correct way is to use
+this ApS because these APIs are provided
+by the companies for example as part of
+our codes right we have this Amazon
+Amazon products or Amazon fashion search
+that we have built now how did we build
+that how do we get the data I think we
+have a few hundred thousand images for
+that we didn't crawl from Amazon because
+we know Hamilton will block us so Amazon
+also has something called as Amazon
+product advertising API through which
+you can go and get images from Amazon we
+have actually done a case study on that
+right we haven't done a live session on
+how to scrape results but please don't
+scrape if there is any API available
+please don't scrape the web use the API
+that is a legit form of doing it and it
+took us like a week to get because
+Amazon says you can't you can't request
+you can do more than these many requests
+per day or per hour so what did we do
+waited for a week we got like hundred
+thousand-plus signages and we built a
+fashion recommendation system this is
+part of our case studies actually right
+is Google collab a free tool yes as of
+now it is free it works fairly well also
+again we did not use Google collab
+extensively when we designed the course
+earlier because it was not stable then
+but nowadays it's becoming very stable
+and we are also sharing Google call have
+notebooks towards students all the new
+stuff that we'll be doing will start
+sharing Google collab notebooks and
+again you can take a google collab
+notebook and make it into an eye python
+on jupiter notebook or ipython notebook
+and run it on your laptop or desktop
+also can you send keys in params yes you
+can again every every web api has their
+own small glitches you have to read the
+documentation carefully right you'll be
+slightly careful like the way Google
+might say this is how you have to pack
+again most of these companies will give
+you sample code you can call the base in
+any programming language you don't have
+to use Python I know people who call
+them in JavaScript people can call it in
+Perl people can call it in Ruby that you
+can call it in many languages as long as
+the language supports internet protocols
+I know some people who call it evil in
+C++ by importing some internet by
+like Marie's like HTTP HTTP base etc you
+can call it from Java you can call it
+from any major programming language as
+long as a programming language supports
+internet protocols now the most
+important thing here is how that how to
+use how to call that exact API using
+your programming language most companies
+provide you sample code like for Google
+AWS is your you get sample code you just
+follow that sample code it's much much
+quicker yes you can do it for Facebook
+API a Twitter API and Netflix API you
+name it the exact format of the API the
+keys look at this Google had an API JSON
+file being had just an API key so for
+every cloud based or web based a
+parameter there is a subtle difference
+there is a small difference on how they
+have you pass keys how you pass
+parameters there is a subtle difference
+but if you just read through the
+documentation it should be
+straightforward so somebody says is
+OpenCV useful in real time projects why
+not there are a lot of computer vision
+stuff for which OpenCV is used of course
+if you want if you are talking
+specifically about object recognition
+tasks deep learning is the cutting edge
+but again we have done a couple of case
+studies and on images and video in our
+course we have used OpenCV primarily two
+preprocessor data for example we have
+used open CV to take images resize them
+convert them from color to greyscale all
+of this simple image pre-processing you
+can do it very very efficiently in open
+seaming there are some ok open CV is not
+just which pre-processing there is also
+multi-view geometry etcetera based on
+which I will I didn't start up earlier
+in in 2010 where we use some of those
+technologies so don't write off any
+library especially a big library like
+open CV because you can do some really
+fun stuff with open CV ok but if you
+want to do object recognition type stuff
+it's better to use pre trained models in
+tensorflow or carers or pi torch how do
+I learn to create APs
+very good question so actually we have
+done a live session earlier that's why I
+don't want to
+feed that in this life session so if you
+know Python there is something called as
+flask just google search for it it is
+extremely simple to learn right flask is
+the primary library that is used to
+create api's in API is in Python so we
+have done a live session I don't I don't
+remember whether it is a public live
+session or only for the registrations I
+do not remember it it's I've done it
+like almost a year ago almost a year ago
+I guess where we have we have taught how
+to build a web api using flask and how
+to deploy it on an AWS computer but it's
+fairly simple even if you are not a
+student just Google search for it read
+about flask right flask is the important
+part
+flask again just search for how to build
+web api using flask in Python you will
+get tons of tutorials it should be easy
+if you know Python it should be simple
+so somebody says should use flask or
+Django you can use either of them they
+are just two different ways of doing it
+you can use both of them they both work
+very well I prefer flask personally
+because flask is much more lightweight
+mostly designed for web api s-- django
+is a full-fledged web development
+platform right if you want to develop
+the whole website backend of a website
+django is like a very powerful software
+so Django's purpose is much bigger than
+flask flask is very limited to mostly
+creating web api is basic request
+response type stuff while django is a
+much bigger much bigger platform or a
+much bigger like brewery so that's why
+it's easier to use that's why I prefer
+flask but if you know Django please feel
+free to you jungle again somebody says
+do we need to learn opportunity cans
+concepts to start learning flask and
+Django C optional programming is a big
+area okay it's a massive area what you
+need to know is the basics you need to
+know what is a class you need to know
+what is an object you need to know what
+is a constructor you need to know how to
+call functions within a class if you
+know this maybe you might have to know
+little bit about inheritance
+a bit okay you don't have to know
+advanced concept about object or design
+all of those advanced topics you don't
+require if you know the basics you can
+learn again again if you know this
+concept from any programming language if
+you know let's say classes objects
+basics of inheritance basics of what is
+a constructor how do you call functions
+within a class if you know that even in
+Java you can learn that you can start
+learning any any any object along which
+if you noted C++ also chalica Athan is
+slightly different in some aspects but
+to learn flask and jaco you don't have
+to be an expert at object under design
+object-oriented design patterns all of
+that you don't have to be you just have
+to know the basic stuff so somebody says
+a very good question
+so a peers can be called a either using
+HTTP or HTTPS again it depends on the
+designer of the API s basically means
+you get a secure layer on top of HTTP so
+everything is encrypted and things like
+that but anyway I mean we know again
+it's a choice that the API designer
+chose right you can have HTTP based
+ApS or HTTP based the only major
+advantage is HTTP based once is it's a
+more secure connection everything is
+encrypted in things like that right so
+to be a machine learning engineer do we
+need to be master in core Python so I
+don't know what core Python is but at
+least you need to know the basics let me
+tell you what you need to know as far as
+python is concerned you have to know
+basic offense variables basic data
+structures like like dictionary list
+basic data structures okay you have to
+know basics of for loops while function
+calls function parameters returning from
+a function what is a class what is an
+object what is a constructor if you know
+these concepts and if you are
+comfortable with programming if you can
+write like decent nested for-loops for a
+given task I think that's good enough
+of course you have to learn other
+libraries for machine
+right you have to learn matplotlib for
+plotting your to learn pandas for all
+data data related stuff to load data you
+to learn um PI sci-fi for basic
+mathematical transforms you to learn
+scikit-learn for basic machine learning
+algorithms you have to learn tensorflow
+Kerris for deep learning stuff but
+libraries come and go right libraries
+come and go if you're like I've learned
+quite a long long ago libraries came
+libraries went but the most important
+what is I know how to write basic decent
+Python code again I am NOT an expert in
+software development like you would
+scale it off for development like some
+of my principal engineers or senior
+engineer at Amazon but I can do decent
+work so my knowledge of Python is good
+enough that I can learn and pick up a
+new library that comes that's good
+enough for all practical reasons is
+security necessary for API in machine
+learning that depends on the company
+that's implementing for example some
+companies might say we want we want to
+use HTTP for security because this is
+more like anyway your API key itself is
+could be encrypted end-to-end and things
+like that but equally important the
+message there is sensitive information
+like audio so we want to encrypt it all
+that stuff it's a decision of the
+designer okay sounds good folks I think
+speech to SQL queries can do this using
+API you taught us today No so of course
+if you say hey if you say SQL
+specifically if you clearly say select
+star from so-and-so table blah blah blah
+join this that if you say that in
+English I think it can do a decent job
+but again remember that Google speech to
+text is not is not trained on SQL
+queries per se but I think speaking not
+SQL queries is very hard I mean at least
+I can't think of it I'm better off
+writing it and seeing what I am writing
+what I am typing correcting it as I go I
+can't close my eyes and read off an SQL
+query at the top of my head I don't
+think I can do it
+so okay somebody says what is tensorflow
+okay so again tensorflow is a open
+source deep learning library built at
+google open source used
+extensively in deep learning so if you
+ever end up learning deep learning
+tensorflow might be one of the most
+important libraries along with carers
+and maybe pi torch that you should learn
+right okay sounds good guys are all the
+very best and I think I think I have had
+a good session thank you one and all for
+your time but please give me a few hours
+time because I need to sanitize our
+ipython odarka lab notebooks I will
+provide the collab notebook links so
+that you can copy them use it on your
+drive I'll also provide the key folders
+or such the key files and the folders
+that you need to run especially the
+google speech-to-text
+the google speech-to-text one which is
+basically your requirements file your
+your parts folder and your audio file
+right API key I cannot share because it
+is ours you will have to create your own
+API key dorje cell and put it in you in
+that folder right so anyway I'll put it
+just give me some time by evening I'll
+do that couple of hours give it to me
+and I will do it see you folks thank you
+very much thank you very much for your
+time and yeah bye-bye

@@ -1,0 +1,1988 @@
+hi folks our our very good morning and I
+came a little early just so that I can
+check the microphone and I can see if
+there is any issue with the live stream
+before we jump in I'll also keep my eyes
+open on the on the live chat so we could
+chat for a few minutes and I plan it to
+start at 10:05 which is five minutes
+past 10:00 a.m. sharp so till then let's
+wait for everyone to jump into the
+discussion and I'll spend some time on
+the live chat here and I'll try to
+answer as many questions as I can before
+we jump in okay so if you have any
+issues do let me know on the live chat
+with the audio quality or with the video
+stream things look fairly good to me as
+I see it yeah I can see myself clearly I
+can also hear myself fairly clearly so
+no major issues for me there
+hey good morning folks thanks for
+joining in can everybody confirm if the
+stream is okay if everything is good
+because I can hear myself I can see
+myself clearly even on my 4G connection
+hey morning folks thanks for joining in
+a little early so let's wait for
+everyone to join in they're already a
+bunch of you have already joined in so
+let's wait for everyone because I'll it
+come little early often to these
+discussions to ensure that there is no
+issues with the stream itself ok good
+good good no issues perfect good audio
+and video so Amin asks a very good
+question how to keep consistency in
+learning very very important
+consistencies I think one of the hardest
+things even for me today like how do I
+consistently wake up every morning and
+do these videos or answer these
+questions or take mock interviews design
+interview questions how do I do it so
+one one strategy that has worked very
+well for me in my own professional
+experience and even in a personal
+experiences I try to set a schedule so
+often times I wake up before 4:30 a.m.
+between 4:00 and 4:30
+depends on how cranky my son was the
+before night but I try to wake up by
+4:30
+Tippett sometimes even at 4:00 if I have
+a good night's sleep and I try to sit at
+my desk by 5:00 a.m. with a cup of tea
+so or a cup of coffee I try to sit at my
+desk and I don't check my email I don't
+check my whatsapp I don't check anything
+that is distracting I sit down by the
+time for the first three to four hours
+of the day I try to get the most
+important things done because that way
+and starting my day with a very
+productive piece of work I try to get my
+work done all the critical most
+important work some of you may have
+noticed this I actually record a lot of
+videos early in the morning because my
+mind is fresh and fully focused and by
+the time it is 10 or 11 I try to get a
+good chunk of my work if not all of the
+milk it's almost impossible to get all
+of my work done in five six hours
+but I get at least start my day well and
+that keeps the motivation levels high
+so imagine from 5:00 a.m. to 11:00 a.m.
+I've written the notes accurately I've
+recorded a few videos I've answered a
+few e I've answered a few queries that
+students have and I've prepared for the
+mock interviews I'm going to conduct
+through the day right then see I should
+yield my time and that has helped me
+immensely because now I have a perfect
+shade I say at this time I'm taking
+for not break it's very very hard to
+stick to that schedule you have to
+discipline yourself you have to tell
+yourself that today so another thing
+that has worked very well for me is I
+write a note on my laptop and I say from
+5 a.m. or 4 4:30 a.m. to 6:30 and 90
+minutes how much work have I gotten done
+I try to review that work at the end of
+the day there by seeing how well did I
+work today and I rate myself on day to
+day basis this is what I used to do a
+little earlier now I don't do it because
+I have become fairly disciplined over
+the years but even nowadays whenever I'm
+whenever I think I'm not getting enough
+work done I try just write down every
+day I ask myself I haven't done a good
+job today so next day I say ok tomorrow
+I'm gonna do a better job than yesterday
+so it is basically a data-driven
+tracking of how well I am doing on a
+consistent basis I think that's one of
+the strategies that is work well not
+just a deployed area course but even
+when I was at Amazon or prior to that
+schedule you will share you should do
+try to again discipline is super
+important thankfully isolate in a
+military school in the rhythm for five
+years I've not thought of stuff from
+there or how to be discipline but it's
+about fixing a schedule and getting work
+done that's very very important ok
+sounds good
+so how to manage office work and studies
+again schedule I'm sure you're not going
+to work from 5:00 a.m. to 8:00 a.m. on
+your office work so spend those first
+three hours of the day studying learning
+right then you can prepare get ready for
+your office head to office anyway in
+India most people go to office around 10
+a.m. so wake up early get your work done
+early and cut down on your social media
+cut down on your television it's I mean
+I don't agree with people who say I
+don't have enough time in my life
+if the presidents and prime ministers of
+countries can accommodate time in their
+schedules why not us right so I think we
+can surely make up or utilize or
+optimize our time right so somebody is
+asking about other live videos so all
+the general lives that we have done are
+available on YouTube itself just go
+through our channel you'll see all the
+past lives if you're a registered
+student all the lives that
+on weekly basis you'll find them only on
+the desktop app only for registered
+students okay sounds good
+so okay sounds good so it's it's almost
+10:00 a.m. so let's wait for 5 more
+minutes folks because I see a lot of
+people jumping and I'm just seeing the
+track here we'll start the actual
+session itself at 10:05 okay that's what
+I mentioned a while ago also in 6
+minutes we'll start with the actual
+session itself in the meantime I'll
+answer a few questions ok so good good
+we shall a very good question that you
+asked you find difficulty in connecting
+concepts that's very very interesting
+because this is a problem I'm very bad
+at remembering things like I do I'm very
+bad at remembering names right I'm very
+bad at remembering formulae so one
+strategy that I do here is imagine I'm
+learning two concepts let's take a
+simple example right let's say let's say
+linear regression and and a deep
+learning model right I try to first draw
+everything because I have have a better
+visual memory than audio memory again
+different people have different types of
+memory I am very good with visual stuff
+I can remember diagrams most humans have
+a good visual memory right so I try to
+draw diagrams and whenever I see an
+equation I try to break it down and I
+say what happens if I change this that
+that's the strategy that I've even
+employed while teaching the course
+itself right so I try to break down the
+concept and I say what happens if this
+changes and let's assume you take two
+concepts for example take a logistic
+regression and an SVM right so of course
+you can say margin Maximizer all of that
+stuff but if you look at it from a pure
+optimization standpoint the way I
+connect these two concepts is you have
+the l2 regularizer in both places here
+you have logistic loss here you have
+hinge loss and I know the diagrams for
+hinge loss and logistic loss that's all
+is the difference that's all is the do
+that that's all I connect different
+concepts even in the course videos if
+you look at some of the sample videos we
+do connect these concepts like all I
+think every major machine learning
+technique that we discuss we connected
+to all the other techniques because
+that's how I learn that if you teach me
+a new algorithm I ask what is the
+similar to the type that I already know
+off and how can I derive this new
+algorithm from an old algorithm by
+changing a few things here and there
+okay so interconnections because we
+humans are story I mean we are we are
+storytelling creatures right
+imagine Ramayana Mahabharata without
+without without the story element
+without the interlinks without the
+connections
+right similarly when you learn
+mathematics or vanilla any scientific
+area right the very important thing is
+to interconnect these concepts with one
+another we try to do that as part of the
+course a lot again this did not be left
+evil trigonometry right when you learn
+trigonometry or calculus try and
+interconnect these things so that it
+feels more like a story for you and less
+like a bunch of facts that are thrown at
+you okay again I don't remember many
+formulae but I can derive them
+I mean suppose if you ask me to to work
+out the SVM formulation I don't remember
+it at the top of my head but give me two
+three minutes I can write down the
+formulation by using the basic geometry
+by knowing what needs to be changed and
+what should not be changed right that so
+that's all I learn and that's what I try
+to also incorporate as part of most of
+the videos that I do right okay sounds
+good
+so somebody's saying here
+Roshan does not have strong grasp on
+programming so how to overcome this what
+do prefer math or code again if you want
+to have a career in data signs of
+machine learning coding is mandatory
+right of course maths is also important
+but I would I would rank coding as more
+important because of course you have to
+know math also without math you're going
+to make blunders mistakes but coding is
+much more at the lower level it's like
+should you know alphabets or should you
+know grammar first you should know
+alphabets right so that's very very
+important so coding is very important
+and the way I learned coding or the way
+I teach coding to people or the way I've
+seen youngsters learn coding is take up
+a problem start solving it start filling
+in those gaps right it's about it's
+about taking a big problem breaking it
+up into smaller portions and learning
+each of these concepts again if you want
+to learn some of the basics just go to
+interview prep not applied course comm
+that's one of the courses we have we
+have lot of basic videos and examples so
+just go through those videos you'll get
+a sense of how we given a problem how we
+break it down and start writing code in
+a very simple methodology right so that
+that comes with practice there is no
+shortcut there
+most people who learn programming are
+are they become good at programming by
+solving lots and lots of problems and by
+writing code not by solving it in their
+heads by actually writing code that's
+how I learned coding myself so this very
+good when you learn a concept you forget
+it okay the simplest way see I told you
+right I I have one of the worst memories
+that I know of my wife keeps complaining
+that I don't even remember the names of
+people that we meet I'm terrible at it
+but the way I remember things especially
+in machine learning or science or
+mathematics I still remember calculus
+from adult class right because I was I
+was teaching something recently for
+engineering students and I said okay I
+can always I mean I still remember
+calculus integration integration by
+parts all of those things the reason I
+remember is I try to visualize them as I
+told you earlier a very good visual
+memory I have very bad audio memory
+so I don't remember names but I can
+remember if you try to draw it in
+diagrams for me integration is not the
+integral symbol for me integration is
+area under the curve that's why I
+remember integration differentiation
+differentiation for me is the angle of
+the tangent to a given curve so I learn
+I it is this my strategy I'm not saying
+this is the only strategy this is the
+strategy that I employ whenever I learn
+a concept I try to learn it from a
+geometric viewpoint and I also try to
+write diagrams and of course you have to
+revise if this is the first time you are
+learning this concept for example if
+there is a research paper that I run ten
+years back I've forgotten it because I
+have not revised it in my head so
+constant revisions maybe once every
+three days initially then once every
+week once every 14 days and that's one
+strategy that can help you not forget
+these concepts okay yeah we are already
+at 10:05 so let me change the screen
+let's go into the discussion itself okay
+so just give me a second off I'm super
+excited I'll also give you a motivation
+on why this whole thing started just
+give me a second so let's get into the
+discussion itself I hope everybody can
+see this okay let me just see I hope
+everyone can see this just give me a
+second okay okay I'm just making sure
+that everyone can see the slides or the
+diagrams that I've drawn is that what
+exactly slides these are simply
+handwritten notes I hope everybody can
+see them that's important okay can
+everybody just confirm if you can see
+the slides that I've put up here or or
+the or the hundred or the handwritten
+notes that I have here can everybody
+confirm that okay so yeah so I've just
+written some handwritten notes can
+people come from that
+okay yeah you all can see right so just
+wanted to cross-check that
+okay so again again how is this
+motivated from okay so let me give you
+the reason why I wanted to do this for a
+long time so I was invited to a school
+recently to give a talk on AI this is a
+very popular school in Hyderabad called
+the Oakridge International School and
+asked me I mean they they keep having
+these guest lectures from industry
+experts they asked me to give a small
+lecture on any topic of my interest to
+ninth class students okay that was a big
+challenge because what what do I know
+that the ninth class student knows then
+ask them okay is the CBSE I said yes
+they said yes I said can I have the
+syllabus for CBSE mathematics okay I
+said then I took up a challenge I asked
+myself can I teach a ninth class student
+how YouTube recommendation engine works
+that was my challenge I said all that
+they know is basic mathematics this was
+I've never taught a school going kid in
+my life till date okay except probably
+when I was a school going kid myself so
+this was a nice challenge I have taught
+people who are engineers were working
+professionals who are engineering
+students etc but I've never taught
+somebody who is below tenth class right
+or tenth grade so I said okay how do I
+now explain them everybody a most most
+most of the people who are in the eighth
+ninth grades today have used YouTube at
+some point or other so I have asked
+myself this very simple question they
+have used YouTube they have seen YouTube
+recommendations I asked them do you know
+YouTube recommendations everybody says
+yes I then I told them shall we build a
+YouTube recommendation system in the
+next one or they said are you joking I
+said no I'm not joking I'm very serious
+ok so again this is an experience that I
+learned and I thought I'd do this for
+everyone's benefit because I want to
+show you that you can build a simple
+system I am NOT saying we are going to
+build a state-of-the-art system the
+state-of-the-art systems for
+recommendation systems is fairly
+advanced that they mostly use deep
+learning today and some amounts of
+reinforcement
+is also has been experimented upon
+etcetera I'm not even going to go to
+that depth my objective here is can I
+build a simple first cutter YouTube
+recommendation using basic mathematics
+at high school level the goal here is
+with high school level mathematics high
+school is your high school is from your
+7th 8th grade onwards right if I'm not
+wrong so that's that's a goal here can
+we do that and I finished we can do it
+so let's get going ok of course most of
+the viewers here are not like the great
+students your your working professional
+so I will not teach it at the level of
+teaching a high school student I will go
+slightly above I'll also discuss about
+some real-world challenges on how to
+deploy these recommendation systems I'm
+assuming some of you have some
+background in software engineering or
+some background record and stuff like
+that some of you have done engineering
+or studied sciences or statistics or
+mathematics etc right so this is the
+motivation so let's get into the agenda
+itself so ok so the agent of today's
+discussion is as follows it's fairly
+simple
+so first let's understand the problem
+very very important in any data science
+task is to understand the problem that
+we're trying to solve then we'll simply
+use 9th and 10th class mathematics I
+will tell you this topic also will you
+simply sex we all know about set Union
+set intersection these concepts right
+this something that you may have learned
+in today in CBS's syllabus it's a 9th
+grade right I think in some state
+syllabus boards it's also they donate
+the grade in 10th grade also so using
+simple concept I mean you don't even
+have to know concept of sex using common
+sense and basic mathematics will build a
+first cut solution this is by no means a
+state-of-the-art solution first we will
+learn this okay then we'll use again
+once we learn the first cut solution
+we'll also learn how to productionize
+this model or if you if you if you are a
+data scientist how do you deploy this
+model how do you now put it into
+production how do you now make it
+available so that you can run in
+production we will also briefly discuss
+about it then all of you may have
+studied mathematics in your eleventh and
+twelfth class and you've learned about
+values and eigenvectors I wonder I will
+recently learned that some students in
+some state boats also learn I can values
+and eigenvectors in 10th grade itself so
+we use again not set theory slightly
+advanced mathematics like eigenvalues
+and eigenvectors and I'll connect this
+concept to something called as matrix
+factorization again we will not be able
+to go too deep into it
+because we wanted to do a one-hour
+session here giving you a high-level
+overview
+please understand that this is not a
+cutting-edge solution I to learn the
+cutting-edge solution of building
+state-of-the-art recommender systems
+will take us like 20 to 30 hours to
+learn the basics right again in our
+course we cover this from the very
+basics like from basic set theory we
+cover recovered basics of what is an
+eigenvalue because many people I see
+forgotten what is an eigenvalue what is
+an eigenvector right
+what is matrix factorization what is
+deep learning will cover see that week
+that requires me at least 20 to 30 hours
+to cover right so in a one-hour session
+I thought I will give you a glimpse of
+how simple again many people have this
+fear that this is super complex topic
+this is this is impossible to build
+again this is something that I learned
+from ninth grade students all that they
+said are you joking literally that's
+what they told me I said no I'm very
+serious let's build it right and so
+let's get to do it let's do it okay so
+let's go let's go off okay
+so let's understand the problem first
+okay I'll keep pausing so the model that
+I'll employ here is I'll pause at a few
+places and I'll ask your suggestions and
+your thoughts on a problem I would love
+to hear it in the chat session okay I
+change this from this screen to the
+YouTube chat window
+right so I change from this screen to
+sorry I'll change from this screen to
+this screen right to see to hear your
+thoughts okay so somebody is asking
+about the slides I will share a link of
+all these I'll send you this PDF and put
+it in the video section here itself
+after a while after this session is over
+I share this light not worry about that
+okay
+so let's understand the problem
+definition first okay so this is a video
+of applied a course a video that we did
+have a few months back and this is the
+current video so if you go to youtube
+right so this is called the current
+video that I am watching this is called
+the current video that I'm watching
+so given that I am watching this video
+right now given that I am watching this
+video I get a bunch of recommendations
+here these are all called as recommended
+videos this is what is called as video
+recommendations problem while watching
+this video YouTube while right why does
+YouTube does why does YouTube do this do
+club does not want users to spend too
+much time discovering content that they
+may like so YouTube does this
+recommendation for you YouTube says ok
+these are all the videos that you may be
+interested in and I can even set it an
+autoplay which means as soon as this
+video is over this video will start
+playing as soon as that is over this
+will start playing as soon as that is
+over this will start playing as so so on
+so forth
+so this is like this is helping users
+who is a customer of YouTube who is
+watching this video find a new video
+content that he or she may be interested
+in so it is it is improving the user
+engagement user engagement is one of the
+most important metrics at YouTube right
+they want users to spend more time ok
+because then users are more then users
+will upload more content users will
+spend more time on YouTube and again
+that also generates more revenue say at
+the end of the day YouTube is also a
+business owned by Google right so if
+people spend more time on YouTube
+YouTube can show more ads and thereby
+generate more revenue they have to
+generate revenue to survive right so the
+whole objective here is can you
+recommend videos the whole if you think
+about it from a pure problem you are
+watching this video you are watching
+this video
+given this video can you recommend a
+videos which are likely to be watched by
+this customer who is watching this video
+ok that's it that's it these are like
+highly likely these are videos which are
+highly likely which are highly likely to
+be watched to be watched after this
+that's it and today I get I do this a
+lot of times again you see video
+recommendations like this you also see
+recommendations like this on Netflix
+those of you who have used Netflix are
+hot star right very popular services in
+it not
+Netflix but hot star is very popular in
+India like Netflix is just getting
+started
+so if you see any of these services they
+also recommend other videos that you may
+like similarly if you have ever heard
+songs whether it's whether it's iTunes
+right whether it's iTunes or whether it
+is sovereign or Ghana any of these any
+of these services any of these online
+streaming or Spotify right any of these
+streaming services based on the song
+that you are listening and based on the
+songs that you listen to in the past
+they will recommend new songs similarly
+a commission does a terrific job here
+Amazon recommends you Amazon Flipkart
+Myntra all of these companies recommend
+new products because this this improves
+the user engagement by helping users
+discover good content that's that's
+that's what users want you literally
+right and that's what company is also
+one because that helps them generate
+more revenue this is a business problem
+we have to always study the business
+problem and the real world problem that
+we are solving Before we jump into
+mathematics very often people just
+directly jump into mathematics without
+understanding what is it that we're
+something we want to find videos which
+are highly likely to be watched by a
+user who is watching this video given
+that I have other videos also he has
+watched in the past I have the data very
+simple question right very simple
+concept okay so now given this context
+okay what data does YouTube have okay I
+left this slide blank intentionally okay
+what data does YouTube have what data do
+you think YouTube collects okay I want
+to hear from you guys what data do you
+think YouTube collects which we can use
+to build this recommendation system okay
+so I would love to hear your thoughts on
+this okay so let me change to the chat
+window here so if you guys can explain
+what you think again please pilot what
+do you think is the type of data that
+YouTube let YouTube collect when you're
+watching videos what type of data does
+the data scientists at YouTube have tags
+okay very good user views so I'm
+assuming when you say tags okay so
+you're saying every video you can tag it
+with some
+keywords okay that's what I'm assuming
+cool okay this this is moving user views
+which means which video has been watched
+by which user okay
+playlists very good our history I think
+by user history all of you mean all the
+videos that I watched a search history
+very good again many people don't know
+but YouTube is the second largest search
+engine in the world after Google itself
+so user history user text cool cool cool
+cool subscriber information very good
+very interesting previous history of
+users watch tags user like or likes yes
+likes and dislikes this is also very
+interesting personal preference again
+see look at look at all the data that
+YouTube collects YouTube knows which
+video you are watching whether you liked
+it or you disliked it it has that
+information also it has information on
+whether you're subscribed to a channel
+or not at all these all this again
+people demographic data very interesting
+what is the rough age group of the user
+right somebody who is in their thirties
+may be interested in baby videos because
+they are most likely going to have a
+baby or they have a baby right so things
+like that right or somebody who is in
+the 20s who want to travel you might
+want to show them travel videos very
+good Search Search is a brilliant idea
+so all of this data very good on
+terrific great participation lies loving
+it okay this always is motivating when
+you see people participating so there is
+lots of data very very good points that
+you guys brought up what we can do is
+again all this data the actual YouTube
+the two data scientists at YouTube uses
+all of this data the two data scientists
+at YouTube uses all of this data that
+all of this data that you will all have
+mentioned in addition to it they could
+use data from Android because Google
+owns both YouTube and Android they can
+use data from your Chrome browser right
+they can use data from your Google
+search right so because Google owns all
+these all these entities right if you
+have a Chromebook what you are doing on
+Chromebook right so Google in addition
+to using data from YouTube also uses
+data from others
+he says that they provide and that's why
+there I mean there there is a lot of
+legal have the like up like can't make
+up entities like European Union are not
+placing more restrictions and fines on
+Google because they just use this data
+left and right for our discussion what
+we'll do is this for our discussion
+we'll use some simple data what is the
+most useful data here the user viewing
+history the user viewing history they
+just use one piece of data of course if
+you were to actually work at YouTube and
+solve this problem you're going to use
+all the data that you get document guys
+invention and other data from non
+YouTube services which are owned by
+Google but let's because there's a
+simple fiscal solution right they just
+use user viewing history which means
+given a user you I right what are all
+the videos that he or she has watched
+let see you so I'll use you for users V
+for videos let's assume I have user I
+who has watch the video one who is
+watched video three who has watched
+video six where's watched video 18 who
+is watched video 126 these are the IDS
+of the videos every video on YouTube has
+a unique ID right so let's say you this
+is these are all the videos again in
+watching videos there is a temporal
+element also temporal basically means
+time based probably I want to be one
+first then I want to be three then I
+want to be six then I want to be a tv18
+then probably I went and watched v3
+again but we'll just ignore it for
+simplicity because building a temporal
+model or time series model is far more
+complex right so we will not go into the
+temporal models they just simply say I
+take the data from the last seven days
+I take the last seven days data for this
+user let's just simply last seven days
+data not very simple or last 30 days
+data whatever let's fix the number of
+days because a users today probably I am
+watching videos on let's say problem
+watching videos on let's say a computer
+organization or how to how to how to how
+to do how operating systems works right
+that's that's what I was actually doing
+a few days back maybe one month back I
+was looking
+to teach calculus better okay two months
+back I was learning how to teach
+probability better okay so if within
+every few days the types of videos that
+we watch also change and we want to
+recommend more relevant again YouTube
+what it does is it shows videos it shows
+new recommendations based on there are
+more recent ones more often okay but it
+might show one odd recommendation based
+in your subscription based on whether
+you're subscribed to a channel or not
+even though you watch the channel long
+ago it mostly looks at your recent
+history that's called a recency based
+model that's what is called a recency
+based model or recency based
+recommendations recommendation system
+very simple the word recency means what
+you have done recently right so in the
+last seven to thirty days let's assume
+these are all the videos that I've
+watched so let's just use the data from
+the last seven days just for simplicity
+again whether it should be 7 days 30
+days 60 days 45 days depends on the how
+do you decide that you decide that by
+doing doc data analysis on YouTube data
+itself so for our for our case let's
+just simply assume that last seven days
+data is good enough see we're making
+some simplifying assumptions here okay
+so okay so we'll just have this data no
+now comes the most interesting part all
+of you have heard of this term called
+matrix right probably in your tenth
+class or 11th class or felt class 10th
+or 11th or 12th grade right we all have
+learned about matrices we learned about
+diagonal matrix will not go to eight
+different types of matrices we learned
+about determinant of a matrix adjoint of
+a matrix inverse of a matrix all of that
+stuff how often have you used matrices
+that's the problem I - the biggest
+problem in most education is we teach
+them beautiful concepts in mathematics
+but we don't connect them to real world
+that's unfortunate part of most of again
+there are some brilliant teachers out
+there I've seen who do that but the
+moment you connect any mathematical
+concept to real world people will not
+forget it okay so look at this so
+imagine what what are the matrix do
+matrix has rows and columns so this
+whole data that we were talking about
+with this whole data of users watching
+videos can I store it in a mate
+it's a simple matrix see what is a metal
+forget about all the complex operations
+that we have on a matrix can I store it
+in a table like form what is the matrix
+matrix is nothing but it's simply a
+table if you want to think about it in
+layman's term in a non mathematical
+viewpoint is just a simple table here it
+is called as a data matrix because we
+are storing all the data that we want to
+use in this matrix that's the goal here
+let's see I'll tell you how this is fit
+imagine user2
+in the last seven days has watched video
+three then we'll place one here okay
+let's assume user two has watched video
+for also will place one here let's say
+you user two has not watched video zero
+it will be by default is zero simply be
+fault by default value is zero now in my
+system in my system I could have any
+users look at this I could have any
+users u1 u2 u3 up to u n so each user
+corresponds to a row like this and I
+could have M movies
+look at this VM M is the number of
+movies I write number with a hash it's a
+short form notation n is the number of
+users so if you think of this if I think
+of this whole matrix this is what is
+called as a binary matrix this is what
+is called as a binary matrix again don't
+worry if you don't know what is an
+inverse of a matrix identify matrix I
+promise you I will not use that trust me
+I'll make it extremely simple okay so it
+is called a binary matrix because you
+only have one thing zeros has this
+person watched it or not
+of course this person may have watched
+user to may have watched video three
+multiple times but we are just ignoring
+that for now because we want to build a
+simple solution so what is this matrix
+now if you think about it what is this
+matrix let's call this matrix as a how
+many rows does it have it has n rows how
+many columns does it have it has m
+columns so this is what is called a
+matrix of n rows and M columns if you
+recall you might have written this in
+your tenth class or level class a 12th
+class right so I have n users and M
+videos remember typically how it does
+anybody know how many users are there on
+YouTube YouTube as of the most recent
+statistics has one
+three billion billion is 10 power 9 this
+is roughly the population of India
+roughly roughly the population of India
+okay those are the number of users who
+are on YouTube the number of movies or
+the number of videos is in few hundreds
+of millions of videos okay again this
+number I could not find the exact number
+but I'm sure it's a few hundreds of
+millions of movies so this matrix is
+massive sized matrix it's a math cell
+matrix okay it's a massive matrix very
+often when you are a school going
+student or even in your undergraduate
+days you might have encountered matrices
+that are 2 by 3 or 4 by 5 the moment you
+see anything more than 4 by 4 matrix you
+would say wow this is too big but in the
+real world you encounter matrices that
+are billion rows few hundred million
+columns okay and this is a real data
+let's assume all of the data that I have
+that I want to use is represented like
+this very simple representation right
+one basically means this user has
+watched this video in the last seven
+days at least once
+what is zero means he or she hasn't
+watched this video simple this is my
+data right again I'm building a very
+simple solution I am not building
+anything that is close to
+state-of-the-art okay now now comes the
+most interesting thing now given this
+data okay so let me go take a step back
+here okay let me take a step back here
+okay so given this data now how do we
+solve the problem okay how do we solve
+the problem a very simple question so
+what is the problem that we're solving
+let's understand it mathematically first
+let's understand the problem that we are
+solving mathematically first the problem
+we are solving here is you have a user
+UI who has watched videos v 1 v 6 v 8
+whatever from B 15 and probably he is
+watching v 18 right now he is watching
+this video now you want to recommend a
+set of videos you want to recommend a
+bunch of videos some ordered set this is
+or you want to rank videos and say this
+user may like video 69 69 this user may
+like video 76 this user may like video
+t9 etcetera etcetera and you also want
+to rank them you want to say he has a
+higher likelihood of liking video 69
+more than video 76 you also want to rank
+these videos that's very important okay
+the user is has watched all these videos
+is probably currently what you da teen
+or probably these are all the videos
+that has watched in the last seven days
+now if you want a ranked list you want
+to provide a ranked list or you want to
+provide a ranked list of move or videos
+that he or she may like that's the
+challenge here okay now how do we solve
+that problem let me give you one simple
+idea here one simple idea here is okay
+it's called the idea of similarity very
+simple concept yet almost common
+sensical the idea of similarity is as
+follows so we know all these videos that
+he or she has watched the user UI has
+watched can I find videos can I say
+video 18 is very similar to video 69
+it's very similar can I say video 15 is
+also very similar to video 69 can I say
+video video 8 is similar to video 76 and
+so on so forth so for each of these
+videos for each of these videos can I
+get a set of similar videos for this
+video can I get a set of similar videos
+imagine for each of these videos if I
+can get a set of similar videos right so
+V 1 let's say you might have set one of
+similar videos for v6 I have let say s 2
+so on so forth using these sets but I
+can just combine all these sets and I
+can generate a new set like this imagine
+imagine look at look at this simple
+thing right because V 18 and V 15 both
+of them are similar to V 69 v-69 has is
+similar to more number of movies here or
+more number of videos here right hence
+it's better to list to rank it above V
+76 which is your V 76 is only similar to
+v 8
+let's assume let's assume let's assume V
+76 is similar only to V 8 V 69 is
+similar to V 8 V 15 and let's say V 1
+also let's say you have 69
+similar to this so in favor of 69 you
+get three votes one vote from v18 one
+vote from v15 one vote from v1 in favor
+of V 76 you get only v8 as the word
+right so since there are more votes
+since this video is similar to more
+videos that I've watched in the past
+make sense to ranked this above v76 very
+simple concepted now the problem has
+changed the problem has gone from the
+problem has gone from recommending
+videos to finding similar videos so the
+objective here is that given any video
+VI and VJ given two videos like this can
+I find the similarity between these
+videos can you somehow mathematically
+compute the similarity between these two
+videos if you can mathematically compute
+the similarity between these two videos
+imagine I have a function like this a
+mathematical function which given any
+two videos tells me what is the
+similarity between them I am done then I
+can take video v1 I will simply take
+video b1 and ice and I just compute this
+similarity for all the other videos
+whichever videos have the highest
+similarity to b1 I just say these are
+the most similar videos very simple
+concept here so the challenge the
+mathematical challenge here the
+challenge the mathematical challenge
+here is how do you define similarity
+between two videos of course here your
+very interesting problem right again
+remember I want you to come up with
+ideas using the data matrix that we have
+what are using the data matrix because
+we are limiting ourselves to just using
+the data matrix right what is the data
+matrix okay so let me go a step back
+sorry so let me go as this is my data
+matrix right so using my data matrix a
+just using my data matrix a how can you
+compute how can you simply compute the
+similarity very simple concept here okay
+so let's go to this let's go to this
+problem okay so just a second okay so
+the question here is this how do you
+compute similarity between two videos
+using the data matrix okay now I would
+love to
+your thoughts on the chat window okay
+let me just jump to the chat window
+itself okay yeah so any ideas folks
+using matrix product okay using matrix
+video matrix product okay frequency of
+v1 and we do for users okay how often
+okay by frequency you mean how often
+have others have have you have frequency
+which means frequency just measures
+popularity right you just don't want to
+show popular videos you want to show
+very personalized recommended videos
+right so people are saying dot product
+cosine similarity all of that okay some
+of you know some of you know this okay
+cool
+I can values eigen vectors how tell me
+basic stuff correlation between the
+videos how do you measure intersection
+let's use simple mathematics guys I'll
+go into cosine similarity eigen values
+eigen vectors let's let's assume you're
+a software engineer solving this problem
+the question somebody somebody wants me
+to repeat the question this question
+here is how do you compute the
+similarity between two videos using the
+data matrix in that's the question okay
+channel and genre of the videos but
+that's not the data that we have right
+we have limited ourselves I agree with
+you if you are actually a data scientist
+at YouTube you would probably use the
+genre of the video the characters in the
+video the language of the video and all
+of that stuff but here we want to
+compute the similarity by just using
+very simply by just using the data
+matrix how do we do it simply okay how
+often have often people CV I also see
+region very good very good
+okay so very good how many people who
+watch VA let me just cut through all the
+mathematics again mathematics is just a
+tool folks or the mathematics is just a
+tool to serve our needs okay so to
+compute the similarity just give me a
+second okay okay so how do we compute
+the similarity okay so remember
+mathematics is just a two
+it is the intuition which is often very
+important I would say intuition is more
+important because you can learn
+mathematics and you might forget
+mathematics but intuition is more
+important okay so look at this so this
+is my data matrix a this is my data
+matrix there as somebody where rightly
+pointed out it is intuition that is
+important cosines tomorrow there might
+be a new metric to make today you may
+have sets tomorrow you may have cosine
+similarity matrix might change but
+intuition is important
+okay intuition stays with you for a
+lifetime and intuition is how you
+remember things and further long term
+okay look at this imagine I have this
+video and this video to wit imagine I
+have three videos VI VJ VK let's assume
+I have these three videos VI and VJ are
+watched look look look at all the users
+who have watched VI u 1 u 2 u 3 u n rest
+everybody let's say is 0 that's all the
+other users which says 0 all these are 0
+then just say for simplicity all these
+are 0 so they just say all these are 0
+they just say all these are 0 just for
+simplicity let's say all these are 0 not
+enough so you how many users have
+watched both video 1 and video 2 1 2 3
+so there are 3 users who have watched
+both VI and VJ how many users have
+watched VI and VK let's look at the VI
+and BK imagine I want to find all the
+all the videos that are similar to VI
+so 1 and 0 which means you I watch this
+but did not watch this so watch this did
+not watch this watch this did not watch
+this watch this did not watch this only
+1 there is only 1 you there is only one
+user who has watched video I envy D okay
+well there are three users who have
+watched both video I and video J the two
+users there are three users were watched
+it which means four VI VJ seems to be
+more similar logically speaking because
+look at this users who have watched VI
+more number of them have watched VJ and
+fewer of them have watched VK common
+sense okay
+so VI is similar to VJ then we can
+you have to sort them if I have to order
+them I will always order VJ above we
+came in terms of similarity because
+there are more of these right so if you
+think of this as a set all the ones
+which are one so if you think of this as
+a set if you think of VI as a set
+consisting of u 1 u 2 u 3 and you m so v
+VI consists of user 1 because user 1 has
+watched them user to user 3 em user M
+similarly VJ if you think of it as a set
+right consisting of u 1 u 3 right u 4
+and u n similarly you can think of VK as
+set consisting of u4 and u n then I can
+simply take the intersection of these
+two sets look at this what is this this
+is the notation for intersection of two
+sets intersection of two sets followed
+by cardinality of the set
+what is cardinality of this this is how
+we write the cardinality of the set
+cardinality of the set means the number
+of elements in the set right so VI
+intersection bj v AI intersection VJ is
+the set u1 u3 u4 right sorry
+u1 u u1 u3 um sorry not you foot that's
+the intersection now what is the size of
+this this size equals to three right the
+size of this set
+this means cardinality of the set or the
+size of the same cardinality is a fancy
+mathematical word what it means is the
+number of elements in the set that's all
+okay so can I use simply similarity
+between these two sets I can use simply
+similarity bit similarity between two
+videos as the intersection of these sets
+that I've computed this is one way of
+doing it there is one more simple mean
+there is one more simple way of doing it
+let me also show you an another way so
+that is the set theoretic view of doing
+it so this is the set theoretic view
+this is the set theory view there is
+also an another view which programmers
+and software engineers love okay take
+this as a vector so if you're a software
+engineer right you know arrays and
+vectors right and array
+forget about vectors you know arrays
+right so think of this as our AVI
+think of this as array VI think of this
+as a array region so this is your array
+V I this is your array V J what is the
+size of this array n elements what is
+the size of this array also n elements
+so now if you multiply the first element
+with the first element look at this
+first element with the first element you
+get one right then multiply second
+element with the second element you get
+zero so wherever this user is watched
+one but not the other or if both the
+users have not watched it you get 0 only
+when if both the users watch you get 1
+alright so again you get 1 here you get
+1 here you get 0 here right you get 1
+here so what is this this is this whole
+sum so if you think of this as array if
+you think of this array and if you do
+component wise multiplication this is
+what is called as component wise
+multiplication right or you multiply the
+first element with the first element
+second element the second element third
+element with third element and sum them
+up this will simply give you this set
+intersection so if you were to actually
+implement this in code you can just
+think of this again if you if you if you
+know C programming language how do you
+represent a matrix you represent you to
+using a two dimensional array right even
+even in Java or other programming
+languages Python you can represent it as
+a two dimensional array right very
+simple so if you're a software engineer
+it's easy to understand it from the
+perspective of arrays if you're if
+you're more interested in the
+mathematical view of it you can think of
+it as set intersection okay cool now let
+me ask you the tricky question okay so
+let me ask you the tricky question here
+so let me go into this let me see what
+is the next slide I don't remember what
+the next line is just give me a second
+okay so okay so before we go into the
+issue okay let now given this simple
+understanding let's see how we can build
+a simple solution let's understand this
+then I'll ask you a very interesting
+question okay suppose I am user I at
+time t1
+I have watched video v1 at time t2 I
+have watched video 26 I am at current
+time P now I want to recommend movies
+right so or I want to recommend videos
+how do I do it look at this for every
+the similarity between
+VI and VJ if I place this in a matrix in
+cell SI je imagine imagine if I have VI
+and VJ right this is a similarity
+between VI VJ right if I place this in a
+matrix I get a matrix S this matrix s
+has m rows and M columns where m is the
+number of movies this is an M cross M
+matrix and what am i storing here in the
+8th row jth column here in the eighth
+row jet come for example look at this
+what do I store here I store in this
+cell I store the similarity of video 26
+look at this video 26 and video 3 that's
+what I am storing here because I can
+compute this side given my data matrix
+look it is given my data matrix given my
+data matrix I can compute this for all
+pairs of videos of course that will take
+a lot of time because you have hundreds
+of millions of videos and billions of
+users it will take a lot of time but
+once you if of course there are lot of
+optimizations and algorithms on how to
+do it faster and all of that there are
+tons of optimizations in algorithms
+right let's assume we do that okay so
+now not what you have here so now what
+you have here is a system like this so I
+have this matrix s okay we call this s
+because it's a similarity matrix this
+matrix stores the similarity between
+every pair of nervous right now if you
+look at this this is actually a
+symmetric matrix okay because look at
+this the similarity between video 2 and
+video 3 is same as the similarity
+between video 3 and video 2 in a because
+the sent intersection here the center
+intersection here is the same so so s of
+V IJ so s IJ is equal to SJ I we all may
+have learnt about this right these these
+types of matrices when we were in school
+this is where they are actually used ok
+now let's go back to the original
+problem that we were solving connecting
+the dots again connecting the dots to
+what you learned in school is very very
+important so again for most of machine
+learning if you just know up to your
+calculus not even if integration if you
+know up to differentiation you can solve
+most you can learn most of me
+most of machine learning very easily
+okay so let's assume I met currently
+time T now I want to recommend movies so
+what do I do I find all the videos that
+are similar to 26 which means I pick I
+go to this row enough I literally go to
+this row and I say which of these videos
+are most similar to 26 right I get let's
+say you might pick five videos later you
+might pick five top top five videos
+which are similar to video 26 just a
+while ago I also watched video 1 so I go
+to row 1 here and I pick 5 videos I also
+pick 5 videos here which are very
+similar to s1 the most similar videos
+now I have this I have 10 videos here
+some videos may repeat there might be
+some video which is similar to both s 1
+and s 26 or which is similar to video 1
+and video 26 so it will be there in both
+these sets so now I have I have a set of
+five videos here I have a set of five
+videos now given this set of ten videos
+if a video repeats in both of them just
+rank it higher just simply rank it
+higher that's it so for every remember
+you are getting a mathematical score you
+are getting literally a number so in the
+previous thing very importantly what you
+have to recognize here is you are
+getting a number to represent it okay
+because you have numbers you can compare
+them because you have numbers that's
+very very important because we are
+numbers here the similarity scores are
+numbers which means I can compare right
+suppose let's say your V 26 is similar
+to V 3 and the similarity score is let's
+say 126 V 1 is also similar to V 3 V 1
+is similar to V 3 but the similarity
+score is 162 I can just sum up all of
+this so for every for every me do I get
+a score like this a similarity score so
+I can just sum up all the similarity
+scores and ranked them so very simple
+imagine instead of two videos I watched
+ten videos in the last one day on last 7
+days right I just use all those 10
+videos pick up the videos which are very
+similar to this sum up there some some
+of their similarity scores and pick the
+ones that have the highest similarity in
+this case maybe v3 has higher similarity
+may
+v6 has slightly lower similarity so on
+so forth this is how you can actually
+solve the whole problem of course there
+are there are there are actual
+challenges in this I'll also explain
+about how to productionize this model in
+a small step not at YouTube scale at
+YouTube scale you would require really
+really cutting-edge distributed systems
+I'll also talk briefly about it right so
+I hope you understood the whole flow of
+things now that's very very important to
+get ok so now now the next very
+important thing here is ok so we have
+learned some basics right now let me go
+to this screen here ok so there is one
+problem here ok there is one problem
+here I want you to guys tell me what is
+a problem with the similarity measure
+that we have what is a similarity
+measure that we just designed similarity
+between two videos VI comma VJ is equal
+to is equal to set VI intersection set
+VJ the cardinality of the same this is
+the metric that we are using this is
+called a similarity metric or metric
+basically it helps us to measure things
+what is the problem with this again this
+is the most important thing I want you
+to realize come till of some of what I
+have told you there is a problem with
+this this doesn't work in all cases what
+is a problem good question so this type
+of metric has flaws so let me call it
+that thing instead of calling it a
+problem it has a few flaws can some can
+anybody find out what is a flaw in this
+measure this is a simple measure right
+what is a fluke there is a problem there
+is a flaw in this measure in using this
+measure we could make mistakes can
+anybody figure out what that mistake is
+that's the question again this is the
+very very interesting this is the
+ingenious part till now whatever learnt
+is very simple this is the slight leap
+small innovation not not rocket science
+ok I'm not going to cold start all of
+that let's assume there is no cold start
+what is a cold start cold start is
+imagine if I get a new video cold start
+problem is basically when I have a new
+video for which I don't have any data of
+course that's a problem
+ok so I'll also take that find new
+videos ok fine I'll take that ok so if
+there is a new video we have a problem
+but if you have a new video with no data
+whatever similarity measure we come up
+with
+have a problem because you don't have
+any data imagine Vijay here is a new
+video if it's a new video there is no
+data to start with so whatever you
+define this as you will have a problem
+because you don't have data right so
+flow means mistake yeah so that's what I
+mean okay so let's say okay people are
+talking about some upload mistakes etc
+let's ignore that for now of course in a
+real if you are actually if you have
+data scientists anywhere there will be
+hundreds of real-world problems but
+let's simplify it now okay after finding
+similarity may find similarity of more
+videos so what when intersection is null
+okay when intersection is null what does
+inter say imagine imagine if the
+intersection is null what does that mean
+it could mean two things Vijay is a new
+video which is which is just been
+uploaded that's where the intersection
+is not that's one possibility
+okay in such a such a possibility is
+called as a cold start problem because
+we don't have any data for region that's
+why it's called the cold start problem
+the other problem is VI VJ have enough
+data but they are not intersecting that
+means we envision dissimilar right VJ v
+VI VJ are dissimilar
+so what's the problem there so because
+they are dissimilar their intersection
+is 0 if their intersection is 0 that
+means they're highly dissimilar no
+problem with it so cold start so just
+because the intersection is 0 does not
+mean everything is a problem there may
+be lots of intersection the other way of
+thinking goodgoodgood this a good point
+what happens if there is a lot of
+intersection when does lot of
+intersection happen when does rule so VI
+and VJ there is a lot of intersection
+what does that mean what does that mean
+good point somebody said memory issue I
+understand there are there are problems
+with deploying this in production but of
+course to deploy it we use really high
+end distributed systems don't worry
+about that biased by user pattern we
+wanted to be biased by user pattern
+right we want the system to learn from
+user patterns right so keyword is not
+very similar
+we are not using keywords anywhere in
+the data right okay so let me show you
+an example okay probably you'll be able
+to appreciate it better than not a cell
+so let me show you a simple example it's
+always good to understand with examples
+let's take this right okay so the
+problem is actually with something
+called as popular videos imagine you
+have some viral video some music video
+or some movie launch video they are
+extremely popular so imagine I have
+video VI VJ VK VK let's assume is a
+popular video which means lot of people
+have watched it let's say you just this
+is my data matrix just for simplicity I
+just wanted to show you this problem
+okay look at this VK is watched by
+everybody
+every Tom Dick and Harry watch this
+video K because this is probably a
+popular music video let's say or a viral
+video of some sort like the cat videos
+the baby videos etc now what happens in
+this case is now let's compute the
+similarity between VI and VJ look at
+this one user if you look at this VI VJ
+are very similar because they're exactly
+watch the same videos look at this VI so
+they're exactly wants to be the same
+users I'm sorry user 1 user 2 let's say
+user 10 user 11 they just say so use VI
+and VJ are very similar because exactly
+see this user watch both of them this
+user watch both of them
+this user watched both of them this user
+watched both of them other users did not
+watch any of them so if you think about
+logically VI VJ similarity should be
+significantly higher when I place an
+arrow mark here that means it should be
+very high as compared to similarity
+between VI and VK but if you look at the
+similarity between VI VK 1 2 3 4 if I
+use the metric if I use this metric of
+intersection what is the similarity
+between VA VK 4 what is the similarity
+between sort of VI VJ 4 VI VK is also 4
+look at this what is the metric that we
+are using just simple cardinality of
+intersection right if I simply use my
+metric my metric is similarity between
+videos IJ is VI intersection reject the
+cardinality of the set if I use this
+if I use this what you can let think
+about it from a real-world perspective
+if this is the case VI VJ this is my
+data very small data I'm taking just for
+example okay my similarity here is for
+my similarity here is for the larger the
+number but the more similar they are the
+problem here is VI and VJ are very
+similar but V and V can need not be very
+similar this is just a popular video
+that is watched by everyone that's it
+it so happens that these users have also
+watched it but there are also a lot of
+instances where this user has watched it
+this user hasn't watched it but this
+user the sudden there are lots of
+instances where there is a user here who
+is not watched this VI but watched we
+came this is like Gangnam style video
+let's say everybody does billions of
+views guys when people who don't even
+understand Korean like me have watched
+it at least once who don't know what
+Gangnam is it's actually and I learned
+it later it's actually a location it's
+actually a exactly a partial location
+and see all it seems okay so the
+important thing here is if you have a
+popular video this will look simple
+this will be similar this will this will
+end up being similar if I use this
+metric if I use this measure or this
+metric it will feel similar to every
+other video even though it's not it's
+just a popular video so how do we fix it
+there is a very nice fix to it called as
+Jaccard similarity standing for j s what
+this says is very important this says so
+this is called as Jaccard similarity
+check and similarity okay very very
+useful metric or measure in in in
+machine learning used extensively in
+machine learning
+Jake add similarity between two sets is
+the size of the intersection by the size
+of the union now look at now look at
+what happens okay if I use Jaccard
+similarity between VI VJ the union is 4
+sorry the Union here the union of VI
+weekend there are 4 elements here there
+are 4 elements here so the union here is
+4 cool and the intersection is also 4 so
+the jagged similarity is 1 right now the
+jacket similarity between VI and weekend
+the intersection between VI weekend
+there are 4 videos which are in the
+intersection there are total of seven
+videos between both of them 1 2 3 4 5 6
+7 there are 7 not video
+users I'm sorry okay so seven users have
+watched both VI and V King so the Union
+consists this union of VI VK consists of
+seven right the intersection consists of
+four there are four users where what VI
+became but the total of seven users who
+have watched either VI or making
+actually in the comment section somebody
+said can we use or also in addition to
+and actually one of the students said
+that but he didn't go into the depths of
+it this is like saying either VI watched
+or VK watched this is like saying the
+human this is like saying this is like
+saying count the number of users who
+have watched both VI and we came this is
+like saying count the number of users
+who have watched either VI or weekend
+that's the logical order right if you
+think about from a computer science
+perspective or watch it not what happens
+if I use Jaccard similarity if I use
+Jaccard similarity it is scoring VI VJ
+to be more similar than VI weekend and
+this is what we wanted to do see we
+always invent mathematics we create new
+mathematics to solve the real-world
+problem everything that we have studied
+in your life every mathematical concept
+that you've studied has been created to
+solve the real-world problem including
+complex numbers or imaginary numbers
+many people think the imaginary members
+are imaginary
+you know we have been created for a
+specific purpose to solve problems in
+physics right so Jaccard similarity is a
+concept which is created to solve this
+problem wherein VI VJ should be more
+similar and Vav cam must be more
+dissimilar right they should be more
+dissimilar these both must be more
+similar to solve that problem
+jihad similarity has been created right
+so instead of using simple similarity it
+is better to use Jaccard similarity to
+avoid the problem of popular videos
+right so very very very interesting
+concept again this is how again whenever
+you learn a concept in machine learning
+data signs anything learn why we need it
+that is SuperDuper important okay if you
+don't learn the reasoning behind it you
+are just remembering things by heart now
+whenever somebody tells me Jaccard
+similarity i do not remember the formula
+sometimes to be honest with you to be
+really honest because sometimes i do not
+remember the formula by heart but
+remember Jaccard similarity is created i
+know that this whole metric is created
+to solve this type of
+so I can derive it literally or I can
+verify the formula on Wikipedia I
+understand why it's needed why is very
+very important always ask why pooch hawk
+you okay my mother tell you
+Otakon day in the code okay you have to
+ask why the heck has this concept come
+into existence
+okay pooch you if you're Hindi
+speaking person I don't know any other
+language sorry I know Telugu so I can
+say in the Kannada Gandhi okay super
+duper important okay sounds good okay
+sounds good okay let's go down now just
+like we have computed similarity between
+videos I can also compute similarity
+between users
+same concept if you think of this user
+as a set all the videos that the user
+has watched as a set I can think of all
+the videos that the user J has watched
+as a sec now I can compute Jaccard
+similarity between user IM user j this
+is an other way of thinking about it
+just like the way we have computed
+similarity between movies i can think of
+similarity between users also now how do
+I use this if I know that user I and
+user J are very similar let's say human
+user I has watched these two movies has
+also watched this he has watched this
+and has watched this let's register now
+user J has watched this he has watched
+this he has not watched this he has
+watched this and his watched this
+register then the Jaccard similarity
+between user and user J will be very
+high let's ignore all the other movies
+okay because there is a lot of
+intersection in what these people have
+watched and the union is also pretty
+healthy now because user J and user I
+user I and J are very similar is there a
+movie that user I watched that user J
+did not watch yes there is this movie or
+video to which user we know we know that
+user I is very similar we know user I is
+similar to user J we know that okay
+based on a metric like jacket similarity
+now I can say okay user I has watched
+one but has not watched but user J has
+not watched so for user J I can
+recommend video to okay because they
+both are very similar users for example
+imagine this is a tech guy okay who
+likes tech reviews
+this is also a tech guy okay who is a
+gadget guys or can I just call them get
+get guys who love cutting-edge gadgets
+okay I have one such guy especially with
+computational tools etc right so I love
+the most advanced laptops I enjoy them
+okay I try to get them whenever I can
+afford it okay so so let's assume these
+two are very similar so if there's a new
+review that was launched by a reviewer
+and what let's say there is a surface
+pro 7 that got launched or surface Pro X
+that got launched very recently I think
+just three four days back so this user
+has watched it and he probably watched
+the whole video to the end and this user
+hasn't watched it probably he didn't
+have time at office or at school or at
+college right so it makes sense to
+Hodges this video to this person right
+so you can also use a similarity between
+users as a very nice way to think about
+this right so now let's go down okay now
+the biggest question is how do you
+deploy this again I'm not be able to go
+too deep because we are already into the
+have already just finished one hour into
+the discussion I'll spend 10 15 minutes
+just going into this okay again how do
+you apply this you might you have
+typically like 1 billion plus users
+hundreds of millions videos new videos
+are watched regularly how do you do it
+remember you have this matrix S this
+matrix S is maybe 100 million so we
+write mmm to represent a million 800
+million is 100 into 10 power 6 okay
+that's the number of rows that we have
+okay this is this is a similarity matrix
+right and the s IJ value this whole main
+to the similarity matrix similarity
+between so this is my similarity matrix
+which is M cross M we have talked about
+the this is this is basically my this is
+called as my video video similarity
+let's just call it video video
+similarity in Netflix recommendation
+it's called movie movie similarity right
+so when I have this similarity this
+matrix each cell here is a floating
+point value if I use Jaccard similarity
+this is a floating point value and
+floating point values can take like 4
+bytes or 8 bytes depending on the
+depending on the programming language
+you are writing written right and how
+many cells do I have I have hundred into
+10 power 6 in 200
+10 power 6 that is 10 power 8 into 10
+power 8 so I have 10 power 16
+floating-point numbers that I have to
+store Wow
+this is like crazy this is literally
+like crazy thing right so how do we how
+do we how do you not do hacks again
+engineering is all about working around
+really well constraint like this right
+so instead of storing look at the hack
+that many people do here is for this for
+this movie let's say this is all for
+this video I instead of storing
+similarity with all other videos I could
+just say I don't care about all of them
+for every video I just need for every
+video I will just store the top 10
+videos that are similar to this so this
+video is rich is similar to v1 it is it
+is similar to v3 it is less similar to
+v6 so on so forth v1 96 for each of
+these I'll store a number let's say this
+number is 2.6 some number some number
+here this number measures similarity so
+technically we should so let's assume
+this number measures if similarity like
+let's assume this is 0.8
+this is 0.6 this is 0.1 this is point
+zero six something like that so instead
+of storing this big matrix with 10 power
+16 float look at them and that's like
+crazy crazy what is 10 per let's let us
+understand this right what is this this
+is four thousand 4 into 10 power 3 into
+10 power 12 10 power 12 bytes is a
+terabyte okay you need four thousand
+terabytes or four thousand terabytes of
+RAM to store this in main memory I don't
+know of any system which has 4 thousand
+terabytes of main memory or Ram right we
+don't have that so instead of that what
+engineers do is they simplify the
+problem they say instead of storing all
+this information all I need here is for
+every video I just store information
+about the top 10 videos in some data
+structure like a hash table or or a
+database table whatever it is simple
+stuff this will simplify the problem so
+once you have this how do you production
+is this look at this for production
+ization you have to first reduce the
+data size I can reduce the data size
+here right suppose if I have 100 million
+10 power 8 movies okay now I have to
+store 10 numbers corresponding to it
+okay
+so 40 by
+right so what is this this is 4 into 10
+power 9 bytes what is 10 power and this
+is 4 GB RAM this is approximately 4 GB
+RAM many of you have 4 GB RAM so instead
+of instead of requiring 4 thousand
+terabytes of RAM now we are solving the
+problem by just using 4 GB of RAM that's
+it you can actually you can launch a
+system to solve this on your laptop now
+ok these are engineering and tax these
+are engineering hacks that engineers
+build up this is one way again if you
+have this data if you have for every
+video of the top 10 videos that are
+similar to this it's very simple if a
+user is watching video VI you can just
+go to this go to this big data that you
+have stored you can store this in a
+database table also if you want what is
+this simply database table right each
+row will correspond to a video each
+column will correspond to the top 10 top
+10 videos and their corresponding scores
+that's it you can you can put this in a
+standard database sorry in a standard
+database like like my sequel or Oracle
+and solve the problem so these are these
+are again when your production izing it
+when you are deploying for deploying
+there is a concept called api is so we
+have done we have done some live
+sessions on how to production eyes and
+deploy machine learning models that we
+have done like to our to our like to we
+have done two live sessions two to our
+live sessions so those who are
+interested can look up those things for
+more details but I just wanted to give
+you a hack on how actually things like
+these are implemented in practice right
+now one more concept before we before we
+leave is now how does this thing get
+connected to your 11th and 12th class
+mathematics again since we are short of
+time I just give you a very high-level
+overview what we have here is a matrix a
+look at this this is my this is my data
+matrix my a is my data matrix right now
+my similarity matrix can also be written
+as look at this I can just multiply a
+transpose with a we all remember a
+transpose right what is a transpose when
+you if you remember your 9th class 10th
+class 11th class mathematics what is a
+transpose change your rows into columns
+change your rows into columns make your
+columns into rows so a transpose every
+row will correspond to a video every
+column will correspond to a user so a
+transpose a matrix multiplication a
+transpose a matrix multiplication from
+your high school days probably from a
+10th 11th class days we were never
+taught why we need to do this Y
+transpose is required unfortunately okay
+some of us of course there are some good
+teachers who might have taught you that
+and huge respect for those people
+because that's what I would I would want
+students to learn right when when
+especially when you're younger if you
+learn it like that put your cue will hit
+your head you'll never forget concepts
+okay so now look at this so if when I
+multiply both of them what I get is
+actually the similarity matrix so your s
+that you have the similarity matrix that
+we that we'll be talking about till
+enough is nothing but a transpose ax if
+you think about from matrix algebra if
+you think about it from matrix algebra a
+transpose a is nothing but your
+similarity matrix your similarity matrix
+remember you're seeing for your
+similarity matrix you can compute
+eigenvalues and eigenvectors and again
+in the interest of time since again
+explaining eigen values eigen again lot
+of times we learned eigenvalues and
+eigenvectors from a theoretical
+viewpoint we learned a we learnt we
+learnt lambda v equals to a be right
+that's a formulation right a minus
+lambda i into v equals to 0 right so a v
+equals to lambda B so we know again some
+of you may remember this formula but why
+do we have this okay why how is this
+related how is this whole eigenvalue
+eigenvector related to recommending
+systems right again so it is related i
+will not be able to explain that in like
+10 minutes or even wanna it'll take me a
+lot of time to explain the intuition
+behind why we need eigenvalues why we
+need eigenvectors actually we have some
+free videos for those of our register
+students can access all of this content
+on our course videos so please go check
+out applied a course just log in with
+your google or facebook account there
+are a bunch of free videos in the
+chapter data visualization there is a
+chapter called data visualization in
+which we explain why we need eigenvalues
+and eigenvectors and what they actually
+mean so there is a concept called as
+principal component analysis where we
+explain this this is freely available
+it's also available on our youtube
+channel please go check out these
+concepts but broadly speaking
+based on the concepts of eigenvalues
+eigenvectors there is a concept called
+singular value decomposition and matrix
+factorization this was one of the
+state-of-the-art techniques till about
+20 2014 till about 2013 2014 singular
+value decomposition and especially
+matrix factorization based methods which
+are based on eigenvalue eigenvector
+concepts what the most popular
+state-of-the-art methods for recommender
+systems today in 2019 it is deep
+learning systems plus reinforcement
+learning of course there is some matrix
+factorization also being used but a
+combination of all of them is the
+cutting edge today that I know of which
+is used extensively in industry right so
+with that with that I'll take leave just
+a second ok just a second folks hey
+thank you all for joining in I'm sorry I
+ate eight minutes into your time but I
+just wanted to give you a glimpse of the
+whole objective here is to give you a
+glimpse of how simple mathematics can be
+and how applied things can be it's
+important to not just learn the formulae
+the concepts but it's important to
+connect them as somebody rightly pointed
+out in the early part of the discussion
+it's all to understand why we need a
+concept because if you know why a
+concept is needed you will not forget it
+now if you'll never forget Jaccard
+similarity in your life because you know
+why Jaccard similarity was invented in
+the first place to solve it because
+whenever you think of recommender
+systems and you think of popular videos
+see you have to connect the concepts to
+things that we see every day we always
+see popular trending videos right so
+whenever you think of you see a trending
+video on your youtube youtube life and
+whenever you think of recommender
+systems Jaccard similarity should strike
+your mind that's how you'll never forget
+a concept that's all I remember to be
+honest with you that's how I remember
+concepts I don't remember again it took
+me it took me a couple of seconds to
+write the eigenvalue formula right
+because I don't have number formulae I
+know how eigenvalues eigenvectors work
+in the geometry of things because I told
+you I learned from the first principles
+from geometry asking why do I need this
+concept for those of you who are
+learning machine learning we thought
+this session will put you on the right
+track help you learn
+learning from a first principles ass
+quite concept mucho cumin oregano indigo
+ask why okay
+hope you have great learning ahead of
+you and all the very best
+thank you folks thank you for joining on
+a Sunday morning sorry for eating ten
+more minutes you do your time bye-bye
+see you

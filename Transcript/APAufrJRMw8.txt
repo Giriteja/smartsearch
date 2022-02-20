@@ -1,0 +1,3766 @@
+I guess we our life let me just check
+the connection and get back to you just
+you also please confirm if everything is
+working as expected in the chat window
+let me also just check and be back in
+just a couple of minutes okay yeah I can
+hear myself I can also so I can also see
+my own screen so just please confirm if
+you're able to see the screen and hear
+my voice right so that's a good
+confirmation that things are working as
+expected so can you please confirm in
+the chat window if everything is cool
+everything is working as expected
+so that okay so let me mute this okay
+everything working fine
+cool cool that's good to know so let's
+wait for a couple of minutes for
+everyone to join in today's session is
+dimensionality reduction this is a
+slightly lengthy section because there's
+a lot of topics that I wanted to cover
+everything from how do you load data how
+do you use Google collab belong along
+with Google Drive how to perform pca at
+TSD
+a bunch of tasks all right so this is
+going to be slightly lengthy session as
+compared to previous sessions so we
+might overshoot by a few minutes so so
+everything is good everything is working
+fine no issues yeah you can see and here
+cool that's good that's good that's good
+to know I also have the chat window open
+so that I don't have to keep toggling
+between this screen and this screen I
+have a chat window on a different
+computer so that I can look at the chat
+window and answer a few questions so
+yeah any questions that you may have so
+somebody says can we use T Snee to
+reduce the dimensions and use it for
+fitting the data what do you mean by
+fitting the data again you have to be
+very precise in machine learning when
+you say something right Disney's biggest
+purpose is that it's used for
+visualization when you have a high
+dimensional data which is d dimensional
+what TCE does is you can easily project
+it to two or three dimensions it's
+mostly used for visualization of course
+this low dimensional representation if
+you want to build a model on top of it
+if you want to build a machine-learning
+classification model on top of it you
+can do it nothing stops you from doing
+that
+right so nothing stops you from that but
+the primary purpose it was designed was
+from a visualization standpoint and not
+for the task of reducing dimensions to
+build models on it that was not the
+primary purpose again if every
+dimensional reduction has to make
+trade-offs as you discussed in the
+course videos the trade-off that that
+TCE does is Disney makes is it tries to
+it tries to ensure that the locality or
+all neighborhoods right so given any
+point it tries to preserve the
+neighborhoods or all the points within a
+certain radius or within a certain
+distance from the given point it tries
+to preserve these neighborhoods right of
+course it could it could mess up global
+structure but it tries to as much as
+possible it tries to preserve the local
+structure that's why it called it's
+called neighborhood embedding again
+Disney stochastic we discussed that in
+the course videos anyway so that's the
+primary purpose cool do we use TCP CF
+for feature selection please tell me how
+would you do it
+so you have D dimensional space what
+does feature selection actually mean if
+you have D features feature selection
+basically means pick pick a few features
+pick D - features out of these D
+features
+such that D - is less than B that is the
+task of feature selection while on the
+other hand dimensionality reduction is
+given D given a deep D dimensional space
+or D features you're creating completely
+new features you're creating completely
+new features or new space altogether
+right so you're not doing feature
+selection you are not picking two
+features amongst these new features when
+you're doing dimensionality reduction
+when you're doing feature selection yes
+you're picking few sopes up suppose if
+you have a set of D features you're
+going to pick D - such that the D -
+features are a subset of D features in
+the case of dimension reduction you're
+creating completely new features so you
+can't use it for the specific task of
+feature selection as it is defined right
+good sounds good do we use PCA now when
+we have powerful auto-encoders like
+dimensionality yes
+good point so that's a good question so
+please don't think that a technique is
+useless if your data is simple why not
+use simple techniques right so for
+example we can construct auto-encoders
+again we'll discuss this in our course
+videos when we learn about auto-encoders
+autoencoders are basically a
+generalization of pca you I can
+construct simple auto-encoders then
+behave exactly like PCM right so you can
+think of autoencoders as a
+generalization of PCA
+but if your data set is very simple why
+not just use PCA why do you want to
+always use a complex algorithm again
+don't a lot of people have this
+fascination that we should always use
+the most complex algorithm that's
+available I think that is a misplaced
+ideology and a misplaced concept the
+whole of science basically says this is
+called the Occam's razor
+right so based on the philosophy in
+science that always use the simplest
+model to explain your data so if there
+are simpler techniques you should prefer
+them because computationally they're
+simpler computationally they're cheaper
+you can scale this to a large number of
+points while an autoencoder will be
+computationally expensive of course
+certainly more powerful right we'll do
+some live sessions on convolutional
+encoders in the later part of this
+series but don't all so your question is
+like okay when you have complex modules
+ready we need simpler models with
+simpler models have their own purpose if
+you look at most of science look at most
+of physics if you look at undergraduate
+level physics most models are fairly
+simple right your whole of Newtonian
+physics is very simple is very simple
+mathematical models but it is extremely
+powerful
+of course it has its limitations that's
+why you have other very interesting
+concepts like quantum mechanics and
+other areas right so at the end of the
+day if a simple model works don't just
+go for a complex model because it sounds
+good
+that's a very beginner mystic okay so
+somebody says PC only for visualization
+nothing to do with model again I just
+mentioned I just answered that question
+just a few minutes back you can rewatch
+that in the live session when you replay
+it okay
+chat is showing disable no I can I can
+chat I can
+see the chat I don't have it disabled
+probably there is some setting in your
+system maybe that you want to change
+right so it's not disabled it's working
+perfectly all right okay
+okay sounds good so Disney only facing
+only for visualization blah blah blah
+what is a sweetie solver in PC a good
+question
+again we'll discuss that when we learn
+PCA let's but let me quickly recap that
+so how do you compute how do you solve
+PCA PCA basically requires
+eigendecomposition right you need to
+basically break your matrix into or you
+need to basically obtain eigenvalues and
+eigenvectors right so that that's the
+basic idea
+now eigenvalues and eigenvectors now how
+do you obtain eigenvalues and
+eigenvectors there are a bunch of
+numerical algorithms remember we learnt
+numerical we learnt in a couple of
+sessions about numerical methods or
+numerical algorithms where we learned
+how to do integration how to do
+differentiation how to find the area
+under the curve
+these are simple numerical algorithms
+similarly numerical algorithms is a very
+large area it's also called as numerical
+methods and that is and there are a
+bunch of numerical algorithms to compute
+eigenvalues and eigenvectors
+there is a huge spectrum of algorithms
+some algorithms almost as recent as 2015
+so if you want to compute PCA if you
+want to do it fast there are there are
+there are at least 10 major techniques
+that you can use to compute them right
+so the SVD solver parameter in parameter
+that you are talking about basically
+what it gives is it lets you choose
+which algorithm you want to choose right
+so that's what it does okay do you want
+to use again the best algorithm that I
+know of is is basically a randomized SVD
+from 2015 again what is SVD that's
+something for a different discussion
+because we cover that when we learn
+matrix factorization in our course
+videos right so that's for a different
+discussion but SVD and PCA are very
+related to each other cool sounds good
+sounds good okay again just to be clear
+here we will not be able to cover every
+parameter that is
+function right because then we'll spend
+just two hours just going through one
+function anything that you do not know
+or anything that you do not understand
+you should read the reference and in
+most references
+you also get additional reading right so
+you have to do that there is no shortcut
+here it's impossible to cover every
+parameter of every function because most
+machine learning algorithms have tons of
+parameters like for example if I were to
+start explaining you how this 2015
+randomized SVD works I mean that's like
+that itself is like a four R's
+explanation on randomized algorithms how
+to compute SVD is it's fairly complex
+it's not trivial I learnt it during my
+master's degree days right it's fairly
+complex cool sounds good so so let's
+let's get into the session itself yeah
+somebody says why do we have only RGB
+images because most colors that humans
+see can be represented just using RGB
+that's why we use RGB colors okay sounds
+good so since we are short of time today
+and we have a very large session I'll be
+focusing a lot on covering the concepts
+today I match overshoot as I just
+mentioned a few minutes back we have a
+very lengthy session because there are
+lot of topics to cover right so let's go
+step by step please cooperate and let's
+dive in okay so today's session is
+called dimensionality reduction I'm
+assuming you guys know the prerequisites
+ok I've mentioned this in the
+announcement video also there are a
+bunch of free videos in three chapters
+in our course again it's it's I've
+listed all the chapter blames I've also
+listed which videos to watch from
+etcetera the agenda today is as follows
+right so the agenda today is we'll do
+code walkthroughs the focus in this
+series anyways called walkthrough so
+we'll stick to that focus number one
+most importantly lot of people ignore
+this how do you load actual data again
+you guys like the image data set that we
+saw yesterday so today also I picked up
+some image data set so I'll show you how
+to perform tease me and tease me and and
+PCA on an image data set on faces it's a
+fairly large non trip
+large data set so I'll show you how to
+actually process it pre process it how
+to load the data again I will be
+focusing a lot on Google column and
+Google Drive because some of you may not
+have the resources to run it on your own
+laptop so these are again Google collab
+the free version is very very good it
+has become stable over the last year or
+so it is phenomenally good so I'll teach
+you a few hacks around Google collab and
+Google Drive and also show you how to
+mount a Google Drive folder how to load
+data into Google collab from Google
+Drive all of those hacks I'll teach you
+in addition to that of course we'll do
+lot of data loading then we'll spend
+some time on PC at easly in this session
+I will be introducing scikit-learn this
+is the first time that we'll be using
+scikit-learn for a bunch of data
+pre-processing operations and we'll also
+be using it for PC at ease name don't
+panic
+any new library it's extremely simple to
+pick up if you have the basic
+foundational knowledge I'll also show
+you just in one code snippet how to use
+OpenCV to load images right so again we
+are just introducing the concept you are
+not diving deep into it the core
+philosophy at applied a course has
+always been that we always try to
+introduce concepts as and when necessary
+not teach you everything in one go that
+way you know where concepts are used
+today you have scikit-learn tomorrow you
+have a new library when you have new
+libraries you should evolve and start
+learning those stuff right so there is
+no there is no perfect library for any
+task it changes I have written programs
+before psych it existed I've replaced
+some cyclic code with non sacred code so
+all that happens over your career so
+don't get stuck on libraries as I
+mentioned earlier very importantly I
+will not be covered I'll not be covering
+any theoretical concepts I'll not be
+covering any other concepts apart from
+code walkthroughs here because we have
+covered that in the course videos again
+the course videos also have some code
+walkthroughs on simple data set which is
+if I if I if I recall correctly it is on
+M list data set right which is which is
+very simple data set today I thought
+I'll take a slightly more complex data
+set and walk you through that okay so I
+will not be covering the core theory
+itself again the key ingredients is you
+should know how to Google search to find
+out answer so what I've done in this
+life
+session is I've tried to simulate if I
+was a beginner imagine if I was a
+beginner how would I solve this problem
+that I'll use Google extensively I will
+read the references I'm assuming I have
+the decent basics of Python that we have
+covered in the previous sessions
+I'll experiment a lot some of them will
+fail some techniques will work lots of
+patience okay again learning programming
+or learning new libraries requires a lot
+of patience and experimentation again as
+usual I always sprint to the data types
+I check what is the input what is the
+output so that I'm not making simple
+data datatype mistakes or dimensionality
+mistakes in the umpire race and things
+like that right so first and foremost
+let's look at the data okay very simple
+data if you just go here if you just go
+here you'll see the data here which is
+okay so this is a fairly fairly
+decent-sized data set this data set is
+from University of Massachusetts Amherst
+and very good data set again if you look
+at the data set this data set has about
+13,000 so let me highlight this it has
+13,000 233 images of 5749 people and
+there are 1680 people with more than one
+image right so if you download this
+again I've provided the download link
+here I'll show you a lot of data
+pre-processing and data processing the
+very fundamental thing where people mess
+up okay where people do a lot of
+mistakes for multiple reasons again you
+can just go to this zip file if you just
+click on this it will download the whole
+thing I think it is compressed 200 plus
+GB as a 200 plus MB I'm sorry compressed
+so first thing that you have to do is
+download this data set unzip it again
+all this you're going to do it on your
+death on your computer on your personal
+computer right whether it's a laptop or
+a desktop okay I'll show you how to use
+a few things on your computer and then
+we'll move to Google collab and Google
+drag there are a few problems in just
+loading everything to Google collab let
+me tell you what are the problem step by
+step so first and foremost download the
+zip file it will take a it'll take a
+while it's not trivial unzip it all
+operating systems if you just right
+you can unzip it easily then one thing
+that you can do is you can upload this
+whole thing you can upload so if when
+you upload right you have how many look
+at this when when you when you unzip it
+you get 5749 folders okay so let me just
+show you what what it looks like when
+you unzip it okay so just a second so
+when you just unzip it this is how it
+looks right so there is one folder for
+every person some folders just have one
+image okay so this is this is the name
+of aaron eckhart I don't know who this
+guy is
+okay so there are there are there are so
+every folder contains images of that
+person okay there are some folders with
+more than I don't know who is this
+Abdullah banoffee okay there are I think
+most of these are celebrities or
+politicians or sports stars or whatever
+they are right so there are some models
+and some sports sports personalities etc
+also oh there are some celebrities there
+is Angelina Jolie I saw somewhere yeah
+so there are a bunch of people here so
+the way the data is structured is every
+folder contains the name of the
+celebrity or the person of importance
+and within that there are images this is
+how it looks now what I want to do is
+this okay so somebody says can we have
+the notebook as always I'll give it to
+you as soon as the live session is over
+don't worry about it you will get it
+just like all other sessions cool so
+just download it unzip it you get all
+these folders what you can do is you can
+just go to your Google Drive upload this
+whole folder you can just go to Google
+Drive upload this whole thing into your
+folder it will just create 3500 odd
+folders on your Google Drive okay that's
+one way so what I will do is this okay
+so what I wanted to do was I didn't want
+to download I didn't want to upload
+every folder okay I wanted to upload
+only some folders okay so I'm just doing
+some filtering here so what I add what I
+have done here is this I have taken this
+whole data set download it unzipped so
+if you are on any Linux or Mac or any of
+those computer
+you can just list the folders by just
+doing this okay let me just go here
+so CD sorry CD LF w funneled to okay so
+if you just do LS here in on Mac or
+Linux you can do this again you can do I
+think BA are in Windows if I'm not wrong
+you to show you all the folders that are
+there okay if you notice there are
+folders there also some text files we
+don't want to use these text files again
+they contain some information but not
+relevant to us today cool so okay so
+there are some folders like George W
+Bush that have more images than others
+and some of them just have few images
+again this is the data that I just
+showed you from the University of
+Massachusetts my page for this data set
+right so what I was thinking of is this
+instead of loading all the data instead
+of loading all the data what if I only
+retain those folders I only retain a few
+folders that have at least hundred
+images per person okay so there is our
+little one there are five thousand seven
+hundred forty nine people which means
+there are five thousand seven hundred
+forty nine folders I don't want to
+upload all the folders I've downloaded
+all of this to my computer I want to
+filter I want to apply a simple filter
+now through this filtering scheme what I
+want to do is I want to just retain
+those folders which contain at least
+hundred images per folder or per person
+everything below that I want to remove
+it okay then I want to only upload those
+filtered folders let's say you might get
+some X folders now right each folder
+corresponding to a person I want to only
+upload these X folders to make Google
+Drive otherwise it will just eat up
+space on my google drive okay makes a
+lot of logical sense right now I will
+tell you why I'm choosing this hundred
+all of that in a in a few minutes right
+so okay somebody says we can upload and
+zip and unzip in Google Drive yes you
+can do that but the reason I am using
+this methodology one of the comments
+says you can upload you can zip you can
+do all of that in Google column but the
+reason I am doing this is to ensure that
+your Google Drive doesn't run out of
+space and it's also easy and fast
+google collab to read data from your
+Google Drive anyway we are not going to
+use all of them
+so we might as well not just process
+them and sometimes processing on your
+computer just like unzipping and all
+that is quite fast okay so one thing
+that I do first is first thing that I'll
+do here is again do not run this cell on
+your computer do not run this cell on
+colab very very importantly this is the
+code that I'll run on my computer okay
+so this sorry this is my code on my
+computer okay so whatever is the code
+that I have sorry whatever I have this
+is a code that I have on my computer I
+have just copy pasted it right so you
+will have to run this on your computer
+of course change the path this is my
+path okay I have my downloaded folder
+again this is Linux or so this is this
+is a this is a Mac on which I work on
+that's why I'm giving Mac path folders
+and you all know what our is we have
+covered that in the in the previous life
+sessions it means raw string right so
+let's look at look at this code I will
+go step by step and I'll also simulate
+as if I'm a beginner okay first and
+foremost how do we solve this problem
+what is the problem that we want to
+solve look at this I want to only retain
+those folders which have at least
+hundred images everything which has less
+than hundred images I want to delete it
+everything that had more than hundred
+images I want to retain it now think
+about the logic first then we can
+translate it into code translating into
+code is the easy part
+what is the logic the logic is fairly
+simple first I want to go into this
+folder right first I want to go into
+this folder and I want to get all the
+subfolders in this folder first I want
+to get all the files all the subfolders
+first within a folder now if I don't
+know how to do it it's just a Google
+search away look at again this way I
+have even typed what Google search I
+have done just to make sure that you can
+replicate most of these okay what did i
+do I just said Google how do you do for
+each file in a directory in Python and I
+get this result I just took the code
+read the code understood the code and I
+said this is how you can get it so you
+can use the hydrators and you can say
+for subfolder in OS - dot list directory
+the OS dot list directory if I give a
+directory name okay this is my directory
+name right
+this this single line basically what it
+does is it goes through so it is first
+listing this directory it is listing all
+the contents of this directory which
+will give me files and also some
+directories right or subfolders it will
+give me all of that
+now this subfolder variable will take in
+this in this loop this subfolder will
+take one one file name a subdirectory
+file name which is there in this folder
+again I am trying to simulate as if you
+don't know how to do this just a google
+search away you google search you get
+this doc you get you get a nice tutorial
+go read it up look at what functions
+it's using look at this OS we've already
+used this module earlier there is a
+function called listed there which takes
+a directory path which takes a string
+which should be the directory path and
+it what it gives is it prints all the
+all the files and subdirectories in this
+right it's as simple as that okay now
+okay now once I got it so first step is
+I am trying to get all the files now
+once I got all the files again remember
+that in my folder there are some files
+and there are some folders there are
+some files also there are some files
+which we have just seen this a while ago
+right so if you notice look at this
+there are some txt files also there are
+some folders so I only want to process
+folders so now given each of these
+subfolders or each of these paths within
+a directory how do I check whether it's
+a directory or not again just Google
+search is directory or file in Python
+you get a nice example just use that
+again if you don't know again i've
+written this each line step by step so
+that even if you're a beginner who do
+not know how to do it it's just a google
+search away as i mentioned just a while
+ago you will have to google search and
+be patient okay you will have to google
+search you will have to read references
+i'm assuming you know the basics of
+python you will have to experiment and
+patience right so the many ways of doing
+it again this is not the only way of
+doing it this is just one of the ways of
+doing it the same thing you can do it
+using path libs there are many ways of
+doing the same thing I am just using
+something that is that that i got when i
+google-searched write so that you can
+replicate the same process okay
+so first and foremost I got this so what
+am i checking here
+so this basically says look at this I'm
+I'm adding my directory to some folder
+which is string addition which means it
+will do string concatenation once they
+do the string concatenation I'm checking
+is this a directory if it's a directory
+only then I will go into it or else I
+will not go into it right so in each
+folder look at this within this first I
+got the list of all the files and
+folders if it is a file I will not go
+into it if it is a folder then if it is
+a folder look at this this whole thing
+is inside this if it is a folder then
+what I'll do is this okay
+I'll check okay look at this then I if I
+want to know the number of files in a
+given folder again just a Google search
+away number of files in a Google folder
+got a Stack Overflow link I experimented
+tried it it just says os/2 dot list
+directory directory plus subfolder name
+the whole path you have to give the
+whole path what it returns is basically
+a data structure on which you can
+compute length which means you can get
+the number of files in that folder so
+you are in this in this you are in this
+folder there are a bunch of files and
+there are a bunch of subdirectories
+right you so you ignore the files using
+this line you went into the subdirectory
+now you said how many files are here if
+the number of files is less than 100
+okay I want to delete this directory if
+the number of files here is less than
+less than hundred I want to delete this
+whole directory
+I want to completely remove this
+directory okay so if L is less than 100
+again just google search delete
+directory in Python okay some functions
+let you delete only if the directory is
+empty some functions like this shuttle
+dot RM tree which it will let you delete
+even if there are it will delete
+everything it delete this folder it will
+date all the contents in the folder also
+else if it is not there if it is if it
+is not so I just strip I just retain it
+as is and I just printed the name of the
+folder cool look at what I am doing I am
+just doing a simple filtering operation
+here all this code ran on my laptop ok I
+ran this on my laptop very simple code
+nothing fancy here ok again so when you
+when you run this ok
+let me show you so I actually put it in
+my in my code editor I use sublime text
+because it's just very simple and I like
+that simplicity and when you execute it
+how do you execute it you simply go and
+say Python 3 right so you just go to you
+know how to execute I hope sorry so you
+just say a Python 3 sorry yeah you just
+say a Python 3 and I name this whole
+file as remove folders lfw ok so I'm
+just saying executed using Python 3 and
+this is the name of my python file the
+moment I run this all the folders which
+have less than 100 files got deleted now
+what am I left with if you let me just
+show you what I am left with ok so I am
+left with just this mini remember that I
+did not touch the files I just left the
+file sizes all the folders except these
+5 folders have less than 100 images in a
+folder only these folders had it so I'll
+just use this data ok again I'm just
+using this hundred images because I just
+want I don't want to just dump all of it
+into my Google Drive now look at the
+names these are mostly Tony Blair Colin
+Powell some of you may not know this
+these are people who are very powerful
+around the 2001 period right
+these are proj w bush was a president of
+us colin powell if I'm not wrong was the
+was the state was the what I call it
+it's called the Secretary of State Tony
+Blair was a prime minister of UK all of
+the powerful people Donald Rumsfeld was
+I think the defense secretary of the US
+and things like that right so I think
+this data set is slightly old but that's
+okay we just have faces right so if I
+just go in here let me go to Colin
+Powell okay so okay this is one image of
+Colin Powell this is an another image
+these are different images if you notice
+these are fairly differently pages taken
+at different times in different lighting
+conditions but most of them are face
+images all of them are actually face
+images only right so cool so this is
+good next okay so now I have these so
+what what am I left with
+okay I am left with these folders let me
+show you this I'm left with these text
+files and these folders now what I do is
+I just upload
+this whole thing when I upload it to
+Google it took me a few minutes okay so
+I uploaded a total of 1153 files that
+are there in this in the five folders to
+Google Drive I just uploaded it okay now
+of course you can say let me just delete
+all the text files and upload it that's
+up to you
+but I did not do that I just uploaded
+all the files that I have in the fold in
+the five folders and outside the five
+folders I just uploaded to Google Drive
+okay very common mistake and very common
+problem that people encounter especially
+when they are running Google Chrome as
+many of you know Google collab
+disconnects okay google collab has this
+problem of disconnecting if you are not
+active on the google page for long
+suppose if you want to train a la a
+large model or if you have to wait for
+let's say 1 R to get the results which
+is not very uncommon in machine learning
+right in the real world there are
+instances where I waited days to just
+get results ok even though we had like
+some of the best hardware that you can
+get so imagine what so what Google
+collab does is if you are not active on
+this page it is just disconnected if you
+don't want Google collab to disconnect
+you there is a very simple hack that is
+given in this that is given in this
+block again please do not misuse it if
+you are not utilizing your Google collab
+it is best to disconnect it
+don't hold okay please don't hold
+resources because Google collab Google I
+mean is providing all these resources
+free of cost so we should respect that
+and please don't please always
+disconnect after your job is done
+ok if you don't want to use it don't
+keep it blocking all the time because
+you are blocking someone else
+constructive work ok
+so only when you have some work which is
+running some important work that is
+running you can apply this methodology
+to avoid disconnecting again I do it
+very very selectively I do it when I
+have to train a large a large deep
+learning model which can take about 2 to
+3 hours
+right otherwise I do not I do not apply
+this all the time but if you want to do
+it it's very simple let me show you that
+but again we will disconnect at the end
+of this live session I don't want to
+just hold resources ok so this is a very
+nice
+Blagh and the solution is very simple
+okay you just have to copy so what it
+does is what what Google does internally
+is it keeps seeing if there is any
+activity here if there is no activity
+after a few minutes it will simply
+disconnect you okay again if somebody
+wants to disconnect you can just even
+just close it that's the simplest way to
+disconnect just close this tab it will
+get disconnected in a few minutes okay
+so if you do not want to disconnect
+because you're training some model or
+you're loading large amount of data and
+you want to go get a coffee or have
+breakfast or lunch whatever it is this
+is this is the way you do it you again
+I'm using a Chrome browser just so that
+everybody can see it
+so just right-click sorry so just
+right-click here there is this inspector
+right so just go to inspect so what we
+are doing enough in the inspector if you
+go here in the inspect there is there is
+ty inside there is console here right so
+in the console just take this snippet of
+code this is JavaScript code just paste
+it here it's very very simple just paste
+it here okay just paste it here what
+this code does is every few minutes it
+will automatically create some activity
+it will create a click event okay so
+that this whole thing does not get
+disconnected okay again please use this
+very very sparingly respect the free
+resources that Google gives us okay so I
+just executed it so it will keep
+clicking it will keep sending an
+activity after that just close it you're
+done right so as soon as your model is
+executed just this just close this
+window you're done okay please don't
+misuse it I cannot emphasize this
+because if more and more people start
+misusing it Google will just disable
+this whole feature okay use it very very
+sparingly okay cool so there many ways
+to terminate so this is one way to
+terminate right so you can manage
+sessions and you can set a minute just
+click on manage sessions it will give
+you a window and you can set terminate
+there all right so that's another way to
+terminate ok so again I've just ensured
+that even if my imagine if I was doing
+this for the five thousand folders it
+might take more time I might want to go
+get coffee or something so that it
+doesn't get disconnected ok very simple
+to follow steps what it's literally
+doing is it's written
+javascript code so that this browser
+window keep sending some evil to google
+collab so that it doesn't disconnect us
+cool now let's go to google collab again
+we are still in the data okay so now
+what I want to do is remember I have
+already uploaded this folder to my
+Google Drive okay I just showed you
+right I've uploaded this folder to my
+Google Drive this whole data I've
+uploaded to my Google Drive now I want
+to connect this data which is there in
+my Google Drive to this notebook okay
+how do I connect it so there is this
+concept called as mounting in Linux
+remember Google collab internally uses a
+Linux box
+okay Google collab to run all of your
+code internally runs on a Linux box like
+all major computational platforms or
+somebody says how to disconnect come on
+just close this window guys I don't want
+to close it now and disconnect the whole
+thing okay just okay let me show you if
+I can so if I say manage sessions it
+says this is the only active session if
+I just click terminate it will go okay
+it is just terminate I don't want to do
+it enough because then it will be hard
+for me to go through the live session
+okay first and foremost if I want to so
+what I want to do here is this this
+Google collab is running on some
+computer right so this google collab is
+running on some computer now your Google
+Drive data your G Drive data could be on
+a completely different computer so there
+is some data in your G Drive that you
+want to connect and access it from this
+computer on which your Google collab is
+running right so you do that by
+basically saying I want to mount this I
+want to be able to access this in some
+file path that's what it's called
+mounting in Linux okay it's very simple
+it's just literally two lines of code
+okay
+first and foremost say from google.com
+important Drive Google gives you all
+these resources there is a brilliant
+tutorial here you can follow okay
+dr dot mount so what it says now is so
+here is my Google Drive right where do I
+want to place it in my file system I
+have a file system on this computer
+right this is the computer again this is
+a server computer on which this google
+collab is running there is a file system
+associated with it in which file path
+should I place this content virtually
+actually technically speaking I don't
+want to go into the next internal stuff
+but where do I place it so I'm saying
+please place a
+content g-drive this is the folder in
+which I want my whole Google Drive to be
+accessible from again this is one folder
+so when you do this what happens is your
+whole Google Drive is accessible or in
+this path on your Linux computer on
+again this Linux computer is given to
+you free of cost by Google okay so then
+you have collab right so one major
+problem that that I see is this in your
+Google Drive imagine this is this is
+your Google Drive right imagine if you
+have thousands of files thousands of
+files in your Google Drive in the parent
+in the moment you go to Google Drive
+imagine there are thousands of files
+like this right then what happens is you
+get an error like this it says mount
+failed or it also says the timeout
+happen because Google is not able to or
+this box is not able to load this box
+this Linux computer which Google gave
+you free of cost is not able to connect
+to the whole Google Drive and mount it
+fast because there are thousands of
+files here so always organize your
+Google Drive that at the at the top
+level there are only few folders within
+these folders if you have other things
+it doesn't matter just ensure that at
+the top level of your Google Drive you
+don't have thousand files but you have a
+few folders from which you want to load
+okay otherwise you'll get this error
+this is a very common error okay so if
+you do not get this error again I
+maintain my Google Drive very cleanly so
+I just have the few folders that I care
+about and I keep deleting from a Google
+Drive whenever I don't need some data
+set ok so then as soon as you do this it
+says it gives you this instruction it
+says go to this URL in the browser you
+can click on this I'm not going to do it
+enough if you click on this it'll say
+log in with your Google credentials
+whatever is your Google ID please log in
+with it after you log in it will give
+you a code it will give you an
+alphanumeric code just copy that code
+and it will ask you to enter it here
+enter it here then it will mount
+everything it might take a few minutes
+alright very simple again what are we
+doing here we are connecting our Google
+Drive to our Google Notebook or to our
+collab notebook so that I can access it
+the moment you do this this is where
+things get interesting the moment you do
+this if you go into this again
+the sidebar that you have here is a
+table of contents all of that stuff
+right you can also go to this folder
+this basically says so if I go here look
+at this what is my this is my content
+folder in my content folder there is a
+there is a folder called G Drive this is
+my G Drive if I click on G Drive enough
+file move filled I am NOT trying to move
+okay so in G Drive there is a folder
+called my Drive this is where my whole
+Google Drive got added here this is my
+Google Drive okay within my Google Drive
+I only have one folder that I am working
+on right now every other folder I try to
+delete okay this is the folder and if
+you notice I can go into this folder
+this folder has these five folders with
+images the rest of them it has some text
+files that I do not want that I do not
+care about look at this this is the file
+structure this is the file structure on
+the Linux box on which your Google
+collab is executing cool very simple
+nothing fancy or so some of you are
+asking how do I get GPU resources again
+always use GPU resources sparingly okay
+so one thing that you can do here is
+this so you have editor okay call a pro
+is not available in India you have
+miscellaneous site where is that one
+second so it's it will be there here I
+think somewhere manage sessions it
+should be easy our run time yeah so you
+can go to run time you can manage
+sessions you can do again adding a TPU
+or GPU is perfectly easy again if you
+can just go to this notebooks it teaches
+you how to add GPU all of that stuff
+it's very very simple right so again we
+are not using a GPU today when you do
+deep plumbing you'll use the GPU on
+google collab also okay okay so oh yeah
+somebody says latest version of collab
+automatically mounts google drive yes it
+does that but I just wanted to show you
+the proper way to do it the first time
+again from next time it will
+automatically load this for me and all
+of that stuff but there might be people
+who don't know how to do it that's why
+I've covered this okay so somebody is
+asking about TP use GPUs again today we
+will not be discussing about it
+let's stay focused so that we can cover
+the rest of the session okay so next
+okay so on Google collab again remember
+that this whole collab is like a jupiter
+notebook of
+which is running on a Linux box let us
+not forget that right so there is there
+is a there is a Linux box somewhere on
+Google servers on which this google
+collab is running and this has a file
+system of its own and this is mostly a
+linux box so can i run linux commands
+here so one simple way to run Linux
+commands is put an exclamation and do it
+so in Linux PWD basically means present
+to working directory
+okay and LS basically means list the
+contents of this folder okay I'm just
+running a couple of very simple Linux
+commands here to see okay what is my
+current directory my current directory
+is content front slash content okay what
+are all the directories that are there
+in content G Drive my drive again in
+Linux space is not taken so wherever
+there is space you have to put front you
+have to put this back slash non front
+slash so this is all front slash again
+UNIX is slightly different from Windows
+so those of you are coming from Windows
+just get used to this again if you make
+mistake it will throw an error you'll
+quickly learn that right so in this
+folder which is called lfw funnel I have
+all these contents right now good enough
+now I'll not now I'll run everything on
+Google column only okay now let's see
+let's see how I run it okay step by step
+first what I want to do now is I want to
+list all the files and folders that I
+have okay so somebody says okay we are
+going slightly off-topic I'll avoid
+answering some of the questions in the
+chat window because I'll answer
+whichever is relevant to the current
+discussion somebody's asking about
+Amazon sage maker I that that's not
+relevant here you can use any you can
+run this whole thing on your laptop also
+you can use any of the cloud-based
+systems colab is free and that's why
+it's so easy for everyone to use
+somebody says what if I run out of RAM
+Google gives a lot of RAM look at this
+Google gives okay let me just highlight
+this okay
+so Google gives twelve point seven two
+GB of RAM ok this Google is giving if I
+just go here it tells me that I have
+twelve point seven two GB of RAM 100 GB
+of disk if you cannot run your program
+with 12 GB of RAM there is something
+wrong with your code okay even the GPU
+resources I think you get pretty good
+resources like I have again many of my
+teammates have trained resinates which
+are fairly complex convolution neural
+networks on on a google collab GPU the
+free version of it not the pro version
+pro version is not available in India
+it's available in the US for $10 a month
+ok so if you are if if you if you cannot
+work with 12 GB of RAM I think you have
+to improve your programming skills and
+your to optimize your code see ok
+connected due to inactivity reconnect ok
+that's ok that's ok we'll just reconnect
+that's not a problem ok after it crash
+it will give more ram anyway so again
+please don't 12 GB of RAM is more than
+sufficient for most tasks that I have
+seen
+ok if you are using more RAM than this
+there is something wrong there are ways
+to get more RAM there are hacks around
+it but I do not recommend it because it
+will just be misused ok you have to
+again remember if at a workplace you get
+like 12 13 GB of RAM box and you say I
+can't run code
+I mean imagine imagine you can't even
+productionize this code in the real
+world because we will give you 64 GB RAM
+right so please please be careful when
+you use RAM and use it sensibly that's
+all I'm suggesting ok cool
+so now let's do one thing okay so
+remember that my whole my whole data
+that I've uploaded is in content G Drive
+because I've I have mounted my whole
+Google Drive here my Google Drive is
+called my Drive within that there is a
+folder called and left W funneled ok I'm
+just I'm just creating a raw string with
+this now what I want to do is this okay
+so I'm just counting I'm just counting
+look at this code again this code is run
+on all column this code is not being run
+on my laptop or on my computer right so
+what am I doing here again the same code
+that we saw earlier for each sub folder
+this is the same code that we ran on our
+computer right it's the same code if you
+notice I explained this code right it is
+the same code I just modified it to go
+through everything that is there in the
+in the in my Google Drive right so what
+are we doing here
+for every folder in this directory again
+what is this directory this is the
+directory that the
+this is the directory in this directory
+go to every folder create this variable
+called P this P is nothing but directory
+plus subfolder now I'm checking whether
+it's a directory or not because as we
+have seen if you recall if you recall in
+this structure I've shown you gene drive
+my drive okay in this there are some
+folders and there are some text files
+also so we want to ignore the text files
+we only want to look at folders so what
+I mean what am I saying here again this
+is exactly the same code I want to go
+through each subfolder in this directory
+this directory is this I've shown you
+I've shown you this code right in the
+previous session I'm just reusing that
+okay if the path which I've constructed
+which is directory plus subfolder if it
+is a directory first print it so that I
+get all the names of directories now
+within each of these directories I want
+to list all the files okay this is my
+file so this pian of P is this whole
+thing plus the folder name that's what
+this P is because what what what is P
+directory plus subfolder this is my
+directory I am adding or concatenating
+the subfolder name and if that subfolder
+is a directory and not a text file or
+not a file then what do I want to do now
+I want to go within that subdirectory so
+within this okay this within this there
+are some sub directories there are some
+sub directories and there are some text
+files so first I am going through each
+of them I am ignoring all the text files
+here now within each sub directory I
+want to go to each file here any file
+that is dot jpg which means it's an
+image file any file that's a dot jpg how
+am i checking whether it's a dot jpg I'm
+just saying if the file name ends with
+jpg this is just a string function look
+at this now I'm looking at each file
+that is there in this subfolder now if
+if the file name ends with JPJ print it
+and count it so that we know how many
+images are there I'm just counting it
+again we'll keep reusing this same
+structure again and again so if you want
+to access the directory structure the
+sub directories if you want to go
+through each of them this is the
+standard snippet of code that you can
+use right so enough when I do this what
+do I get so it prints all the folders it
+builds you
+prints all the images that I have and at
+the end it says there are 1140 images
+cool so what do I have I have a total of
+1140 images across 5 folders right each
+folder corresponding to one person cool
+now in these 5 folders there are total
+of 1140 images right there in each
+folder there are a bunch of JPEG images
+now I want to lower the JPEG image first
+now what is the way to what is the what
+is the easiest way to load to load JPEG
+images so open CV is a very very big and
+extremely powerful library that I've
+used extensively again I was doing a
+startup a few years back and this is
+prior to Amazon and that startup we
+built everything in open CV in C C++
+code mostly C++ code right so I have
+long experience with the open CV almost
+well since it almost started okay so
+what what you can do here is you can
+open CV is one of the simplest libraries
+to read and process images it's a huge
+library ok we will revisit open CV
+wherever we need it in our course or
+wherever we need it in this code samples
+right because if I start going through
+each of the libraries it will not work
+so first we learn the theoretical
+concept and then connect it to code so
+what we want to do now is I want to read
+an image using open CV suppose if I
+don't know how to do it ok just simple
+read image in open CV Python you get
+this tutorial from open CV itself ok
+very simple just one line code so when I
+say import CV to again open CV code can
+be written in C++ or Python so when you
+google search for open CV clearly say
+whether you're looking for C++ code or
+whether you're looking for Python code
+okay so read image open CV Python open
+CV C++ will give you C++ documentation
+right again open CV is also implemented
+in C++
+at its core because C++ is super fast
+and then there is a Python layer that is
+created on top of it the Python
+implicitly uses and calls all the C++
+functionality because C++ is super duper
+fast okay I was my previous startup was
+about 3d reconstruction and things like
+that which is super heavy
+computationally okay sounds good so how
+do I load it again I've shown you again
+if you just google search for this if
+you read the documentation I'm inputting
+CV to CV - is a module name which has a
+function called I am read
+I am read is image read/write you just
+have to give the path again you can read
+the documentation here I have shown you
+how to read documentation multiple times
+enough so just read the documentation
+and this parameter is important okay so
+let me just show you that okay since we
+are anyway at it let me just show you
+that okay open CV Python I am read
+reference I don't want tutorials I want
+to read the reference itself
+documentation okay reference I want to
+read the function reference okay so
+where is it okay okay I am read I am
+read where is I am read okay I am read
+okay so I am decode sorry whereas I am
+read I am ready yeah
+so you have constant string again this
+is this is the C++ syntax because Const
+and all are C++ let's look at I forgot
+to type Python I type Python reference
+okay anyway I posted it here so I might
+just as well use this so just give me a
+second because I anyway have the link
+posted here okay so this is good so this
+is the I am read function instead of
+searching for it we have it handy so the
+I am read you can call it from C++ or
+Python the Python syntax is this I am
+read the file name that you want to read
+and a bunch of flags again you can read
+up about the flags
+again there's a lot of documentation
+here when the flag value equals to zero
+okay look at this when the flag value
+equals to zero it returns a grayscale
+image I do not want to process color
+images yet I want to keep my code simple
+we learn how to process color images
+little later not not today not in this
+session right so all I'm doing RAF is I
+am doing cv-22 imagery so there are
+other ways of doing it as somebody
+points in the in the in the comment
+section
+we can read the color image and convert
+it into grayscale that's one way but why
+do you want to do two operations I can
+just get away with one operation this
+way what it does is when it reads itself
+it reads it as a grayscale image okay so
+my image I am is a grayscale image we
+have discussed in yesterday's session an
+image is basically a matrix of pixels
+it's just a matrix of pixels and since
+its grayscale for every pixel there is a
+value between 0 to 255 simple very
+simple logic nothing fancy but I want to
+know what is the type what is the type
+of this I am again remember every time
+you should check what is the input
+parameter type what is output parameter
+type I want to know what is the data
+type here okay so the moment I I say
+okay load the image and type it tells me
+that it is nd array oh now I know NVRs I
+know numpy I know how to process nd
+address so it is not some new data
+structure the good thing with OpenCV is
+it works brilliantly well with numpy it
+works it works like it looks beautifully
+well with long time that's why I like it
+that's why it's also very simple to use
+cool so I type so I say what is the type
+of this I also get the shape of it I
+want to see what is the size of it what
+is the size of this image so this image
+is a 250 Cross 250 image 250 rows and
+250 columns now if you want to put into
+this image we have seen this in the
+previous session right so how do you
+print it it's very simple again you can
+use matplotlib you can just say mat plot
+just import mat plot clip matplotlib has
+this function called I am sure which
+means image show again we have discussed
+this in yesterday's session also the
+first thing is basically the image
+matrix that you want to show and Here I
+am saying that I want to show the
+grayscale image it's not a color image
+it's a grayscale image right and plot
+dot show we've seen the same snippet in
+in the previous session right so when we
+learned about basics of linear algebra
+same snippet of code nothing changes so
+the moment okay I see I see a grayscale
+image so things are looking good right
+so I've been successfully able to load
+one image without any hiccups again I've
+taken colin powell many of you may not
+know who colin powell is he was
+secretary of state during the during the
+iraq war during the Afghanistan war etc
+early 2000
+so this guy this is calling for well I
+know this okay you can Google search for
+it okay sounds good so this is cool
+everything is looking good now how do
+again remember my data so each image is
+and is a data point okay the way I want
+to pose my principal component analysis
+now let's go into the problem of posing
+the principal component analysis problem
+didn't love what we have done is
+basically data mangling okay we
+basically just did a little bit of data
+pre data filtering because we said I
+don't want to use all the folders so we
+filtered right and we understood the
+structure okay we didn't do much of
+pre-processing also yet okay
+all the code that we have seen till now
+is just simple directories files etc
+we've also learned how to load an image
+into a numpy matrix so what do I get
+enough now what I got is a 250 Cross 250
+matrix here is a 250 Cross 250 numpy
+matrix it's a grayscale so the values in
+each pixel range between 0 to 255 good
+this is what I have now the most
+important part this is where theory is
+critical if you don't understand the
+theory behind PCA you're just doing some
+black box stuff it is perfectly okay to
+use libraries as long as you know what
+is happening internally if you are a
+black if you just think in terms of
+black boxes you will never be able to
+understand things internally so the
+internal depth is very very important
+otherwise otherwise you don't know
+what's happening you're just going blind
+okay so our PC and the way we will pose
+it is this so we want each of these
+images we have 1140 images right so we
+want to construct a data matrix okay my
+data matrix will be like this I want to
+construct a data matrix such that each
+image is a row so the image as a row I
+want each image to be in one row because
+I want to treat each of these images as
+one data point each of these images I
+want to treat them as one data point
+right again in the course videos also we
+have done the same thing with ammunition
+data which is much simpler okay I'm
+taking a slightly more complex example
+so that it's easier for you to follow
+through
+okay so I have a 250 Cross 250 matrix I
+want to represent it as a row vector
+again all this is in um pipe this is
+also in numpy okay I want to take this
+250 cross 250 matrix and I want to
+represent it as one row now how do I do
+this I can just reshape right we have
+discussed this in the numpy sessions if
+you recall so I can just reshape this
+whole matrix and say this is 250 cross
+250 I want to represent it as 1 cross 25
+25 is 625 62,500 right so the number of
+columns so the number of columns or the
+dimensionality of data will be 62,500
+the number of data points that I will
+have the number of data points n that
+I'll have is 1140 this is my data matrix
+this is my big data matrix on which I
+want to do PCA and all of that stuff
+okay first let's construct this data
+matrix now step by step that's the
+important part again if you do not have
+the clarity of this all the code is
+useless okay that's why I asked you to
+already check out the check out the
+theory concept so that we don't have to
+repeat it so that's the idea right so
+first thing that I'll try to do is okay
+I'm saying D equals 260 2500 because I
+just know what is the shape of it now
+I'm trying to represent it like this my
+image vector is n P dot reshaped we've
+seen this functionality when we learnt
+about basics of numpy right I'm taking
+an image and I'm really shaping it into
+one cross 62,500 now when I print the
+shape of it again always check don't
+jump to conclusions
+i rehabbed it I just want to check if
+everything is all right which shape is
+one cross 62,500 so what did I do now we
+just created from a matrix of image we
+converted into one data point right cool
+so now we have done it only for one
+image now I want to do it for all the
+1140 images in my folders cool so let's
+do it so whatever whatever I have done
+here whatever I have done here I'm just
+putting it into a function okay
+wherein I give a file name because I
+repeatedly use this right so I'll give a
+file name it will return the image
+vector to me simple very simple course
+nothing fancy
+so whatever we have just seen I'm just
+putting it in a function called load
+image okay now let's build the whole
+data matrix okay with each row as an
+image right so somebody says what
+happens when the image has color that's
+a problem because when you have an image
+the nd array will look like this imagine
+if this is color image right so what do
+you get you get something called as a
+tensor you get to 50 rows to 50 columns
+and you get depth 3 you get depth 3 here
+for RGB again that that's an interesting
+part onto itself we'll learn how to
+process RGB images later on not not in
+today's session because that requires a
+good amount of time to be spent on how
+do we process it the tons of things
+related to it today I want to keep it
+simple that's why I'm just operating in
+the space of matrices when we learn
+about convolutional neural networks in
+deep learning we learn about RGB images
+all of that is on RGB image is actually
+a good chunk of it you can do condition
+your networks on greyscale also but it's
+very easy to do it on our GP again
+convolution that we learnt when we
+learnt linear algebra is the key idea
+here cool so let's let's come back so I
+want to create a data matrix okay I'm
+calling my data matrix as data it has
+I'm just creating an umpire array here I
+know n is 1140 D is 62,500 so I'm just
+creating a zeroes matrix now I also want
+to store additional data ok I'm storing
+this I'm creating a dictionary here the
+objective of this dictionary is this ok
+look at this every image every image at
+the end of the day every image will be
+one row here in addition to that I want
+to store some metadata or some
+additional data one metadata that I want
+to store here is I want to store
+imagine if this is the 8th row what does
+this I throw correspond to what image
+what is the file name so I want to store
+this I want to store a dictionary where
+I want to store the row index and the
+corresponding file name has keys and
+values so my key is the row index I want
+to store this so that given any row
+index I can actually load the file and
+see the file ok so my value in in my
+dictionary is going to be my
+I'll name the whole file name the full
+path length I want to store this
+metadata so that if somebody says okay
+we're on a throw if I want to see this
+image I know where it is right so
+without worrying about it
+that's one data that I want to store the
+other data that I want to store is
+called labels what I want to do is this
+so we have what five folders we have
+five folders each folder corresponding
+to one person so all the images so the
+way the way it's stored this is this
+suppose imagine I have 1140 look at this
+I have 1140 images right so I want to
+create a simple list I want to create a
+simple list from 0 to 11 39 such that
+whatever is the first again look at this
+whatever is the 0th row right whom does
+this belong to which person does this
+belong to that I can learn from my
+folder name right so what we'll do is
+for every folder I'll give a unique
+number for it because there are five
+folders I use 0 1 2 3 4 for every folder
+I'll use a unique number and I'll store
+if the item egde comes from second
+folder then I'll store that information
+in the labels again this is very useful
+later on I'll tell you why it is useful
+without this you will not be able to
+visualize the data right again somebody
+asks should all the images be same size
+let's ask the question right
+imagine if images are of different sizes
+okay then how would my data matrix look
+like okay suppose suppose let's assume
+image I has let's say some ten thousand
+let's just say you ten thousand pixels
+image J let's say Jim has only five
+thousand pixels and just say now what
+will you do for the rest of the five
+thousand pixels you fill the five
+thousand pixels here rest of the five
+thousand pixels what will you do here
+you can fil you can fil zero as n is
+whatever it is but that's not the best
+way okay try to keep your images all to
+be the same size again you can resize
+images if your images are of different
+sizes you can resize images using OpenCV
+very very easily again just a Google
+search away OpenCV resize images okay
+Python I should say Python and so yeah
+somebody always again I think more and
+more people are using this right so
+python examples
+OpenCV cv2 dot resize very simple code
+you can just use this function called
+resize it will simply resize the image
+for you it's as simple as that
+right so if you want to if it's always a
+good habit to keep your images to be
+roughly of the same size so that you
+don't have this problem of what to fill
+in here generally a good idea cool
+sounds good so now I have this so you
+understood the structure that I am
+trying to follow right so I'm storing
+all of this in a data matrix and I'm
+storing this additional information good
+so let's go one step down so I'm using
+this I equals to 0 I basically is
+whenever the reason I am using I and
+folder number is this look at this this
+is my data matrix right first I will
+fill 0 it through then I will fill first
+row then I'll fill second row so I throw
+at any time is the one that I am filling
+right initially when I start processing
+the folders my folder number is minus 0
+every time I encounter a new folder I
+will keep incrementing this folder
+number again this code is exactly same
+as previous time but we had just changed
+it slightly ok this is the same
+structure for every folder that is there
+in this I'm creating a part I'm checking
+if it is a folder if it is a folder I'm
+incrementing my folder number right now
+for every file in this subfolder naav if
+the file name ends with JPJ there are
+three things that I am doing first this
+data matrix this data matrix that I have
+the I throw whatever I get from load
+image we have seen this function just a
+while ago right so what am I doing here
+the I throw the I throw of this data
+matrix the I throw of this data matrix
+I'm filling the contents from the image
+because load image the file name
+actually gives me the row vector right
+number one next look at this here I'm
+storing in the dictionary I am saying I
+throw corresponds to so-and-so file name
+okay this is my dictionary right index
+file so this is my I throw corresponds
+to this file name and in my labels I'm
+adding the folder number saying that
+so-and-so at a tithe location in my
+labels list I have the item that is
+there in basically it comes from
+so-and-so folder number simple cool it's
+simple
+simple loop we've seen this look to two
+times already right this is the third
+time with this I've created my dataset
+very simple nothing very fancy cool so
+somebody says a minimum what size should
+we maintain the rule of thumb is this
+the smaller the image size the more loss
+of information smaller implies more loss
+so you can experiment with it just don't
+make it too small that you can't
+recognize what is there okay just keep
+it small enough so that your computer
+doesn't crash and I'm just kept in at
+252 if I do not change it for the for
+the rest of the processing cool again
+once I've created this I always print
+and see what is happening
+I always check what is my eye my eye
+should be 1140 because they're 11 for
+the images and this is my dictionary
+this is my list always print and check
+another thing that you have to always do
+is sanity checks always make sure that
+things are all right so a couple of
+sanity checks first let's look at this
+shape of data 1140 by 6 to 2 500 cool so
+it's working as expected
+now what I do is I take the tenth row I
+take the 10th row in data and I want to
+see what is the max min and mean value
+right because again because we placed
+the 8th image in the I throw the I throw
+basically is basically an image which
+means it's minimum and maximum value
+should be between 0 to 255 I just tested
+that ok so the max value is 255 min
+value is 0 I also printed the mean value
+just to see then it is not 0 or 255 cool
+next now I want to take this I throw and
+I want to reconstruct the image from
+this ok this is my I throw right so what
+I want to do now is this is 1 Cross
+62,500 now if I actually go back if I
+reshape into 252 got 250 and if I use I
+am show do I get a genuine image I just
+again this is like cross-checking this
+is like a thorough sanity check just to
+make sure so I take the tenth row look
+at this I'm taking the 10th row in my
+data
+I'm reshaping it to 250 250 storing it
+in temp and I am using matplotlib to
+show this image right so the moment I I
+see this image what do
+get I get some I don't know who this guy
+is okay cool but what is the file name
+here I also want to get the file name
+index file 10 what is the file name this
+is the file name okay this file name is
+Jared Schroeder zero zero six nine now I
+want to see this guy okay okay this is
+the image again on Mac I can do it very
+fast I can just type the file name and I
+will get it so this is the color image
+this is the this is the grayscale image
+so whenever you are writing this complex
+code where you are modifying lot of
+things always double check triple check
+because if you have constructed your
+data matrix incorrectly all the analysis
+you go goes into the dustbin so writing
+test code this is the sanity check and
+I'm doing thorough scientific here from
+the matrix from the matrix I have taken
+one row the tenth row and I've
+reconstructed the image so it and I want
+to ensure that the filename that I have
+in the index is also sensible right it's
+very very important that you do this
+sanity checks cool sounds good so the
+scientific is done now one major problem
+that you'll encounter you you have
+loaded all this data right now imagine
+your computer gets disconnected from
+Google co-op a very common problem okay
+let's say you Mughal yorker suppose your
+browser sorry your browser got
+disconnected
+you got disconnected from : so all the
+work you've done you've spent a lot of
+time creating this data matrix creating
+this index to file write also creating
+this labels list you you have done lot
+of processing to do this now if your
+collab dies enough all this effort is
+lost
+so how do we avoid losing this effort
+okay very very important especially when
+you have long-running jobs is to store
+this data somewhere on your google drive
+so python has this concept called as
+pickle files what is a pickle file again
+we discuss this in one of the in one of
+the case studies in our course those of
+you who don't know it's okay I just
+quickly explain this we discuss in lot
+more detail in our course videos in one
+of the life's a sorry in one other case
+studies so the idea here is very simple
+so imagine look at this what is data
+here if you think about it what is what
+are all these date what what is data
+data is a Python object think about it
+what is data here data is a Python
+object right of some class index file is
+also a Python object of some class
+labels is also Python object of some
+class whatever is there in memory
+corresponding to data can I store it in
+some file if I can store it in file as
+is whatever is there in this the binary
+representation of this whole thing if I
+can store it in file later on I can read
+this data from the file and load it back
+to a variable
+now if the moment I can store it to a
+file I can dump it to my Google Drive
+now even if my browser and collab dies I
+don't have to repeat all the hard work
+that I've done so a pickle file is
+basically a file that you can create so
+pickling in in Python it's a very core
+foundational concept in Python so what
+pickling does is pickling enables you to
+take any object in Python and store it
+to a file now whatever you have stored
+in a file you can also read it back
+that's the cook that's the cool idea
+right so what I do now is this okay so
+somebody says can we use hdf store there
+are many ways of doing it okay pickling
+is the most popular way okay somebody
+says is it is it mandatory to store
+metadata if metadata doesn't work I'll
+show you why what will happen somebody
+says why did why did we give folder
+number minus 1 you can give any number I
+gave folder number minus 1 because I'm
+incrementing it here look at this look
+at the code right so as soon as I find a
+new first folder the folder number
+becomes 0 because I want my folder
+numbers to be 0 1 2 3 4 all right you
+can give any number you can if you give
+0 your folder numbers will be 1 2 3 4
+right so the multiple ways of doing the
+same thing there is no one right way
+there multiple right ways okay so let's
+say let's say how do you use google
+pickle again if you don't know Google
+pickle just Google search read and write
+pickle files that's it you get a
+beautiful tutorial from Python no towage
+itself okay so first I create a file
+name I'm creating the file name in the
+directory that I care about
+the directory here is this directory
+sorry the directory here is my L
+f/w funnel directory right so I am
+saying I want to create a file name my
+file name is nothing but directory plus
+data dot tkl again you you need not give
+this extension but I prefer many people
+prefer this to show that this is a
+pickle file you don't have to give any
+extension it will still work right now
+if you want to write the data object to
+this file name it's very simple pickle
+dot dump again pickle is a module which
+has a function called dump you just dump
+this data object and you dump it by
+opening this file name with right
+references and this is a binary file W
+means write B means binary file that
+you're storing that's it it gets stored
+so I've already executed it so that's
+why if you notice if you notice here you
+see NATO dot PKL file because I already
+executed this code a while ago so I can
+store all this interesting in it so I
+can store my index file I can store my
+data file I can store my labels all of
+that all of the metadata I can store it
+if I choose to again you can read it
+back from here suppose if you want to
+read the index file for example I dump
+the index file now I'm reading the index
+file look at this snippet of code here
+this is my index file from pkl how do
+you load from pkl pickle dot load just
+it's so simple pickled upload just say
+you want to open this file name the file
+name here is directory plus index file
+dot pickle read and it's a binary file
+you read it now if you print index file
+pkl and index file they both look
+exactly the same
+you can verify that right so now if you
+want again if you want all of all of the
+changes that you have done to this
+folder remember very importantly all
+these changes that you have done are
+done on your linux box that google gave
+you remember as I told you earlier right
+this is the Linux box on which your
+collab is running this is the Linux box
+that Google collab is running and there
+is a file system in which you're storing
+now all the changes that you have done
+in the file system if you want to put it
+back to Google Drive again just because
+you store the pickle file where is it
+stored the pickle storage is the whole
+thing is getting stored in the file
+system of
+the Linux box where you're running right
+the bisque the bisque here is about 100
+GB right there is 100 GB disk here this
+is where all the data is getting stored
+now if you want to dump it to Google
+Drive and if you want to push all of
+this data to Google Drive
+you have to say drive not flush and
+unmount so there is no single flush that
+I know of so flush and unmount basically
+means whatever changes you have done
+here flush them back to Google Drive and
+unmount this will guarantee that all the
+changes that you have done to the local
+filesystem
+are written back to Google Drive right
+cool so again somebody says yeah so
+somebody asks about serialization
+deserialization
+yes pickle files implicitly those of you
+who know about this they do
+serialization and deserialization
+internally yes they do it internally for
+you without calling them again if you
+read how pickle files are internally
+implemented it is all done through
+serialization deserialization concepts
+yes that's right cool so not with that
+with that out of the way ok so we have a
+data we have the metadata all of that
+now I want to not build peace here now
+look at this I have again constructing
+the data is important this is my big
+data matrix what all do I have enough
+what all do I have I have this big data
+matrix I have this big data matrix with
+n rows and B columns right and I have
+index file name this is a dictionary
+which Maps given any I what is the it
+basically maps I to file name right I
+also have my labels which basically says
+the I throw which folder or which person
+does it belong to
+but the folder is represented as numbers
+this is the data that I have this too is
+metadata this is the core data that I
+have now let's start working with it now
+to solve PCA you can actually need not
+use scikit-learn
+you can actually write it using much
+more simple things for example in numpy
+right numpy you can compute again what
+is pc at its core you have to compute
+eigenvalues P in PCA you can compute
+eigenvalues using this numpy linear
+algebra eigen it will give you all the
+eigen values all the eigenvectors all of
+that it will do for you but
+there is a lot more code that you have
+to do because look at this once you get
+eigenvalues eigenvectors what there are
+a couple of things that you want to do
+right this is your data matrix right
+this is your data matrix now if you you
+want to compute your PCA using PCA what
+do you get you get basically top
+eigenvalues eigenvectors and then after
+that you want to transform this data
+this is data which is d dimensional
+right now you want to generate another
+data which is n cross d - right so let's
+say Jim this D - is 50 let's just say so
+this is sixty two thousand five hundred
+right so if this D - is fifty what do
+you have to do you have to take the top
+50 eigenvectors and do a bunch of
+transformations multiplication matrix
+multiplications so you can implement PCA
+using raw numpy right you can do it I
+mean you can take it as an exercise it's
+it's easy to do it's not rocket science
+but because there is other very good
+libraries again if the library was not
+good it is better for you to implement
+but or know on your own scikit-learn
+is one of the most popular one of the
+most simple libraries for many many
+machine learning systems again it is not
+the best always for example if you want
+to build a specific class of models
+called as boosting models right so there
+is something called as gradient boosted
+decision trees scikit-learn is not the
+best there is an other library called XD
+booster right which is one of the best
+libraries if you want to do deep
+learning some deep learning is
+implemented in scikit-learn but it's not
+the best library the best libraries are
+tensorflow carers or pi torch right so
+you should always pick and choose the
+library that works for you for some of
+the basic concepts like PCL or linear
+regression logistic regression etcetera
+scikit-learn is very very well
+implemented and the other best part here
+is it takes care of all of this I can do
+all of this I can I can just literally
+from this data matrix to this data
+matrix I can arrive in two or three
+lines of code but that does not mean
+that you use PCA functionality and
+scikit-learn as a black box please don't
+use it you should always understand
+what's happening under the surface you
+should have the skill to implement it on
+your own again we have seen we have see
+we have done multiple
+right on basics of Python or numpy site
+pi so anything that you have learned
+theoretically or that you have seen that
+you understand the internal mathematics
+you most of it most of it you can impede
+you can just easily implement using
+numpy or pandas it's just a bunch of
+matrix operations that's all that's all
+it is
+but since there is something already
+built let's use it let's learn to use it
+because it will make a life simplify and
+scikit-learn is fairly well implemented
+there are some things which are not well
+implemented but most of the things are
+well implemented again this session we
+will not cover whole of whole of
+scikit-learn in just one session so so a
+good question somebody asks if I could
+learn used in production yes I have
+personally production eyes psychic
+models I have actually published psychic
+models in production and these are like
+massive scale systems again scikit-learn
+doesn't scale very well like it cannot
+use imagine if I have two thousand node
+cluster scikit-learn doesn't work very
+well if you want to do distributed
+machine learning on let's say 100
+terabytes of data then you should
+certainly use SPARC ml lid which is
+another library which runs on SPARC
+compute platform but for fairly
+reasonable systems I have actually
+productionize scikit-learn in production
+and for some very very important stuff
+very very critical very very important
+stuff my team actually didn't I wrote
+the psychic scikit-learn code put it
+through any API all of that so it works
+ok so don't worry about it there are lot
+of companies which have put in
+production it works reasonably well
+again it has its own issues with skin
+and other things if your data fits in
+your RAM it works fairly well simple
+logic ok cool so again we will not be
+covering whole of scikit-learn in this
+session we'll go step by step and build
+slowly again to learn any new package
+today we have scikit-learn tomorrow
+there will be some other package don't
+get tied to one package the key
+ingredients are learnt to Google search
+read references basics of Python ologies
+critical experiment lots of patience I
+have learned some libraries which took
+me almost
+a month to become good at to be able to
+write good code because those libraries
+were in their infancy when I started
+using them okay so sometimes it takes a
+lot of patience to read through code
+okay
+and to understand what's happening check
+all inputs these are the basic rules
+these are the key ingredients again
+another thing why psychic became very
+very popular is because it has terrific
+user guides lots of example code
+beautiful documentation it's very good
+again you can read there tons of user
+guides for scikit-learn again lot of
+good libraries they're well implemented
+and they come with brilliant
+documentation this is all the
+documentation right so remember that
+every library has their unique way of
+performing a bunch of operations
+scikit-learn has its own unique way we
+will learn that and we'll get used to it
+as we see examples every library the way
+numpy does a bunch of operations it will
+be very different from how scikit-learn
+does right the way just just look at see
+one the way Seabourn does or the way
+matplotlib does a few operations is very
+different from how numpy does right so
+the way pandas does is different so
+every library has its own quirks and
+we'll have to learn that by reading
+examples by experimenting and things
+like that right if you want to learn for
+any technique just say a scalar PC you
+don't have to type whole sighted learn
+because SK learn is the module name that
+is used extensively for all for all
+classes functions that are therein in
+cyclotron right so if you want to read
+more in depth right if you want to read
+more in depth you can learn about cyclic
+learn classes with a bunch of examples
+here okay first and foremost we have a
+date enough let's take it okay is this
+data pre-processed in the sense that
+again the term normalized and
+standardized can be used in different
+ways okay for example if you go to
+Wikipedia I've copied here it from
+Wikipedia right I've literally copied it
+from Wikipedia what does Wikipedia say
+wikipedia says that okay again I've
+copied it from the Wikipedia article for
+principal component analysis it clearly
+says that okay PCA can be done blah blah
+blah using eigen decomposition and
+usually after the
+normalization step of the initial data
+the normalization of each attribute
+which means each feature consists of
+means entering and subtracting each data
+value etc etc in addition to that it
+also each variables variants making it
+equal to one so wikipedia defines
+normalization again what some people
+call normalization some libraries call
+that a standardization right so this is
+a very very misused and overused term so
+don't get caught up with it understand
+what it's doing what you have to do is
+if you read Wikipedia it simply says
+that you have to do mean centering and
+you have to ensure variant scaling such
+that each feature variance equals to one
+that's what it that's that's what it
+means now mean centering and variance
+scaling in cyclic learn is called
+standardization okay let me show you
+this so pre process where is this
+library sorry so I think I linked it
+somewhere just give me a second okay so
+anyway let me show you this subclasses
+user guide I can just show you here
+actually so SK learn reprocess okay so
+there's a very nice tutorial on pre
+processing data look at this what does
+scikit-learn call scikit-learn called
+standardization has mean removal and
+variance scaling the same thing
+Wikipedia calls it as normalization so
+don't get confused by this term
+understand what we have to do is mean
+removal and variance scaling simple
+right again it says how to do it the
+best part about scikit-learn is it gives
+you some simple code to do it right it's
+very good so all of the data
+pre-processing I'll show you some code
+I'll go back to this look at this all
+I've done here is if you are a beginner
+just read it it says okay from SK learn
+input pre-processing so there is a
+module called pre-processing in SK learn
+a scale on basically means scikit-learn
+then there is this numpy array and then
+it says pre-processing dot scale and it
+gives you scale that's it in one line of
+code instead of you again you can
+implement this standardization on your
+own right again it's important again
+it's not rocket science right all you
+have to do is given a data matrix like
+this the foundational concept is
+important given a data matrix like this
+go to every column find the
+mean subtract the mean from all the
+values and ensure that the variance
+equals to one wait just it's a very
+simple concept right you can do it you
+can go if you write numpy code you can
+go column by column and perform this
+operation but why why why should you
+write a code with for loop all of that
+when somebody already gives you this
+most likely very good implementation of
+it but if you do not understand how it
+is done because I've asked this I was
+this in many interviews people say okay
+pre process using scikit-learn so in
+some function I say okay cool in in lot
+of coding rounds I say okay can you just
+implement SK learns please implement SK
+learns standardized function this
+function a scale function not
+standardized scale function okay can you
+just implement it in numpy this is often
+again I ask this very simple stuff in
+coding rounds because if you know numpy
+again I tell him okay if you need some
+help you can always use a browser to get
+help and I keep watching him on the
+screen share or I sit next to him and
+see how he is writing code right I want
+him to understand how this works and I
+want him to be able to implement and
+numpy then I am confident that he
+understands numpy most importantly he
+understands the mathematics behind this
+the the operation that he is using black
+boxes do not help right again there are
+multiple ways of pre-processing okay
+there is also zero one scaling okay so
+there is this concept called zero one
+scaling or also called as minimax
+scaling we discussed in our course
+videos as min/max scaling this is
+another operation we can we in this
+context will be doing mean centering and
+variance killing cool so what do I have
+my data is data I just say I just looked
+at this I just looked at this five lines
+of snippet I understood what is
+happening if required I will go or read
+the documentation for this in this case
+I don't even need it I just get my data
+scaled cool once I have it I just want
+to make sure that the shape of it is
+sensible right I just want to make sure
+that shape is sensible yes the shape is
+sensible I also want to plot the
+standardized data to see how it is again
+standardization of data will change the
+image so what am i doing again I'm
+taking the tenth row from the scale
+and I am just plotting it using
+matplotlib this image is different from
+this image Road forget this image is the
+regular image right but after
+standardization the colors will change
+or after mean skin so instead of using
+the word standardization I'll just say
+mean scaling variants sorry means
+centering varial scaling okay that is
+more upper more like clear what I am is
+talking about the colors will change but
+that's okay we know that that's a
+transformation of data we know that for
+sure
+right so let's just do that okay so yeah
+so what I meant was mean centering I
+think I should be careful what I meant
+was mean centering variance scaling not
+mean scaling okay so let me be precise
+here mean centering variance scaling
+okay it's a mouthful but I doubt it here
+also that it's mean centering variance
+scaling cool now I have standardized my
+data or I have I've I've pre-processed
+my data okay so from my data
+I got data data skinned okay which is
+normalized with centering and scaling
+okay of course centering always is with
+mean scaling is always with variance in
+this context cool now how do i compute
+pca if i don't know how to compute pca
+it's just a Google search away again
+look at this SK learn PCA okay oh
+there's already a function called PCA
+okay so it's in scikit-learn be
+composition PCA now again as I told you
+scikit-learn has its own little little
+nuances right yeah okay let's go into it
+right so again what does it say try to
+understand as many parameters as
+possible if you do not understand the
+parameter somebody asked me a while ago
+right what is number of components so I
+want to compute PCA and I want to retain
+only these many components or these many
+icon vectors now what does copy equals
+to true mean again we have discussed
+this in the course videos I have
+discussed each functions all the key
+parameters if not all the parameters and
+discuss this in the course videos that's
+why I'm avoiding it here copy what does
+it do right and what does it do SVD
+solver I told you right there are lots
+of SVD solvers there is randomized SVD
+solvers
+that is talking to him what I think is
+also mentioned somewhere here where is
+this so they also publish a bunch of
+research papers that are relevant here
+where is this where is this
+I remember reading it so our pact
+randomized okay look at this so it says
+when it says randomized it uses the Hal
+Co adults paper this is a very very
+popular paper beautiful paper Hal Co SVD
+randomized alright so it's a superb
+paper if you notice this paper was
+written in 2010 it has over 2400
+citations it's a very very good paper
+again it's fairly complex mathematically
+it's not a trivial paper to read you
+have to have some background in
+randomized algorithms you have to have
+some knowledge of internals of how SVD
+itself works etcetera so I enjoyed
+reading this paper because I was a I was
+a student then or just be elated from
+college and my master's thesis was all
+on randomized algorithms for
+optimization problems this I really
+loved this paper I think this came in
+late 2010 yeah so in 20 2009 I graduated
+my master's thesis was how do you do
+randomized algorithms for optimization
+problems that you encounter in support
+vector machines so this paper I really
+loved and I enjoyed it of course it's
+not necessary that you should be able to
+understand every algorithm like there's
+so many algorithms that I don't
+understand because because nobody can be
+expert in everything I know the basics
+of most things but not in depth of
+everything okay
+so somebody says why are we doing
+pre-processing I think you should watch
+the course videos ok please okay we have
+committed in course videos it's also
+there in the comment section of lot of
+videos please go watch it ok sounds good
+as I mentioned we'll do more code
+walkthroughs it's a good question I
+really appreciate that question but you
+should check out the course videos and
+the top 5 comments under every video
+because we covered that we actually
+answer the exactly same question cool so
+okay so how does PCA work ok there are
+all these parameters all that the good
+thing here in scikit-learn is they write
+some simple code like this they take
+simple matrices like this is a simple
+matrix and they show you how to compute
+it now look at this so when I create so
+again
+you to learn scikit-learn the two great
+things first
+look at these simple examples I think
+every major function in scikit-learn has
+this documentation that's why I think it
+became extremely popular because it's
+easy for people to learn from and this
+documentation that they have for every
+parameter is also very very good and for
+every function they have multiple
+projects in which they have used this
+they've used PCA in all of these more
+detailed examples right so there is so
+much to learn from just this one page
+okay so first things that I learn by
+just looking at this look at this I say
+PCA something okay number of components
+equals to two who which means I'm trying
+to project it into a D - dimensions
+where D - equals to two now I have to
+call this function called fit because
+there is this function called fit so if
+I go to the documentation there are all
+these okay so here this is pcs
+constructor okay this is PC as
+constructive this constructor I give a
+bunch of values that I want right so
+these are the parameters of the
+constructor then there are a bunch of
+attributes of the PC a PC a object that
+I have right again read up about this
+then I have a bunch of functions or
+methods that this PC a object can call
+okay you have to read through this if
+you want thorough understanding try to
+understand at least most of this if not
+all of it understanding all of it is too
+ambitious but try to understand the
+basics as a beginner first okay could i
+zoom in a little bit okay okay I'll try
+to zoom in a little bit okay I hope this
+helps okay I zoomed in a bit thank you
+so now let's see let's see this code
+right so first I want to try imagine I
+am a beginner
+I'm just inputting so I've just looked
+at this code I mean this code is super
+simple to follow right this code is
+super simple all that they are doing
+here is they're importing a bunch of
+libraries they're created in NP or numpy
+array or an umpire and D array and
+they're they're initializing a pca
+object using PCA constructor and they're
+calling the fit function then they're
+able to print what is the explained
+variance or
+the singular values eigenvalues are able
+to print all of that cool very good
+so by just looking at that simple one
+example I can start writing code okay
+let's go step by step okay so I'm
+importing PCA I want my PCA and the
+number of components that I want is 50
+components which means I want to project
+the data from D dimensions to D dash
+dimensions where D dash equals 250 for
+that I need 50 eigen vectors I need 50
+eigen vectors for this right so the
+number of components basically means
+that okay so I also want to time things
+okay remember we have done we have seen
+this in one of the previous sessions you
+can just import time start time end time
+and you can print the time difference we
+have already seen this in the previous
+sessions right so what am i doing I'm
+saying okay my date see look at this as
+soon as I get this I want to understand
+what is this data type so if I print PCA
+what do i get if i print pca i get a PCA
+object with all these parameters okay
+then on this PC see what is this this is
+a pca class and this is a constructor
+and I'm returning a pca object lower
+case is the object upper case is the is
+the constructor now on this object I am
+running this fit function and I am
+passing the data scale and this whole
+thing when I ran it it took about seven
+point four seven seconds as a seven
+point four seven seconds yeah roughly
+about or seven yeah I think it's seven
+point four seven seconds it took a few
+seconds so how do we get D equals to 50
+you can't you get again this is a hyper
+this is called the hyper parameters of
+the model I'll tell you how to choose
+this hyper parameter in a few minutes
+again if you are asking this question
+most likely you have not watched the
+course course videos because we explain
+that based on variance explained I'll
+tell you right now I am just picking 50
+I don't know what is the right value
+I'll show you that step by step okay
+cool so next first thing that I want to
+understand here is these fifty
+dimensions how much is the variance
+explained we discuss about variance
+explained right in the course videos if
+you want I can open them I played a
+course we explain this there is a
+specific video just explaining this part
+so principal component analysis okay PCA
+for dimensionality reduction right so in
+this video we explain how to compute the
+how to compute how do you explain
+information or variance explained and we
+also have a ipython notebook where we
+walk you through code right it's the
+same thing here right again what I'm
+doing literally is what I explain
+mathematically and with some code
+example I am repeating the same thing
+here in collab that's it
+okay so when I printed a variance
+explained ok this basically says my
+first dimension right or my first
+eigenvector how much variance is
+explained again mathematically PCA is
+trying to explain the whole variance
+using a few dimensions which are nothing
+but your eigenvectors so let's do one
+thing so when I start printing them if I
+print my variance explained I get this
+my first feature explains 26% of the
+variance my second feature explains 5.6
+percent of the variance my third my
+feature I mean my third eigenvector
+explains 5.1 percent of the feature of
+the variance my fourth one explains 3.95
+so on so forth now the question here is
+okay I want to I want to use the data
+from D dimensions - D - dimensions such
+that there is minimal loss of
+information that's the idea right so
+let's plot this so what am i plotting
+here again very simple plot here all
+that I'm plotting here this is just
+simple matplotlib matplotlib I'm saying
+I want to plot this variances right I
+want the grid to be on I want my X label
+to be component my on my x axis I want
+the label to be component
+I want the grid to be present my y-axis
+is variance explain and show the plot so
+as soon as I run this I get this plot
+again some of this is not visible here I
+have component here I have variance
+explained I don't know why it's not
+fully visible here I also have the grid
+so first thing that you learn is that
+the first few features are the first few
+icon vectors explain most of the
+variance the top eigenvector explains
+over 25 percent of the variance the
+first the moment you come to the tenth
+eigenvector tenth eigenvector is roughly
+here right it's roughly about two
+percent after that it's all very very
+very very small so the data the data
+itself is 1140 cross 62,500 what does
+minimum of both of them it is this so
+you can project this data into 1140
+dimensions which means you will get 1140
+eigenvectors the top 10 i ghen vectors
+almost i mean look at this this is
+called the inflection point okay again
+we can find the inflection point more
+precisely but in general you can say I
+want to use those many dimensions such
+that 90% of my variance or 99% of my
+variance is explained right
+so again if you do not know this you
+should watch this video where we explain
+this in detail it's publicly available
+I'll avoid covering the same I'll avoid
+covering some of the theory concepts
+that I have already Requested you to
+watch cool sounds good so the next thing
+that I want to see is now somebody says
+it will be visible if you use light
+theme oh good good good good good
+okay I I do not like the light theme
+because it's too bright for my eyes good
+thank you thank you Petra thank you very
+much so the super deep sorry yeah I
+think it's just the dark mode and light
+mode I always use the dark mode anyway
+sounds good so now I want to do one
+other thing I want to say look at this
+this is my data right I am trying
+suppose if I use my D dash to be fifty
+again how do you pick the right D dash I
+just picked the number which is
+reasonable but ideally you should pick
+this D dash such that 99% of your
+variance some number some high number 99
+percent of your variance is explained by
+these 50 top eigen vectors right so that
+that's that's that's how you pick that's
+one of the heuristics to pick it I did
+not go through that because I explained
+that in the course videos anyway so I
+said okay let me just pick 50 which
+seems reasonable now what I want to see
+here is this I have 50 eigen vectors
+right so let's say eigen vector 1 2 3 so
+on so forth I have 50 eigen vectors now
+each of these 50 eigen vectors are also
+if you think about it these eigen
+vectors are in the same space in which
+the images of their images are in the
+sixty five thousand five hundred
+dimensional space this is the space in
+which my images are these are vectors
+the eigen vectors are also vectors in
+these dimensions in this extremely high
+dimensional space now if I want to
+visualize this vectors
+again this is also a vector right this
+is basically one cross 62,500 I can
+always reshape it and say 250 cross 250
+and I can visualize it when you
+visualize it
+they're called as eigenfaces actually so
+this visualization is called as
+eigenfaces because this is basically
+visualizing faces in the using
+eigenvectors so eigenfaces was one of
+the first or one of the earliest
+techniques that was used for face
+detection and recognition this was one
+of the oldest I mean I think I don't
+remember exactly when this paper was
+published it is one of the oldest ways
+in which face recognition is done so
+somebody's turned about elbow rule yes I
+can determine D - two ways I can either
+find the inflection point using the
+elbow method or I can say okay I want to
+conserve or preserve 99% of variants you
+can apply any of these two methods it's
+better to apply this than the elbow
+method in this context cool so this
+whole concept there is there is a whole
+concept called eigenfaces which is one
+of the first algorithms that was used
+for face recognition it never worked as
+well to be honest with you okay I'll
+tell you how it works in a in a minute
+so what I want to do is this so if I say
+PC a dot components dot shape remember
+the PCA object that I just showed you
+right so a scale on PCs the PCA thing
+that I showed you the PCA object has
+something called as look at the
+attributes it has an attribute called
+components these components are nothing
+but the principal axis in the feature
+space representing the directions of
+maximum variance which is nothing but
+your eigenvectors that's what it is
+right so I mean this is just the
+explanation of eigenvectors
+though our problem of PCA right so these
+so PCA dot components dot shape I want
+to see what is the shape of them so I
+realized that because we try to get 50
+components I get a matrix which is 50
+cross 62,500 as I just told you right
+every vector here is a vector of six
+2500 and I have 50 such vectors and that
+whole thing whole whole of the whole of
+this is actually stored in a data matrix
+and the data matrix I can get using
+siarad components look at how simple
+scikit-learn makes a life okay but don't
+get fooled by simplicity if you do not
+know the internals of it works all this
+simplicity is useless okay next okay now
+what do I want to do I want to see all
+these images how do I see these images
+it's very simple okay so PCA dot
+components dot shape gives me 50 cross
+62,500 so I'll just write a for loop and
+I'll keep I am showing all the images
+look at how I do it for I in range PCA
+components shape zero shape zero
+basically means 50 because there are
+there are 50 images okay I think I did
+not do any operation so let me just
+reconnect it okay so okay so there is a
+shape object here and so I'm just going
+from I equals to 0 to 49 because there
+are there are 50 components here if you
+want to plot multiple images one below
+the other
+in matplotlib there is this very simple
+mechanism okay just say figure equals to
+plot dot figure and use this I this will
+create the ight figure for you now if
+you can say look at look at what I am
+doing here I am taking the I to vector
+right ight component here I'm taking the
+ith eigen vector reshaping it into 250
+250 and I'm calling it I am after I do
+that I am just plotting it using I am
+show color scale gray and I'm just
+putting a title to each image saying the
+title is I transform to a string that's
+it very simple just this small snippet
+of code
+I'm just iterating through each of the
+eigen vectors and I'm showing them the
+moment you show them there's a very
+interesting observation here let me go
+one by one look at the zero at one okay
+this is what is explaining almost twenty
+percent of the information in my images
+this is explaining almost I think 25 26
+27 percent roughly 27 percent of the
+information in my images what does this
+look like this looks like a typical
+human head look at this
+typical shoulders typical human head
+there are some features of II's maybe a
+little bit of nose and mouth so because
+all of our images our faces right all of
+our images our faces it says I
+can represent most of the information by
+using a by using an example image of a
+face which looks like this so I mean
+such of such a brilliant idea
+the moment you say this if you show even
+a three-year-old kid what is this he
+says it's a person right so your PCA
+in this huge complex 62,500 dimensional
+space is able to figure out that all
+these are you general faces that's the
+first that's a that's the first look at
+the next where are all the highlights
+the highlights are near the eyes the
+highlights are near the mouth right and
+everything outside this so the second
+eigenvector is trying to say that there
+there is some ice here there is a mouth
+it's trying to capture that information
+the third eigenvector now it's trying to
+capture something around the shape of
+the face and the hair structure the
+fourth one is trying again look at this
+it trying to capture hair on the left
+side this is trying to capture hair on
+the right scent again this is trying to
+capture the light that is falling here
+if you go a little down right look at
+this if you go a little down you'll get
+all sorts of again they look like ghosts
+we just don't want it this is this is
+looking as if there is a forehead to
+everyone okay so this basically says
+that there is a forehead and there are
+some dark patches below that okay so
+they look like ghosts but in an essay oh
+this looks like actually oh wow this
+looks again the moment I see this this
+looks like George W Bush right this
+looks like George W Bush I think there
+are lots of images of George W Bush that
+so it looks like George W Bush because
+there's so many images that this is a
+standard template again the word that is
+often used is that this is a template
+image now now the interesting part is
+this given my data look at this given my
+data which is in 62,500 dimensions using
+this simple PCA concept I've projected
+into 50 dimensions these 50 again these
+dimensions are different suppose if
+these are my dimensions the dimensions I
+have here are different these 50
+dimensions are not a subset of this 60
+mm final dimensions but if I create a
+new space okay let's assume this is
+space one this is a completely different
+space of 50 dimensions
+but I can represent each face we're in
+each dimension represents some aspects
+of face okay each of these dimensions
+represent some aspect of face and now I
+can represent any face using just a 50
+dimensional vector instead of
+representing it using a sixty two
+thousand five hundred dimensional vector
+right so this is what you get right so
+again this concept I think they use it
+even in early 90s I don't remember when
+the eigenfaces paper was written but it
+is one of the oldest papers that was
+built for a face recognition now I want
+to understand one thing
+okay all this is cool now I want to see
+so this is my original data right this
+is my original data original scaled data
+now this original scale data if I
+multiply again what is my original scale
+data it is n cross D let us not forget
+that right this is n cross D this is my
+original scaled data let me call it D s
+now if I multiply this D s with my eigen
+vector with with a matrix that I come
+struck using my eigen vectors such that
+this is B cross D - look at this if this
+matrix is d cross d - when i multiply
+both of them what do I get I get an
+output matrix let's call this output
+matrix as Y let's call this output
+matrix as n cross D - now here what is
+this this is B cross D - which means
+there are DeRose here look at this what
+is the dimensional each each of these
+eigen vectors that I have here each of
+these eigen vectors the 50 eigen back of
+these eigenvectors is 62,500 right each
+of these eigen vectors is 1 cross D and
+I have D - eigen vectors right so now
+what if what if I do this ok so I have D
+rows right and D - columns in each
+column if I place the height if I place
+the item Ector
+look at this in each column in this
+matrix in this matrix each column I am
+placing the height the vector or I I can
+vector the moment I do that what do I
+get this matrix the number of rows will
+be D the number of columns will be D -
+because there are D - eigen vectors or
+components that we're using so I can
+project the data from the
+is dimensional space 2d - dimensional
+space using the simple multiplication so
+I can actually implement this using this
+multiplication but we don't have to even
+do that because scikit-learn does that
+for us I can just say I have already
+trained my I've already built my PCA I
+have already flipped my PC a model now I
+am just saying PCA dot transform so
+given this data what it's literally
+doing internally is given this data it
+is simply multiplying with this matrix
+and returning this that's all it is
+doing okay but instead of us doing it
+and making mistakes in the process we
+can just call the transform function now
+the transform function is 1140 points
+one corresponding to each image and each
+image represented using 50 dimensions
+but the problem here is this can I
+visualize 50 dimensional space can I
+visualize a 50 dimensional space I can't
+okay I can only visualize 2 or 3
+dimensional space 2 or dimensions is
+better as we discussed in the course
+videos right so let me retrain so I'll
+try to get a two dimensional embedding
+and I want to visualize this it's very
+simple so PCA so I already have this PC
+a variable rate remember I already have
+this PC a variable which which is which
+is an object of class PC I am just
+changing its number of components to 2
+right because I want to get a 2
+dimensional representation so that I can
+plot it with one axis on this one
+dimension here other dimension here I
+want to see it as a 2d plot how do I do
+it it's very simple I change the number
+of components to 2 now there is an other
+function if you go through the
+documentation of scikit-learn there is a
+function called fit to transform what it
+does is it first fits it first compute
+the eigenvalues eigenvectors using the
+fit function and then it transforms this
+matrix and gives you this Y so it first
+compute the eigenvectors and does all of
+this in one in one function right now
+what do I get
+I have taken my data scale I fit the PCA
+with number of components equals to 2
+and have transformed it so now my data -
+if you look at the shape of data - 1140
+points each point corresponding to one
+image and to thing and to two features
+or two dimensions for every data point
+now I want to visually
+is this okay one thing there's a very
+common mistake that we have seen people
+do in assignments people just say okay
+matplotlib
+I just want to do a scatter plot because
+anyway what is my data matrix look like
+my data to my data tool looks like this
+right my data tool looks like this I
+have any images one row corresponding to
+each image and I have two columns so let
+me plot this as x-axis plot this as a vy
+axis again matplotlib has a scatter plot
+function where this has to be the x axis
+this has to be the y axis if you don't
+know this I've just given you the
+function reference you can just check it
+out but the moment I show this I get up
+just a blob of points like this I can't
+make head and tail of this I just can't
+make sense of what's happening what is
+the right thing to do the right thing to
+do is I want to color each of these
+points I want to color each of these
+points such that all the points
+belonging to the same person belonging
+to the same person or the same folder
+should get the same color now look at
+this this is where this is where the
+metadata is useful look at my data my
+data to looks like this right my data to
+has n rows and it has two columns when I
+plot this data this I'll use as x-axis
+this I uses y-axis okay now for any
+it--the row here for any I throw here I
+have my labels I have my labels list
+that we created as metadata very early
+on if you recall I mentioned this here
+right we created the labels here right
+now what I'll do is this I'll say labels
+I will contain the folder number to
+which this belongs to right so what I'll
+do here is I'll color each of them I'll
+color each of these points because I
+want to color all the points belonging
+to the same person or folder with the
+same color and that information is there
+in my labels list that's why I have
+created this metadata
+okay that's important so again somebody
+is asking questions which are irrelevant
+to this discussion hence I will not be
+able to answer it okay because I also
+want to cover this again I might
+overshoot this discussion by about 15-20
+minutes if you guys are okay I want to
+continue so that we can finish this
+whole discussion and not have to
+postpone it for tomorrow okay so okay
+sounds good so let's get into it so I've
+written this simple function called plot
+embedding again I have taken a plotting
+function that is there in scikit-learn
+and I've modified this code this code is
+very simple look at look at it
+this plot embedding the way I want to do
+it is this given some data matrix X look
+at this this data matrix X is nothing
+but this data matrix X is nothing but my
+data matrix Y is nothing but my labels
+okay I want to get both of them and
+whatever title I want to give to this
+plot I want to get it here first what I
+want to do here is all the points in X
+look at this all these points because I
+want to plot it look at this I want to
+translate this into a plot right so look
+at this I want to translate this into a
+plot
+I want the plot not to have too much x
+axis too much y axis i want the x axis
+to be between 0 and 1 and y axis to be
+between 0 and 1 okay just so that it's
+contained because if some x value is
+very large my plot will keep going to
+the right or if what some Y value is big
+it will keep going to the top I want to
+contain that so what am I doing here
+I'm just doing some simple min/max
+scaling again this is something that we
+have discussed in the course videos
+right I'm just doing simple min/max
+scaling okay so that my plot when I plot
+this so that all these points are in the
+range of 0 to 1 all these points are in
+the range of 0 to 1 so it's easy for me
+to plot next what am i plotting I'm just
+saying plot dot figure next in the
+figure look at look at look at the plot
+that I get by the end of it this is the
+plot that I want to get by the end of it
+for every data point look at this for
+every data point I for every data point
+I I want this to be the x-axis I want
+this to be the y-axis at this point if
+labels I equals to let's say 3 I want to
+show this text 3 at this coordinates
+that's what I want to do so there it's
+easy to visualize right so how do we do
+it
+the matplotlib can also show texts say
+texts where do I want to show this text
+at this coordinate because it's eighth
+point look at this what am i doing I am
+iterating through each of the points I
+want to show the eighth point right this
+is x axis this is the y
+sis what do I want to show I want to
+show why I why again remember X is
+nothing but your data your data to D
+your Y is nothing but your labels right
+so whatever label is there I want to
+come I want to I want to represent it
+using a string and I want to color in
+such a way that the color is also based
+on Y so all the points which have the
+same Y I which which belong to the same
+person get the same color very simple
+this just a simple for loop for plotting
+next if title is not none plot that I
+mean just add the title otherwise just
+leave it now I'm just calling this
+function okay this this function is
+called plot embedding I'm just calling
+this function and I'm saying plot
+embedding x equals two data to y equals
+to label and I want the title to be PC a
+2d embedding now when I do this again 2d
+data is easy to see right or this is the
+embedding that I get okay
+okay this is a mess okay look at this
+what do I want ideally what should it
+look like all the points which are zero
+should have grouped together like this
+ideally ideally I mean the real world is
+never ideal all the ones which are one
+should have grouped together like this
+all the ones that are two should have
+grouped together like this but that's
+not how this works okay this is a mess
+there is some pattern here that threes
+are all here but somewhere here
+everything is a mess I can't make a dent
+a love this okay so PCA for this task
+four phases if you go from the D
+dimensional space to the two-dimensional
+space and if you visualize it the
+visualization is useless right but what
+people do is people go from D
+dimensional space - D - dimensional
+space and they build models on it they
+build machine learning models on it like
+support vector machines logistic
+regression etc if you don't know these
+don't worry but I'm just trying to
+connect the dots now you might wonder
+the first question it's a very popular
+question that I use to ask people which
+is why why don't you just be the model
+on the dimensional space itself right
+why don't you build let's say you mind
+building logistic regression
+why should I build my logistic
+regression model in the D - dimensional
+space why can't I just build in the D
+dimensional space itself
+right so a lot of people say given a
+data I will first do PCA and then I will
+build a model on it not that's not
+always the best strategy again if the
+modeling method that you are using does
+not work in high dimensions because this
+is typically very high dimensions this
+is typically small right typically
+50-100 some small number like this so if
+the modeling algorithm that you are
+using works well in high dimensions
+nothing stops you from building a model
+in the dimensional space but if the
+modeling algorithm for example imagine
+if you are using some form of trees like
+decision trees they work very well when
+the dimensionality is small in such a
+case it makes complete sense to do PCA
+and then use some tree based algorithm
+but if the algorithm that you have let's
+assume you are using logistic regression
+that can work fairly well in high
+dimensional spaces in such a case there
+is no point in doing PCA and then
+applying the model right I hope again
+this is something that we discuss in our
+in our case studies when we actually
+encounter problems like this cool so
+again those of you who want to see it
+again here is a nice example you can go
+here those of you who already know other
+machine learning techniques here is a
+nice example where again the code is
+also fairly readable given that you have
+some basics what they do is this what
+they do in this code is this they first
+take the same image data D dimensions I
+think they they they projected I take 50
+dimensions right which is D - and then
+they train an SVM on it and they show
+the results here again we can never
+guess whether the results here will be
+better or results will be here and
+better okay sometimes results here can
+be terrific so it's always a good idea
+by not if your algorithm you know
+performs well on lower dimensional data
+just try it okay so this whole process
+is shown in this example which I've
+listed here so those of you are
+interested who know already other
+machine learning algorithms can go
+through this if you don't know don't
+worry we will revisit this concept over
+and over later on all right so okay
+somebody says we could get we could over
+fit okay that's a good point actually so
+let me go here where is that where is
+that okay where is this okay where did I
+draw this okay so I think I drew it here
+okay so one very important point that
+somebody brought up is
+if you have too many dimensions once we
+over fit the model no if you use your
+regularization smartly the whole purpose
+of regularization is not to over fit you
+can use a strong regularizer like l1
+regularizer to ensure that you are not
+overfitting just give the regularization
+coefficient a larger value right so if
+you are careful with your model you can
+avoid overfitting to some extent it's a
+good point right cool again I'm not
+saying you should always model on D or
+you should always model on D - there are
+instances where modeling just on D
+dimensions is a good idea there are
+instances where modeling on D - is a
+good idea right I can argue on both on
+both sides in the real world
+my suggestion is this try to model in D
+dimensions try to also model in D -
+dimensions see which of them works best
+because instead of being opinionated
+let's look at the reality given our data
+set where does it work better and that
+is the absolute truth right so that's
+important cool so since we have
+discussed this I know we are close to
+8:00 p.m. but I thought we can cover T's
+knee also because we have explained lot
+of details about TC in the course videos
+again we will revisit the T sneeze
+optimization problem so Disney has an
+optimization problem that we have not
+discussed in the course videos in the
+Disney chapter because we thought we'll
+cover it at a later point of time when
+we after we learn optimization
+algorithms right so I'm not going into
+the I in the course videos in the piece
+new chapter we have given the intuitive
+understanding of T's knee without going
+too deep into the optimization part
+because it is complex
+we'll do a session just on the
+optimization part of Pisa knee at a
+later point of time cool now imagine T
+sneeze another technique we have
+discussed in the course videos how to
+use it right 6 - 2 K dimensions not too
+high you can train so somebody says
+isn't 62 K dimensions too high for
+logistic regression no you can train if
+you are careful with a logistic
+regression you can train even with 62 K
+dimensions and you can do it don't worry
+about it
+you can do if you are very careful with
+your regularization again without
+regularization you will mess up the
+whole thing ok again we'll discuss this
+when we arrive it to a district or
+aggression I'll show you examples where
+even with hundreds of thousands of
+features you can train logistic
+if you're careful with it okay in the
+interest of everybody who may not and
+everybody may not know just take
+regression so let's continue here cool
+so let's go to TC enough okay now again
+we have discussed how TC works how TC
+works in various cases we've also
+discussed about nice blogs and we've
+explained some of the concept using
+those blogs etcetera the beauty of
+scikit-learn is this you can go from PCA
+model to TC model in literally one line
+of code it's one line of code change
+literally one line of code change but I
+also want to show another thing see in
+this example in the example just above
+what have you done we have taken the lfw
+data set right the the people data set
+and we manually processed it ourselves
+and I've shown you step by step how to
+process it manually how to convert the
+image to numpy matrix I've done it so
+that you understand how to process
+images how to do it manually but what
+not but what's scikit-learn does is it
+already has this data set for you it
+already has this data set so you don't
+have to worry about it
+so scikit-learn has the popular data
+sets that are publicly available that
+tons of data sets like this right so if
+scikit-learn data sets okay so okay data
+sets
+okay so scikit-learn has tons of data
+set loader okay so there are all these
+data sets there tons of data sets
+actually in cyclic learn which so that
+you can try out scikit-learn first off
+so scikit-learn also has this lfw people
+data set it also has a function called
+again you can read the documentation
+here it also has a function which says
+ok you can fetch the data from lfw
+people where minimum faces per person is
+100 okay it already gives you that okay
+let me just show you that documentation
+again but I wanted to show you how to do
+it manually in case this data set was
+not available how would you do it right
+that's important skill to learn that's
+why I went through all that part so
+scikit-learn data sets fetch a level you
+people right it says okay where do you
+want to get the data from it will dial
+directly download from the internet if
+you
+whether you want to resize by default
+resizing is 0.5 because they're resizing
+the images so that it's easier for
+people to pull from minimum faces per
+person again you can read this
+documentation if I want so in my in my
+code snippet I said I only want to fetch
+data for those people who have minimum
+100 faces now look at this the moment
+just with two lines of code I got the
+data set but please understand that in
+the real world all data sets that you
+are care about may not be in
+scikit-learn right so you should learn
+how to load data sets yourself the way
+I've shown above now I want to see what
+is the data type of D so the data type
+of B is not a numpy matrix it is some SK
+learn utils bunch now what is D enough
+will be this my input okay I call this
+function this part was simple but I was
+expecting a numpy matrix right but what
+I got is some special datatype now
+that's why you should always read the
+documentation which is where is this
+okay I have the I have the link here let
+me just go here and copy the link
+directly so that it's easier for us
+instead of searching again okay let me
+just close these let me just close some
+of these okay so fetch people look at
+this it generates so the documentation
+is very well done these are the number
+of classes these are the total samples
+is a dimensionality again the
+dimensionality here is different because
+they're resizing the data and they might
+be using a slightly different data set
+from us in terms of the image sizes
+right okay cool so what does it return
+it returns a data set which is a
+dictionary like object and if you want
+the numpy look at this what did what it
+returns to us is a data set which is a
+dictionary like object and if you want
+the actual data matrix you can get it in
+data set or data right if you want the
+numpy array of if you say no data set
+got images right data set not target
+this is what we stored in our labels
+right whatever we stored in our labels
+is being generated here using data
+center target right so what it what it
+returns what this function returns is
+not just one numpy array along with
+numpy array it also gives us multiple
+right and again the code here and the
+examples again you can go here look at
+the example code explains everything the
+beautiful part about scikit-learn is the
+amount of documentation it's terrific
+so my type D is bunch again always check
+the data types if I want to get the date
+so d dot data
+I know gives me the data the data dot
+shape yes 1140 images we knew this
+because minimum number of faces equals
+200 when we loaded the data ourselves we
+got 1140 here also we got 1140 but the
+columns are fewer here because by
+default fetch lfw by default fake lfw
+resizes the images by default you can
+say resize equals to 1 then you'll get
+larger images okay if I want to get the
+shape of each of the images I can say d
+dot images dot shape this basically
+gives me the number of images the height
+of each image and the width of each
+image because in the disk in the disk in
+the description if you notice d dot data
+set dot images gives me numpy array of
+shape these many images the rows and
+columns right so these many images the
+height and width of each each sorry the
+height and width of each numpy array so
+each image cool all that is good ok so
+given this data see look at this I just
+loaded the data in like two minutes
+instead of doing all the code here again
+I'm just showing another way of loading
+the same data in case you want to
+experiment faster but it's always an
+important skill to be able to do it on
+your own ok so now what do I want to do
+given D dot data I want to pre-process
+it again we've shown how to pre-process
+using scaling right
+I just pre process it and I'm calling it
+as X what is the shape of X level 40 20
+92 to 9 1 4 and I'm calling Y as d dot
+target so what is my X love X is the
+data which is normalized why is all my
+labels or target in this in this
+documentation they call it target we
+call it labels right now I want to
+understand a couple of things okay I
+want to say for each of these again
+remember for each of these so my Y
+contains all the labels right folder
+names basically or folder numbers so I
+want to get the frequencies of each of
+them so folder 0
+there are 236 images folder 1 there are
+121 images folder to 530 folder 3 1 not
+line folder for 144 if you don't know
+how to compute frequencies just Google
+search for it you'll get this snippet
+again this is standard numpy right
+imagine if you have if you have a list
+right look at this n P dot unique will
+compute will give you all the unique
+values and the count I am just
+converting that into an umpire and
+printing it that's all so numpy dot
+unique helps you find given a list like
+this or give us a this is not a list is
+an end I am sorry given an MD array or a
+or a array of of numpy it tells you how
+frequently each of these are correct
+simple now once I have that I'm running
+listening again my number of components
+equals to 2 again the T's need
+documentation you can read up here I've
+also described this in the course videos
+ok so a number of components equals to 2
+again you can skip some of these things
+initialization equals to pca basically
+means remember that TC has to solve a
+complex optimization problem right in
+all optimization problems there is
+something called as an initial value
+again we'll discuss this when we learn
+optimization algorithms it will use the
+initial value after computing the pca
+again that's not the final value it
+computes the TCF i said it computes t
+sneaked by using PCA as the initial
+value in the optimization if you know
+optimization you will understand it
+otherwise we'll discuss about initial
+values when we go through optimization
+sections again we discussed that in the
+course videos anyway but we'll also do
+it when you do a code walkthroughs cool
+I'm just running this ok look at this
+mighty Snee is so simple first I created
+T so within SK learn there is manifold
+within manifold there is T sneak this is
+the constructor you can look at the
+documentation there are many other
+options but let's use the simplest one I
+can skip the random state because P Snee
+uses some randomization actually Teasley
+uses some randomization again we told
+this right in the course videos also
+it's a stochastic algorithm which means
+it uses randomization by creating random
+state equals to 0 every time I will get
+the same output this is like your random
+seed that we have seen in in the
+previous sessions like numpy random seed
+this does the same job cool
+so I'm just
+thing time look at this what I want is I
+wanted to do this two things given this
+X again it's the same syntax that we've
+seen for PCA SK learn is extremely
+consistent look at the first step you
+create you call the PCE constructor
+create a Disney object then you say fit
+transform what does fit transform do
+first it computes Disney on X and then
+it projects this X into two-dimensional
+space because my number of components
+equals to 2 so it first fits and then it
+transforms it first fits the TZ model
+and then it transforms now how much time
+does it take if you look at this it
+takes 17.5 seconds cool no now why
+whatever what I want to do is this no
+there is this parameter if you go to the
+documentation where is T's in your
+documentation uh-huh Disney a scalar
+there's a lot of parameters here many
+many of the important ones like
+perplexity we discussed in the course
+videos how perplexity works how number
+of iterations will transform now put all
+of that we discussed in the course
+videos there is one which is number of
+jobs I think I discussed this is also in
+the course videos but this is important
+in this context especially from an
+implementation concept because number of
+jobs will just implement apparently so
+instead of doing just using one core it
+will use multiple cores that are there
+on your computer right it's like
+parallel processing again scikit-learn
+even lets you do parallel processing for
+computation intensive stuff so initially
+I did not use anything it took 17.5
+seconds then if you read the
+documentation here if n jobs equals to
+minus 1 look at this minus 1 means use
+all processors so if I just give if I
+just use n jobs equals to minus 1 it
+will try to use all the processors
+instead of 17.5 seconds it took 14 point
+7 seconds not too much of an improvement
+I also tried how much time it will take
+if the if I use 5 processors or if I
+create 5 jobs out of it again this is
+just multi processing right it takes
+about 14 seconds not much improvement
+right again if you want to know what CPU
+you have on your computer this is the
+Linux command for it again as I told you
+you can run Linux commands using the
+exclamation cat basically means to print
+something in Linux proc CPU info
+basically prints gives you the CPU info
+right so it tells that this box or this
+this collab is running on an Intel Xeon
+processor at 2.3 gigahertz and a bunch
+of information related to it if you want
+to I mean sometimes this is useful when
+you want when you want to decide whether
+you want to write parallel code or
+things like that
+right if time permits we'll do one
+session on parallel code if time doesn't
+permit we'll do it as part of our weekly
+live sessions okay cool so next thing is
+okay if my number of jobs is large
+because yawn process typically have 12
+cores or 8 cores they're fairly they're
+fairly powerful computers again not much
+it just roughly 14 seconds now after all
+that I want to plot this right again
+this is the same function that we used
+earlier for pca we use this function
+right if you recall I explained this
+function plot embedding function with x
+and y we have seen this for the pc
+example just above same function I'm
+using here and again I've just written
+the function again for clarity when I
+embed it this is the embedding I get now
+first and the conclusions are important
+right first and foremost this plot is
+better than PCA so T's me plot in 2d is
+certainly better than PCA
+why am i saying it's better than PCA
+look at this all the Reds are most again
+this cluster is Reds this cluster is all
+blues at least the similar looking point
+similar looking persons faces are
+getting reasonably well clustered again
+they're not perfectly separable again
+remember we are just doing in 2d guys we
+are taking a data which is 62,500
+dimensions or fairly large dimensions
+and we are trying to put it into 2d
+right again look at this all these
+points are well clustered again there
+are some regions where everything is
+messed up look at this region all the
+images are messed up here similarly look
+at this region there if there is a good
+amount of mess up here again remember
+that Disney PCA on real world data sets
+are never perfect they're far from
+perfect right and if you notice here
+this this is a good cluster of red
+points is a good cluster of blue points
+this is a good cluster of 0.4 this is
+better than PCA but certainly not the
+best
+not again what I want you to try as part
+of the assignment is this as we
+discussed in the course videos I want
+you to try various perplexity values how
+does this plot change if we use various
+perplexities how does it change if you
+use different number of iterations now
+the biggest question on your mind could
+be okay first and foremost this is a
+summary right that we the the TC result
+is decent better than PCA but it is far
+from ideal so first question that you
+should get your mind is why is TC not
+working
+remember the data that we have is fairly
+complex human faces image data is a
+fairly complex data we humans have
+evolved for millions of years to
+recognize human faces let me give you a
+task okay imagine if I show you four
+monkeys different monkeys give an
+example please bear with me I've shown
+let's say three images of this monkey
+one okay let's do my for monkeys five
+images of this monkey two images of this
+monkey and four images of this monkey
+now I show you one more image can you
+tell me which monkey is this unless you
+are a biologist who works on monkeys
+it's so hard and what are we trying to
+do what is this knee trying to do PC is
+saying just given the images it is
+trying to separate one image from other
+image by grouping them together right
+again
+we humans cannot do it for non-human
+faces again I've seen this happen to
+others also people like for example I am
+born in India I can recognize Indian
+faces very well right if you show me
+faces from different from a different
+country completely different country or
+a different culture where the faces I've
+never seen such faces let's say for me
+distinguishing one person from other
+person can be very difficult in the
+early days once I start working with
+them for a few years once I thought
+start talking to them or once I watch a
+few movies it becomes easier right
+similarly forget about humans right if I
+give you other animal if I give you dogs
+okay same breed same everything if I
+give you four different dogs it's very
+hard to recognize that is for me it's
+very hard to recognize right so please
+remember that image data is fairly
+complex data and we humans have taken
+millions of
+years of evolution to recognize human
+faces what Disney is doing is fairly
+good another very very important thing
+here is we are ignoring all the spatial
+properties now what do I mean by spatial
+properties here images images have this
+property very interesting property
+images given a pixel all the pixels
+around it will be very similar to this
+because pixels have smoothness edges all
+of these things but what did we do we
+took an image like this we convert it
+into a one long meet one long vector
+wherein we take this row this row is of
+this row the imagine that this is the
+image and I'm converting into a vector
+okay so this row is somewhere here the
+next row is somewhere completely
+different so the spatial coherence which
+is very important for images we have
+completely thrown out of the dust thrown
+it into the dustbin we have not used any
+of that right so later on when we learn
+deep learning we learn something called
+as a convolutional neural network which
+is based on the convolution operator
+that we learned in linear algebra
+session alright so we just learnt it I
+think in the previous session right so
+in the linear algebra session we learned
+about the convolution operator so there
+is a model called as convolution neural
+network that leverages this spatial
+coherence property and it performs
+superbly better okay just a simple
+mathematical transformation so what we
+have done again there are two problems
+here one the way we represented the data
+is terrible the way we represented the
+data is bad PC is not a magic bullet
+it's not a magic silver bullet that will
+solve all the problems so to solve this
+problem better we'll learn in future
+sessions again we have covered this in a
+course videos already hopefully we'll do
+this in the future sessions in this
+series we learn how to use deep learning
+based convolution autoencoders which is
+a very interesting idea which takes the
+ideas of convolution and a concept
+called as Auto encoders to which you can
+get very very good representations that
+the the visualization that you get at
+the end of it the visualization that you
+get at the end of it is much better than
+this you can do that there are also
+other techniques like Siamese networks
+face net etc using which you
+separate the face images much much
+better right so so that's important okay
+cool so yeah this is what I wanted to
+cover I share this let me answer a few
+questions enough okay so somebody says
+please give rough estimation of
+algorithms like logistic regression I
+surely do that when we do the session on
+logistic regression today I don't think
+we have time for it so if the amount of
+information so the next question is if
+the amount okay let me just go here
+right since anyway it is here okay again
+folks if you have not watched the course
+videos you'll you will see this as as as
+blunt stuff because you don't have the
+theoretical foundation you'll not be
+able to understand it please understand
+that okay all the people who think they
+are not understanding it because you
+know you're not watching the videos that
+are requested you to watch okay so I
+can't help you with that if the amount
+of information is equally divided
+amongst all the dimensions right that's
+a good question in the real world on
+real data sets this never happens of
+course you can create synthetic data set
+well you can make this happen in such a
+case PCA is terrible terrible choice all
+right so okay somebody says a police
+conduct session on feature engineering
+if time permits will surely do that
+right so what else but within next two
+months I know that I'll create a model
+to recognize them I don't know what you
+mean okay again folks please understand
+that if you're chatting amongst yourself
+either you are not focusing on what is
+being covered or you are not interested
+in such a case please don't join and
+waste other's time
+but there are some students here who are
+answering others questions thank you a
+lot
+great job phenomenal job because I can't
+answer every question right we are also
+some who are just who don't go through
+the prior stuff or the prerequisites and
+come and they will not understand
+obviously okay cool
+do ml algorithm still used in real world
+problem yes
+who told you otherwise I mean I know
+personally I know personally algorithms
+that generate
+hundreds of millions of dollars which
+just use basic classical machine
+learning algorithms because deep
+learning does not give additional lift
+on some data sets
+remember that deep learning does a very
+good job on images it does a very good
+job on next it does a very good job on
+speech it does a very good job on audio
+this is where it does terrific job there
+are there is lot of tabular data where
+handcrafted features are done right and
+in such cases deep learning model versus
+literature my I use a GB DT gradient
+boosted decision tree right so on this
+dataset my GB DT might perform very
+close to a deep learning model and of
+course in deep learning let's assume I
+use a multi-layered perceptron and let's
+assume the performance that I get from
+GB DT is very close to deep learning
+what will I choose to productionize I'll
+choose GB DT because it is
+computationally cheaper it is
+computationally extremely cheaper than a
+complex multi-layered perceptron deep
+learning module again this is the
+reality so I know models in production
+today we generate hundreds of millions
+of dollars for some of the world's top
+companies that just use three based
+models or even logistic regression in
+some cases so please don't fall into the
+trap the deep learning is everything no
+there are instances again let's be
+honest here deep learning has
+transformed a lot of these spaces if
+your problem involves any of this you
+should use deep learning but if it
+doesn't involve this make a sensible
+trade-off in terms of compute in terms
+of training time and all of that right
+okay somebody says are there better
+dimensional reduction techniques yes
+there are ton of them there are at least
+again I told you right
+auto-encoders is one way to do
+dimensional reduction right so we have
+discussed that in the course videos also
+there are tons of techniques okay I mean
+I know at least 20 to 30 or at least 20
+techniques I can I can quickly think at
+the top of my head again some of them
+are not used extensively today right
+again depends on the context PC 80 Snee
+are more widely used auto-encoders is
+also widely used okay so somebody says
+okay could you please explain the
+difference between sparse encoder and
+normal encoder today I don't think the
+time permits we have already overshot by
+20
+so I'll have to stop it okay sounds good
+folks unfortunately I overshot by a few
+minutes but couldn't help it
+so thank you very much and hope I shared
+this document with you I shared this
+document with you hopefully you will you
+will try more experiments as I have
+suggested hope this code walk-through
+helps you and builds your skills on top
+of some of the theory and example code
+that we have covered in the course
+videos already okay thank you very much
+bye-bye

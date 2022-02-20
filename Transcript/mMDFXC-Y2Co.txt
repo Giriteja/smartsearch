@@ -1,0 +1,3135 @@
+hey folks I guess we our life please can
+you confirm in the live session window
+if you can hear me so that whether it's
+good so that I know that everything is
+working as expected
+can you folks please confirm on the chat
+window if you can hear me and see my
+screen being shared all right so those
+are the two important checks that we
+need to do before we dive in hey good
+evening folks thanks for joining in I'm
+just waiting for the session itself to
+start objected in Python for AI yes
+that's the session yeah
+so yeah I guess I guess we are life yeah
+so can you please confirm if you can
+hear me and see my screen being shared
+so that so that I know that it's working
+in the first place
+so am i audible is it clear that I'm
+audible yeah sounds good sounds good
+okay thank you folks thank you for
+joining in and let's wait for a couple
+of minutes we are a few minutes early
+I'll start the session at 602 or 603
+p.m. right so that everybody joins the
+session everybody who is planning to
+join can join the session and we're just
+going to continue the same way we have
+done the previous live sessions this
+live session is all about object
+programming I'll take a ipython notebook
+and go through various examples and
+let's try to make it a little
+interactive also sounds good so
+everything is fine cool
+so somebody asks I'll take a few
+questions whatever I can answer I'll try
+to answer which programming language is
+best to crack placement so I'm assuming
+this is for software engineering roles
+not for machine learning roles for
+machine learning roles people mostly
+prefer Python there are some companies
+that use are also but Python is the most
+preferred if you're talking about
+placements for software engineering
+roles I mean you can use any modern
+programming language C++ Java Python
+doesn't matter because most product
+based companies are fairly neutral to
+what programming language you use
+because they know that the programming
+language that you know today may not be
+the one that will be nice event right
+but a small catch there is there are a
+few finance companies which specifically
+ask for C++ based programming because
+most financial companies like like
+trading companies who do high-frequency
+trading
+they typically write most of their code
+in C++ or C alright so they might have a
+language preference but most other
+Prague based companies they're neutral
+like in most of the interviews that I
+have been part of as an interviewer or
+an interviewee they into I mean in most
+product based companies there was no
+specific requirement that I should be
+good at Java or C++ or Python because if
+you're conceptual knowledge is good you
+can pick up a language in a very little
+time of course you do not become an
+expert in a language but you can pick up
+a language and start writing code in
+just a week or two right so it really
+doesn't matter as
+it's a modern programming language my
+personal preference is Python or some
+people also like Java but my personal
+preference is Python because Python has
+a lot of very good inbuilt data
+structures lot of nice libraries that we
+can use and most importantly Python also
+the code is much more concise much more
+easy to write then C++ or Java so I
+personally prefer Python okay so so
+somebody is asking is C++ necessary for
+data science C++ is used in a few
+instances but only in a very few
+instances Python is the most preferred
+language today for most of data science
+and machine learning there is C or C++
+being used only when you require like I
+have used C C++ when we had to write
+some extremely low-level code for speed
+right we had to build a system wherein
+we were getting where in we need to
+evaluate a machine learning model in
+just under a millisecond right so when
+you have such latency requirements when
+you have to write write code that works
+extremely fast there are a few instances
+where C or C++ is used but mostly it is
+Python and the preference for Python is
+because of availability of great
+libraries for data science statistics
+machine learning deep learning plotting
+you name it Python has some of the most
+extensive libraries and hence even for
+our courses we prefer Python over others
+so ok so somebody is asking how will the
+job market be after the coronavirus
+again I think I mentioned this in one of
+the previous live sessions also we don't
+know yet all right so the International
+Monetary Fund says that most likely most
+large economies of the world are already
+in a recession but where to wait for
+this scenario to clear again these are
+not in our hands these are large
+macroeconomic these are large
+macroeconomic effects that you and I do
+not control so my suggestion to anyone I
+mean this is something that we have
+suggested to all of our students this is
+something that I've suggested to all of
+my employees to all of my colleagues and
+friends that this
+is a I mean if there is a precision we
+don't know whether they relation because
+there is a technical definition of what
+recession is which is basically two
+quarters of GDP fall in a macroeconomic
+framework again even if there is a
+recession we don't know how long the
+recession will stay it might so happen
+that we have a vaccine for coronavirus
+or we have a good medication or a drug
+and things become normal very quickly so
+we actually don't know so in times of
+uncertainty like this
+my suggestion is since you can't impact
+this stay safe that's extremely
+important your job is to ensure that
+you're safe and build on your skills
+become a better programmer if you want
+to become a software engineer again even
+if there is a recession there are always
+jobs for extremely skinny people you
+might say how do you know it because I
+graduated at the peak of recession I
+graduated in 2009 May which is literally
+the peak of the last major great
+recession it's called the great
+recession now right so so I've been
+through one recession in my professional
+career and I know firsthand that people
+who have skills will survive this people
+who don't have skills will fall behind
+so since you can't control the
+macroeconomic effects but you can
+control what is in your hand what is in
+your hand is your time of course your
+safety most importantly number one
+number two is your skills focus on your
+skills even if there is a recession as
+soon even in a recession there are jobs
+they're just fewer of them so if you are
+better with your skills either in
+programming machine learning data
+science you will still have jobs like
+one of her students right even during
+this lockdown period his his interview
+with Amazon just started before before
+the lockdown and thankfully even during
+the lockdown all of his interviews got
+through he got a confirmation that he is
+hired
+he's most likely get an offer letter
+right so top companies are always
+looking for highly skilled people so if
+you have skills don't worry about it
+and if you don't have skills you should
+focus more on building your skills than
+panicking because if you panic nothing
+is going to happen you can't change the
+big macroeconomic or the large
+health care systems you can do it your
+job is to stay safe and build on your
+skills if you have skills try to improve
+them if you don't have skills gain those
+skills that's what I would personally
+recommend right so again I've seen some
+of our I've seen this query multiple
+times instead of instead of panicking
+what what do you get by panicking you'll
+more become more depressive that's it so
+don't panic build on your skills again
+even in the last recession people who
+focused on building their skills who
+improve their skills were the ones who
+got the jobs even in a recession and
+after the recession as soon as the
+recession became as soon as the
+recession as soon as the world got over
+the recession those are the people who
+got the jumps first right so it's as
+simple as that
+okay sounds good oh we are already six
+oh five so let me let me let me get into
+the live session itself okay
+so again I'll try to take more answers
+later on so somebody is asking how is
+this session useful in ml so I'll tell
+that I'll tell that wait please wait so
+what we have been doing in the last few
+life sessions is we have been working on
+improving the programming skills our
+core focus was how do you how do we
+improve programming skills of folks
+again what we have seen is this is where
+a lot of people lack this is fundamental
+if you know all of machine learning data
+science all the mathematics but if you
+can't write reasonable code nobody is
+going to give you a job let's be clear
+about it right programming skills is a
+mandatory thing so the purpose of this
+is to cover programming skills in the
+context of machine learning in the air
+okay so again please understand that we
+are going to build on top of the
+previous live session so I will not be
+repeating the concepts that we have
+covered in the previous live sessions I
+will be taking a few examples from the
+previous live sessions and continuing
+right so let me give you an overview
+again I'm not assuming that you guys
+know object read programming in any
+language
+I'll not assume that and I will assume
+that you don't know much of object word
+programming in Python C++ or Java and
+I'll try to explain these concepts from
+very basics right and other concepts I
+already assumed that you knew some
+you know some and we were solving
+problems in this live session I will try
+to explain the concepts of object or
+programming with simple examples some
+time examples some real-world examples
+okay but I'd build on top of the
+previous live session examples okay
+first and foremost broadly speaking you
+have procedural languages like C
+programming and you have aa digital
+programming languages like C++ Java and
+Python right most engineering students
+learn C I think it is mostly computer
+science students who learn C++ Java and
+Python
+there are also some electronic students
+also who learn some of these object or
+programming languages in some
+universities so first and foremost
+something that you'll remember is you
+can build large and complex software in
+procedural languages you don't require
+object programming to build complex
+large software for example take the
+whole Linux kernel which is basically
+the heart of the Linux operating system
+right similarly take take the heart of
+Macintosh your Mac OS they are all they
+both are built in C C is not an optional
+programming language remember right so
+large complex software can be built in C
+programming language or procedural
+programming languages now you might say
+then why the heck are we learning
+writing these alternative programming
+come into existence because again when
+people were designing software using C
+they realized that as the complexity of
+the software increased it became much
+harder to build systems using C
+programming language so they so objected
+programming is basically a concept in
+programming language design okay so this
+is basically a way of writing code and
+object programming came into existence
+because it is easier to design object
+road programming code especially for
+large software and remember over the
+period of time modern software you have
+hundreds of contributors hundreds of
+software engineers working together and
+things like that
+and it's also much more easy to reuse
+components of course you can reuse some
+stuff in C also because functions is a
+way to reuse write functions if a write
+a function I can reuse that
+functionality but objective programming
+is much more easy from a design
+standpoint and it makes the life easier
+to build large and complex
+but please remember that you can build
+large and complex software even and see
+again Linux kernel itself has hundreds
+of developers who contribute source code
+it is possible objected programming is
+just just makes your life easier okay
+that's the most important tenet right
+that's why if you look at any major
+through any major module for example we
+use numpy right we use numpy numpy is a
+very good library of functionality for
+numerical analysis in python we have
+seen this in the previous live sessions
+so numpy is built using object or
+programming so most of the libraries and
+modules in python most of most of these
+most of these special-purpose libraries
+a clump by sight by matplotlib again
+matplotlib is a very popular library for
+for plotting right so similarly you have
+again there is there is tensor flow
+right tensor flow is used for deep
+learning so many of these large complex
+pieces of software are often written
+using object or programming so that it's
+easier to maintain easier to design
+easier to reuse components and maintain
+this large complex software now as a
+machine learning engineer why should you
+learn it that's the next question first
+let's see as a software development
+engineer if you're looking for software
+development engineering roles you should
+know objective programming in good
+detail because as a software engineer
+you will mostly be implementing software
+or you will be implementing a small sub
+module right you will be implementing a
+small sub module or a class so if you're
+a software development engineer you
+should know object programming in quite
+some detail right because you will be
+working in large teams where each team
+member might be building a class or a
+set of classes so it's extremely
+important if you're a software
+development engineer in modern companies
+now for machine learning and data
+science roles again I have used object
+or programming but not as much as
+software development engineers I've
+reviewed lots of code from other
+software development engineers in my own
+career but as a machine learning and
+data science being in machine learning
+data science and research
+trolls the application is simple you
+should know the basics of object
+programming so that you can use various
+other modules and libraries that people
+have built for example I just showed you
+an example right as a machine learning
+engineer or even as a data scientist or
+a machine learning scientist you use
+numpy Sai PI tensorflow matplotlib
+scikit-learn right so you you use
+scikit-learn
+XG boost these all are extremely popular
+libraries that are used every day by
+machine learning and data science folks
+their use day in and day out now when
+you are using let's say numpy if you
+don't know what a class is or what an
+object is or how inheritance works you
+will be limited by how well you can use
+this programming language right so
+mostly for machine learning and data
+science rolls for people who are not
+writing production code right you should
+know the basics so as to use other
+modules and to extend these modules when
+needed for your use cases as a machine
+learning or a data scientist if you are
+writing production quality code by
+working with software development
+engineers you need to also know how
+classes how do you write a class how
+inheritance works some of those details
+so even from an interview standpoint if
+you interview a top product based
+companies especially for software
+development engineer roles there is some
+focus on objective programming for
+machine learning in data science roles
+there is less focus on it there is focus
+on programming in general for example we
+looked at recursion we looked at some
+simple programming exercises in the last
+six live sessions right there is that
+focus but not so much on object or
+design or object onto object on it
+programming again the true power of
+object-oriented programming can I mean
+you can do it of course you can learn
+the theory you can learn a few examples
+etc but the true appreciation like I
+learnt or general programming when I
+first learned C++ I didn't call in
+school days right then I learned a
+little bit of Java
+I learned Python I learned c-sharp I
+learned a bunch of programming languages
+all of them I knew the concepts of
+object or programming but I only
+appreciated why these concepts exist and
+how they are used when I learnt about
+about objected design right and you
+learn object
+design
+when you design large pieces of software
+for example imagine if you're designing
+a library for plotting like matplotlib
+right so suppose imagine this is a very
+popular library for plotting in Python
+right so if you want to design
+matplotlib how do you define each of
+your classes
+what are your classes how do you design
+what inheritance how do you design the
+whole classes and how do you design the
+whole architecture of this library
+ok that's where you will really
+appreciate it again I cannot cover
+orbital design because it's a it's a
+full fledged topic in itself it's a
+topic mostly in software engineering
+I'll not be covering it but my focus in
+today's live session will be basics of
+oriented programming for machine
+learning and data science rules
+so if you're a song if you are looking
+for data software development roles some
+of what I am discussing is useful but
+you should build on top of it right so
+the prerequisites that we have our
+previous live sessions in this series
+because I will be using examples from
+that cool first and foremost let's make
+sure what is our Linux our sir what is
+our Python version Python three point
+seven point three I just want to make
+sure so that we are not writing code in
+Python three we're writing coding PI so
+we are not writing code in Python 2.7 we
+are writing code in Python three just
+wanted to make sure now in the previous
+live session we wrote a URL shortener we
+wrote we implemented a we implemented
+something called as URL shortener if you
+recall using dictionaries and other
+stuff we have discussed that in the
+previous live session and lots of detail
+okay we actually implemented it using
+basic inbuilt data structures that are
+available in Python now the same code so
+what we implemented in the previous live
+session is an on object rooted
+programming also called as procedural
+implementation again I am just I've just
+pasted what we have implemented
+previously right imagine I mean I just
+go through it quickly for those who may
+not have attended the previous session
+I'm creating a dictionary here to store
+all the long URLs and short URLs again
+I've shown an example right tinyurl
+example again this is a very real-world
+problem right and we solved it using
+dictionaries and simple code so on this
+I have two functions which is get short
+URL which given a long URL gives me a
+short URL and get long URL which takes a
+short URL and gives me the long URL back
+and we just implemented it use
+dictionaries and I agree and I argued
+why we use a dictionary here why not the
+list why not a set what is the
+appropriate data structure here and
+everything now in the previous life
+session I said look at this logically if
+you think about it what do you have you
+have B which is a dictionary right and
+you have two functions you have two
+functions get shot URL right so get shot
+URL and get long URL right so these are
+again we actually built a simple URL
+shortening system right so if you if you
+realize this get shot URL is working on
+this data structure this get longer also
+uses this data structure so I said since
+all three of them are interrelated why
+don't we put all three of them into a
+logical group or a logical entity I said
+that's what is the foundation of classes
+right so a Class A Class basically is a
+logical grouping again I'm telling it in
+a very high level right so logically
+since I have a variable here right and I
+have two functions which are operating
+on this variable why don't a group all
+of them into a logical entity that
+logical entity is called a class right
+so let's actually see the code on how to
+convert this procedural code into a
+class okay first and foremost before we
+go into it remember this analogy that I
+mentioned in the previous life sessions
+also if you have a data type right a
+data type has a variable right if you
+have a data type or or or or a data
+structure right for example imagine if I
+have I equals to 10 now what is this I
+is a variable right I is a variable here
+what is the data type of I here I is an
+integer right that's what it means so I
+have an integer which is the data type
+and my variable itself is I right now
+just like a data type exists a class is
+same as the data type if you think
+logically
+instead of saying class variable we say
+object right so the analogy is important
+just like a class look at this just like
+at a data type has a variable a class
+has an object so in some textbooks you
+might see that an object is an
+instantiation of a class
+what does instantiation basically means
+it just
+fancy English term what it means is
+imagine if I have an int int is my
+datatype I'm creating a variable for int
+so when I do this what happens in my
+main memory or RAM right in my RAM there
+is memory location there is there is
+memory location allocated it wherein
+wherein I can where and I can store this
+value of 10 here and I can refer to this
+memory location using I right so
+effectively what's happening is a
+variable
+they call it instantiation because when
+you create a variable there is some
+memory being created in your RAM or main
+memory where you can store this real
+where you can store this value that's
+why it's called instantiation in some
+textbooks it's just a fancy English word
+so important thing that you notice here
+just like data for a given data type you
+have variables in a datatype
+you can create which creates locations
+in memory or class has an object I
+mentioned this in the previous life
+sessions also just a quick recap now
+let's build a class right called URL
+short short called short URL again here
+there are many concepts of objected
+programming I will go step-by-step
+right now our view is this a class is
+basically a group of variables right
+again variables are called as attributes
+in object or programming in Python right
+different programming languages use
+different terms Python calls these as
+attributes instead of calling functions
+they call them methods right but it
+means the same thing right into a single
+logical unit okay so that that's the
+goal here
+let me just there are a couple of typos
+here right so a class is basically
+grouping all the variables or attributes
+and the functions or methods into a
+single logical unit so what I do here is
+this suppose if I want to create a class
+called short URL the way I do it is this
+I say class again this is a keyword in
+python class short URL semicolon
+everything that is there with this
+indentation anything which is there with
+this indentation of is within the class
+cool let me just explain some simple
+syntax again if you already know
+objected programming in Python you may
+not benefit much from this because I'm
+starting from the very
+six here okay so first and foremost okay
+there is this I'm I'm again within this
+within this I'm creating a function
+called underscore underscore init
+underscore underscore now this is this
+is called as a constructor right I'll
+tell you how a constructor works just
+remember that the function which has
+underscore underscore in it in it stands
+for initialization in it - sorry
+underscore underscore this function in
+any class is called a constructor it's a
+special-purpose function I'll explain
+you how a constructor works when I
+create an object just bear with me write
+again a constructor is not must but it
+is always a good programming practice to
+have a constructor now what is the
+purpose of a constructor
+look at this in my short URL effectively
+I want to have a dictionary D I want to
+have a dictionary D and I want to have
+two functions right get short URL get
+long URL these are the two functions
+that I want or two methods that I want
+again let me start using this
+terminology these are the two methods or
+functions this is the variable or the
+attribute that I want now with the
+purpose of a constructor is I want to
+initialize all attributes that I want in
+this class in this class what attribute
+do I want I want a dictionary D so what
+do I do here again any function that you
+have the first parameter is called as
+self I tell you what is self in a little
+while just bear with me just bear with
+me because I have to connect this
+concept to a concept of an object so
+that everything fits together okay I'll
+tell you what is a constructor when we
+create an object self also I will
+explain you when we construct an object
+and how it works internally right so
+just remember that self base okay so
+we'll go there just bear with me okay
+I'll tell you what is self what is
+constructed in a few minutes just bear
+with me all that I'm saying so self
+basically means okay let me see okay
+suppose this is my constructor okay so
+okay okay let's go here okay let me also
+tell you the creation of an object okay
+so if you think broadly let's let's look
+at the high level then we'll go step by
+step so this function is called as a
+constructor this is my get shot URL this
+is my function get shot URL I've changed
+it slightly not much
+right then I have the get long URL if
+you notice my what do I want in my short
+URL I want a dictionary D I want the get
+short URL I want and I want to get long
+URL these are the three parts that I
+want but I've modified them slightly
+that I've modified them slightly now if
+I want to create suppose for example I
+created this class I told you just a
+while ago that a class has an object
+just like the way a data type has a
+variable now if I want to create a
+variable of this class look at this as
+soon as I define a class like this
+nothing is created in memory as soon as
+I create it as long as there are no
+syntax errors it doesn't give you any
+error it's just it's we are just
+defining what this class should look
+like it has not created anything in
+memory now look at this the moment I do
+this I say s equals to short URL look at
+this so the moment I say this this is
+the syntax s equals to short URL now
+what is happening I am saying I want to
+create a variable okay or object instead
+of calling it a variable we should call
+it object so s is a variable of short
+URL data type also short URL class right
+so short URL is the name of the class
+right short URL is the name of the class
+so what do I do enough by by using this
+syntax by using this syntax where it say
+s equals to short URL look at this I am
+calling short URL as a function I am
+calling this function notation here I'm
+using as if I am calling a function
+called short URL now as soon as this
+happens what happens is in memory okay
+it creates in your RAM it creates some
+space which I can access using this
+variable name s and what is created in
+this memory look at this the moment I
+run this what is this I'm creating an
+object or I'm instantiating an object of
+class short URL the moment I call this
+what happens is this will go and run the
+constructor right so this will go and
+run the constructor what is constructor
+here constructor is always defined as
+underscore underscore underscore
+underscore now what happens here
+immediately look at this I said s equals
+to short URL now there is no function
+called short URL there is a class called
+short URL so what is this function that
+is going to execute it is going to
+secure the constructor okay it is going
+to go and execute the constructor now
+when it is executing the constructor the
+self here self basically means self is a
+reference to the object that is calling
+it here self basically means s because I
+am calling this for the variable or the
+object s look at this I am calling this
+I'm calling this constructor if you
+notice what is happening here
+I'm so I'm I've created a variable or an
+object called s and I am calling this
+constructor when I call this constructor
+or any function when I call any function
+here as soon as I call as soon as I use
+this syntax the constructor is called
+the memory is allocated right when the
+constructor is called the self here the
+self here basically means the object
+that has called this function right so
+because the the object or the variable
+name can change once I can say s equals
+to short URL other time I can say s 1
+equals to short URL so we don't know
+what is the object name or the variable
+name right so here self basically refers
+to whatever is the name of the object
+that is calling the constructor now in
+the constructor what happened look at
+this in the constructor I am saying self
+dot B equals to dictionary so this
+function C remember I said s equals to
+short URL I just executed this line
+right the moment I executed this line
+there is in in my main memory or Ram
+right there is some memory created to
+store all of these to store all the data
+that is assigned here and I can
+reference this using s now what does it
+say in the constructed says self for
+this object self basically means for
+this object for this object create a
+dictionary called D and the dictionary
+will be empty very simple the dictionary
+is empty right so what happens is within
+this within this memory location there
+is a dictionary that is created now
+there is a dictionary that is created
+very interestingly right so that that's
+what has happened till now right so I
+hope this is clear right so here is an
+object here is a constructor the moment
+you execute the constructor so the
+moment you create you create an object
+using this syntax the constructor is
+called
+and whatever is there in the constructor
+is executed
+cool now actually if you think about it
+there is a constructor that's half
+that's running here also dict is also a
+class if you notice actually look at the
+syntax right how do you create a
+dictionary in Python one way of creating
+it is this we can say dicta this creates
+an empty dictionary now what you are
+calling here is the dick is actually a
+class dicta is actually a class in
+Python and you are calling the this
+class's constructor but I just wanted to
+connect them becoming those two dots for
+you now once we had done that we are not
+yet done we're still getting started if
+I want to know the datatype of s we can
+we know how to do it right you just
+print type s then what does it say it
+says s is of type class and what class
+is it underscore underscore main
+underscore underscore short URL I know
+it is short URL but what is this
+underscore underscore main underscore
+underscore what does this mean
+see look at this the datatype of S is I
+know that it is a class and the class
+name is short URL but what does this
+underscore underscore main underscore
+underscore mean what does this mean
+right so again I'll just explain that
+quickly so this whole script this whole
+script by default in Python any script
+you write which is not within within and
+another within an another module the
+underscore underscore main underscore
+underscore is the main module in which
+this program is actually being executed
+right so that's why you always seen this
+again imagine if short URL was defined
+in a completely different module again
+if you remember import we import modules
+using import write in Python suppose if
+I have import map suppose imagine if I
+have a class within math okay so imagine
+if I have a class within math okay let's
+look at this look at like this supposing
+if I import numpy okay instead of math
+numpy is better because we've seen lot
+of examples so let's add you my input
+numpy is MP right
+suppose if I create a variable a equals
+to MP dot and B array right suppose I
+create this now we faith ask for the
+data type of a it will say that
+type of a is numpy dot andy array we
+have already seen this in the previous
+live sessions why does it say this
+because NB array is the name of the
+class and numpy is the module in which
+this ND array exists because we imported
+this module right so the default module
+right from which this whole code or
+script is invoked is called as a main
+module if you don't have this in any
+other module the default module is
+underscore underscore main underscore
+underscore very simple again if you want
+to understand more about modules I
+assume that some of you know modules
+will try to cover modules also in the
+next live session but if you want to
+understand more about modules here is a
+very very simple explanation of modules
+again if I have to put it very simply a
+module in Python is same as the code
+library it's basically a file a module
+is a file in which you can have a bunch
+of variables right you can have a bunch
+of functions and a bunch of classes
+right it's basic X so when you say
+import mat there is actually a math dot
+PI somewhere right which has all the
+functions variables constants classes
+that are part of math word pi that you
+are using right so for example let's
+look at this I'll show you that it's
+actually it's actually very simple to
+see math dot Pi in Python if you just
+google search for it okay where are
+these okay so just go here okay does it
+say math has okay so look at this math
+has within the module called math there
+is a function called seal there's a
+function called copy sign there is a
+function called F absolute factorial
+blah blah blah blah blah blah but you
+can also find math dot if you go to
+github right okay look at this Python
+skeletons so here is an example of math
+not pi okay I hope okay I don't think is
+this the actual official implementation
+looks like it has hundreds of lines of
+code again you can look up the official
+implementation of math not pi right so
+you have all these functions C F abs
+flow all these functions which are part
+of the module math right so again that's
+what modules are module is nothing but
+it's basically a Python file which has a
+bunch of variables functions and classes
+defined you can think of it like a code
+library that's why I often use the term
+library and module interchangeably okay
+sounds good
+very good so not now what do I have look
+at this so I created a variable or or an
+object called s of type short URL class
+cool very good so the moment I call this
+look at this the moment I created this
+variable the constructor got executed
+and now I have a dictionary
+okay the dictionary is empty obviously
+now if I want to call URL if I want to
+let's say you shorten a URL look it is
+very importantly in the implementation
+of any function which is there within
+the class the first parameter is always
+self look at this in my get short URL
+right the first parameter is self in my
+get long URL the first parameter is
+always self on the other hand when we
+implemented a procedural based
+implementation there is no self because
+there is no concept of object here in a
+procedural implementation you no object
+hundred implementation because this gets
+shot URL and get long URL are within
+this class right every method or
+function within the class takes self or
+self basically is nothing but it's a
+reference to the object that is calling
+this that's all it is
+right so simple nothing fancy here okay
+so now let's see how how get short URL
+works so for example okay so we have we
+have created this variable or object
+called s we know it's data type if I
+just say s dot short URL what happens
+look at this I just said s dot short URL
+and I got an error what error does it
+say it says short URL object does not
+have attribute short URL it says I could
+not find short URL or with smaller s in
+the short URL object why is it so think
+about it it's a very common error
+because the function name is called get
+short URL not short URL right so very
+often a very common mistake is people
+create an object and they don't look at
+what func
+they're inside and it starts giving
+these errors so whenever you get an
+error like this go to the function does
+go to the class reference or the
+documentation as we have done in
+previous life sessions just go to the
+documentation and say what is the
+function that is actually there here
+right for example if you look at numpy
+right so numpy and E are a reference
+this Google search for it
+okay numpy dot nd array so if you go to
+the reference here it says okay the
+class is the numpy is the is the module
+and the array is the name of the class
+and the structure that it is showing
+here is the constructor the constructor
+takes a shape the constructor takes a D
+type all these variables now look at all
+the parameters that are there these are
+the parameters to the constructor shape
+D type buffer offset etc right again
+look at all the attributes that are
+there these are all the variables that
+are there look at all the attributes
+that are there all the methods that are
+there now if you get any error like this
+if you get any error like this where it
+says where it says the attribute did not
+exist or the method does not exist just
+go to the documentation and see if that
+method actually exists these are all the
+methods that are there in NP in nd array
+right so these are all the attributes or
+variables these are all the functions or
+methods I'm using the Python terminology
+cool now we know that it should be
+actually get short URL so how do I call
+this I say s not get short URL again I
+need this object look at this I need
+this object to call this function so I
+say s not get short URL applied a
+a'course okay it would print this so
+this is my short URL again I say s not
+get short URL gained on a player-coach
+again data applied quotes actually sorry
+gained on a applied course that's
+anymore for webpage I'm sorry so you
+just type in this you get a short URL
+again it works right cool now again if I
+want to use the get long URL I use the
+object dot this is the syntax again we
+are talking with respect to s this s is
+the the name of my object s is the name
+of my object so if I want to use get
+shot if I want to call get
+short URL or get long URL the most
+popular way is to actually use the
+object dot syntax right so I got I got
+my long URL short URL now if I just give
+my short URL my get long URL will get me
+the actual address now if I want to
+print look at this so what is happening
+here I have in my RAM there is some
+memory allocated which I can access
+using variable name s right which is
+nothing but my object and when I when I
+instantiate this object or when I
+created this object there was a
+dictionary D that was created there was
+a dictionary D that was created if I
+want to access this can access it yes
+you can just say print s dot D look at
+this see look at this the s not get shot
+URL and s not get long URL right when I
+say s not get short URL let's see what
+happens I will go to go through the code
+for you again right now when I say s not
+D it will print whatever is there in the
+dictionary corresponding to s right so
+let's look at it so the moment I said s
+not get shot URL how does this work
+how does the implementation change now
+we know the implementation of the dish
+of the constructor it is basically
+creating a dictionary next when I say
+get shot URL look at this the get shot
+URL I am saying s dot get shot URL right
+so the first parameter is always the
+object that is calling this function
+next if you look at this this code this
+code this code all of them are just same
+as what we have discussed in the last
+session everything is the same the only
+change that I have made here is I have
+said self dot B here that's the only
+change except that this whole code is
+exactly the same code as we have
+discussed in the previous live session
+Here I am saying this so why am i saying
+self dot d here again to be very precise
+what I am saying here is if I call s dot
+get short URL look at this I called s
+not get short URL with some with some
+long URL here so what it means what it
+does know is so in my in my RAM right I
+have my s which is pointing to this
+whole memory location in which there is
+a dictionary D the moment I do this look
+at this when I say self dot d self
+basically means this
+object which is using which we are
+calling this function so self you can
+think of it as the object that is
+calling it s so self dot D is nothing
+but s dot d the intuitive way of
+thinking about it so what it's doing is
+it is adding this short URL and long URL
+as keys and values in your dictionary D
+corresponding to your variable s right
+or your object s that's important now
+they'll get long here also I've changed
+it very slightly look at this the only
+change that I have done in the get get
+long URL s again the first parameter is
+always self now when I say this what
+happens this is this okay sorry
+okay so when I say this what I always
+pass the first parameter is self again
+short URL now the only change that I
+have done here is I've changed this line
+and this line instead of just saying D I
+am saying self dot D because if I say if
+I call s not get long URL if I call s
+dot long URL with a short URL here right
+I want it to go and look for the
+dictionary which is there in s and
+because I'm calling the get long URL
+using this variable or object s self
+basically means that s so this will
+basically be translated into S naught D
+this will also be translated into s dot
+d that's a logical way of thinking about
+it right that's the only change rest
+everything the logic is exactly the same
+now you might say right have I had been
+doing all of this I'll come to the
+please bear with me just please bear
+with me I'll explain you why we are
+doing all this complex stuff I tell you
+from a software engineering perspective
+in a few minutes first let us understand
+the basics okay cool so I got all of
+this okay so now I can say my s dot d is
+this right I can access this s dot B and
+I can add more things here look at this
+my s dot B is nothing but a dictionary I
+can add this as the key and I can add
+this as the value if I want so I can
+keep adding whatever I want into the
+dictionary again remember that this
+dictionary this dictionary D is there in
+the memory location that s has created
+that is created for object s but I can
+access this dictionary and use it like a
+regular dictionary whatever way I want
+to use cool where
+simple now this is how you create this
+is how you take procedural code now you
+might say why are we doing all of this
+please bear with me just ten more
+minutes I'll explain you that let me
+explain a few cases so what have we done
+we have taken a procedural program where
+you had a dictionary you had two methods
+or functions which is get short URL get
+long URL we have done all of this cool
+we have translated this into a class
+right with a constructor we understood
+what is self we understood what is class
+that this is that we have an attribute B
+we have these methods and all of that
+right so all that is cool now let's
+let's go ahead and learn a couple of
+other things now right so for example
+imagine again there are lot of details
+and boundary cases imagine if I want to
+create an empty class ok this is this
+allowed in in Python yes it's allowed I
+can create a class again my class name
+here is empty class I am creating a
+class called empty class again it is
+just always a good programming practice
+to always name your classes using camel
+case camel case basically means it
+should be capital every words first
+letter should be capital that's a good
+programming habit right so that's of
+that that's a good programming habit in
+general right so again this is basically
+good programming practices so imagine if
+I if I just execute this okay so what
+did I create here I created a class
+called empty class if I don't want to
+write anything inside this what can I do
+I can just use this keyword called pass
+when I say pass what it means is there
+is nothing here the way you write a
+class is you write class the class name
+that you want column everything that you
+want within this class of course with
+indentation if you don't want to have
+anything if you want your class to be
+empty you can just use this keyword pass
+now I can always say e equals to empty
+class so what does this do not what does
+this do enough okay there are a couple
+of interesting things
+okay I'll answer those questions the
+moment I call this there is no
+constructor here right so what is it
+executing that's a good question I will
+explain that in a little while when we
+learn inheritance I'll explain that
+right so there is no constructor here
+what is it what is
+doing all that it's doing here is okay
+I'll come to that when we learn
+inheritance in more detail so this is
+basically creating some memory location
+for e right it's basically creating some
+memory location which will be pointed by
+E that's all it's doing that's all it's
+doing intuitively all right so I can say
+what is the type of e it says E is a
+class which is in the module main module
+and its name is empty class because I
+call it empty class now your freak
+question should be when I call this it
+is calling a constructor but I don't see
+a constructor here what's happening here
+we learn that just bear with me again
+very importantly there are lots of
+internals there are lots of boundary
+cases on how to create classes what
+works all the complex cases which are
+these boundary cases and internals is
+very important if you're a software
+development engineer and if you want
+again we will not be able to cover that
+in in just a couple of life sessions so
+I am going to focus more on applied
+aspects in the context of machine
+learning and air right but if you want
+to learn more about it there's a
+beautiful documentation and tutorial for
+Python 3 again I have made a lot of this
+notes based on this itself this is a
+very nice documentation after you see
+this live session you will be able to go
+through this documentation and
+understand more details this is not
+exactly a documentation it's a tutorial
+and how classes themselves work right so
+I will not be going and handling all the
+internals all the boundary cases however
+objects stored internally I will not be
+going into the the design of
+interpreters for Python that's a huge
+internal stopping right that is beyond
+the scope of these discussions our
+objective is to help you become better
+programmers from an applied sense in the
+context of a and machine learning right
+so that so I'm limiting the scope here
+otherwise we can just spend tens or even
+I mean even 50 live sessions just on the
+internals of Python there is tons of
+beautiful internals again these are
+stuff that I learned over the years it's
+nothing that I learned overnight ok cool
+now now here comes some more cases let's
+look at some more interesting cases
+right so imagine imagine if I do this ok
+so there is a concept called as class
+variables so let me explain what is a
+class variable okay so we created a
+class called shot URL love earlier now
+we are creating something called as
+short URL 1 okay I don't want to name
+the same class so this is different
+class that I am creating the code
+everything is the same except for this
+single line so in this single line what
+I am storing here is I am creating a fun
+I'm creating a variable which stores
+this string right look at this this this
+variable is outside all of my functions
+it's outside all of my functions right
+so this is called URL prefix now this
+URL prefix which has this string look at
+this this URL prefix is nothing but this
+this thing such a variable is called a
+class variable now let's see how class
+variables behave everything else is the
+same right now let's see how class
+variables behave and why do we need them
+suppose if I say s1 equals to short URL
+1 ok love okay I am doing some short URL
+look at this I'm just you again there's
+one more change that I've done I forgot
+to mention sorry sorry there is one more
+there is one more there is one more
+change the time done okay so this URL
+prefix I've actually used it in my code
+here okay so there is one more change
+where is this okay so I'm saying self
+dot URL prefix plus short URL I'm using
+it only in this line so the two lines of
+code change is this line and this above
+line so if you look at the previous
+class definition let's look at the
+previous I just had a constant string
+here I just had a string here instead of
+keeping the string constant I've created
+a variable to store this value now what
+happens here is this suppose suppose
+okay let's take let's let's see what our
+class variables and why are they
+important suppose you imagine if I
+create a variable s1 equals to short URL
+one right short URL one suppose I create
+this variable right I also create s2
+equals to short URL 2 so a short URL 1
+because the class name is short URL 1
+right so what am i creating here I am
+creating two objects or two variables of
+type short URL 1
+now both these variables look at this
+both these variables will have the same
+URL prefix value so if I say s1 dot URL
+prefix or a Stu dot URL prefix it will
+print this string only because whatever
+variables that you declare outside of
+these classes they are called class
+variables and the same variable is
+shared by all objects so if you want to
+have a constant string like this if you
+want to have a string which is constant
+which is used by all the objects of the
+class like if I say s1 dot URL prefix it
+will print in this ace 2 dot you are a
+prefix also to print this right so
+that's because both these variables are
+of the same class and this URL prefix is
+a class variable shared by all objects
+all right so that's the concept here now
+let's see let's say suppose I have s1
+equals to short URL one I use get short
+URL I did all of that now if I print s1
+dot B okay what is my T again remember
+the dictionary B is different so when I
+create two variables let's assume I
+create variable s1 actually my code I
+say s1 a so I have let's say you two
+variables s 1 and s 1a both of them are
+of the type short URL 1 that class is
+short URL 1 when I create the
+constructor for this look at when I
+create the constructor in the
+constructor code what happens I allocate
+some memory and it and I create a
+dictionary for this similarly when I
+when I create s1 a using short URL 1
+what am I doing here again I'm creating
+some space and I am creating dictionary
+D here right so this dictionary is
+different from this dictionary remember
+this dictionary is different from this
+dictionary so s1 so I created s1 here I
+created some URL shortening and if I
+print s1 dot d what do I get I get s1
+dot DS look at this I get s1 dot DS I
+get s1 dot DS whatever is there in the
+dictionary and if I print s 1 dot URL
+prefix I get URL short URL comm now I
+create another variable s1 a ok so this
+whole dictionary this whole dictionary
+is there in be here now s1 a equals to
+short URL
+now this dictionary is empty now if I
+say s1 a dot URL prefix remember URL
+prefix is a class variable so both both
+object s1 and object s1 a will print the
+same thing so s 1 and s 1 a share the
+same value for URL prefix because URL
+prefix is a property of the class right
+it is it is a value that is constant for
+all objects of the class unlike this
+dictionary look at this this dictionary
+for s1 is different from the dictionary
+for s1 a for example if you print s1 a
+dot d you get an empty dictionary
+because I did not add anything to the
+dictionary but if you print s1 a dot URL
+prefix or s1 dot URL prefix you get the
+same string that's important difference
+so those are called as class variables
+right it's it's useful sometimes so what
+is the purpose of class URLs if I want
+something to be constant if I want to
+have a constant value like this for
+which is shared by all the variables
+whether you create a variable s1 or you
+create a variable s1 a all of them I
+want to have this variable which is URL
+prefix to be constant if I want that I
+create a class variable for it that's
+the purpose of it cool simple till now
+okay so very importantly this happens to
+me a lot and it could happen to many of
+you I actually learnt objected
+programming in C++ and Java and used it
+extensively for many years right so what
+happens even of even today ok is when I
+write code in Python I get confused with
+the syntax and the internals because the
+way C++ objects and classes work is
+different from how Java works which is
+slightly different from how Python works
+each of these programming languages
+while all of them follow the properties
+of object programming all of them have
+their differences
+so today while writing some of this I
+said ok s equals to MU I actually did
+this to be honest with you I said I
+actually wrote Java or a c++ like syntax
+right I actually wrote a Java or C then
+I said ok fog this is Python visit on
+Java right so it if you already know
+object over
+in other languages it's very easy to get
+confused with syntax and internals so
+please be aware of course your your
+interpreter will start giving you errors
+and you'll learn from it right so now
+comes in under theme okay so enough
+enough now let's look at this
+what if okay let's learn an another
+concept called as private members or the
+water private members now okay this is
+an interesting concept I think
+especially people who have learnt C++
+write C++ has this keyword called public
+and private the same concept does not
+exact exact that does not work exactly
+in Python so those of you who know C++
+think of this is sort of like the
+private in C++ but not exactly right so
+let me explain what is a private member
+and why is it useful so imagine again
+now I am creating a new class called
+short URL - I am just creating new
+classes same code very same code except
+a small thing ok very small change now
+if you want to have something ok look at
+this this is a class variable remember
+this is my constructor this is my method
+this is a class variable I am creating a
+class variable called test all right now
+additionally what I am doing here is I
+am creating an another variable here
+which is underscore underscore URL
+prefix variables that are created like
+this with two underscores are called as
+private members let what is a private
+member okay suppose imagine imagine
+imagine logically you don't want to be
+able to access this string from any
+other function outside of this class
+which means you should be able to access
+this only from the constructor the get
+short URL and the get long URL those are
+the three methods that you have so if
+you want any variable like this to be
+only accessible to functions within the
+class such a such a variable is often
+referred to as a private member right it
+could be a variable or it could even be
+a function right so again we use the
+term member when when you have to say an
+attribute or a method okay a member
+basically
+means an attribute or a method now the
+the again
+so look at this I'll show you an example
+right so now whatever done here so this
+is my class variable we know what is a
+class variable right a class variable
+basically means this is constant for all
+objects on the class this is a private
+variable or a private member or a
+private attribute okay the Python says
+Python calls these as attribute
+sensitive variables now now this this I
+can use it within this function within
+this function and all the functions in
+the class so the change that I have done
+here is I have also used URL prefix here
+look at this the underscore underscore
+URL prefix I have also used here that's
+it nowhere else instead of URL prefix I
+changed it now let's see how this works
+how do private members actually work
+suppose if you don't want this variable
+or attribute or this member to be
+accessible from outside this class so
+let's write some simple code suppose I
+say s 2 equals to short URL - if I want
+to print s 2 dot class variable remember
+look at my class variable my class
+variable takes a value test right so
+this is cool my class variable takes a
+value test right the interesting part
+here is if I print s 2 dot class
+variable it will print test look at this
+it prints test if I print this ace 2
+wrote class variable it prints test why
+is it so the class variable is storing a
+test here it is storing test and if I
+create another variable s to a also it
+will also print if I if I created
+another variable called s to a of class
+short URL - and if I print s to weight
+or class variable it will also print
+test right but remember that I can
+access class variable attribute or this
+variable from outside the class this
+line of code look at this line of code
+is outside the class definition its
+outside the class definition right but
+still I am able to access it using the
+using this using this object now the
+moment I try to do this especially in
+Python 3 if I say X 2 dot underscore
+underscore URL prefix the moment I try
+to do that it gives me an attribute LF
+so
+this line print successfully this line
+gives me this error it's a short URL to
+object has no attribute called
+underscore underscore URL prefix again
+this is slightly implementation
+dependent so technically if you read the
+documentation in Python it says there is
+no concept called as private variables
+but it is implementation dependent
+slightly the rule is any variable name
+that starts with double underscore or
+any function name anything that you have
+like this you should not you should
+treat it as a variable or a member that
+you should only be accessing from
+functions within the same class you
+should not access it from outside the
+class like this you should not access it
+that's the simple rule of thumb these
+are called as private members again I'm
+just introducing some basic concepts now
+okay now all this is cool okay so a
+couple of theory concepts I just wanted
+to touch upon them so that you know what
+these terms mean again I have taken
+these definitions from Wikipedia so
+there are there are a couple of things
+that every object programming language
+should have right first concept is
+called abstraction the second concept is
+called as encapsulation now again I have
+taken and I have used Wikipedia's
+definitions here just to be clear right
+so I've also given other other resources
+for it new general abstraction basically
+means look at this again it's a very
+nice definition any significant eight
+significant piece of functionality in a
+program should be implemented in just
+one place in the source code that's the
+idea here right so an abstraction
+basically means look at this again
+abstraction and capsulation are slightly
+confusing abstraction basically means
+it's always good anything that you want
+to represent right the main again this
+is a very nice representation this this
+statement I have taken from Wikipedia
+the main goal is to handle complex again
+this I like this definition also the
+main goal of abstraction is to handle
+complexity by hiding unnecessary details
+to the user for example let me let me
+give an example right so we talked about
+MDR
+we use numpy Zandi array do you know how
+n di restores things internally again we
+discussed this in the in the previous
+live session then it stores it using a
+chunk of memory using C++ representation
+in the previous life session right but
+as a user of nd array you don't have to
+know how nd array works internally right
+so all that is abstracted away all that
+is abstracted away you don't have to be
+an expert in low-level representation of
+numbers Ras matrices tensors you don't
+have to worry about all that so you as a
+user can just say import numpy and numpy
+dot ND array and numpy dot nd has a
+bunch of functions you can just use all
+of them without worrying about the
+implementation details so that's what
+abstraction basically is abstraction
+basically is all of the things that the
+end user like you are a user right as a
+programmer my end user I mean you're the
+user when you say import numpy right
+when you say import numpy as MP and when
+you say MP dot nd array right so suppose
+you create an ND array so and then you
+do some operations on this numpy ND
+array so you are the user here you as a
+programmer or the user here the person
+who implemented and the area is
+abstracting away all the complexity away
+from you so you as the user or the
+programmer need not worry about how this
+is implemented this makes life easy
+because as a programmer if I just know a
+bunch of libraries I don't have to worry
+about how things are implemented
+internally because this ndra
+implementation is fairly non-trivial
+right lot of operations are a lot of
+functionality and methods on nd array
+the implementations are fairly complex
+but as a user as a programmer who is
+using numpy and D array I don't have to
+know all of that that's what
+abstractionists abstraction basically
+means the internal details of how this
+class is implemented all that I don't
+care about I only care about what
+methods are there what attributes are
+there and how I can use them and what do
+they do
+that's what abstraction is right
+again abstraction is not a concept that
+is limited only to a butanol programming
+abstraction as a concept is there in C
+libraries also any library any libraries
+that you use in any programming language
+so that's what abstraction as a
+principal is central to computer
+programming right so any any
+functionality right whether it is
+creating a C library in C used to have
+this math lot edge a header file that
+you input and if you have ever written C
+program you input math not H and you
+call a bunch of functions which is the
+which are which are which you can access
+via the math dot H that is also a form
+of abstraction so class is one type of
+abstraction while abstraction as a
+concept is very general any library any
+pre-built library that you as a
+programmer use is a form of abstraction
+right that's one the second concept
+again I've just wanted you to some nice
+links here again I prefer this this
+definition which I've taken from stachy
+five very nice definition next concept
+is called as encapsulation right this is
+something which is more code to object
+programming now you might say okay again
+I've taken the definition of
+encapsulation from Wikipedia put the
+link here in most updated program again
+remember abstraction is there even in
+non of non-optional programming
+languages and cap solution is mostly in
+the context of objected programming
+wikipedia say is that right mostly in
+the context of audience programming but
+also others right and capsulation refers
+to one of the two one of these two it
+could be both combination of both or
+just one of them it means encapsulation
+basically means it is restricting direct
+access to some of objects components
+look at our private members right look
+at this our private members that we just
+discussed right now are private members
+right you cannot access them right from
+outside the class so this is a way it's
+a mechanism
+it's macca mechanism as part of the
+programming language to restricting
+direct access to some of objects
+components like private members right
+Python has this
+similarly another concept in
+encapsulation is a language construct
+that facilitates bundling of data with
+the methods operating on the data this
+is what we have seen write a short URL
+or short URL class that we have seen is
+I have data which is my dictionary and I
+have these two functions get get long
+URL and get shot you another write these
+are functions which are operating on
+this data that's why I have put all of
+them into one entity that's what is
+called as encapsulation cool again these
+are technical terms that you encounter
+in text books but I want to connect it
+to the example that's why I've used
+Wikipedia definitions now here comes a
+very good example now you know you might
+be wondering why the heck are we
+complicating things now let me take you
+an example from software design okay
+suppose okay this is this again this is
+where till now whatever we discussed is
+just blunt theory okay here is where the
+true applied stuff comes suppose i have
+implemented the short URL okay so we
+have done short URL short URL one short
+URL to let's say i've created an
+implementation let's call it short URL
+final this is a class that I implemented
+okay there is some functionality in this
+you don't worry about it
+right so this is something that I
+implemented right suppose you are
+another programmer you say hey I really
+like this implementation right I want to
+now modify it I want to modify it
+slightly I want to modify this because
+this implementation I know that it has a
+dictionary D right internally it has a
+bunch of other attributes and a bunch of
+other methods right so in the
+documentation you just give all the
+attributes the data types of the
+attributes and all the methods that's
+what you just give the implementation
+the user or the other programmer so
+let's assume this is programmer one this
+is programmer two programmer two says
+away this this short URL final is very
+good but I want to modify it slightly
+because I want to use it in a different
+context right I want to modify it now he
+might say how should I modify it again
+depending on the application he could
+come to us and say hey I am a software
+engineer
+I want to design another thing called my
+URL shortener I want to design my URL
+shortener given that someone else
+already implemented short URL final with
+some changes what changes do I want to
+do two things first I want the get short
+URL to have both alphabets and numbers
+if you remember in our implementation
+yesterday which is also the code that
+I've shown you yesterday our short URL
+was only generating how was it
+generating look at this how was it
+generating it would say short URL calm
+and it would only generate six to ten
+alphabets only no numbers in this now I
+want like this is already there let's
+assume somebody gave me this this is
+implemented by programmer one no
+programmer two comes and says I really
+like this but I want to modify it
+slightly how do I want to modify I want
+to have the short URL to contain both
+alphabets and numbers not just alphabets
+that's the first change he wants to do
+the second change he wants to do is I
+want to change the URL prefix itself
+okay so the URL prefix that is there
+here the URL prefix which is one of the
+attributes by the way the URL prefix
+attribute that is one of the attributes
+here is let's say short URL I don't want
+to use short short URL because my
+website is called my URL shortener so I
+want to change the URL prefix to my
+short URL simple now let's see that
+let's see how this whole short URL final
+is there internally look at this look at
+that the application is very important
+somebody has written this now as
+programmer - I want to modify this I
+want to modify two aspects in this
+alright first I want to have both
+alphabets plus numbers you might get
+short URL and I want my URL prefix to be
+my URL shortener instead of URL short
+short URL com
+that's what I want now first let's
+freeze the you are so in in my let's say
+human programmer 1 implemented short URL
+final as follows
+okay look at this URL prefix is not a
+private member it is a public member
+which means I can access this from
+outside the class also because there is
+no 2 under
+Yeah right rest everything is the same
+there is a constructor here there is a
+get shot URL and there is a get long you
+are cool all this is cool now I want to
+define my short URL look at this I want
+to define my short URL but I don't want
+to implement everything that is here
+because this implementation is pretty
+good I really like this implementation
+I just want to modify a couple of things
+how do I do it now now let's go again
+this is very interesting here comes the
+concept of inheritance so inheritance is
+one of the biggest applications why you
+should use object programming as a
+machine learning engineer right so
+inheritance is the crux let me explain
+you how inheritance works okay I
+introduced you to some some terminology
+also and I will give you some reference
+links to learn more so our objective is
+let's define my URL shortner class based
+on short URL final we have already seen
+how this works so what do i do i say
+class my URL shortener and within this
+braces I am saying short URL final so
+what this tells what this means is that
+I want to build my URL shortener on top
+of short URL final and how do I build it
+I'll explain that so this is often
+referred to as the base class this is
+often referred to as the derived class
+in any heritance this concept where I am
+saying I already have shot URL final I
+already have shot URL final from short
+URL final I am designing my URL
+shortener right I want to have all the
+interesting functionality that it has
+but I want to modify a couple of things
+right so to say that this to say that I
+want to inherit all the important fun
+all the functionality in this look at
+this first I want to inherit all the
+functionality in this so that's why this
+is called as base class this is called
+as a derived class and how do you tell
+the Python interpreter that you say this
+is my base class in your function look
+at it in your class definition sorry
+when you are when you are defining your
+whole class you say my class name is my
+URL shortener and it
+is a child or it is a derived class from
+short URL final base class now when you
+do this now let's see what happens okay
+remember your short URL final has three
+things it has a URL prefix it has a
+dictionary internally it has a get short
+URL it has a get long URL those are the
+four things that it has now I am saying
+here that URL prefix is my short URL so
+what happens here is this this is very
+interesting okay so this is very
+interesting so I have my short URL final
+right with some with some with some with
+some in so it has an implementation what
+all does it have look at this what all
+does it have it has URL prefix right
+it has dictionary D it has get short URL
+right it has get long URL these are the
+four functionality it has now I have
+derived from this from this I have
+derived so this is my base class and I
+have derived from this another class
+let's call that class as my URL
+shortener right my URL shortener now in
+this in this when I am defining this
+class if I say URL prefix equals to if
+look at this if I say URL prefix equals
+to something
+now what happens say here is the moment
+I inherited this class say I inherited
+because of the way I have written my
+code this is my base class and this is
+my derived class right which means I
+have derived I have inherited everything
+that is there in this class but here
+what am i doing I am redefining my URL
+prefix which means your there is already
+a URL prefix here so when I inherited
+what happens the same URL prefix comes
+into this also but now what am I doing
+here
+I am over writing it I am saying I don't
+want to use this URL prefix I want to
+have a different URL prefix for this
+class right so what's happening here
+effectively is very sorry what what's
+happening here is by writing this line I
+am saying I don't want to use this URL
+prefix that is there for the in the in
+the base class I want to redefine it to
+whatever I want again that was one of
+our tasks
+right what was a problem what was a real
+problem that we wanted to solve we
+wanted to create a my URL shortner with
+my custom URL prefix and a different
+implementation of get short URL that's
+what I wanted isn't it cool so what do I
+do enough yes so I changed this now
+remember in this in this changes that I
+wanted to do I didn't want to change the
+get long URL look at this in this in
+this change look at this
+so bio so I overrode this so I over
+wrote it so now in my my short URL my
+URL shortner my URL prefix will be this
+now I also want C my D hasn't changed my
+D stays the same because my because I
+haven't changed the constructor or
+anything I haven't change the
+constructor okay I want to change the
+get shot URL also I want to change this
+I don't want to change this look at all
+the stuff that you want to change all
+the stuff that you don't want to change
+again this dictionary is created in the
+in this dictionary is created in the
+constructor so if you notice the program
+that we have written here if you notice
+the program that we have written here
+where is this yes so my short URL my
+sorry my URL shortener is the derived
+class from short URL final and I only
+want to change URL prefix and get short
+URL if you notice in this class
+definition when I am defining this class
+look at this this is the whole class
+right this is how I am defining this
+whole class I did not touch the I did
+not touch my I did not I did not
+overwrite the init this is a constructor
+right I did not overwrite it which means
+I am just reusing whatever is the again
+there is one more function here that I
+forgot to mention sorry there is also a
+initializer right there is also is also
+a constructor I don't want to modify it
+I want to use the same constructor
+because in the constructor I am creating
+this data structure D or dictionary D
+right I don't want to touch the long URL
+that's why if you look at this
+implementation I am not changing I'm
+only changing URL prefix and I am
+changing the get short URL so this is
+what is called as overriding anything
+returns what does it mean it means
+overriding basic
+whatever I want to change I'm going to
+overwrite it right I'm going to
+overwrite and overwrite the whole thing
+whatever I don't want to change I will
+leave it as this now now let's look at a
+very simple example right so okay first
+and foremost I've changed this cool I
+also want to change my get shot to
+another how do I want to change it again
+we have seen this snippet of code
+yesterday right when we saw the
+implementation of this yesterday we said
+the characters from which I'm going to
+create the short URL using this again I
+explained the join all of this explained
+in the previous live session so in in in
+the previous code in the short URL final
+code if you see the short URL final code
+look at this in the short URL final code
+the characters from which the the URL
+shortener is generated is only ASCII
+lowercase right in here I'm over writing
+the function the implementation I just
+copied the same implementation nothing
+changes much I've just overwritten and I
+said the characters from which I want to
+construct because the characters from
+which I want to construct the suffix
+write the the basically the URL
+shortener I want to use both lowercase
+and digits again this is the only change
+using the single line change I am saying
+the get short URL that is part of my my
+URL shortener will create URLs which has
+both lowercase and digits rest
+everything I am NOT overriding
+again the fun thing here is I know look
+at this this is already implemented by a
+programmer p1 look at this the whole
+thing short URL final is implemented by
+programmer p1 I as a programmer p2 want
+to have most of this functionality I
+only wanted to change two aspects of it
+and only the aspects that I want to
+change I changed rest everything I kept
+it as this so as a programmer if I want
+to modify a functionality of a data
+structure or any class that is created
+in some library suppose in some suppose
+a lump int array suppose I have class
+vampire ndia right suppose I like
+everything in it there is one function
+or one method that I want to change what
+do I do
+I create a new
+class called my ndra right I create a
+new class called my ndra
+and I'll simply inherit ndra and
+whatever new functionality I want to add
+I'll add it rest everything I will keep
+it as this right because all the
+beautiful stuff I want to reuse so what
+is it creating it is helping you reuse
+the code this is one form of reusing
+right so again this simplifies the code
+when you write extremely large complex
+code now let's see some examples right
+so I say m1 equals to my short URL my
+URL shortner now the question here is I
+did not define the constructor here look
+at this I did not I did not define the
+constructor here so which constructor is
+running look at this in my my you are a
+shortener I did not create a constructor
+so which which constructor is running
+because we have inherited look at this
+because my URL shortner is inherited
+from short URL final it's its
+constructor is also inherited here so
+what is running here is basically the
+base classes constructor is running
+right so what is running actually is
+this little bit of code what is actually
+running is this snippet because the
+short URL final is the parent or the
+base class to my URL shortener right so
+this is important now if I say print m1
+dot d look at this see in in in my URL
+shortener remember that m1 is an object
+of type my URL shortener nowhere did I
+use no where did I initialize my
+dictionary d but since it is inheriting
+from short URL final this B that we are
+talking about is the D that is there in
+short URL final and the D is initialized
+to an empty dictionary by the
+constructor so as soon as this line got
+executed the base class constructor is
+executed right and if I can print it
+cool now look at that now look at this
+now when I say m1 dot get URL shortener
+I say amazon.com it gives me a URL
+shortener because when I say get short
+URL with short URL does it call always
+so look at this I have m1 which is a
+variable
+I have m1 which is a variable of type my
+shot URL so when I say m1 not get shot
+URL first it goes to this class and it
+says is there an implementation of that
+short URL here if there is an
+implementation it will go execute this
+right so what's happening right now is
+it went to so the get shot URL it is
+executing is the get shot URL that is
+there in the that is there in this class
+that is there in my URL shortener right
+it is it's actually executing this code
+in this code we know that it the the
+random string that it creates is both
+lowercase and uppercase digits so
+lowercase digits sorry it's both
+lowercase ascii and digits right so
+that's why if you notice here you get 2
+9 3 all of them also so what which which
+code is it running it is running my URL
+shorteners get shot URL now comes the
+fun part okay now if I say okay oh I
+forgot to put it sorry okay suppose
+imagine imagine if I run okay suppose if
+I say if I if I write if I wrote this
+line m1 dot get long URL
+suppose if I call this function with
+some URL which function will it execute
+remember m1 is of class my my shot my
+URL shortner my URL shortner now in this
+class I have not overwritten the get
+long URL if you look at the deployment
+ation here look at the implementation
+here in this my shop my URL shortener I
+did not override the get the get long
+URL I did not implement it so what
+happens it will go to the parent class
+because everything that is there in the
+parent class was inherited into the
+child class I did not modify it so what
+does it run actually enough so what does
+it run off the again remember that my
+short URL is a is a derived class from
+short URL final now the short URL final
+had this function called let get long
+URL so what it is executing is this so
+whenever you are trying to execute this
+it always goes to this object is of type
+my URL shortener first it will check in
+this class definition
+if this function exists if it doesn't
+exist it will go to its parent it will
+go to its parent this is the time it
+finds this it will keep going again
+that's the simplest form of inheritance
+there are more complexities here but I
+am just covering the base cases will
+cover the will cover the complex cases
+little later either today or tomorrow
+based on the time okay now let's look at
+one more example right so we have seen a
+varies again this is a real world
+example in the real world
+inheritance is extremely useful first of
+all there are two parts right the
+concept of a class the concept of a
+class is useful because all the data all
+the data structures and data types along
+with the functions that you want to
+operate on it are all grouped together
+in one logical entity right so that's
+why having the concept of a class and
+object is very useful number one right
+number two again understanding why we
+need it is extremely important I can't
+emphasize this now inheritance
+inheritance is a cool way to extend
+existing classes it is an easy way to
+extend existing to extend or to
+re-implement existing functionality
+rights if I want to you reuse everything
+that is there and modify only small
+pieces of it inheritance is an extremely
+useful thing again this is extensively
+used in most libraries that you use in
+Python okay good sounds good now let's
+let's go let's look again I have taken
+an example again this is a this is a toy
+example but I also wanted to show you a
+toy example okay again some time
+examples are good to understand the
+internals again the example that I've
+shown pilum is a very real world example
+let's look at a simple toy example I
+have again taken it from over iq.com
+very nice examples they have let's look
+at this let's walk through this code
+snippet right so I have import mat ok so
+before we go in let me see we have a lot
+of stuff to cover so let's let me do one
+thing I'll go into the comment section
+I'll go into the chat window answer a
+few questions and then come back to this
+right so just give me a couple of
+minutes I want to take a quick water
+break I'll take a water break try to
+answer a few questions please leave your
+questions there I try to answer a few
+questions
+again I'll not be able to answer deep
+questions about the internals of a butyl
+programming in Python because that I
+have to show many more any questions
+related to things that we've just
+discussed right now what we have
+discussed is why do we need classes how
+do we do classes in Python why do we
+need inheritance and how do we do
+inheritance I'll show you more examples
+and real world examples also there is a
+lot more stuff to cover of course will
+not be able to finish in one live
+session so we'll use tomorrow's live
+session also ok oh why do we need yeah
+I'm happy some of you are already asked
+and answering others question thank you
+folks thank you very much so I'm happy
+that you guys are answering others
+questions thank you very much ok so what
+if ok this is good good so you can again
+there is something so what if you have
+both base and derived class constructors
+you can use them again there is
+something called super keyword I will
+explain you that in the coming sections
+that's a case that I handled somebody
+asked what is the need of an empty class
+there are some uses to empty classes
+also I think I can show you that with an
+example let me show you that example
+there is this again those of you who
+know see structures will appreciate it
+where is it
+blah blah blah ok look at this look at
+this ok this is a very nice again I'm
+just using the tutorial from Python
+documentation that I've pointed to so
+look at this ok so if you have an empty
+class okay so it's called ODS and so in
+this section right so again this is from
+the Python dot o-- r-- g-- python
+version 3 tutorials ok somebody asked
+what is the purpose of having this so
+some of you who have studied CC has this
+concept called structures right a
+structure basically in c is basically if
+you have a bunch of related things for
+example imagine if you have an employee
+standard toy example right if you have
+an employee employee has name department
+and
+suppose if you want to create see like
+structures again I don't think many of
+you know Pascal Pascal also has this
+concept called as a record I learned
+Pascal when I was learning something
+called as principles of programming
+language where a lot of programming
+language concepts are covered from from
+the viewpoint of many many programming
+languages right but anyway I'm not an
+expert in Pascal I do know see fairly
+well right in C there is this concept
+called structure a structure basically
+has only attributes and no functions
+only attributes if you want to create
+something like a C structure using
+Python right you can actually use it
+like this you say class employee pass so
+what it's creating is just an employee
+without any objects sorry without any
+attributes without any methods nothing
+so you can say John equals to employee
+now you can create whatever fields you
+want no I get this is this is I mean I
+don't even know why they created this
+concept but anyway so this is one of the
+applications of empty classes look at
+this so John equals to employee John dot
+name is John Doe I can add whatever
+attributes I want and now what happens
+John is like a structure which is
+storing which is storing three
+properties of this employee named John
+with the full name Department salary etc
+so one of the applications that I know
+of is is to create a see like structures
+again if you don't know C don't worry
+about it okay this is one of the
+applications that is also given in the
+tutorial for Python Python for general
+programming again somebody asks why are
+we using empty classes in the real world
+yes here is an example right you want to
+create structures right suppose imagine
+on this employee I don't want to create
+any functions or methods I don't want to
+create any functions or methods I just
+want to have variables of course I could
+have created a class also what I could
+have done is I could have created a
+class right and I could have said okay I
+could have created a I could have
+created a what-do-you-call-it i could
+have created a constructor right within
+the constructor i could have had
+Department salary etc so there is only a
+constructor there are no other functions
+I could have done that that way also
+again so this is one of the applications
+that I know of right so one of the stuff
+that I know of again it's not widely
+used there are lot of boundary cases in
+programming languages right so I
+consider this sort of like a boundary
+case a lot of sort of like a boundary
+case within the programming language lot
+of these boundary cases are seldom used
+they are not often used there very
+rarely used in actual design of
+libraries or input in usage I have never
+used this in my life I know that
+something like this is possible but I've
+never used it to the best of my
+knowledge if I recall
+I've never reviewed code Python code
+which uses this to the best of my
+recollection again I've read thousands
+of lines of code and reviewed thousands
+of lines of code I don't think I have
+ever seen an implementation like this to
+the best of my recollection right so
+it's very rarely used so so what if you
+don't have self things will fail dude so
+let me show you that's a good question
+what if we don't have self okay so let's
+actually write something right insert
+insert cell above they just create a
+simple class no so that's a good
+question so Class A they just create
+again for many of your questions
+my suggestion this is what again I don't
+remember all the rules of Python by
+heart whenever I have a doubt this is
+what I do I just implement it using a
+simple toy example and figure it out
+again why do I do that of course I can
+read the whole documentation internally
+again I'm not to be very frank with you
+while I'm used Python I'm I'm not the
+expert in Python what do I mean I'm not
+the expert in Python I mean I don't know
+all the internal implementation of
+Python I know some of them but I have
+seen programmers I've worked with fairly
+senior engineers in my teams who know
+the internal inside out of Python
+they've actually literally ripped open
+the Python internals and read thousands
+of lines of code so as compared to them
+I have no where there I've used Python
+extensively I know some of the cases I
+know some of the implementation details
+I know how the interpreter works in some
+cases but not all the cases so whenever
+I have a question like this I've been
+doing this ever since I learned but
+whenever I learn a new programming
+language also I do this I learned Scala
+beautiful functional programming
+language I would try I would try all
+this so somebody said okay the question
+here was what if there is more self so
+let's say you my Creator let's write a
+function right so def F okay let's write
+a function f so let's assume this
+function takes 10 or so this function
+takes I okay so let's write print I
+let's again that's it
+very simple right so this is a class a
+which has a member function f which
+takes I as a variable remember I've not
+seen I'm not written self here I'm just
+printing I okay so now I create to say I
+was able to write Java syntax okay so or
+now you might wonder which constructor
+is running I'll tell you that in the in
+the coming sections there is something
+called as an object class etc I'll come
+there so I say a equals 2a so lowercase
+a is my variable name this is my class
+name so if I say a dot F and 10 okay
+let's see what happens so print okay one
+second so instead of doing this okay I
+can just say a dot F right anyway the
+print is anyway there so I don't have to
+do that okay so if I execute this what
+happens look at this see what did we do
+again this is a question that somebody
+asked right what happens if there is no
+self again when you are in any such
+doubt write a simple snippet of code
+fine lines of code say I should have
+given self here I should have given self
+I told you write the first variable is
+always self if I don't have self so what
+this line executed successfully what did
+it create it created some memory
+location where I have a cool all that is
+cool now I am saying a dot F and I'm
+passing ten to it so the moment it
+passes this look at this in this line
+there is an error what is the error it's
+a type error look at the read the error
+carefully it says F takes one positional
+argument but two were given so all that
+it's saying here is this the path there
+is
+there is some mistake in the arguments
+that's what it's literally telling you
+it's literally telling me that there is
+some error in the arguments now what if
+I change this lightly what if I put self
+, this will this work not yes it works
+so if you don't have self if you don't
+have self it will start creating these
+number of argument errors very simple
+example very very again whenever I have
+a doubt in any concept this is how I try
+to fix these doubts right
+so again Python doesn't call them as
+pointers Python calls them as references
+right not point again it's just a again
+Java also calls again
+ice I come from the C C++ world they
+have a concept called as pointers Java
+and Python call them as references all
+right so again it's a language specific
+internal implementation but if you want
+to think about it they're very similar
+ok so this is good if you have two
+objects of the same name will they be
+equal try it let's try it again
+I know the answer but I want to try it
+for you right so suppose if I say a
+equals again any question you have it's
+just five lines of code like this okay
+so a equals to a or so if you do this
+okay so you are creating two variables
+of the same name okay what happens now
+it's executed so enough let's let's do
+one thing let let's modify it slightly
+No
+so let's say okay so let's create a
+let's create a constructor
+okay let's create a constructor self and
+I so then what we do here is we say I
+equals to I equals to or let's put some
+variable write some very equals to I
+okay so let's see let's see what happens
+and I'm just ignoring this so what am I
+doing here
+I just modified my class definition I
+created a class a where in in the
+constructor I take I and I'm creating
+this variable with this now let's see
+what happens okay so a print okay print
+a
+so I'll have to change this also now so
+now what happens I have ten here I have
+twenty here let's see let's just say so
+if I say print a dot or let let's write
+this print dot a dot where control X
+let's see what what this will do again
+it just it just simple two lines code
+sometimes that will help you okay a dot
+we're sorry sorry sorry sorry what is
+happening here very equals to B okay so
+where is there within this okay one
+second one second one second so def
+print we're just give me a second self
+print self dot well okay so just sorry
+my mistake so if I just call this okay
+and if I just call print to where a dot
+print where yeah I should say a dot
+print where because it doesn't know what
+it is a dot print where okay so now this
+will work ctrl C again I'm just I'm just
+constructing a simple toy example what
+am I doing here I'm creating a variable
+for the object I should say self dot
+self dot we're equals to I and I'm
+printing self dot Val cool so let's see
+what happens okay look at this now a is
+is my first variable look at this so
+enough we can also print the address of
+a and things like that right so look at
+this is this a I'm creating an object
+here right and I'm calling print all
+right now what is it printing it is
+printing the ten that is there now this
+a is overriding the previous n right
+obviously right if you in Python in
+general okay just like in Python the
+same thing works here let me insert a
+new thing new cell below suppose in
+Python if I say again here int so a
+equals to 10 again a equals to 20 now
+what is happening in this case we look
+at what is happening so these are
+basically if you think about it a is
+actually a object of type integer class
+when you do this when you do this
+actually can print the type of thing the
+same thing actually why I'm are
+complicating it print type a
+okay so if I just do this one second let
+me just remove this line okay so what is
+it look at this when I when I am just
+saying a equals two pen what it's
+actually creating is it's basically
+creating an object a is actually an
+object of type int class right that's
+what I again what we think of as a data
+type is actually an integer class right
+so what it's doing here
+a is the object name then is the value
+that is stored internally right cool now
+if I override it no let's let's so i
+already executed this line insert cell
+below so if i if i execute there is a
+sorry sorry sorry i should go up
+okay insert cell below so in this line
+if I just say equals to 20 now what
+happens right so this a so this a is
+simply overridden by it internally what
+happens is internally Python stores all
+the variables that are there in the
+given context so there is something
+called as a symbol table again I am
+going into compiler design so there is
+something called as a symbol table which
+most compilers and interpreters use so
+what they do here is so as soon as this
+line got executed it would create an
+object name a with a pointer to where in
+memory this whole thing we stood now
+when I when I say a equals to 20 what
+it's doing here is this is check this is
+being changed because I'm using the same
+variable name like in python in python i
+can override the variable name the same
+thing is happening here also again I
+want to the simplest way to understand
+it here is in terms of an integer when
+you do a equals to 10 for y equals to 20
+a gets overridden the same thing happens
+even with a class because a is nothing
+but an integer integer a is nothing but
+an integer object to start with because
+it's data type is integer to start with
+right so I hope this is clear when you
+when you when you again create an
+another object with the same name it
+gets overridden in this case right just
+like just like your trip typical
+variables because your so-called integer
+variable is actually an object of type
+class int that again any such simple
+questions that you have you can simply
+try it with ten lines less than ten
+lines code guys you can easily try it
+right so I wanted to cover a couple of
+eggs okay let's cover one more example
+and we'll pack it up for today but
+tomorrow I wanted to explain you about
+actually I think I can explain a couple
+of things okay so let's let's try to I
+wanted to walk you through one more
+simple toy example so that things become
+much more clear for you before we jump
+into the next session I don't think we
+can complete everything today that's why
+I have allocated to live sessions and
+let's again the lesson learned here is
+any simple question you have sometimes I
+don't remember all the internals of
+Python I just write simple code snippet
+like this and figure it out right so
+it's very simple okay sounds good again
+the other way is to read through the
+documentation that's certainly one great
+way to learn but if you want a quick
+answer sometimes instead of reading
+through lots of documentation writing a
+simple snippet of code to figure it out
+is also easy okay now let's see let's
+see an another example from geometry
+again I have taken this code snippet
+from over IQ it's a very nice try
+example okay so first they've created
+this class called shape okay so let's
+let me just scroll this my computer
+stuck come on Wow Wow my computer stuck
+one second
+the keyboard is also not responding come
+on
+the mouse is not responding oh this is
+responding somehow I think my bluetooth
+got disconnected okay that's okay that's
+okay that's okay one second let me just
+check if my I think my huh what happened
+to my okay one second guys one second
+okay now it's working I think small
+glitch with my keyboard and mouse my
+pointer my notepad is working anyway I'm
+back thank you I I was little scared
+that the internet went down or something
+went on my computer hung up I've seen
+thankfully hit my computer hangs very
+few times thankfully so I was shocked
+anyway so let's go to this code snippet
+and understand it right so simple
+example so I create a class called shape
+right this is the constructor again look
+at the first parameter always self now I
+have color equals to black again here
+what am i doing I am giving default
+parameters we know right fighting
+functions I can give default parameter
+values right so color equals to black
+field equals to false so in self I am
+creating two variables underscore
+underscore color underscore underscore
+field and if the default value is black
+so in the initial in the inner
+constructor the color will be black
+field equals to false so he's creating a
+shape object look at this he is creating
+a shape object the shape object has a
+couple of things it has color it has
+filled or not color basically says what
+color is the shape filled with right and
+whether it is filled or not which is
+binary true or false right these are the
+two attributes right and they're a bunch
+of functions get color set color get
+filled set filled right so for functions
+right yeah so I I just put four lines
+here this is what my shape object it my
+shape class looks like simple good now
+what I've done here is this I have
+created an another class called as
+rectangle again remember a rectangle is
+also a shape so I want to I want to have
+all of these interesting properties or
+interesting attributes and functions or
+methods cars
+into shape also in my rectangle let us
+say so what am I doing here I am
+creating a class called rectangle but
+the syntax says that I am inheriting
+from shape that's important right so
+what am i doing I have my shape here I'm
+inheriting into my rectangle class now
+in rectangle class what do I have okay
+oh there is super here somebody asked me
+that question right so let me explain
+you okay so the rectangle class itself
+hasn't has a hazard constructor this
+constructor has self length and breadth
+so what are the two important things
+about a rectangle remember the shape has
+to the shape has of let me write it down
+here the shape has a color and filled or
+not these are the two things now the
+rectangle since it inherits from shape
+it will also get color filled and all
+the four functions it will get all of
+that but the rectangle in addition to
+that the rectangle in addition to that
+has length and breadth in addition to
+this now remember I am creating two new
+variables here which means I get these
+variables I get these functions and I
+get additional variables and additional
+functions now what all functions I have
+get length set length get bread set
+bread get area get perimeter there are
+six functions here now I am NOT over
+writing anything remember I am NOT over
+writing anything from shape so in
+rectangle because this is inherited
+again I'm I'm representing inheritance
+with this arrow mark because rectangle
+is inherited from shape rectangle will
+have color filled the four functions get
+color set color get filled set fill it
+has length breadth and this
+functionality it is it has all this
+functionality and some other
+functionality cool till of everything is
+okay right
+so now let's go to another class okay
+the third class here is circle okay so
+class circle this is also inheriting
+from shape which means from shape I am
+inheriting in another class called
+circle and what else stuff sorry before
+I go there sorry my bad okay so there is
+one more thing I wanted to explain
+before I go that there is this key word
+super okay so let me explain you how
+this works so for example if I say R
+equals to rectangle so
+if I just say this suppose if I say R
+equals to rectangle 10 comma 20 suppose
+if I say this what happens now okay
+remember what am i calling i'm create
+are is an object of type rectangle class
+and i'm calling its constructor its
+constructor has self anyway will be
+there it has length and breadth so
+length equals to ten first parameter
+Brett T equals to 20 now since the
+rectangle also has color filled and all
+of them I also want to initialize this
+rights look at this in this snippet of
+code I'm saying self length equals to
+length breadth equals to Brent so I'm
+initializing the length and breadth in
+this object are but there are also color
+and field so if I also want to run my
+base class remember this is my base
+class if I want to run my base class
+constructor I can simply use this super
+dot so the super the super basically
+means that whatever is is the base class
+again this is a derived class right
+remember this is the derived class so
+super basically means that I want to
+call the constructor again underscore
+underscore unit underscore underscore is
+a constructor so super dot in it
+basically means I want to call the
+constructor of the base class from which
+I have derived and I am NOT passing any
+parameters here okay so the moment I do
+this what happens the shapes constructor
+is executed in the shapes constructor
+very importantly let me just erase this
+in the shapes comes further I don't I
+don't have to pass anything because this
+is optional parameter this is also
+optional parameter right so what happens
+is in my rectangle I also have color and
+field those color and field will be
+initialized to black and false right so
+that that that's the purpose of super
+somebody asked me how do you call what
+if somebody asked in the comment section
+in in the live chat what if the base
+class has a constructor and the child
+class also has a constructor it is
+always a good habit to call the base
+class or the parent class constructor so
+that all these variables are also
+initialized
+simple okay now let's go to circle again
+there's a very simple example okay
+circle has what all what old circle has
+is in the constructor it you can give it
+radius right it has radius but remember
+that circle is inheriting from shape
+circle is inheriting from shape which
+means circle also gets colorful and
+these four attributes so these four
+methods circle itself has four at a four
+get radius set radius get area get
+perimeter so it has four functions of
+its own right cool this structure I hope
+it's clear now let's look at just some
+class create some just object creation
+now imagine if r1 equals two rectangle
+so look at the code snippet r1 equals
+two rectangles this is the length and
+this is the width now what are we doing
+we are just printing the area perimeter
+how do I get the area I just say r1
+don't get area how do I get the
+perimeter r1 not get perimeter here
+comes the most important thing if I just
+say r1 remember r1 is an object of type
+rectangle now if I say r1 dot get color
+first it will go and check in the
+rectangle implementation if get color is
+there get color is not there because we
+have not overwritten it get color is
+there in the parent class all in the
+base class so it will go ahead and
+execute the get color from here so the
+get color should actually print black
+because the default value is black right
+so let's see let's see if you print it
+it will print black it'll print black
+similarly when I call R 1 dot R 1 dot
+get filled right get field is not there
+in rectangle it is there in the base
+class so when I call it it will go in it
+is go and run the function or the method
+which is there in the base class or the
+parent class or it's also called the
+super basically in the in the parent or
+the base class same logic with circle
+also same code it just you're calling
+the functions that are there here you
+are calling the functions that are there
+here both for rectangular circle just a
+very simple explanation simple concept
+right now now comes another interesting
+concept I think I will cover this right
+so let's let's cover this there are
+couple of things let me cover a couple
+of concepts and then probably from
+multiple inheritance we'll take it
+tomorrow
+right so the couple of very simple
+concepts so till now in love we came
+across this case also right so let me
+write that case let me let me write that
+case so imagine if I say class right my
+class I'm just defining a class of my
+own
+nothing nothing internally and let just
+the sorry sorry my bad if I just say
+pass it's an empty class I mean this is
+a simplest car class that you can create
+right now after this imagine if I just
+say M equals to my class M equals to my
+class now here comes a small dilemma
+okay very interesting question I think
+I've asked this question just a while
+ago also now my class in the definition
+of my class there is no constructor but
+what they should actually call the
+constructor they should actually call
+the constructor of my class they should
+actually call the constructor of my
+class but there is no constructor of my
+class there is no because I have not
+defined underscore underscore in it here
+I have not defined it
+I have not there is there is no
+definition here and so what does it
+execute but this dollar will give an
+error this runs perfectly right how does
+it run so in Python the logic is this
+any class that you create is by default
+a derived class of a special class
+called s OB je CT with lowercase o
+object so there is a class called object
+again this is confusing sometimes there
+is a class called object in Python
+because there is this class called
+object every class that you define every
+class is derived from object that's why
+when you write like this what this
+actually means is what this actually
+means is let me use a different what
+this actually means is internally when
+you write something like this without
+anything internally the Python
+interpreter converts this into class
+myclass
+and object so object is a class from
+which every class which
+inherit anything in edits by default so
+object is the parent class or the base
+class of all classes that you create in
+Python that's that's a very interesting
+concept now there are a couple of very
+interesting functionality that is there
+in the object class the object class has
+three very interesting functions first
+function is init second function is new
+third function is STR again all of them
+with double underscore double underscore
+prefix and suffix now what do these
+things do so enough now remember the
+object class itself the object class
+again this is confusing sometimes has
+underscore underscore in it right so
+when you when you call this constructor
+it is going to call the constructor of
+the base class which is the object
+because there is no constructor defined
+here it looks at its base class its base
+class by default is object so it would
+run the constructor of the object class
+right I mean this this is very
+interesting
+now the object class has three very very
+it has it has many other things but it
+has three important methods okay
+new init STR this new function creates a
+new object okay so actually what happens
+is the constructor doesn't get called
+first this is an internal implementation
+detail of Python so when you when you
+when you actually call a constructor it
+is not the init function that gets
+called directly first the function new
+is called new does some memory
+allocation and other things and it then
+creates this function called as in it so
+the default constructor for all classes
+is init in the init of the object class
+there is also a class there is also a
+method I keep calling function because I
+come from the C C++ world I always call
+functions but Python calls the methods
+again it is the same concept
+there are some programming languages
+that call them as procedures right I
+think Pascal calls them as procedures if
+I'm not wrong okay so okay the STR
+basically is a function or method that
+is defined an object
+job is again we typically use this to
+write code to convert any object into
+string for example look at this let's
+actually write this right so for example
+suppose if I let me just create a cell
+here send below
+suppose if I just say a equals 2 1 2 3 4
+okay cool this is good so I'm just
+creating a list so if I say print type a
+certain type a so what happens enough
+what is the type it is again a is an
+object of class list this much we are
+clear okay now if I say print a what
+happens now see a is an object so the
+moment I type print a look at this this
+this is very interesting ok with this
+I'll explain you the con the context
+behind string right so a is of type
+sorry so a I've created a list here a
+when it when I type the when I say when
+I print the type of a I know it is class
+list right it is class list right so a
+is an object of type class list number
+one when I say print the air what is it
+what is being printed it is printing
+open parenthesis 1 comma 2 comma 3 comma
+4 it why is it printing it in this
+format who told it like where is it
+defined that when I print a list it
+should actually print all the items that
+I have in the list in in my square
+braces look at this I did not do
+anything I just said print a a I just
+said print the object what it printed is
+actually the contents in the object who
+told it to do so so the the in the in
+the implementation of class list right
+in the implementation of class list
+remember list is also list also again
+there is a concept called as multiple
+inheritance but remember that list is
+also a child class of object because
+every class that you define in Python is
+a child class or a derived class of
+object and object itself contains this
+string this string function so the
+people who implemented the
+best class overwrote the string function
+so they would have written def they
+would have overwritten it self of course
+okay and they actually wrote the logic
+saying we will print all the elements
+that are there in our list we will print
+it in this format right so whenever you
+create an object whenever you create an
+object or whenever you create a class if
+you want an object of the class to be
+printed comfortably for reading remember
+see the string function is part of
+object any class that wants to create a
+functionality to convert an object into
+a string for printing purpose mostly for
+oftentimes for printing purpose right if
+you want to if you want to implement a
+functionality of converting any object
+of that class into a string you just
+override this that's it so for example
+let's take a very simple example here
+right so okay let's say class imagine if
+I'm creating this class okay remember
+again it's simple toy example nothing
+fancy here
+I showed a very nice example from Matt
+plot clip just after this so imagine if
+I create this class I have not mentioned
+anything the fact that I have not
+mentioned anything basically means that
+this has to be object now because this
+is this is inheriting from the object by
+default that's pythons default default
+by default object is the base class now
+object has this underscore underscore
+string string right so now how am i
+writing it I'm over writing this string
+and I am saying and I am saying just
+return something whatever I want
+whatever string I want I can return it
+now here comes the fun part now if I
+create an object see one of class with
+STR again this has no constructor so it
+is comes it is calling the constructor
+of the object class now the moment I say
+print c1 look at this the moment I say
+print c1 what does it do it
+immediately calls because the print
+function calls implicitly it causes him
+implicitly it calls the STR the
+score underscore STR underscore
+underscore belonging to this class of
+which this is an object so the moment I
+do they see if you want to print any
+object you have to overwrite the string
+and in general it's a good habit to do
+it it's a very good habit programming
+habit because if you want to visualize
+what's there in this object for example
+in our short URL right in our short URL
+I could have in a short URL class right
+I could have just implemented this
+function self of obviously I would have
+just implemented it and here I could
+have said just print the dictionary be
+just print the dictionary D then what
+happens at any point at any point
+imagine if I have s 1 equals to some
+short URL some short URL right s 1 is a
+variable name of class short URL if I
+just said print s 1 right if I just said
+print s 1 what would it have done it was
+simply printed the whole dictionary
+corresponding to s 1 object right so if
+you want to be able to print an object
+you have to override the STR
+functionality number 1 now let's look at
+again I really like matplotlib
+documentation because ok let's just go
+here I want to show you something okay
+so here is matplotlib right matplotlib
+has tons of classes now here if you go
+to it so we are in the matplotlib module
+in in a sub module called s axis okay so
+this is one again how would I come here
+you can just go to I think I went to
+this page right and I went to
+documentation within documentation there
+is something called as API modules okay
+I went to modules I went to access so
+these are all the modules that are there
+modules and sub-modules basically in
+matplotlib right again we have used
+matplotlib extensively throughout our
+course right so if you again matplotlib
+for those of you who may not know it's
+it's a library that is extremely popular
+for plotting data in machine learning
+here now we are in this map plot lib dot
+access sub module within this module
+here are all the classes I will
+this diagram is the inheritance diagram
+this says that there is a class called
+matplotlib called axis again this is the
+module this is the sub module this is
+the class name module sub module class
+name so there is a class called ticker
+there is a class called artists from the
+class artists again this is a base class
+it has a child class called as axis this
+has a child class called as peak there
+is a child class of axis called as
+x-axis there is a child class to this
+called y-axis there is a child class for
+this called X stick and Vitek again
+these are basically your x axis in a
+plot and y axis in a plot your tics are
+basically what you have here these are
+called as ticks x axis ticks and Y axis
+ticks right here is the whole whole
+structure of all the important classes
+corresponding to this axis sub module
+and obviously if you go down you get all
+the attributes these are all the
+attributes that you have again in the
+constructor these are the parameters
+that you have again look at this look at
+it it clearly says the class is
+matplotlib dot access not axis and this
+is a base class for x axis and y axis
+and the constructor has axis and pick
+radius equals 215 again you may not know
+all this if you have not if you've never
+written code in matplotlib but
+understanding what is a class what is an
+object what is a base class what is a
+derived class understanding it helps you
+read lots of libraries very easily
+libraries again most of machine learning
+you will be you will be using tons of
+machine tons of tons of others libraries
+like matplotlib matplotlib is just one
+of the many many libraries that you use
+as a machine learning in general data
+scientists so to be able to understand
+the functionality and even if you get
+errors to be able to debug these errors
+you have to know the basics of it
+alright so these basics I hope will help
+you tomorrow or we have already crossed
+8 p.m. sorry so tomorrow we'll continue
+on some examples of multiple inheritance
+polymorphism there is also this concept
+called as polymorphism plus in
+how does it work then we'll look at how
+does plasma polymorphism inheritance
+works for inbuilt data structures we'll
+look at some examples of I terrible
+objects how do you implement some useful
+how do you make your class objects how
+do you create a terrible objects and
+things like that again I'll try to walk
+you through both my examples and
+real-world examples right so I share the
+I shared this notebook til wherever we
+have completed till love in about 10
+minutes after this live session and okay
+sounds good so anyway some of you have
+questions how do we override the STR of
+this you can do it right so how do you
+let me take a couple of questions so if
+you want to override this right if you
+want to override this you just so the
+question here is how do you override
+underscore underscore STR off numpy nd
+array right that should be easy
+the way you do it is you create a
+subclass for nd array right for example
+if you are not happy with the with the
+way numpy prints with the way India
+arrays string prints right so what you
+do is simple you just create a new class
+called as my nd array right you just you
+just make it a child class off numpy dot
+nd array right in here you only
+overwrite the STR function you only
+right you only override the STR function
+of course with self and whichever way
+you want to print you printed aside I am
+writing the again C syntax sorry there
+is there should be def here again I'm
+just explaining you right so the basic
+concept so what you do here is you are
+creating one more subclass again this is
+your base class you are creating a
+subclass you are some class of India Rea
+your only overriding the underscore
+underscore string which ever however way
+you want to print just print it again
+that's a good example that's that's a
+very good example okay so sounds good
+let's again I'm sorry I've overshot a
+little I'll provide this notes and
+tomorrow we'll cover some more concepts
+hopefully by tomorrow and I hope to
+finish all the 400 programming and in
+the next sessions we'll cover other
+topics
+okay thank you folks thank you very much
+again just just before I leave very
+importantly this is it's important that
+again the reason I am covering some of
+these from a very basic level unlike
+other sessions is because it's it's it's
+it's something that that we hope will
+help many students use and extend
+libraries that are already there to
+match their needs right so I hope that
+helps sounds good thank you very much

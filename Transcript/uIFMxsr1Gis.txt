@@ -1,0 +1,3083 @@
+hey folks I guess we our life let me
+just check if everything is working as
+expected give me a couple of minutes
+before we dive into the discussion
+itself just give me a second
+so okay oh I think this should start
+right I started the stream okay
+so just give it a minute or so I think
+it'll start so I can hear myself so I
+hope everything is cool
+so I'm streaming at my full resolution
+which is 4k somebody's asking about the
+stream @ 1080p actually I'm trying to
+stream at full speed which is I'm
+actually streaming from my computer at
+4k but the problem is I think because of
+this lockdown when most people are
+working from home and things like that
+there is a limitation on there there is
+a request from Government of India
+to stream at a slightly lower resolution
+for example I get maximum 720p even
+though I can I can I can do it at even
+though I'm sending the stream to YouTube
+at at 4k it's only I am able to see my
+stream only at 720 it's not letting me
+go anywhere above 720 so unfortunately
+I've seen this online also so it's
+limited by Google and YouTube and
+because of suggestions from Government
+of India right so yeah so that's the
+limitation can't help it okay so I'll
+take a few questions before we dive into
+the discussion itself I have I have the
+I have my whole worksheet today also
+okay so let let me try okay so some of
+you got the answer so somebody says I'm
+not able to add the 3d matrices I mean
+it just three loops right we have seen
+how to do it for matrices just think
+about how you do do it for 3d it is the
+struggle of programming it is the
+struggle of figuring things out that's
+how you learn problem-solving skills and
+this is not just true for for
+programming this is true for anything
+even when you are solving mathematics
+problems or physics problems when you
+are young right in your 10th 11th 12th
+class how do you become better at
+solving problems by solving more
+problems and struggling through it there
+are no shortcuts okay
+it's very realistic there so try to do
+this and if you can't just google search
+for it it's so simple you just google
+search for it you'll get an answer right
+but I want you to try it for a few days
+struggle with it because that struggle
+teaches you how to think in terms of
+nested loops with three three nesting
+the addition of 3d matrix is nothing but
+three three three four loops instead of
+two four loops that we did for the 2d
+matrix it's a very simple concept try it
+so somebody says how important is object
+under programming for a data scientist
+again the data scientist is a very
+misused term because it could mean so
+many things so if you're if you're
+writing production quality code again
+there are some data scientists who also
+write production quality code if you're
+writing production quality code at a
+large software company you have to know
+the basics of audio object to read
+programming you don't have to be an
+expert of object-oriented design
+remember there are two different things
+typically object order design is
+something that senior engineers and
+architects typically write right most
+data scientists write maybe just extend
+a class or write a few functions in a
+class so you should know the basics of
+object undred programming what is a
+class what is an object all of that some
+of which we have discussed yesterday
+some of which we'll discuss in the
+future life sessions also but you don't
+have to be an expert a table generated
+design like design patterns etc right
+that that's that's much more challenging
+because it requires much more thought
+process and much more deeper
+understanding of object undred
+programming you don't mean that for a
+data scientist but basic understanding
+if you can use basic object oriented
+code if you can read through
+object-oriented code if you can use
+modules if you can use classes defined
+by others I think you're in a good sweet
+spot okay
+somebody says very yesterday's notes I
+think you didn't see the live session
+after the live session there is a video
+posted on YouTube under that the first
+comment is the live session please go
+through that right
+somebody says please go through one case
+study in the live session I'm trying to
+do much more than that so don't worry we
+will take a new life we'll hopefully
+take many more code snippets both from
+our courts and outside of our course and
+go through it okay so will you do that
+do we need to be an expert in Python to
+become an expert in data science again
+what is an expert I don't consider
+myself an expert programmer let's be
+honest they're right because I've seen
+people who are terrific with Python
+programming as long as you can write
+Python basics as long as you can write
+decent Python code working decent
+reasonably optimal Python code I think
+you're good you don't have to be an
+expert because what an expert an expert
+for you may not be an expert for me
+right so for me an expert is somebody
+who knows how the Python interpreter
+works the internals of many code
+libraries of Python etcetera if you can
+write decent programs in Python use
+libraries and if you know the basic
+constructs again the the syllabus that I
+gave for all these live sessions right
+if you know that you're in a suite
+you're on a pretty good spot so sounds
+good so let's it's already 602 right so
+oh and anyway tons of people have
+already started so have already joined
+and so let me dive into the session
+itself without any further delay because
+I have again five problems this is
+agenda for today so I hope everybody can
+see my screen okay everybody can see my
+screen right so let's dive into it right
+so we'll come back to questions a little
+while later again some of these I try to
+make the questions today slightly more
+interactive I will keep asking you
+questions in between and looking for
+your feedback I thought I'll make it
+more two way rather than just one way
+right so I'm also learning how to do
+these coding live sessions yesterday was
+one of the first I have done so I'm
+learning with you so first and foremost
+a live session - today we will try to
+solve slightly harder problems than
+yesterday but there no means hard
+problems okay then these are harder than
+yesterday's sessions but there's no way
+I mean I don't consider them hard
+problems right these are problems that
+you will face in interviews right so
+yesterday's focus was simple programs
+reading error messages reading
+references and fixing bugs that was the
+biggest focus yesterday today's focus
+will be let's do a little bit of
+mathematical programming again
+mathematical programming or numerical
+programming is a huge area I have taken
+semester long courses where we just talk
+about numerical methods again where we
+have both at undergraduate level and at
+graduate level I have taken multiple
+courses for this right what I will try
+to cover is some basic stuff along with
+it we will cover some common errors I'll
+also teach you how to test your code how
+to test that your code is actually
+working well or not we'll also focus
+again on loops and iteration and a
+little bit about recursion I'm assuming
+that all of you know recursion because
+I've already mentioned this as a
+prerequisite right in our course videos
+also we have shown lot of sample code I
+mean the standard examples for recursion
+also right so the assumption that I'm
+making here is that you all know Python
+programming the basic Python programming
+there are there may be some new concepts
+in mathematical programming for some of
+you I'll introduce the new concepts as
+we go so don't worry about it don't
+panic that there is going to be too much
+mathematics I'll explain the mathematics
+simply for you once I explain the
+mathematics we'll go into programming
+right so we'll do mathematical
+understanding and programming parallel
+enough right I thought this is a great
+way to build the mathematical intuition
+because most of machine learning AI
+requires programming or mathematical
+programming so I thought let's do four
+or five problems just on mathematical
+methods or it's also called as numerical
+methods so again I remember I studied
+this when I was in BTech first year
+again computer science students non
+computer science students like
+Electrical Engineering even civil
+engineering folks learnt a little bit of
+numerical methods I think it's also
+their inner gate syllabus if I'm not
+wrong so I'm assuming whatever your
+engineering background is you must have
+studied some numerical methods but even
+if you don't know these numerical
+methods don't worry I'll introduce these
+new concepts I will explain them to you
+with simple diagrams so that you can
+follow what I am trying to convey right
+very importantly some of these questions
+and their variations I have actually
+asked in actual interviews again these
+are not hard problems these are simple
+problems I've asked some of these
+questions as interview questions in
+my in my prior experience at top product
+based companies some of these problems
+would be like the first interview
+question that I would ask especially if
+somebody comes from machine learning
+background or anything like that again
+these are not the exact problems that
+I've asked but very similar problems and
+simple variations to these problems and
+what I asked in actual interviews at
+companies like Amazon right and these
+these are simple problems these are not
+know where the hard problems that you
+might be asked okay first and foremost I
+just wanted to make sure that we are
+using Python 3 and not Python do this
+time we know how to do it we saw this
+code snippet yesterday just import
+system print system dot version my my
+version is three point seven just want
+to make sure that we are not in Python 2
+right so I'll try to do most of these
+sessions I think yesterday's whole
+notebook was Python 2.7 and not Python
+3.7 right so from enough I will try to
+use as much of Python 3 as possible ok
+let's go to the first problem enough all
+right so first problem is this ok so I
+don't want to show you the solution
+right away the first problem is this the
+first problem is finding Peaks or
+maximum values in a list and what does
+this mean let me explain this look at
+this look at this list this is a list
+right remember that this is just a list
+of numbers given a list of numbers I
+want to find Peaks here what do I mean
+by peak if I try to plot these values
+look at this if I try to plot them so
+let's assume this is my x axis this is
+my y axis my x axis is the index is the
+index in this list my Y axis is these
+values the first value is 1 so first of
+all u is here first value is 1 the
+second value this is the first value the
+second value is 3 so it will be here
+right the next value is 4 the next value
+is 5 the next value is 7 right so on so
+forth
+so if you just plot these values like
+this if you plot these values you'll get
+some pattern now I want you to find the
+peaks in this pattern so if you look at
+this if you look at this what are the
+peaks here look at the 7 is a peak if I
+try to plot all these values in y axis
+with their indices on the x-axis 7 will
+be a peak because still say
+it's all increasing and after seven it
+is decreasing right that's very clear
+right similarly is in another peak yes
+ten is another peak because all the
+values just before 10 look at this it
+compared with the values before this it
+is increasing after that this is a dip
+here so if you actually plot these
+values you will see a peak at 7 and you
+will see a peak at 10 right very simple
+I hope the question is simple right now
+again this is a very simple problem
+should be extremely easy to understand
+now what is the logic okay I'll tell you
+the logic I'll ask you a I'll ask you a
+follow-up question later ok so the logic
+is very simple what are the peaks here
+the peak is 7 and 10 so given a list
+like this I want you to print these peak
+values also called Max values again this
+is not these are not the largest values
+or unfortunately these are actually the
+largest values but what I mean by max
+here is Peaks here so if I try to plot
+this data it will go up at 7 at 7 I'll
+see a peak again it will fall again at
+10 I'll see a peak again it will fall so
+these two peaks 7 and 10 is what I want
+you to print now how do you come up with
+the logic right it's actually very
+simple if you think about it if you
+compare this 7 with the number just
+before this and just after this you can
+just write the number right before this
+and right after this right the 7 is
+larger than 5 the 7 is also larger than
+6 which means this must be a peak again
+this is called as a local peak because
+if you look at it it looks like this
+this pattern if you plot it this will
+look like this
+so this 7 is greater than its previous
+number which is 5 it is also greater
+than its next number which is 6 now on
+the other hand you have 10 here you have
+5 here and you have 1 here similarly if
+you look at this 10 this 10 is larger
+than your 5 and it's also larger than 1
+that's why it's a peak now let us look
+at another number look at a number like
+this this is not a peak because while
+this is greater than 4 this is not
+greater than 10 so this is not a peak
+right a very simple way to detect Peaks
+is just compare every number pick every
+number start with this number pick every
+number with the two surrounding numbers
+that it has very simple concept very
+simple logical and the logic is
+straightforward so what is the logic
+here again the logic once you get the
+logic you have to translate that into
+coding concepts what you have to do you
+have to first go through each of these
+elements which means you need a for loop
+look at this you have to iterate through
+each of these values which means you
+need a for loop first thing you need a
+for loop cool and then when you iterate
+through each of these loops pick any
+element compare this with the previous
+element and the next element right so
+let's say given the variable in your for
+loop is I right then what you have to do
+you have to compare if a I minus 1 is
+less than equal to AI and if AI is
+greater than equal to AI plus 1 then
+print AI that's all is the logic it's a
+simple for loop right and a simple
+if-else condition if condition if these
+two conditions if this condition is
+satisfied and if this condition is
+satisfied you get it again I am NOT
+written any code yet I have not written
+any code I just got the logic and I
+connected the logic to two concepts
+simple for loop and if-else conditions
+now I will start implementing it that's
+where things again we got the logic
+always first get the logic very
+important with some simple examples like
+this then connect two concepts connected
+to programming concepts what what
+concepts in programming should you use
+here then start writing your code start
+code these are the three steps of course
+you should then test the code all of
+those stuff right we'll we'll come to
+that okay I'll teach you more more
+interesting things today now the first
+thing let's say you might start writing
+the code when I start writing the code
+look at this for I in what should be the
+range of AI okay what should I go
+through if I starts here I can compare
+it with this but I can't compare it with
+any number here right there is no number
+here similarly this number I can always
+compare it
+this but I can't compare it with the
+number after this right so what should I
+do my I should start from this index to
+this index
+what is this index this index is 1 right
+this is index 0 this is index 1 so what
+did I say for I in range 1 comma a of
+size minus 1 right a of size minus 1
+remember this 1 and minus 1 are
+important here again this is what
+happens when you translate the concept I
+told you right so we got the concepts
+clear once you got the concept you have
+to translate very carefully to go to
+code you have to think about what
+happens for this you have to think about
+what happens for this the translation
+you have to be very careful event right
+so I translate the code and I get an
+error
+very simple error okay I think all of
+you can see the error here right I wrote
+this code that quotes looks and sounds
+correct for in-1 to a size minus 1 which
+means from this element to this element
+if AI is greater than equal to a minus 1
+and if AI is greater than equal to a a
+plus 1 print a a it's a for loop with a
+simple if condition with two conditions
+that I have to check both these
+conditions must be true that's why I
+have logical and here very simple logic
+right the moment I executed I get it I
+get an error I want you guys to tell me
+what is the error here the error says
+list object has no attribute sighs look
+at this it says list object has no
+attribute sighs I want you to tell me
+what is the error please look at this
+code list again which line does it say
+it has an error it has an error in this
+line look at this line it says the error
+is in this line and it's an attribute
+error the list object has no attribute
+sighs now I want to hear what your what
+your interpretation is we have discussed
+this yesterday right so let me go to the
+life and see somebody said very nicely
+yes we should use length instead of the
+size of the list right very good thank
+you very good so what does it say what
+does this error message clearly tell us
+this error message says see a is a list
+here what is a list in this line in this
+line is the only list it lists does
+have an attribute size I am trying to
+call an attribute size which does not
+exist right because I'm going to I'm
+using the notation for numpy and ers
+numpy and the IRS has size list does not
+have size so what is the right thing to
+use Len if you want the length of a list
+like this again is a very common mistake
+that we see people using people thinking
+that this is they're used to using numpy
+arrays right so they're used to using
+size so they'll use it even on even on
+lists and that's a very common error so
+what we should use is not size but to
+get the length of a list we have to use
+the Len function so first try that right
+again if you're not sure just Google
+search for it just Google search it's
+actually length of a list if you just
+Google search for it or I should say
+Python I should just say Python okay
+length of a list Python the length
+method is most commonly used to find the
+length of a list that's it
+geeks will give that tons of their tons
+of resources online Google gives you an
+automatic answer also so now I say let
+me just check print length of a it gives
+me ten there are ten elements here
+perfect very good now I modify my now I
+modify my solution right look at this I
+simply modify it and say instead of a
+dot size I'm using length of a cool it's
+giving me seven and ten as I expect cool
+this is very good things are working are
+we done my big question to all of you is
+is this code correct is this code
+correct okay I would like to see what
+you guys think is there a bug in the
+solution is there a problem with this
+solution here anywhere is there a
+problem do you think there is a problem
+let me hear you guys okay somebody says
+use blah blah blah linked length of a
+yeah I got it I got it okay ah so good
+somebody got a good question what is the
+peak is in the first position or the
+last position thank you Thank You Joel
+very good point so what if that's a very
+good point
+it so this is called as boundary cases
+when you write your code I told you
+right I'll teach you how to also test
+your code how to find common errors
+logical errors here what we have is not
+a syntactical error what we have is a
+logical bug look at this the bug is as
+follows what if what if okay let me okay
+what if my first element is a peek if
+you plot this eleven is the largest then
+it falls so this is eleven so sorry this
+is sorry this is eleven and then three
+four five six three four five and then
+it again raises to 7 seven is the next
+peak then you have six five four then
+you have ten or so then you have ten
+sorry then you have ten and then fifteen
+so what are the peaks here they should
+be 11 7 and 15 right now there is a peak
+here there is a peak here and there is a
+peak here so what if your first element
+your first element here is larger than
+the element that is right next to it in
+the previous loop we skip the first
+element altogether in the previous loop
+again that's that's a bug that's that's
+an error in this in this logic right in
+this logic we skip the first one we
+skipped index 0 and we skipped the last
+element because I have a dot size minus
+1 here right that's that's a bug that's
+a logical bug so now how do you fix that
+bug so so for example on this on this
+array there is a bug very good I'm glad
+you guys found that bug again these are
+logical bugs these are not same tactical
+bugs right if I execute this all using
+the same code that I used earlier I get
+only 7 I get only 7 look at this my
+output is only 7 but I actually want to
+get both 11 and 15 also so what about 11
+and 15 these are called as boundary
+cases okay we should whenever you're
+writing code you should ask yourself
+what happens in the extreme cases what
+if my my peak is in the leftmost corner
+or the rightmost corner that's like the
+extreme cases right on the boundary
+cases please don't miss them and in
+interviews when people ask you simple
+questions their objective is to ensure
+that you're handling the boundary cases
+well
+right if you don't handle the boundary
+cases that tells the interviewer that
+you are not thorough you are writing
+some code you know what is a for loop
+you know what is a fills condition but
+your code cannot be production ice-t--
+because these boundary cases can kill
+code and software
+so what interviewers want to see is that
+your your writing is a simple for loop
+with if condition all that but you're
+also handling the boundary cases
+gracefully so there are two boundary
+cases here and we'll handle them very
+easily the boundary cases are simple if
+a zero is greater than equal to a one
+print a zero the rest of the loop stays
+the same this loop stays the same this
+is comparing from the first element to
+the last but one element this is not
+this is the first element this is this
+is checking for the last element that's
+it I get my answer very simple very very
+simple code nothing fancy nothing
+complex so the lesson the most important
+lesson for you is please don't forget
+boundary cases if you forget boundary
+cases an interviewer can say you're
+either reckless or you're not thorough I
+have been in interview loo interview
+loops where people got rejected because
+they did not handle boundary cases
+carefully it's a very important basic
+condition again most people don't think
+that this is important but when you
+write production quality software
+boundary cases are the matter of life
+and death
+sometimes I mean I've seen cases where
+the whole servers can come down because
+of a small mistake I've seen cases where
+somebody did not handle division by zero
+and it can crash machine learning models
+I've seen such cases right so we have to
+be very very careful next what is the
+time complexity of this should be
+trivial for you to answer it any
+suggestions oh actually I already gave
+this whole sheet earlier right that's
+why the answers are faster today
+yesterday I didn't see the answers
+yesterday I didn't see the answers to be
+this fast and this accurate actually oh
+this problem and even the next problem I
+think I gave you a nice today's sheet
+itself I give ok so let's clean clear
+these two questions fast third question
+say we'll start the real fun
+okay so what is the time complexity
+everybody is very quick they're
+answering order of M I'm happy you
+thought about it again all those people
+who have gone through the sheet with
+this question and the next question
+yesterday I'm happy about it
+I'm happy that you put extra time also
+if you have time please do the exercise
+problems now my exercise for this is
+simple okay there are two exercise
+problems here very simple find Peaks
+which are max values in a window of two
+what I mean by this is imagine if you
+have a list like this right imagine if
+you have a list like this for this array
+for this element okay for example okay
+for this element to be max okay so what
+did we do enough we only compared with
+the value to the left of it and to the
+right of it which means we only compared
+one cell to the left one cell to the
+right now what I'm saying here is
+compared to cells to the left what I'm
+suggesting now is instead of just
+comparing one cell please compare okay
+so let me just draw this carefully back
+okay
+I'm saying compare this with this and
+this the two cells here
+similarly compare this with this and
+compare this with this if this is the
+maximum amongst these five if this is
+the maximum amongst these five so when I
+say window of size two on both sides two
+elements here and two elements here this
+is called the window of size two window
+of size two
+if eight is larger than all these it is
+a largest element amongst these five
+cells then print eight or else don't
+print eight simple very simple right so
+imagine if my array or sudden disorder
+error rate is a list imagine if my list
+consists of n elements imagine if my
+list consists of n elements and if my
+window size right if my window size is W
+right window window sizes W on both
+sides right on the left side I'll
+compare with W entries given a given a
+cell or given a value on the right also
+I will compare with W cells here and if
+this value is a max amongst these two W
+plus 1 only then I print it enough
+I wanted to I wanted to implement it
+it's not hard also when you implement it
+think about the time complexity think
+about the time complexity okay think
+about the time complexity just think
+about it if you implement it very easily
+okay let's ask this question right
+imagine if I have n elements and if my
+window width is W what is the time
+complexity enough if you implement this
+using simple two for loops one for loop
+will go through each of the N elements
+the inner for loop will go through this
+window of elements W on the Left W on
+the right right it's a simple two for
+loop now what is the time complexity of
+this of such a solution any ideas
+okay order of n into W good good good
+good
+very good yes its order of I need two W
+because your outer loop here is
+iterating over n values your inner loop
+here is ight rating over 2w values so
+how many times this line will get
+executed the inner loop lines this inner
+loop line will get executed n into 2 w x
+so again order of n into 2w you can
+always remove constants when you are
+talking about time complexity it is
+order of n W very simple no this is good
+now you might if you google search for
+it if you Google search and say find
+Peaks right find peaks in list let's say
+a Python I should say Python sorry I
+should say Python okay the first link
+that you get is inside PI there is a
+function called find Peaks right so I
+want you to solve this problem using two
+ways one you implement it yourself the
+second if you want as the second thing
+that I want you to do is to use this
+scifi not find dot Peaks I want you to
+read through this documentation look at
+what are the input arguments or
+parameters look at each of these
+parameters I PI I want you to read this
+and implement the problem in one
+using Syfy dot signal dot fine Peaks the
+first one will teach you how to actually
+write for loops gracefully the second
+one will teach you to read the
+documentation and use functions right
+those are the two ones again those of
+you who want to learn more efficient
+algorithms for this there is a divide
+and conquer approach to solving this
+again there is a very nice lecture notes
+from Erik Demaine at MIT again this is
+the this is the this is the best book
+that I know of for algorithms when I
+taught algorithms for interview
+preparation and also forget this is the
+book that I referred so Erik Demaine has
+this again he goes over it it's a he
+explains again this lecture notes is
+terrific those especially computer
+science students who want to learn more
+efficient ways of doing it there is a
+whole like I think this is a one and
+half hour lecture this is a whole
+lecture called peak finding it's a one
+and half hour lecture where they're
+expert at MIT not to write where they
+explain how to do peak finding more
+efficiently people who are interested in
+better algorithms can always refer to
+this right cool ok so let's go to the
+next problem this problem is simple we
+got through it so please try this all
+these exercises because that's how you
+become better at it
+ok somebody is asking about somebody's
+asking about notes again I'll put the
+notebook at the end of the comment
+section always write so don't worry
+about it even yesterday's live session
+in the very first comment is the is the
+ipython notebook link I'll put both the
+PDF version and the IP and B version so
+that you can execute this modify this
+play with it or just read it when you're
+sitting at home right okay so next
+problem this is this is this is a very
+very popular program in most interviews
+especially if you're a computer science
+student people expect you to write this
+code very simple code now the problem
+here is very interesting ok we'll solve
+it in two ways okay the first way here
+is imagine I am given a list like this
+LSD which is 1 2 3 3 elements it's a
+list of 3 elements
+I want to write all permutations you
+might have learned you learnt about
+permutations and combinations in your
+tenth class or eleventh class or 12th
+class
+you remember NPR all this you must have
+learned again I'm not assuming that you
+remember the formula for this you don't
+have to don't worry about it
+what does permutations mean for those of
+you who've forgotten it but mutations
+basically means reorderings in how many
+ways can I reorder this I can write it
+as 1 2 3 this is one ordering the other
+ordering is 1 3 to the other ordering is
+2 1 3 to 3 1 the many such orderings
+right so my the problem that we have
+here is I given a list like this I want
+you to print all the orderings now there
+is an easy way if you just google search
+for it if you just google and say
+permutations ok let's see
+actually let me show you that right
+permutations Pythian okay okay there a
+bunch of links you can get lots of links
+okay let's go to the first link itself
+I've gone through many of them okay the
+first link they say okay here is a code
+you don't have to write any code right
+there is actually a toolbox very simple
+again you can read about the
+documentation and all that I'll refer
+here I just Google search for it and I
+found this link the moment you find this
+link the first thing that you have to do
+is you have to read through if you don't
+know I tell tools if you don't know this
+module called permutations read about it
+here I put the documentation please read
+the documentation in the interest of
+time and in interest of moving forward
+to other problems I am NOT doing it I've
+done it yesterday right so please read
+through the documentation okay actually
+let's read it come on why not do it
+because I don't want students to take
+shortcuts and not learn the foundations
+okay so what does it say okay let's read
+the documentation right it shouldn't be
+hard okay
+I taught tools that permutations it says
+the input has to be a terrible what does
+a terrible mean let us understand there
+are is none okay returns successive our
+length permutations of elements in I
+terrible
+now if you don't know what is I terrible
+some of you may not know what is I
+terrible right so what is an I terrible
+in in Python just Google search for it
+this is one of the links that you will
+get just read what is it if you don't
+know what is an I terrible okay very
+nice documentation and I terrible is a
+Python object capable of returning its
+members one at a time permitting it to
+be iterated over in a for loop right
+very simple and it clearly says okay
+functions that act on I terrible's so
+look at this your list tuple dictionary
+set right all of them are I terrible's
+here right all of these are I terrible's
+right very simply just google search for
+it now we understood what is an i
+terrible right so I can I can pass a
+list here look at this because the list
+is an i terrible object i can pass a i
+can pass a list here so i know what is
+our here if our is not specified or our
+is none then our defaults to length of i
+terrible and all possible full length
+permutations are generated what we want
+is full length permutations right I want
+all the permutations of one two three I
+don't want permutations of length two or
+anything there are three there are three
+elements here in this list I want all
+the three permutations so what do I do
+I know how to call this permutations I
+just from ITER tools import permutations
+I say P equals two permutations one two
+three because I can pass any I triple
+object is okay this is a list and a list
+is I durable we know that right now what
+does it output that's also important
+let's read it okay so permutations are
+emitted in lexicographic sort order one
+second returns successive our length
+permutations of elements in an I
+terrible it will result in an another I
+terrible you can this it will return and
+another I terrible object what is I
+terrible I can put it in a for loop
+right anything that I can either eight
+over in a for loop is idle I terrible
+right so what can I do here I got P so
+what am I doing here I am saying for I
+in I am converting this P into a list
+look at this I am converting this P into
+a list and for
+I enlist P I'm doing print I that's it I
+get all of my iterations look at this
+all these are lexicographic order
+because one is smaller than 2 2 is
+smaller than 3 this is in sorted order
+similarly 2 is smaller than 3 see if the
+first digit is the same the second digit
+is sorted lexical it's solid in the same
+order look at this right if the first if
+the first element is the same the second
+one is sought in the sorted or
+lexicographic order here right so that's
+important very simple code so what did
+we learn here we learned that
+permutations can be done using libraries
+we learnt what is an I terrible object
+right and we just saw how to do it why
+not I just have a small curiosity
+because what P is returning ok let's try
+to figure I've not tried it by the way I
+have not tried it yet because it says it
+returns successive are linked
+permutations in I trouble any mates
+anyway returning it in I terrible why
+should I convert it to a list what if I
+just say for I in P look at this because
+P is I terrible for InP should give each
+of these elements of P to me back so
+what happens if I run this oh it works I
+don't have to convert it to list it
+works ok this what did I do here earlier
+I said a list I converted it into a list
+right earlier I don't have to because P
+itself is I terrible because P is I
+trouble like I can write a line like
+this what it will do is for each of the
+for each of these loops it will pick I
+will be assigned one of the values in
+this I terrible object I don't have to
+care about the datatype here because it
+is I durable I can use it in a for loop
+like this that's all matters that's it
+it works actually I even tried it
+earlier right so cool so this is working
+but this is no fun right we you just use
+some library again in an interview if
+you use this the interviewer will
+immediately say sorry I want you to
+implement it from scratch without using
+any library functions I mean I've done
+this by the way I have seen some people
+who say hey there is there must be some
+inbuilt function I just call it blah
+blah blah I said sorry you are to
+implement using
+principles you'll be implement using
+basic concepts of Python now these these
+are the outputs that we want right now
+how do we write our own code any
+suggestions like again this problem we
+already listed yesterday so let me see
+or somebody's saying time complexity
+people have gone to time complexity
+space complexity also okay fine again
+again I want this not to be more
+interactive as we go that's why I don't
+I don't give the questions the previous
+day just in the interest of the
+discussion and people who might be
+slightly on the slower side of grasping
+but anyway that's okay that's okay let's
+finish this okay so you can solve this
+again the way to break this is okay from
+tomorrow I will not give the unsolved
+problems of today I'll not put it in the
+code so that will have much more fun
+okay so somebody saying nested loop yes
+you can do it using loops also it's not
+easy or trivial but you can do it there
+many ways of solving this problem I mean
+I mean there are non optimal ways there
+are optimal ways all of that what I'll
+try to explain enough is I'll try to
+explain a way which is intuitive right
+not optimal but intuitive there are many
+optimal ways of doing it again if you
+just Google search for this you'll get
+like tons of solutions look at these
+permutations okay there is this is one
+solution again there there are many
+other solutions okay ITER tools
+combinations blah blah blah I'm sure
+people would okay so okay without
+permutations Python using recursion if
+you just type this you'll get tons of
+solutions by the way okay
+this is one solution I actually read
+this solution also there many ways of
+writing the code for this right so let's
+pick oh let's pick the again what I've
+listed here I've taken this code from
+stack overflow this is one of the easier
+to understand codes right I because the
+core idea here is to get the inclusion
+we can do code optimization also we will
+do it later okay first and foremost
+let's see hub if I have to write all the
+orderings how do we
+right let's think about it first I'll
+use one with one so I first I fixed my
+first position then I get two and three
+in how many ways can I organized arrange
+two and three I can do two and three I
+can also do three into two right this is
+one way next I take the second element
+if the second element is here what are
+other elements are not here because I
+fixed two here so I'm left with one and
+three so I'll try to arrange one and
+three one and three can be arranged in
+two ways right next I'll fix three here
+once I fix three I am left with one and
+two I'll arrange one and two this way
+this is how we have done it when we were
+in school and things like that right
+very simple way so first element you fix
+okay see I want I want three element
+permutations so a permutation of three
+elements first I fix the first element
+then I am creating permutations of size
+to look at this to compute permutations
+of size three
+I fix see what am I doing here look at
+the logic here the logic is the
+important part again some of the most
+interesting interview problems both for
+computer science students even for
+software engineers are all based on
+recursion recursion is the most
+beautiful concept in whole of
+programming like some people might say
+dynamic programming right again those of
+you who are from computer science
+background who know who have studied
+data structures algorithms most dynamic
+programming algorithms are nothing but
+recursion plus some some memorization or
+storing some data that's what it is most
+dynamic programming is simply recursion
+plus storing some data again we
+discussed this we discuss about how
+recursion and memorization how dynamic
+programming works in our AI course when
+we learn about back propagation when we
+learn about back propagation algorithm
+in deep learning I discuss about how
+back propagation algorithm is also
+nothing but recursion with memorizing
+some values or storing some temporary
+values right the so
+called the so called DP dynamic program
+des some of the hardest problems in some
+of the hardest interviews are dynamic
+programming problems not not for machine
+learning for even software engineers but
+all of those problems break down into
+recursion problems if you understand
+recursion if you can solve recursion
+problems you can crack any damn software
+engineering interview trust me at least
+most of them if not all of them all
+right so okay back to this discussion
+sorry where were we
+okay we were here right so what is the
+logic here let us understand the logic
+so in the first element I am placing all
+the elements under there first I place
+the first element then I place the
+second element then I place the third
+element once I place the first element
+again to get orderings or permutations
+of size three first I fix the element
+then I am looking for all the orderings
+of permutations of size two so look at
+this if I want permutations of size
+three what do I do I fix the first
+element first element this first element
+okay this first element can be any of
+these any of these values then the
+second and third element to get the
+second and third elements I'm just
+calling I am just using all the other
+permutations of size two so a problem of
+larger size can be broken into same
+problem of smaller size okay look at the
+logic here that's the important part 4
+factorial also an N factorial can be
+represented as n into n minus 1
+factorial so a problem of larger size
+can be broken up into smaller problems
+of the same type then you can apply
+recursion in permutation also a
+permutation of three elements can be
+broken down into iterating through all
+these elements first element second
+element third element so what do you
+need this for this to get this you need
+a for loop why do you need a for loop
+here to get the first element because
+you have to first use the first element
+then the second element then the third
+element when you fix the first element
+look at this you need a for loop when
+you fix the first element then you will
+call this
+permutation function again with two
+elements which are which so suppose if
+you put two here they're left or
+elements are one and three
+so you place you call this permutation
+with these elements 1 & 3 & you get 1 3
+& 3 1 3 4 2 possibilities and you print
+all of them recursion is one of the
+greatest ideas I think in whole of
+computing I mean I mean if I have to
+pick one idea in programming that I love
+the most is recursion hands-down okay so
+we got the idea now how do I translate
+into code again this is not the most
+optimal code I'm making it very clear
+here but it is the easiest to understand
+okay let's look at this we are creating
+a function called permutation again I've
+borrowed this from a stack overflow post
+very well written post right so again
+it's very important to clearly state
+where you're getting your material from
+its sixth again when you write your own
+notes or anything like that if you're
+using an external source please cut it
+then it's very very it's a it's a
+scientific practice we have been using
+for the last 400 500 years even even
+prior to that even if you look at old
+texts mathematical texts from China and
+India people say so-and-so person said
+this which I'm using right so it's
+important okay sounds good
+so let's get back to our discussion of
+okay so I'm defining a permutation so
+this whole thing is my function called
+permutation right and my input that I
+want to give to this is the list I want
+a list I want it to be able to take a
+list if they'll say again in recursion
+as we discussed in our course videos in
+recursion there are two parts there is
+something called as a base case and
+there is a recursive case base case
+basically means what is the boundary
+case for example for n factorial right
+the base case is 1 factorial equals to 1
+beyond that you can't break this down
+into smaller parts that's why it's
+called the base case very importantly
+right so what is the base case for our
+permutations if I just get if the length
+of SC is 1 if I just get a 1 element or
+1 element just a list with only 1
+element then there is nothing to permute
+there is only one way in which you can
+do it so just return that you're done
+right so this is called as the base case
+or the boundary
+this is called the base case of
+recursion right I think all of you know
+the N factorial thing that's why I'm
+trying to connect this so n factorial is
+n into n minus 1 factorial but the base
+case is 1 factorial equals to 1 so in
+that in the recursive function for in
+fact only will say if n equals to 1
+return 1 same thing here the base case
+is if the length is 1 you should always
+handle this next ok
+my resulting list the list that I want
+to output I'm I'm initializing it to an
+empty list again we discussed it
+yesterday right
+it's always a good habit to create
+variables that you want to use I'm just
+creating an empty list here right I
+didn't even change the variable names
+because I want to use the code hasis all
+right
+then it says look at this what was the
+logic if you recall the logic that
+explained a while ago there are two
+parts to it right the first part I need
+to iterate through one first element
+second element third element which means
+I need a for loop here within the for
+loop I need a look at this within the
+for loop okay let me change the color
+here within the for loop
+I need a recursion so given that I've
+understood the problem I've also
+connected it to the concepts I have to
+use recursion within the recursion the
+way it will work is I'll have a for loop
+within this for loop there will be a
+recursion that's the trick part most
+recursions of simple problems most
+recursions of simple problems like n
+factorial the recursion is not inside
+the for loop here it will be inside the
+for loop for a in s you gave me s right
+so let's assume s equals to 1 2 3 you
+gave me a equals 2 let's say you made a
+condensed three elements so this
+condition is not true
+my output list right is empty for a in s
+which means first I'll pick this then I
+will pick this then I'll pick this the
+for loop conne separate look at this
+there are 3 cells the first cell I need
+a for loop for this I need recursion so
+for the first one this for loop
+corresponds to first I will pick one so
+a will be one first so a will be one
+right next once a is one I want a
+of all the remaining elements my
+remaining elements are look at this
+I want the remaining elements remaining
+elements at 23 so how am i writing this
+I am writing it a one-liner I am saying
+X for X in s if X naught equals to a
+look at this X I want all the X such
+that for X in s if X is not equal to a
+so take each of these elements
+what is a a equals to one enough write
+anything that is not equals to one give
+me those values so what will these
+remaining elements be these remaining
+elements is 2 comma 3 again this is a
+concise way of writing if you're not
+comfortable in writing the concise way
+you can write a simple for loop and get
+the remaining elements that's ok again
+as I told you I've just copy pasted this
+code here I have not modified it even a
+single bit right so this is a concise
+way of writing it so when you encounter
+again you may not write code like this
+but if you if others have written code
+like this this is very simple to read X
+you want all the X's such that for X in
+s if X is not equals to a that's it very
+simple to read if you think about it so
+this remaining elements will contain 2
+comma 3 now I want all permutations of
+remaining elements my remaining elements
+is this list 2 3 my permutation function
+again I am calling permutation within
+permutation so what should this written
+this will return some Z this Z should be
+list of all permutations of 2 3 so it
+should be 2 comma 3 and 3 comma 2 that's
+how we will write code right next look
+at this so so here let's say you my
+fixed 1 ok so how is the code working
+this is important so here I am writing 1
+I got these two this Z know the Z now
+contains these 2 right cup then is a
+list of Lists actually Xen is a list of
+lists very simple now what do I do
+40 in Z for each of these append each of
+this to 1
+so 40 in Z perm list dot append a plus T
+when you do a plus T
+happens this a which is one gets
+appended to two comma three
+this whole entry now one two three this
+list this list gets added to my firm
+list cool next forty in Z forty in Z
+right so next three two then I will get
+one three two so now my perm list will
+contain one two three one three two by
+the end of this loop but this is not
+over because this for loop it start off
+with a equals to one but will continue
+with a equals to two and a equals to
+three so by the end of this whole thing
+by the end of this whole function my
+perm list will contain all the possible
+permutations and I just print it look at
+this look at what I get I get 1 2 3 1 3
+2 2 1 3 2 3 1 3 1 2 3 2 1 right very
+simple again the challenge here the
+reason why most people make a mistake
+here ok very importantly is people have
+seen n factorial or Fibonacci all those
+toy examples the important aspect in
+that is it's a very straightforward
+recursion here you have a for loop and a
+recursion within the for loop this is
+the trickier type of recursions if you
+can handle this again this is a very
+very common interview question I've seen
+a lot of people ask this and again it is
+simple if you know the concept it is
+simple again this again what is the time
+complexity of this code look at this so
+okay let's let's write it down ok again
+there is a whole lot of mathematics and
+computing it but how many look at look
+at very simply write how many
+permutations do we have ok you have
+three elements let's say you might have
+n elements how many permutations you
+have if you have n elements in the first
+place you can place any of the n values
+in the second place you can place any of
+the N minus 1 values in the third place
+you can place any of the N minus 2
+values in the fourth place any of the N
+minus 3 in the last place one value so
+how many permutations exist n factorial
+permutations so even if you write a very
+very optimal code your number of
+permutations will all
+is be order of n factorial and n
+factorial is very very is large okay it
+in fact will is quite large right so I
+hope I hope you got the concept here
+right the exercise problem what I wanted
+to do here here is this okay this is
+actually a lot of fun okay so with this
+we'll finish the two problems that we
+discussed yesterday and we'll start the
+new problems of today I don't know how
+many we can finish but anyway whatever I
+can't finish we will carry them on to
+tomorrow okay but I want to explain it
+thoroughly so that everybody benefits
+I hope the concept here is clear right
+so first let me explain the exercise
+then if there is any question I will
+take it now I want you to print
+combinations just like permutations so
+imagine if I have five elements let's
+say you might have five elements one two
+three four five
+I want combinations of three elements
+what is a combination or I want all of
+the possible ways to pick three elements
+from five elements right how do you do
+that
+look at this how do you do that if you
+think about it let's think logically
+right so let's say you see off let's say
+five elements see off five elements
+right so again first thing that should
+strike you is maybe I can write it with
+four loops if I can't write it with four
+loops may be recursion is the solution
+right always thing don't forget
+recursion many people just think still
+think in four loops
+they don't think of recursion especially
+non CA students okay so let's let's look
+at this I have five elements here I want
+to pick three elements right so I have
+three places in this first again the
+order doesn't matter no the order
+doesn't matter in combinations I am
+saying how many ways you can pick three
+elements so here one two three is same
+as is same as two three one because the
+order doesn't matter in combinations I
+just want to know in how many ways can I
+pick three elements from these five
+elements that's all I care about
+okay so let's see first let's say you
+might pick the first element okay first
+I pick the first element I pick one
+element then I have to pick two more
+elements see at the end of that I do
+pick three elements think
+human how we will write all the
+possibilities first I will pick the cell
+okay let's like let's try to think how
+we will solve it forget about recursion
+now for the time being
+first I will pick one right since one is
+there I have two more places that I can
+fix right so I picked one now I look for
+other ways other ways in which I can
+pick I can pick two elements from these
+four elements look at this what do I
+want the recursion is or okay let's
+forget recursion okay first I think the
+one element now there are two more
+elements that I want to pick so I want a
+element I want to pick these two
+elements from these four elements okay
+that's one way okay
+no no look at this the order doesn't
+matter
+so can you solve this problem as follows
+the number of combinations of picking
+from five elements right and I want to
+pick three such I want to pick three
+elements from okay let me write it this
+way instead of writing it this way I
+want to pick the number of combinations
+in which I can pick three elements from
+five elements is pick the first element
+and think of how you will pick the two
+elements from the four elements so first
+pick an element then can I somehow break
+it I'm not telling you the solution I'm
+just giving you a hint here right again
+let's do them you have to work out the
+logic yourself but I'm just giving an
+intuition here the number of
+combinations of picking three elements
+in five elements a three only three out
+of five is pick one element so pick one
+pick one so let me write it down pick
+one element plus then you have to
+recurse pick two elements from four
+elements but remember don't make the
+mistake because if you do this there's a
+very common mistake that people do in
+combinatorics let me also tell you that
+so that you don't make that mistake very
+common mistake that people do is they
+pick one here let's assume they pick two
+three here now when the pick two here
+they'll pick one three here and they'll
+count these as two different two
+different combinatoric or two different
+ways of picking well this is the same
+this is literally the same same because
+order doesn't matter so the way to think
+about it is
+can you pick one element and then
+Wreckers but make sure that you do that
+you respect the fact that the ordering
+doesn't matter right that's one again I
+want you to think about it again you
+will easily get a solution if you just
+google search for it there are hundreds
+of blogs that will give you an answer to
+this but I want again this problem is
+not trivial but think about it give it a
+couple of days of hard thinking if you
+cannot crack it then see the solution
+Google search for it you'll get a
+solution trust me
+the other of the other option I also
+want you to solve this problem using
+inbuilt functions suppose if you type
+combinations in Python just type this on
+Google okay you get you get this okay so
+we have already seen the permutations
+code now there is also a combinations
+could I said this also permutations
+sorry okay this is the combinations code
+so from ITER tools import combinations
+simple then you can say combinations
+blah blah blah that's it
+just like the way we did permutations
+this is pick two elements from this list
+of three elements okay so that's what
+this function does pick to pick then so
+this gives you all the ways in which you
+can pick two elements from this list of
+three elements you just print it right
+so the second part is trivial but again
+what I want you to do is I want you to
+go or read the documentation so for
+example I tell tools combinations right
+please read that ITER tools ITER tools
+combinations okay that's a hacker rang
+hacker rank is also not that okay they
+have the documentation cool so okay so
+okay they tell you I tell tools about
+combinations the first thing has to be I
+terrible the R is the length of the
+subsequences simple they give you very
+nice code also code snippets so that you
+can understand what's happening just
+like the previous one the first one is I
+terrible which means we can use a list
+but it's better to read the official
+documentation I prefer the official
+documentation combinations ok the
+combinations is here yes itit tools and
+are it will give you again it tells you
+what it returns it tells you what it
+does there's also simple code snippet
+that you can read through I always
+prefer the official doc
+datian because it is the it is the most
+exhaustive it is the most concrete no
+errors all of that stuff mostly no
+errors right so I want you to solve this
+problem both using high-tech tools
+combinations and using a recursion again
+please understand that combinations is
+slightly harder than permutations but
+try it try it for a couple of days I
+really want you to try it okay let's
+look at the somebody says I don't know
+what is the recursion that's okay that's
+okay
+again you can just Google search for it
+recursion is one of the again the the
+prerequisites that I mentioned in the
+announcement video is that you know the
+basics of Python if you don't know again
+there are lots of resources you can just
+go to youtube and type just type
+recursion in Python you'll get tons of
+links I'm sure recursion in Python right
+so the tons of tutorials you can you can
+just go through any of these there are
+tons of resources some good not some not
+so good just go through it it should be
+very simple concept right the tons of
+resources for sure so okay sounds good
+or somebody says if you can break it the
+way we save it yeah there is a there is
+an other implementation of it right
+which is if you don't want to use the
+recursion company science folks would
+know it you can actually use a stack and
+do it but I'm not going into it okay
+sounds good so let's let's continue love
+recursion is something that I wanted to
+touch upon hopefully we will solve some
+more problems in the future sessions but
+here comes the third problem that I want
+you to think of how do i how do i okay I
+hope everybody can see I don't want to
+scroll too much dumb I want you to think
+about it I hope everybody can see this
+right the problem is simple it makes me
+the problem okay again this requires
+only high school mathematics nothing
+more trust me okay you have an equation
+like this
+you have an equation like this sine x
+equals 2 cos x
+let's just remember that all XS are in
+radians not in degrees right because
+radians is the scientific notation that
+everybody uses now I want to find an X
+think if you remember we had quadratic
+equations if you remember like 2x
+squared plus 3x plus 4 equals to 0 find
+X right if you recall and we would use
+this Sridhar acharyas formula minus b
+plus or minus blah blah blah that
+formula that's called is read Rosario's
+formula and we would get dancer now my
+question is slightly more interesting my
+question here is given this equation I
+want you to find the value of x which
+satisfies sine x equals 2 cos x can we
+do it very simple all of I'm assuming
+this high school math right I wanted to
+find a value of x again in radians not
+in degrees I only care about radians
+because that's a scientific notation
+that's a more scientifically used that's
+a more scientifically widely used metric
+like what is it called a unit for the
+affor for this and not degrees right
+sine x equals 2 cos x find there will be
+there could be many such XS we don't
+know let's find one such X that's a
+target first thing what you have to
+think about this again
+I've discussed this in lot of free
+videos and course videos also first
+thing let's plot Google is brilliant
+with these plotting tools sine X minus
+cos x so the other way of looking at
+this problem is if I want to find sine x
+equals 2 cos x the other way of thinking
+about it is I want to find X I want to
+find X such that again I'll write such
+nothing short such that cos x minus sine
+X is 0 or sine X minus cos x is 0
+whichever way you want to write I want
+to find an X where this is true so let's
+plot this function and see where this is
+equal if it is equal to 0 or not again
+I'm going to a little bit of
+mathematical programming here right so
+let's go into it so let's actually go
+and plot plot let's say cos x minus sine
+X
+because that's what I wrote in my notes
+you can do either of them okay very good
+so when I see cos x minus sine X it is
+equal to zero at many places look at
+this it is equal to zero here it is
+equal to zero here it is equals to zero
+here it is equal to zero here it is
+equal to zero here so Google I mean I
+love Google plotting tool for this you
+don't even have to know matplotlib for
+simple functions like this right now
+let's say okay let's say I want to find
+I want to find this value I want to find
+this X there are many such X obviously
+this is one value of x this is one value
+of x this is one value of x and so on
+and so forth I want to find this value
+so how do we write that so let's go into
+our notes I want to find one possible
+value of x that license 0 comma 1 now if
+you zoom this in little if you zoom this
+in right zoom this in this is 0 this is
+1 1 value of x 1 value of x let's call
+this function as f of f of X let's say f
+of x equals 2 cos x minus sine X right I
+want to find one X here in the interval
+0 to 1
+look at this in the interval 0 to 1
+there is 1 X where f of X equals to 0 I
+want to find this number as as
+accurately as possible I want to find
+this number how do we do that with
+program with programming right so the
+question is very easy one possible value
+of x so I want to find X that belongs to
+0 comma 1 in this interval X should lie
+in the center this is a fancy
+mathematical way of writing it
+mathematical expressions you should read
+them in English X belong you want to
+find X you want to find X that belongs
+to this interval 0 comma this is not a
+list please this is mathematical
+notation this is not list this is
+interval let mirror I mean it's very
+common to get confused between
+mathematical notations and computer
+science inflation's this is the interval
+between 0 and 1 such that my f of X
+which is cos x minus sine X X sine X is
+0 it
+f of X is nothing but cos x minus sine X
+that's what I want how do we find it any
+suggestions okay let me I want to hear
+your suggestions can we draw the curve
+okay somebody says 2 n minus 1 pi by 4
+how do you get that answer
+somebody says PI by 4 cool of course you
+can solve this numerically also ok there
+are many ways to solve this but I want a
+programming way so right now I gave a
+simple function cos x minus sine X right
+I want a function where cos x minus sine
+X is 0 this is an easy function but
+given any function here I could give you
+any damn function given any function FX
+I want you to find X such that FX equals
+to 0 and X belongs to some interval a
+comma B means this is a general problem
+right this is often called as the root
+finding problem finding roots of an
+equation if you remember root finding
+that you may have learnt in your eighth
+class 9th class root finding basically
+means given and given any given an
+equation like this find X that satisfies
+these values that's what is root finding
+again you may have learned this in your
+undergraduate level computer science I'm
+sure that there is a subject called
+numerical methods either in your match
+one match to whatever it is for CSC EC I
+have seen this when I started BTech we
+had this I know it because both see it
+was compulsory subject for all
+departments triple eMac civil everybody
+had this subject man every engineering
+guy had this I think the subject was
+also there an MCA of course I may see
+math guys and messy stats gates will
+learn about this no no doubts about it
+right so the question is much more
+general somebody asks how to know if the
+code is optimal if you can find out more
+optimal code than that then certainly
+your code is not optimal that's the
+simplest way to do it
+somebody says use divide and conquer can
+we loop over 0 to 1 with condition run a
+loop from 0 to 1 for sine X Oh
+okay somebody says gradient descent
+let's not go to complex concepts will do
+a live session later on gradient descent
+where we learn about gradient descent
+methods right so I'll go to gradient
+descent later let's think of simple
+stuff I mean only somebody says binary
+search okay how do you do binary search
+find the minimum by different shading
+okay let's say you my function FX is
+hard to differentiate very complex to
+differentiate how do you find that then
+right so again by differential by
+differentiating how do you find FX
+equals to zero you have to find FX
+equals to zero right how do you find
+using differentiation how do you find FX
+equals to zero think about it okay
+somebody says okay a couple of good
+suggestions loop through zero to one
+with an interval very good that's a good
+idea that's a good starting point I
+actually like that again let's let's use
+simple stuff we'll learn more complex
+things as we go so somebody says let's
+do this for I equals two right I'm just
+writing pseudocode I am NOT writing
+Python code let's take values from zero
+up to one but take them in intervals of
+0.01 so on so forth for all these values
+let's just check so let's let's define a
+function let's def f of X right which
+will return which will simply return cos
+of X minus I'm writing pseudocode this
+is not Python code because I write math
+not math not all of that stuff right now
+all this is cool for I equals to this
+just compute f of X if f of X equals to
+0 if f of X equals to 0 print print X
+all right right can anybody think why
+this will fail can anybody suggest why
+this will fail this won't work I mean
+this will not always work late will be
+precise then it will work sometimes but
+not all this it may not work for every F
+X Y think about it any suggestions
+somebody says bisection method will come
+down but let's go to the intuition part
+first
+kha'zix by sine x equals to 1 I didn't
+say that no how did somebody say cos x
+by sine x equals to 1 tan x equals to 1
+so X is inverse of tan of 1
+the problem is cos x minus sine x no not
+cos x by sine x this is cos x minus sine
+x equals to 0 right so I think there is
+a confusion there because all numbers
+will not be covered good
+so somebody got the good ass so the
+question at our hand is why won't this
+be true see here we are we are picking
+numbers with two decimal values probably
+FX equals to 0 at 0 point they just say
+they just make up this number they just
+make up this number we don't know 0.8 1
+2 3 4 5 6 7 1 2 let's assume at this
+exact value FX will be equals to 0 so
+you will in the Indies in this loop you
+will try 8 1 you will try 8 2 but you
+will not try this exact number so this
+value will never be equal to 0 so how do
+you now solve for this ok ok
+because value can be any decimal places
+that's true that's true
+right so how do we fix this so we all
+know what is the problem with this I'm
+happy we are thinking together I'm very
+happy how do we fix this problem think
+about it is there a simple fix to it ok
+any suggestions the value may not be
+present in the range very good people
+are thinking through it very good is
+there any all values do not occur in 0 1
+yes so can somebody tell me again again
+some of you who are good with
+trigonometry who still remember no so
+actually anyway so I don't want to go
+into other topics of mathematics take
+value closest to 0 very good sunny very
+good point
+I'm happy you mentioned this so one idea
+here is disk
+pirating right when uitimate don't look
+for zero exactly
+don't look for zero look at the value
+which is closest to zero as you write
+rating it this is a very simple hack now
+a very simple hack now one simple hack
+here is one second okay one simple hack
+is you just say the best in love the
+best in love will be will be whatever
+the best value till now okay the best
+value will ten long will be infinity
+when you start on a very large number
+you always check f of X so the way you
+can modify this very easily here is you
+say okay I got I'll you'll run through
+all these values right you will say if f
+of X right it has to be as close as
+possible to zero right if f of X is
+let's say if f of X is less than or
+absolute value of f of X is less than
+the best value till now the absolute
+value of best value then your best value
+equals to f of X you I trait through all
+of this look at this so you're just
+keeping a best value that you're getting
+it in love okay best is f of X and best
+X also you store as X that's it so now
+now not what do you do now what happens
+in this you're just you're just picking
+the one that is closest to zero I hope
+the logic is right so what does this say
+this says this gives me suppose let's
+assume f of X is zero point zero zero
+one and my best is point one obviously
+it will pick this I should always use
+absolute values here otherwise negative
+values will overtake right so makes
+sense logically this seems correct but
+then there is a problem here so let's
+see him the actual answer is eight one
+two three four let's ensure so we would
+surely try point eight one so let me
+change the color here so we would surely
+try point eight one we would try 0.8 to
+either point eight one or 0.82 will be
+closest but this loop will run four
+hundred iterations you don't know which
+other eight eight - you can't stop
+you'll have to go to eight three so on
+so forth if we want to decimal accuracy
+look at this if you want to
+decimal accuracy this loop has to run
+through ten power to 400 values if we
+want three decimal accuracy this has to
+go through thousand values if you want
+four decimal accuracy this has to go
+through 10 power 4 values while this
+solution is a good solution decent
+solution it is time complexity is a lot
+because if I want let's say B decimal
+values if I want D decimal values I need
+to 10 power B I have to looked through
+this 10 power D times is there a better
+way than this well this is a good
+suggestion very good suggestion actually
+I didn't think of this I was thinking
+completely from a mathematics
+perspective but it's a good suggestion
+right I didn't actually think of this
+solution when I wrote the notes oh yeah
+I now to put exit why you really put
+exit no you can't put exit no if you put
+exit everything will go for a toss
+you can't put exit so at the end of this
+you'll just say print X and FX again
+this is not perfect syntax because you
+got 8.82 but it could so happen that
+point 9 n is closer to a point the F of
+0.99 is closer than point 8 - you don't
+know that right so you have to tie all
+these values you can't sleep any value
+right you just go through all of them
+find the best one and you continue
+that's a problem with the solution any
+now how do you know you got the solution
+you don't know that you got the solution
+yet because there could be other values
+which could be better than that right my
+eight two need not be the solution
+suppose let's assume if I mean that
+depends on f of X obviously right you
+still don't know that that's a problem
+but there is a hacker on it I know what
+you guys are going to so if you plot
+this if you see this plot if you see
+this plot between 0 & 1 this is
+monotonically decreasing what does
+monotonically decreasing means so let me
+just zoom this out zoom this yeah
+zoom this till here so if you look at
+this values from 0 to 1 it is
+continuously decreasing as you are going
+zero to one this is continuously
+decreasing which means once you come
+close to zero and as you keep going away
+from zero look at this as you keep going
+away from zero you'll not come back to
+zero so some of you are right that once
+in this we have to find a pattern in
+your code you have to say okay we know
+that it is a monotonic function what is
+a monotonic function more not tonic
+function our monotonic function is
+either something which is continuously
+decreasing or increasing again it did
+not be linear it can be any shape sorry
+this is not there as I'm going from zero
+to let's say point A to these values
+reduced from eight to so there is a
+there is a decrease from eight to there
+is an increase so you find that point
+from where look at the distance from
+zero the absolute value distance from
+zero you are plotting the absolute value
+right you say it is decreasing and then
+it is increasing or in other words this
+value you don't even have to worry about
+that these are all positive values these
+are all negative values right so just
+find that X just find that X where you
+go from positive values just find that X
+where in you go from positive values to
+negative values right the moment you go
+to the negative value you can just you
+can just break this just write a
+condition here and break this then you
+don't have to go any further but in the
+worst case what will happen look at this
+in the worst case imagine if your f of X
+crosses from positive to negative at
+point 99 then you will have to go
+through everything what you're doing
+here is often called as a linear search
+again this is something that we
+discussed in our course videos also you
+are linearly searching for your answer
+you're searching at 0 0.01 0.02 so on so
+forth up to 1 one after the other this
+is called as a linear search right very
+common concept in computer science also
+now a better way than linear search is
+binary search again this is something
+that I explained in the course videos
+when I explain about computational
+complexity right so what does binary
+search say again we can solve this
+problem better using binary search
+that's the idea here
+again the reason I gave this problem
+here is to connect the concepts in
+computer science like linear search
+right and binary search to mathematical
+programming again as a machine learning
+engineer or as a data scientist people
+expect you to be able to solve these
+mathematical problems you may not know
+dynamic programming all the advanced
+data structures but people expect you to
+come up with reasonable solutions and
+even code for this again a small variant
+of this is what I've asked people in
+interviews I don't ask like because
+because software engineers are there to
+do software engineering machine learning
+guys should be able to solve
+mathematical problems and mathematical
+code related problems also all right so
+what is the idea behind binary search
+let's see the idea is very simple let me
+explain the idea but I think some of you
+also mentioned this that we can use some
+reasons divide and conquer yes divide
+and conquer is a concept which is used
+in binary search somebody mentioned the
+bisection method again bisection method
+is nothing but a different name for
+binary search in the context of route
+finding it's just a different way of
+looking at it that's it it's the same
+concept more or less right so okay so
+there FX equals to zero plot cos x and
+sine x the intersection value of x equal
+x is 0 again somebody says that you'll
+plot cos x + sine x the intersection
+value how do you see that you will have
+to again I don't have to do that right I
+can do cos x minus sine X zoom this in
+zoom this in zoom this in I can zoom it
+in right ok iPhone 7 8 5 ok zoom it in
+further right if I want 4 decimal places
+I can plot it the zoom it but then this
+requires ok this is somewhere between
+seven eight five three five and seven
+eight five four so the answer probably
+is if I want four decimal places right
+okay so let's zoom in a little okay so
+okay somewhere like this
+then five okay if I go here it will tell
+me okay look at this look at look at
+this value here right so what does it
+say as I'm coming closer to this okay it
+says seven eight five three roughly
+that's answer you can always do it from
+plots but programming is much more fun
+than that again it requires human
+intervention imagine if this solution
+has to be an input to some other
+function then you can't say let's look
+at the code right okay so somebody says
+continuously find the min value yes
+you're right I'm happy that all of us
+are thinking together the idea is this I
+start between zero and one again a key
+observation that we have here is that
+this function is monotonic in this range
+so it goes from positive values to
+negative values and zero is exactly on
+the boundary right so let's solve this
+between zero and one first what I'll do
+here is this I will say what is f of
+zero I know F of zero is positive all
+right right I know that I know what is F
+of 1 F of 1 is negative so which means
+the answer because it is the curve is
+falling like this somewhere the answer
+has to lie somewhere in between so
+instead how does binary search work I
+take I take an array in binary search I
+take an array I break it up into two
+parts in the next iteration I only use
+the either the first half or the second
+half that's what I discuss in binary
+search right that's a concept of binary
+search even here we will use the same
+technique it's the same concept applied
+to numbers so what do I do now ok now I
+say let's take a middle point ok the
+middle point let's compute the middle
+point the middle point is point five now
+I say at point five is it positive or
+negative at point five if it is negative
+look at this at point five if it is
+negative that means the answer lies in
+this window somewhere in this window
+right if at point five it was positive
+then answer lies in this window so in
+our case in our case look at this so I
+will call this as the X lower limit I'll
+call this as the X upper limit I'll keep
+changing these lower limits and upper
+limits just like in binary search right
+so let us go through the
+logic I want to go through the logic
+with you by walking you through the code
+okay so let's see let's go through each
+other again I'll keep this diagram here
+first and foremost very simple I just
+import math I say return math not cos x
+minus method sinus sine X don't forget
+to put import math and use math because
+cos x is not an inbuilt function you
+have to import math so I'm defining my f
+of X cool very simple then what am I in
+YCJA lysing my lower limit i am
+initializing it to zero my upper limit
+I'm initializing it to one because my
+initial window is 0 comma 1 that's my
+initial window next I'm computing the
+middle point how do i compute the middle
+point xu + x-l by 2 that gives me my
+middle point now look at this now I am
+doing an iterative part right what how
+does my iterative part work this is
+important right if FX c if I want 3
+decimal places till width if FX is
+greater than 0.001 again there is a
+small bug in this code I'll tell you
+what later okay I wanted to figure out
+the bug by the way okay so if FX is
+greater than 0.0001 all right so my f of
+X is like this is this is at this is
+like at 0 but I'm okay getting perfect 0
+is hard so I want let's say 3 decimal
+places I want the three decimal places
+type of accuracy
+first again whenever you write code like
+this keep printing to know what is
+happening in your system right so if
+your f of X is greater than this right
+then
+you'll keep I iterating so what am I
+doing here first I am computing the
+middle point
+look at this I'm computing the middle
+point if enter middle point so this is
+my middle point right so this is my X
+here this is my excel this is my Xu this
+is my X this is my middle x is always
+the middle point in this loop right if f
+of X is greater than 0 look at this if f
+of X is greater than 0 right which means
+this if this is greater than 0 what
+happens my my area that I look at should
+be this window then what should I do
+I should make the current x equals to my
+excel
+and I don't touch my ex--you because I
+want to focus on this region if f of X
+was positive here look at this if f of X
+was positive here I know that the answer
+will lie in this region if f of X is
+negative I know that the answer lies in
+this region so what do I do
+I compute X if f of X is greater than
+zero right if f of X is greater than
+zero I make the lower limit equals to
+the current X I don't touch the upper
+limit but if f of X is greater is less
+than zero look at this if it is less
+than zero
+I know that my answer this is my answer
+right my answer I know lies in this
+window that's why I'm adjusting only the
+X U then Xu becomes this so this becomes
+my Xu my Excel doesn't get interrupted
+so what I'm doing here is given an
+interval like this we teach iteration I
+am breaking into say I am saying either
+the answer lies in this interval or in
+this interval if I know it lies in this
+interval I'll break this further I check
+whether the answer lies in this interval
+or lunes interval if the answer lies in
+this interval I will again break this
+interval into half this is the whole
+idea of binary search right that's all
+is the code here there is nothing more
+fancy all see I'm printing this line and
+this line to see how things are
+progressing right the moment you execute
+this code okay let's execute this code
+the moment you execute this code
+initially Xu and XL again the reason I
+print is because I want to understand
+what's happening Xu Excel r01 cool then
+I'm printing f of X cool my f of X I am
+printing but this since this code is
+executed what does it do since my f of X
+is positive look at this my X of f of X
+is positive right my X is 0.5 look at
+this my f of X is positive my ex look at
+this this is my excel this is my Xu this
+is my X my f of X is positive
+look at my f of X is positive right
+which means this should become my
+interval right and that's what happens
+my interval becomes 0.5 to 1 very good
+right
+look at this XL and Xu have changed to
+0.5 and 1 it's working well
+then in the next iteration my Excel is
+0.5 my ex--you is 1 right now
+it takes the middle point compute the
+middle point and it prints this cool
+this is also printed now the value is f
+of X is this my interval has become 0.75
+to 1 so I started off with 0 1 start off
+with 0 1 then this is my starting first
+iteration this is my second iteration my
+third iteration is 0.75 to 1 cool things
+are working good then I know that I know
+that because if you look at this
+let me just scroll this a little down
+okay without telling you that without
+showing you the answer let's go down
+here next I get 0.75 and 1 okay cool my
+excel index you are behaving as I expect
+now I print the value at 0.75 at 0.75
+what do I get
+because it's at 0.75 or the middle point
+I compute the middle point right Oh
+point seven five and one the middle
+point is about 0.875 at 0.875 I compute
+what do I get I get minus this value
+right what is my Excel love this is my
+egg cell this is my ex--you and what is
+my X love my X's 0.875 immediately after
+this the loop terminated for some reason
+right and it says x equals two 0.875 and
+f of X is minus zero point one two six
+five which is not what I want I want it
+to be close to zero this is still far
+away from zero what is the error in this
+code I want you to guys think to think
+about it okay this code is in front of
+you let me know you have written the
+input so I've shown you the code I've
+explained the code I've also explained
+the output syntactically there is no
+error it's running but there is a bug
+there is a logical error here so can
+somebody tell me what is the logical
+error here while condition what is the
+error in the while condition somebody
+says there is an error in the while
+condition then somebody tells me what is
+the error in the while condition look at
+this I hope again let me show you this
+okay again
+many ways of writing this this is just
+one way I wanted to make an error again
+it's it's sometimes hard for me to
+explicitly make errors because it takes
+me a couple of seconds to think of what
+errors can especially beginners make
+right so it takes me a couple of minutes
+to think of errors because if I were to
+write it I'll have far fewer errors than
+this okay ha f of X is greater than come
+on this won't work no somebody says ok
+somebody says that we have to put a 1
+second somebody says we have to place an
+absolute value here why absolute value
+here absolute value of point zero zero
+one is point zero zero one no problem
+with that
+that won't work now again you're
+thinking correctly but there's a bug
+still huh somebody says f of X has to
+follow this okay cool I'm happy use
+absolute value yes the problem here is
+this f of X must be inside an absolute
+value because if you don't use absolute
+value the moment f of X value becomes
+negative this negative number is less
+than point zero zero one it will come
+out of the loop look at why it came out
+of the loop here it came out of the loop
+here because this value the negative
+value is less than so sorry f of X is
+greater than this oh while this is true
+it will keep going in so this f of X
+value is less than point zero zero one
+because this is a negative value this is
+a positive value that's why it came out
+of the loop so what we should do here is
+we should use absolute value I wanted to
+drive that point so the moment you use
+absolute value okay so what did I do
+here
+I said import math math not absolute
+value I executed this I get an error
+again right again I'm trying to cover as
+many errors as I can okay please
+understand that I got an error let's
+read through the error okay it says
+where is the error it says the error is
+here because that's the only line I
+changed it says module math has no
+attribute abs what is error here come on
+it's trivial abs function is not in math
+that's what it's trying to tell you
+right again we've seen this a very
+common mistake people think
+absolute value function is in math it's
+not and that's that's what I wanted to
+drive you absolute value is inbuilt into
+Python you don't have to use math rot
+absolute value just say absolute and
+that's it you get the solution right so
+Oh was this not executed I thought this
+was executed okay let me just execute it
+anyway let me just run this okay you get
+the solution of so look at look at what
+you get here so you keep going through
+you start with zero one then you go to
+0.5 one then you go to 0.75 one point
+seven five point eight seven five then
+again by section by section by section
+by section by section finally you get x
+equals to this value where it has look
+at the first three decimal places first
+three decimal places are zero it is only
+the fourth decimal place that things
+have changed if you want more accurate
+answer look at how many iterations did
+did it go through one two three four
+five six seven eight eight iterations
+that's it if you want more eye
+traditions for three decimal places
+using this method you it would have gone
+through worst case thousand iterations
+worst case not always worst case in this
+with just eight iterations we got it
+even if you want for if we can just run
+it it might take maybe how many
+iterations one two three four five six
+seven eight nine 10 11 12
+just 12 white raishin we already got
+something which is 10 power minus 6 e
+minus 6 basically means into 10 power
+minus 6 very good answer very good
+answer we got just 12 iterations right
+cool now I want you to solve this
+problem slightly differently okay
+this method is called as bisection
+method and it uses binary search mine
+research is something that we discussed
+in our course videos very simple concept
+again it's it's it's often taught as a
+first method of divide and conquer this
+is also divide and conquer approach
+because what are we doing we are taking
+an interval we are dividing it into two
+parts right and we are only looking at
+one part so we are using divide and
+conquer here right so this is a very
+important strategy in algorithmics
+design that we are using here now I want
+you to go through this okay
+exercise okay solve a problem like this
+again follow the same steps as above
+always see it in Google sheets again you
+can you can plot this it's all the same
+thing whatever we have done here just
+change f of X and see I wanted to just
+change f of X and play now there is a
+better method that bisection method is
+not the most optimal method again
+there's a whole area of there is a whole
+area called numerical methods again I
+studied this topic extensively and there
+is something called as rate of
+convergence right again I'm not going to
+go into the mathematical details here
+rate of convergence basically says how
+fast are we moving towards the X that we
+want that's what is called as a rate of
+convergence numerical methods the time
+complexity is measured by rate of
+convergence how fast you're moving
+towards the X that you want again
+bisection is a very simple method there
+is a better method that some of you may
+have learnt in your BTech called as
+newton-raphson method which is far
+faster than bisection I've provided
+links for you
+brilliant has a very nice explanation of
+newton-raphson it requires you to have
+basic understanding of derivatives again
+we have one problem on derivatives
+little later
+if you don't know that probably after
+tomorrow's session you can start you can
+easily follow this there is also code in
+Python that I have put put here again we
+will cover some of the concepts behind
+newton-raphson method when we do a live
+session on optimization so in our course
+videos again as part of this live
+session as time permits we'll go around
+and learn about gradient based methods
+how to use derivatives to find the zero
+there how do we do that again you can
+use derivatives to solve that there is a
+way to do it it's not straightforward
+again literally I mean some of the best
+mathematicians of their generation both
+mutant and raphson came up with this
+method
+imagine this method they came up in like
+what 16 hundreds right they came up with
+16 hundredths and it's still one of the
+most popular method so there is
+something called as gradient based
+methods that we will discuss in one of
+the future life sessions when we cover
+optimization methods where we
+implemented en descent stochastic
+gradient descent batch gradient descent
+it will will implement all of them one
+by one right so far enough this is the
+takeaway sounds good we have 25 minutes
+right so let's try to solve this problem
+okay okay I think we can solve it let's
+try it let's try okay this is my problem
+okay again this is a problem in
+mathematical programming the problem
+here is given given a function like this
+sine X by X first let's plot it I want
+to find the area under this curve in the
+interval minus 10 to +10 okay I'll
+explain the mathematics don't worry if
+you don't know this first let's plot
+sine X by X it's a beautiful function
+actually
+sine X by X is a very beautiful function
+in mathematics okay you might have seen
+this function so
+psychics by exercise this nice thing
+where this is this is high peak then you
+have other Peaks but as you're going
+this way the X is increasing right
+because the X is increasing so sine X
+value always lies between zero lies
+between plus one and minus one right so
+as you are going this side the
+denominator is increasing while sine X
+oscillates between minus 1 to 1 right
+sine X always oscillates sine X
+oscillates like this right so if you
+plot if you just plot sine X if you just
+plot sine X it's aw it oscillates
+between plus 1 and minus 1 alright so
+sine X itself oscillates between plus 1
+and minus 1 but the denominator
+increases as you go this side similarly
+the absolute value of the denominator
+also increases as you go to this side so
+this function is very beautiful I mean
+it's extensively studied now my question
+is this I want to find the area under
+this curve from minus 10 to +10 what is
+called as the area under the curve
+that's important question this whole
+thing so this whole thing this is called
+the area under the curve this whole
+thing area under the curve is nothing
+but the area between the x-axis and the
+curve so this whole
+thing this whole thing similarly this
+whole thing this whole thing the small
+part here the small part here I want to
+find how much area is there again
+finding area of rectangles is simple
+area of circles is simple right area of
+rectangles is also simple you can find
+area of triangle also now here you have
+a complex curve for which you want to
+find the area under how do you solve
+this problem think about it I want to
+hear some of your suggestions okay okay
+one second one second integrate with
+limits okay can somebody indicate this
+for me please
+can somebody compute minus 10 to +10
+sine X by sine X by X DX integration you
+all must have learned at 11th and 12th
+class right can somebody integrate this
+for me it's not easy trust me it's a I
+mean forget about this integration this
+integration is much harder even if you
+do 0 to infinity sine X by X DX again if
+you have forgotten calculus don't worry
+about it even if you want to integrate
+from 0 to infinity or minus infinity to
+infinity it's not trivial trust me this
+is one of the very interesting and
+challenging integrations to compute this
+is what minus infinity to infinity from
+10 minus 10 to 10 is much harder again
+you can just Google search for it and
+you'll see that there are actually 20
+minute videos on how to solve this
+integration there is there something
+called as a Feynman's method again I
+didn't learn this in my eleventh and
+twelfth I learnt it later when I was
+learning some advanced mathematics right
+I think there is an I think for this
+problem only no so let me just Google
+such I forgot integrate Feynman I think
+there is a Feynman's method oh yes yes
+oh this guy is very good he does some
+beautiful math yes you can use you can
+use something called as Feynman's method
+yes so there is this all there is this
+beautiful okay
+so anybody anybody where's time since we
+are anywhere in lockdown
+so read this beautiful math book called
+surely you're joking mr. Feynman again
+for those who don't know surely you are
+joking mr. Feynman for those of you
+don't know Feynman is considered one of
+the greatest minds of twentieth century
+physics Nobel laureate physicist most
+importantly a great teacher right this
+is this is sort of like his it's it's
+it's it is a phenomenal guy the reason I
+love him more than I don't understand
+his physics because I have not studied
+quantum thermodynamics and all that but
+the reason I love him is because I still
+have these books I think you must have
+encountered this in your level third
+world class right Feynman's lectures the
+first stipend my salary as I call it the
+first salary that I ever got as a
+stipend at an instead of science I
+bought these books these are called
+lectures on physics I uh I studied them
+in my eleventh and twelfth class
+some of the best books these are
+actually his lectures which are written
+as books and published phenomenal books
+I love his explanation he's like the
+role model for anybody who wants to be a
+teacher in science and engineering and
+mathematics phenomenal guy right anyway
+back to a topic so integration is hard
+ok if you try to do it using integration
+I think there is a typo here I wanted to
+okay so first plot it
+okay I'd wrote Gogol here again Google
+is a Russian order we should actually
+use Google Russian other videos written
+some very interesting poet interesting
+work anyway back to our topic so you
+can't integrate it easily right so one
+second Russian man there should be some
+type of check for ipython notebooks
+because I am so bad I'm so used to
+Google correcting me for my typos anyway
+back to a discussion how do we do it
+integrate a function from -10 to +10 how
+do we do is how do we solve this again
+your job is again the point I'm trying
+to drive here is you are given a
+function you're given a function FX and
+you want to find the area under the
+curve as some of you pointed out I want
+to compute this integral this is called
+finite integral from A to B I want to
+compute this level cantwell class we
+studied that intake
+is nothing but area under a curve all
+that is cool but sometimes f of X can be
+extremely hard to integrate
+differentiation is easy integration is
+much harder folks there are some
+functions which are extremely hard to
+integrate but integration is something
+that is important in computer science
+again you might wonder why the heck are
+we learning all of these calculus stuff
+now so in machine learning as we discuss
+in our course there is something called
+as an receiver operating characteristic
+curve and we have to compute the area
+under the curve very often we just call
+a function which computes the area under
+this curve so one of the favorite
+questions that I used to ask in
+interviews programming questions is ok
+everybody knows about ROC area under
+curve and all that I say hey can you
+write a program to compute the area
+under curve for first principles using
+simple mathematics without using any
+inbuilt functions I've seen guys who can
+tell me everything about the mathematics
+who can't write this code and this is
+literally 11th class 10th class
+mathematics ok so it's important that
+your foundations are also strong again
+we discuss the intuition behind
+integration in our course videos but
+since we are not yet there for the
+interest of everyone Ally I will discuss
+this ok first and foremost I have taken
+some beautiful images from the computer
+science and mathematics department at
+Emory University so phenomenal so please
+go check this i'm simply borrowed this
+diagram from there because they've drawn
+it very well it's a brilliant blog i
+want two guys to spend time and read it
+some way i mean he talks about again he
+says this is high school material this
+is high school material in u.s. u.s.
+math is much at least high school level
+math is easier than india's high school
+level mathematics right so it's actually
+very simple talking so the idea here ok
+let me let me just describe here itself
+right makes logical sense
+so the concept behind integration is if
+you have a curve like this f of x if you
+want to find this highlighted region
+between a and b one way to write it
+mathematically is this this is just
+mathematical notation this is just
+mathematical
+this is the intuition this is the
+geometric intuition unfortunately I see
+a lot of people who know these notations
+who are either forgotten or don't know
+this intuition this is just a concise
+way of saying I want the integral under
+f of X or between f of X and x axis from
+A to B instead of writing that long
+sentence people write this I want to
+integrate from A to B f of X DX this is
+just again as I told you right this is a
+concise way this is like poetry in
+poetry you take a beautiful concept and
+explain it simply and concisely this is
+just a concise representation of saying
+I want the area under this function or
+between the function and x-axis from
+point A to point B I want this this is
+just a notation lot of people panic as
+soon as we see the symbol don't panic it
+simple like area under the curve guys
+that's all it is ok so now how do we do
+this any ideas okay I think I have
+already shown the solution but any ideas
+okay somebody asks do we need to write
+everything in code no you don't have to
+write as a machine-learning engineer at
+companies most likely you use libraries
+to do this but the reason interviewers
+ask this now your question immediate
+question should be why the heck are
+interview is asking these questions
+which anyway I'm not going to use
+because interviewers want to understand
+your foundational knowledge and if you
+can think about a problem from first
+principles that's what they want you to
+think about right that's very very very
+very important they don't want to again
+there is this other other criticism that
+I often see because I've done so many
+interviews people say anyway we are not
+going to solve again for for software
+development engineers right there are
+tons of questions on data structures
+algorithms all the data lasts but a
+typical software engineer even at a
+top-notch company like Google or Amazon
+or anybody do not use any of them I
+think there were only a few instances in
+ten years of all the software code that
+I've seen there are less than any
+census where I have actually seen where
+I've actually seen dynamic programming
+used dynamic program that somebody had
+to implement and I've seen tons of code
+okay so then question people ask is why
+the heck why the heck do we ask data
+structures and algorithms for software
+engineers the logic here is to
+understand more complex systems if you
+want to understand hadoop perfectly
+internals if you want to understand how
+hadoop works internally you need to know
+again you can have a surface
+understanding of Hadoop or spark or all
+of these things or you can have a deep
+understanding I work with some of my
+software engineers in my team who are
+phenomenal they can literally literally
+open up the whole source code of Hadoop
+and understand every nitty-gritty bolt
+in detail so to understand something
+like that a strong foundation strong
+foundations in data structures and
+algorithms are important because what
+companies like Google or Microsoft or
+Amazon want you to do is they don't want
+to just to use some library they want
+you to be at a skill level where you can
+build a system like Hadoop from scratch
+number one number two is they want to
+test your problem-solving skills how
+well are you how well given a real-world
+problem how well are you able to solve
+this problem using simple foundational
+concepts not some rocket science concept
+they're literally like 20 concepts in
+computer science basic concepts if you
+know them you can solve every damned
+interview question at any company like
+for software engineering rolls machine
+learning there are more concepts without
+doubt but for software engine they're
+literally 20 concepts like dynamic
+programming even graph algorithms they
+just use a graph traversals and graph
+search or a body-colored graph mostly
+graph traversal is only nobody asks the
+shortest parts all of that they might
+ask you a little bit of flow problems I
+can literally write it down there are no
+more than 20 high-level concepts that
+are required to solve
+95% plus of software engineering
+interview questions but they ask you
+this because they want to see how you
+think they want you to understand how
+well can you think again the reason I
+asked I used to ask questions like these
+in
+Jews he's not because I expect this guy
+to implement sine X by X integral from
+minus 10 to +10 like if he was actually
+doing this on his job I would actually
+want him to bloody use some library
+because the library implementation will
+be far better than what a machine
+learning engineer would implement they
+forget about Marshall even if a software
+development engineer is doing it I would
+ask him to use a library because there
+could be some bugs a library function is
+very tested well you used all of that
+stuff
+why should he again re-implemented I
+don't want them to reimplemented
+but I want them to have the ability to
+build the whole library if required
+right I want them to have the
+foundational skills that's the important
+part that's why interview questions like
+these are asked even like I've never
+I've never had to write area under the
+curve in the ten plus years that I
+worked in the industry I never had to
+write but interviewers asked because
+they want to understand your
+foundational knowledge and they want you
+to understand how you can break a
+problem and solve them your problem
+solving abilities again a very very
+important skill is problem-solving
+people don't realize it and problem
+solving skills are transferable this is
+what is called as transferable skill
+what is the transferable skill if you're
+good at problem-solving in one topic
+right like for example if you're good at
+solving let's say let's take an example
+aptitude problems okay this is a good
+example I get asked if you are good at
+asking if you're good at solving simple
+aptitude problems a period problems just
+require high school level math right
+just high school level math nothing
+major not even calculus if you're good
+at this
+problem-solving skills are transferable
+which means tomorrow if I if I if you
+have to solve an another problem suppose
+if you have to solve a business problem
+not even a technical problem right or
+tomorrow let's assume you have to solve
+some completely some marketing problem
+or some sales problem right the problem
+solving skills are transferable which
+means if you read enough business books
+if you learn the basics of business the
+problem-solving ability that you learnt
+solving aptitude problems can be used to
+solve business problems also why does
+the cat X
+that is a very popular examine India
+right cat exam
+what is cat exam consists of simply
+aptitude reasoning and English reading
+right aptitude reasoning this is for a
+business school aptitude reasoning and
+English basically vocabulary and all
+that stuff right why for business logic
+is again these guys are the people who
+are conducting the cat exam are not
+fools they're fairly smart they know
+that somebody who is strong in aptitude
+and reasoning if we teach the basics of
+business or marketing or sales or
+anything they can transfer those strong
+problem-solving skills to other domains
+why do they test your English because as
+part of your business school you have to
+read lots of books and case studies
+right similarly when a company
+interviews you they are literally
+testing for your problem-solving skills
+they're literally testing you this any
+exam in the world anywhere in the world
+they're simply testing for most of them
+it is this is one of the core skills
+that the test which is problem something
+like take GRE or any exam rate they have
+aptitude reasoning and they also have
+English because they want people to be
+able to understand English to read
+English comprehend English right so it's
+the same concept now I think we have
+eight more minutes so let me take will
+continue this question tomorrow I will
+give you till here I'll give you the
+link still here we'll discuss how to
+solve this problem tomorrow I want you
+two guys to come up with okay some of
+you have already come up with answers
+let's discuss it anyway
+okay rectangle is used to cover the area
+under the curve blah blah blah okay good
+good good good good good good some of
+your coming up with answers good final
+crystal traffic between the limits
+determining the highs and lows small
+areas like preppies or rectangles yes
+some of you got it right it's a very
+simple concept okay let me explain the
+solution again this diagram is also
+taken from math CS Emery very simple
+concept so take I want to integrate from
+A to B right take a compute F of a I can
+compute f of X right compute F of a then
+I take a small width okay I take a small
+width imagine this whole interval from a
+to
+if I break it up into n such intervals
+in such intervals then what is the width
+of each interval B minus a by n right
+let's call each of these intervals Delta
+okay let's call this as Delta let's call
+this as Delta this interval this
+interval is Delta so what do I do now I
+am going to approximate this whole area
+from here to here I am going to
+approximate it by saying I know how to
+compute the area of a rectangle very
+simple it is basically your height x
+width so I got the height here I got the
+height here this height I will multiply
+with this Delta I'll keep the Delta to
+be very small okay let's assume Delta is
+small then what happens I get this area
+if I multiply a into Delta what do I get
+I get this area right next I reach and
+what is this x-value not this x-value is
+a plus Delta I can compute F of a plus
+Delta Delta is nothing but width in this
+diagram again I'm using the terminology
+Delta because I wrote the code based on
+that okay it will be easier for us to
+understand so a plus Delta all right
+this is a plus Delta so what is this now
+I can compute F of a plus Delta and that
+will be this height I got the height
+okay this I got the height
+now this width is nothing but my Delta
+so this area is nothing but this area is
+nothing but f of a plus delta x delta so
+this is f of a multiplied by Delta I'm
+sorry F of a multiplied by Delta so f of
+a multiplied by Delta plus F of a plus
+delta x delta not a sorry multiplied by
+Delta Plus what is this now this is f of
+a plus 2 Delta what is this height now
+don't look at this some Heights are
+shorter than the curve if you look at
+this this height this is I'm leaving
+this space look at all the space that
+I'm leaving I'm leaving this space here
+I'm missing this space I am also missing
+this space but with respect to this I
+could only have covered this space but
+there is additional space that is
+covered even here the space should only
+be this
+but I am getting additional space so
+what's happening here is I'm missing
+some space like this and I'm covering
+some additional space like this right so
+the area that I'll get here is an
+approximate area the area that I'm
+getting here is an approximate area how
+do I make the area closer to the actual
+area under the curve if I make this
+width smaller if I make my Delta smaller
+or in this formula if I make my n larger
+look at this B minus a by M B and a are
+constants in our case it is minus 10 and
+plus 10 if I make n larger the width
+becomes smaller width is nothing but my
+Delta right as I increase the number of
+these number of these intervals which is
+nothing but n or if I make the Delta
+smaller look at this if I make it
+smaller and smaller what will happen the
+error the the missed out area or the
+overly covered area they both will
+reduce so the solution here is nothing
+but simply just write a simple for loop
+okay this is write a simple for loop
+here that's it right okay here is a good
+example sorry again I'll skip the code
+will discuss the code tomorrow the first
+thing right look at this again same same
+image from memory look at this if my
+interval is large I'm missing this whole
+area large area is missed but instead of
+two intervals instead of having two if I
+have eight which means my delta has
+become smaller here if I have Delta
+smaller lesser and lesser area is being
+missed out right so I can easily compute
+the area under the function f of X DX
+right I can easily compute this by
+taking smaller and smaller regions by
+taking a delta which is small actually
+if you think about mathematically what
+is DX those of you who remember again
+we'll go over calculus again when we
+touch the calculus topics in our course
+what is DX DX is nothing but Delta X it
+is nothing but Delta X but Delta X as it
+becomes very very small a very minuscule
+or infinitesimally small Delta X is what
+is called as DX now this is what we
+write in calculus right the other way of
+writing this in calculus again I think I
+mentioned I described this in the course
+videos when we learn basics of calculus
+and optimization so other way of writing
+this is this is same as summation f of X
+into Delta X ok this are sorry f of X
+into sorry f of X into Delta Delta of X
+Delta of X is nothing but a delta here f
+of X into Delta X where X is from A to B
+in the intervals of Delta X this is what
+it is right again I will explain this
+with the code integration is assuming
+that these C integration is basically
+assuming that each of these is
+infinitesimally small very very very
+very very very tiny the equivalence of
+this integration if you want to write it
+yes you can write it as you multiply f
+of X with Delta X suppose if this is X
+you multiply f of X with Delta this is f
+of X right this is f of X this f of X
+you multiply with day this is Delta X
+multiplied f of X with Delta X what do
+you get you get this area you sum up
+this area you sum up this area from x
+equals to A to B in the intervals of
+Delta X right which means you first do
+it at X then you do it at X plus Delta X
+then you do it at X plus 2 Delta X and
+so on so forth so whatever integration
+problem is there you can break the
+integration problem into a discrete
+problem again there's a whole discrete
+mathematics and continuous mathematics
+but you can think of it as adding up
+areas under these smaller rectangles now
+what I want you to do again when I share
+the document I will stop it here right
+since we have anywhere run out of time
+we have we have just a couple of minutes
+I want you two guys to write the code
+for this write the code and also I'll
+ask you a question
+how do you check that your code is
+correct you might write code it will
+give you some answer how do you check
+that your code is correct I wanted to
+think of both those things and let's
+join the discussion again tomorrow will
+continue where we stopped off I'll walk
+you through the code for the
+this is this is just an assignment for
+the evening right again I have fifth
+problem also I'm happy that we have
+covered like what three and half
+problems today tomorrow probably will
+cover more I hope I hope this is this is
+good right yes good good good so what
+I'm saying here is integration is
+continuous summation is discrete and if
+I wanted to explain that tomorrow in
+more in more detail because we have
+anyway run out of time enough right so
+just just try to write it down somebody
+says what is okay let me answer a few
+questions what is the daily lifestyle of
+a data analyst two to three years is it
+satisfactory or hectic depends of the
+company you join right so you might join
+a company where the work is chill where
+your growth is also not very fast so in
+such a case you're not learning much
+especially early in your career I would
+suggest you join companies where it's a
+little hectic not overwhelmingly hectic
+slightly hectic where you have good
+mentors where you learn a lot because
+what you learn early in your career will
+take you a long way I have learnt a lot
+right so somebody asks how to solve how
+to improve problem-solving skills by
+solving more problems there is no
+escaping that fact there two ways
+actually good question hush hush
+first is solve as many problems
+yesterday I gave you a list of hundreds
+of problems that you can solve right you
+solve more problems and you read again
+you should it's like it's like exercise
+right as you pump as you do more
+exercise your muscles become stronger
+problem solving is very similar as you
+solve more and more problems there is no
+escaping that fact I remember I think in
+my BTech first year I wrote at least a
+few hundred programs to become a good
+programmer I wrote all of them in C
+right so the way I I became a decently
+good programmer in my BTech was by
+writing hundreds of problem programs
+there is no escaping that again there
+might be some of you who are smart who
+don't require again the amount of hard
+work differs from person to person
+some of you may have very
+good aptitude skills some of you can
+figure it fast but I think any everybody
+has to do some amount of problem-solving
+that's one give every problem ample time
+and if you can't finish it if you can't
+finish it if you can't solve it even
+after you've given a day or two then
+read the solution ask yourself why you
+are not able to solve it that's very
+very important okay so somebody says
+should I leave my job if if I'm not
+learning please don't leave learn on
+your own time get another job and then
+leave right or somebody says hacker rank
+problems are needed again hacker rank
+problems are meant for software
+engineers some of the easier problems on
+hacker rank are certainly helpful for
+machine learning roles but you don't
+have to be an expert in everything again
+there are some product based companies
+especially if you're a computer science
+student if you've studied be take
+computer science or mtech computer
+science if you go to product based
+company you will have one round with
+reader structures algorithms if you are
+a non computer science student they
+could excuse you right especially in top
+product based companies okay but that
+will just be one of the many launch you
+typically have five to six rounds most
+of the machine learning there might be
+just one round they typically will be
+one round for data structures algorithms
+right ok so again the time that you have
+to spend it depends on person-to-person
+right again today I'll give you an
+example right and over time you become
+better at it today I can read research
+papers fairly fast because I have done
+it for almost what 13 years enough since
+Miami Tech first year I did I was
+extremely slow when I started it was
+extremely hard excruciating part but you
+become better over a period of time I
+will consistently putting day-in day-out
+efforts and that's how you become better
+right so please understand that again
+I'll share the document for this live
+session in about 10 minutes please give
+me 10 minutes I'll share that under the
+live session itself in the comment
+section and the description section see
+you folks thank you very much ok see you
+that's all I had yeah so see you
+tomorrow we'll continue where we left
+off
+solve more interesting problems
