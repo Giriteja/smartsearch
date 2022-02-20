@@ -65,7 +65,7 @@ if question:
     question_embedding = question_embedding
     hits = util.semantic_search(question_embedding, data_tf, top_k=10)
     hits = hits[0]  # Get the hits for the first query
-    print(hits)
+    #print(hits)
     ##### Re-Ranking #####
     # Now, score all retrieved passages with the cross_encoder
     cross_inp = [[query, total_text_set_list[hit['corpus_id']]] for hit in hits]
@@ -76,26 +76,26 @@ if question:
         hits[idx]['cross-score'] = cross_scores[idx]
     
     # Output of top-5 hits from bi-encoder
-    print("\n-------------------------\n")
-    print("Top-3 Bi-Encoder Retrieval hits")
-    hits = sorted(hits, key=lambda x: x['score'], reverse=True)
-    for hit in hits[0:50]:
-        print("\t{:.3f}\t{}".format(hit['score'], total_text_set_list[hit['corpus_id']]))
+    #print("\n-------------------------\n")
+    #print("Top-3 Bi-Encoder Retrieval hits")
+    #hits = sorted(hits, key=lambda x: x['score'], reverse=True)
+    #for hit in hits[0:50]:
+        #print("\t{:.3f}\t{}".format(hit['score'], total_text_set_list[hit['corpus_id']]))
     
     # Output of top-5 hits from re-ranker
-    print("\n-------------------------\n")
-    print("Top-3 Cross-Encoder Re-ranker hits")
+    #print("\n-------------------------\n")
+    #print("Top-3 Cross-Encoder Re-ranker hits")
     hits = sorted(hits, key=lambda x: x['cross-score'], reverse=True)
     
-    for i in range(len(hits)):
+    for i in range(len(hits[0:5])):
         if(i!=0 and abs(int(time[hits[i]['corpus_id']])-int(time[hits[i-1]['corpus_id']]))>=10):
             names.append(filename[hits[i]['corpus_id']][:-4])
             times.append(int(time[hits[i]['corpus_id']]))
         if(i==0):
             names.append(filename[hits[i]['corpus_id']][:-4])
             times.append(int(time[hits[i]['corpus_id']]))
-    for hit in hits[0:50]:
-        print(filename[hit['corpus_id']][:-4], total_text_set_list[hit['corpus_id']],time[hit['corpus_id']])
+    #for hit in hits[0:50]:
+        #print(filename[hit['corpus_id']][:-4], total_text_set_list[hit['corpus_id']],time[hit['corpus_id']])
         
     minutes0=int(times[0]/60)
     seconds0=int(times[0]%60)
