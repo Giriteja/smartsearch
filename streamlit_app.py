@@ -1,7 +1,6 @@
 from streamlit_player import st_player
 import streamlit as st
 import numpy as np
-import imutils
 import time
 import uuid
 import base64
