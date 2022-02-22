@@ -145,8 +145,8 @@ with col1:
                 with open("fileyes.txt", "r") as f:
                     y = f.readline()
                 #st.write("""## Metrics""")
-                #st.write("""Yes""",y)
-                #st.write("""No""",n)
+                #st.write("""Yes:""",y)
+                #st.write("""No:""",n)
                     
             if st.sidebar.button("No"):
                 b += 1  
@@ -158,5 +158,5 @@ with col1:
                 with open("fileno.txt", "r") as f:
                     n = f.readline()
                 #st.write("""## Metrics""")
-                #st.write("""Yes""",y)
-                #st.write("""No""",n)
+                #st.write("""Yes:""",y)
+                #st.write("""No:""",n)
