@@ -35,8 +35,6 @@ def model():
     #The bi-encoder will retrieve 100 documents. We use a cross-encoder, to re-rank the results list to improve the quality
     cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
     
-    # As dataset, we use Simple English Wikipedia. Compared to the full English wikipedia, it has only
-    # about 170k articles. We split these articles into paragraphs and encode them with the bi-encoder
     return bi_encoder,cross_encoder
 @st.cache    
 def data():
