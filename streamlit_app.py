@@ -25,6 +25,33 @@ names=[]
 
 col1, col2 = st.columns([2,1])
 
+def decontracted(phrase):
+    # specific
+    phrase = re.sub(r"won't", "will not", phrase)
+    phrase = re.sub(r"can\'t", "can not", phrase)
+
+    # general
+    phrase = re.sub(r"n\'t", " not", phrase)
+    phrase = re.sub(r"\'re", " are", phrase)
+    phrase = re.sub(r"\'s", " is", phrase)
+    phrase = re.sub(r"\'d", " would", phrase)
+    phrase = re.sub(r"\'ll", " will", phrase)
+    phrase = re.sub(r"\'t", " not", phrase)
+    phrase = re.sub(r"\'ve", " have", phrase)
+    phrase = re.sub(r"\'m", " am", phrase)
+    return phrase
+
+def clean_code(sentance):
+    sentance=sentance.replace("\n","")
+    sentance = re.sub(r"http\S+", "", sentance)
+    sentance = BeautifulSoup(sentance, 'lxml').get_text() #python-beautifulsoup-how-to-remove-all-tags-from-an-element
+    sentance = decontracted(sentance)
+    sentance = re.sub("\S*\d\S*", "", sentance).strip() #remove words with numbers python
+    sentance = re.sub('[^A-Za-z]+', ' ', sentance) #remove special character
+    # https://gist.github.com/sebleier/554280
+    sentance = ' '.join(e.lower() for e in sentance.split())
+    return sentance
+
 @st.cache(allow_output_mutation=True)
 def model():   
     #We use the Bi-Encoder to encode all passages, so that we can use it with sematic search
@@ -52,11 +79,8 @@ with col1:
     question = st.text_input('Please type your Query') 
     
     if question:
-        #01:36 (primary key) 0:05 (visualization) 0:2:6(multiple records)
-        #start=int(timedelta(hours=0, minutes=0, seconds=int(time%60)).total_seconds())
-        #print(start)
+        question=clean_code(question)
         review_text = question
-        
         data_tf=[]
         DF_text_time,embd,total_text_set_list,filename,time=data()
         
