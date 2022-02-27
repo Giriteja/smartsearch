@@ -147,7 +147,7 @@ with col1:
                 st.write("""## Metrics""")
                 st.write("""Yes:""",y)
                 st.write("""No:""",n)
-                st.write("Score",y/(y+n))
+                st.write("Score:",y/(y+n))
                     
             if st.sidebar.button("No"):
                 b += 1  
@@ -161,4 +161,4 @@ with col1:
                 st.write("""## Metrics""")
                 st.write("""Yes:""",y)
                 st.write("""No:""",n)
-                st.write("Score",y/(y+n))
+                st.write("Score:",y/(y+n))
